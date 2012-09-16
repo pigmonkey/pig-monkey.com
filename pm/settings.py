@@ -142,9 +142,6 @@ COMPRESS_CSS_FILTERS = ['compressor.filters.cssmin.CSSMinFilter']
 # Blog settings
 BLOG_DESCRIPTION = "Here are recorded many goings and comings, doings and beings; stories, symbols and meanings."
 BLOG_PAGESIZE = 8
-BLOG_EXCERPTS = True
-BLOG_FEEDEXCERPTS = False
-BLOG_AUTOEXCERPTS = 0
 BLOG_USEDISQUS = True
 BLOG_SMARTYPANTS = True
 
