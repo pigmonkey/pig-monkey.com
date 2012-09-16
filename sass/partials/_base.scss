@@ -1,0 +1,68 @@
+//
+// Imports
+//
+
+@import "susy";
+
+
+//
+// Colors
+//
+
+$body-background: #f4f4f4;
+$content-background: #fff;
+$content-background-dark: darken($content-background, 6%);
+$content-background-darker: darken($content-background, 20%);
+$accent: #14C3A2;
+$accent-dark: darken($accent, 10%);
+$accent-darker: darken($accent, 20%);
+$accent-light: lighten($accent, 10%);
+$accent-lighter: lighten($accent, 20%);
+$contrast: #000;
+$font: #222;
+$subtle: #666;
+
+
+//
+// Fonts
+//
+
+$font-size-small: 0.75;
+
+
+//
+// Mixins
+//
+
+@mixin small {
+    word-spacing: .1em;
+    @include adjust-font-size-to($base-font-size * $font-size-small)
+}
+
+@mixin content-box {
+    @include leader;
+    padding: $gutter-width;
+    border: 1px solid $content-background-dark;
+    background: $content-background;
+    @include border-radius;
+    @include clearfix;
+}
+
+@mixin float-left {
+    float: left;
+    @include trailer;
+    margin-right: $gutter-width;
+}
+
+@mixin float-right {
+    float: right;
+    @include trailer;
+    margin-left: $gutter-width;
+}
+
+
+//
+// Misc
+//
+
+$default-transition-duration: 0.5s;

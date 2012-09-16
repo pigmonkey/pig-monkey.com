@@ -1,0 +1,5 @@
+db.sqlite3
+pm/settings_dev.py
+pm/settings_live.py
+.sass-cache/
+cache/

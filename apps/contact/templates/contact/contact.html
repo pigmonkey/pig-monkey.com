@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block title %}Contact | {{ block.super }}{% endblock %}
+{% block description %}Pig Monkey awaits your communiqu&eacute;.{% endblock %}
+{% block body_id %}contact{% endblock %}
+{% block css %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}style/apps/contact.css">
+{% endblock %}
+
+
+{% block content %}
+    {% if success %}
+    <div class="notice">
+        <p>Your message was successfully submitted!</p>
+    </div>
+    {% endif %}
+    
+    <div class="contact-form">
+        <h1>Contact</h1>
+
+        <p>You may email me directly with the form below. Additional contact methods are <a href="{% url about %}" title="Visit the about page for more contact information">available on the About page</a>.</p>
+
+        <form action="" method="post" class="horizontal">
+            {% csrf_token %}
+            <ul>
+                {{ form.as_ul }}
+                <li><input type="submit" value="Submit" /></li>
+            </ul>
+        </form>
+    </div>
+{% endblock %}

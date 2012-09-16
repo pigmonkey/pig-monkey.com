@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}style/apps/blog.css">
+{% endblock %}
+
+{% block js %}
+    {{ block.super }}
+    <script src="{{ STATIC_URL }}js/archivecollapse.js"></script>
+{% endblock %}
+
+{% block extrahead %}
+    <link rel="alternate" type="application/rss+xml" title="{{ BLOG_NAME }} Feed" href="{% url vellum_feed_latest %}">
+{% endblock %}
+
+{% block body_class %}blog{% endblock %}
+
+{% block subhead %}
+<div id="subhead">
+    {% include 'vellum/includes/menu.html' %}
+    {% include 'vellum/includes/quick_search.html' %}
+</div>
+{% endblock %}

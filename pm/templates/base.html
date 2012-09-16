@@ -1,0 +1,80 @@
+{% load compress base_extras %}
+<!doctype html>
+<head>
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>{% block title %}{{ BLOG_NAME }}{% endblock %}</title>
+
+    <meta name="description" content="{% block description %}{{ BLOG_DESCRIPTION }}{% endblock %}">
+    <meta name="viewport" content="width=device-width">
+
+    {% compress css %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}style/screen.css">
+    {% endcompress %}
+
+    {% compress css %}
+    {% block css %}{% endblock %}
+    {% endcompress %}
+
+    {% block extrahead %}{% endblock %}
+
+</head>
+<body id="{% block body_id %}{% endblock %}" class="{% block body_class %}{% endblock %}"{% block extrabody %}{% endblock %}>
+    <header id="top">
+        <h1 class="site-title"><a href="{% url vellum %}" title="{{ BLOG_DESCRIPTION }}">{{ BLOG_NAME }}</a></h1>
+        <div class="container">
+            <nav>
+                <ul>
+                    <li><a class="{% navactive request 'vellum' %}" href="{% url vellum %}">Blog</a></li>
+                    <li><a class="{% navactive request 'about' %}" href="{% url about %}">About</a></li>
+                    <li><a class="{% navactive request 'code' %}" href="{% url code %}">Code</a></li>
+                    <li><a class="{% navactive request 'photos' %}" href="{% url photos %}">Photos</a></li>
+                    <li><a class="{% navactive request 'geartracker' %}" href="{% url geartracker %}">Gear</a></li>
+                    <li><a class="{% navactive request 'contact' %}" href="{% url contact %}">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container">
+
+        {% block subhead %}{% endblock %}
+
+        <div class="content">
+            {% block content %}{% endblock %}
+        </div>
+
+        <footer id="footer">
+            <p class="quote"><q>"The man wants to wander, and he must do so or he shall die."</q> <cite><a href="http://en.wikipedia.org/wiki/Richard_Francis_Burton" title="Geographer, explorer, translator, writer, soldier, orientalist, cartographer, ethnologist, spy, linguist, poet, fencer and diplomat">Sir Richard F. Burton</a></cite></p>
+            <p class="copyright">Original work licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Attribution-NonCommercial-ShareAlike 3.0">Creative Commons License</a>.</p>
+            <div class="social">
+                <a class="github" href="http://github.com/pigmonkey" title="Follor me on GitHub"><img src="{{ STATIC_URL }}images/social/github.png" alt="GitHub" height="32" width="32" /></a>
+                <a class="flickr" href="http://flickr.com/pigmonkey" title="Follow me on Flickr"><img src="{{ STATIC_URL }}images/social/flickr.png" alt="Flickr" height="32" width="32" /></a>
+                <a class="twitter" href="http://twitter.com/pigmonkey" title="Follow me on Twitter"><img src="{{ STATIC_URL }}images/social/twitter.png" alt="Twitter" height="32" width="32" /></a>
+            </div>
+        </footer>
+
+    </div>
+
+    {% compress js %}
+    {% block js %}
+    <script src="{{ STATIC_URL }}js/jquery-1.7.2.min.js"></script>
+    <script src="{{ STATIC_URL }}js/navcollapse.js"></script>
+    {% endblock %}
+    {% endcompress %}
+
+    <script type="text/javascript">
+    var pkBaseURL = (("https:" == document.location.protocol) ? "https://pig-monkey.com/stats/" : "http://pig-monkey.com/stats/");
+    document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script type="text/javascript">
+    try {
+    var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
+    piwikTracker.trackPageView();
+    piwikTracker.enableLinkTracking();
+    } catch( err ) {}
+    </script><noscript><p><img src="http://pig-monkey.com/stats/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
+
+</body>
+</html>

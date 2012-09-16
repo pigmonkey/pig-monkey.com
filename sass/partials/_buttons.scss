@@ -1,0 +1,17 @@
+@mixin button {
+    background: $accent-light;
+    @include background-image(linear-gradient(top, $accent-light, $accent-dark));
+    border: 1px solid $content-background-dark;
+    @include border-radius;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+    padding: 8px 10px;
+    &:hover, &:focus {
+        text-decoration: none;
+        background: $accent-dark;
+    }
+    &:active { background: $accent-darker; }
+}
+
+.button, button, input[type="submit"], input[type="reset"], input[type="button"] { @include button; }

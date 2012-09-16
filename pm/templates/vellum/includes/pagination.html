@@ -1,0 +1,9 @@
+<div class="pagination">
+    {% if page_obj.has_next %}
+    <a class="older" href="?page={{ page_obj.next_page_number }}" title="View older posts.">&laquo;</a>
+    {% endif %}
+    {% if page_obj.has_previous %}<span class="separator">|</span>{% endif %}
+    {% if page_obj.has_previous %}
+    <a class="newer" href="?page={{ page_obj.previous_page_number }}" title="View newer posts.">&raquo;</a>
+    {% endif %}
+</div>

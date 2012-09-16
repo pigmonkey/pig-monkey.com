@@ -1,0 +1,61 @@
+@import "compass/css3";
+@import "compass/typography/lists/horizontal-list";
+@import "compass/utilities/tables";
+@import "partials/base";
+
+#geartracker-home .content,
+#geartracker-gear-list .content,
+#geartracker-list-list .content,
+#geartracker-category-list .content,
+#geartracker-type-list .content,
+#geartracker-tag-list .content,
+.geartracker-list .content,
+.geartracker-item .content { @include content-box; }
+
+.geartacker-item, .geartracker-list {
+    .edit { float: right; }
+}
+
+.geartracker-item {
+    .breadcrumb {
+        @include small;
+        @include horizontal-list-container;
+        li {
+            @include horizontal-list-item;
+        }
+    }
+}
+
+.geartracker-list {
+    .gear-list {
+        @include table-scaffolding;
+        width: 100%;
+    }
+}
+
+@include at-breakpoint(60em) {
+    #geartracker-home {
+        .recent-gear, .recent-list { @include span-columns($total-columns/2); }
+        .recent-list { @include omega; }
+    }
+}
+
+.page-list {
+    @include horizontal-list-container;
+    li {
+        @include horizontal-list-item;
+        @include small;
+        a {
+            display: block;
+            text-decoration: none;
+            background-color: $content-background-dark;
+            padding: .1em .5em;
+            border: 1px solid $content-background-dark;
+            &:hover, &:focus, &:active {
+                background-color: $accent;
+                color: $content-background;
+            }
+        }
+        &.current a { border-color: $accent; }
+    }
+}

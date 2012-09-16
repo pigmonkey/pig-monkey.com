@@ -1,0 +1,8 @@
+<div class="other-posts">
+    {% if post.get_previous_post %}
+    <a class="older" href="{{ post.get_previous_post.get_absolute_url }}" title="Read the previous post: {{ post.get_previous_post }}.">&laquo;</a>
+    {% endif %}
+    {% if post.get_next_post %}
+    <span class="separator">|</span> <a class="newer" href="{{ post.get_next_post.get_absolute_url }}" title="Read the next post: {{ post.get_next_post }}.">&raquo;</a>
+    {% endif %}
+</div>

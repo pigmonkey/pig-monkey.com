@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block css %}
+    <link rel="stylesheet" href="{{ STATIC_URL }}style/apps/geartracker.css">
+{% endblock %}
+
+{% block title %}Gear Tracker{% endblock %}
+{% block description %}A database of gear for wilderness travel{% endblock %}
+{% block body_class %}geartracker{% endblock %}
+
+{% block subhead %}
+<div id="subhead">
+    {% include 'geartracker/includes/menu.html' %}
+</div>
+{% endblock %}

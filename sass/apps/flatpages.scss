@@ -1,0 +1,106 @@
+@import "compass/css3";
+@import "compass/typography/lists/horizontal-list";
+@import "partials/base";
+
+.flat .content { @include content-box; }
+
+
+//
+// About Page
+//
+
+#about {
+    .portrait {
+        img {
+            margin: 0 auto;
+            display: block;
+            @include border-radius(100px);
+            height: auto;
+            max-width: 100%;
+        }
+    }
+    #fingerprint {
+        color: $subtle;
+        max-width: 400px;
+    }
+    .details { clear: both; }
+}
+
+@include at-breakpoint(51em) {
+    #about {
+        .portrait { @include float-right; }
+    }
+}
+
+
+//
+// Code Page
+//
+
+#code {
+    .github-activity {
+        text-align: center;
+        ul { list-style-position: inside; }
+        .mini-icon, .details { display: none; }
+        .title { display: inline; }
+        time {
+            color: $subtle;
+            @include small;
+            &:before { content: "("; }
+            &:after { content: ")"; }
+        }
+    }
+    .github-logo {
+        text-align: center;
+        @include leader;
+        a {
+            img {
+                background: $body-background;
+                max-width: 95%;
+                height: auto;
+                border: 10px solid $content-background-dark;
+                @include border-radius(400px);
+            }
+            &:hover img { border-color: $accent-lighter; }
+        }
+    }
+}
+
+
+//
+// Photo Page
+//
+
+#photos {
+    #flickr-badge {
+        list-style: none;
+        text-align: center;
+        margin-left: 0;
+        .photo {
+            img { @include border-radius(100px); }
+        }
+    }
+}
+
+@include at-breakpoint(37em) {
+    #photos{
+        #flickr-badge {
+            @include horizontal-list-container;
+            @include leader;
+            .photo {
+                @include horizontal-list-item;
+                &:first-child { padding-left: 4px; }
+            }
+        }
+    }
+}
+
+@include at-breakpoint(57em) {
+    #photos{
+        #flickr-badge {
+            margin-left: auto;
+            margin-right: auto;
+            width: 790px;
+        }
+    }
+}
