@@ -1,14 +1,2 @@
 /* line 4, ../../../../sass/apps/contact.scss */
-#contact .contact-form {
-  margin-top: 1.5em;
-  padding: 1em;
-  border: 1px solid #f0f0f0;
-  background: white;
-  -webkit-border-radius: 5px;
-  -moz-border-radius: 5px;
-  -ms-border-radius: 5px;
-  -o-border-radius: 5px;
-  border-radius: 5px;
-  overflow: hidden;
-  *zoom: 1;
-}
+#contact .contact-form { margin-top: 1.5em; padding: 1em; border: 1px solid #f0f0f0; background: white; -webkit-border-radius: 5px; -moz-border-radius: 5px; -ms-border-radius: 5px; -o-border-radius: 5px; border-radius: 5px; overflow: hidden; *zoom: 1; }
