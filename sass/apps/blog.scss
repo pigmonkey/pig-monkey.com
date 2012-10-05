@@ -135,20 +135,8 @@
     header {
         time, .edit { display: none; }
     }
-    .entry-content > p:first-child {
-        @include adjust-font-size-to($base-font-size * 1.75);
+    .entry-title {
+        font-size: 1.3em;
+        line-height: 1em;
     }
 }
-
-.post-list {
-    .category-micro {
-        .entry-title {
-            font-size: 1.3em;
-            line-height: 1em;
-        }
-        .entry-content > p:first-child {
-            @include adjust-font-size-to($base-font-size);
-        }
-    }
-}
-

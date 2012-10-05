@@ -226,18 +226,7 @@
   display: none;
 }
 /* line 138, ../../../../sass/apps/blog.scss */
-.category-micro .entry-content > p:first-child {
-  font-size: 1.75em;
-  line-height: 1.71429em;
-}
-
-/* line 145, ../../../../sass/apps/blog.scss */
-.post-list .category-micro .entry-title {
+.category-micro .entry-title {
   font-size: 1.3em;
   line-height: 1em;
-}
-/* line 149, ../../../../sass/apps/blog.scss */
-.post-list .category-micro .entry-content > p:first-child {
-  font-size: 1em;
-  line-height: 1.5em;
 }
