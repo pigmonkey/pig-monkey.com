@@ -4,13 +4,13 @@ Markdown==2.2.0
 PIL==1.1.7
 Pygments==1.5
 cssmin==0.1.4
-distribute==0.6.28
+distribute==0.6.30
 django-appconf==0.5
 django-badgr==1.0
 django-compressor==1.2
 django-debug-toolbar==0.9.4
 django-disqus==0.4.1
-django-extensions==0.9
+django-extensions==1.0.0
 -e git+https://github.com/pigmonkey/django-geartracker.git@80d66f53660a23273484d9fe9ae21bab2f57692c#egg=django_geartracker-dev
 django-inlineobjects==1.0.1
 django-markup==0.4
@@ -21,7 +21,7 @@ django-templatetag-sugar==0.1
 django-vellum==1.4
 feedparser==5.1.2
 flickrapi==1.4.2
-pytz==2012f
+pytz==2012h
 smartypants==1.6.0.3
 sorl-thumbnail==11.12
 wsgiref==0.1.2
