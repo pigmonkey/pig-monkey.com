@@ -151,7 +151,6 @@ dl {
 
 sup, sub {
     @include adjust-font-size-to($base-font-size * $font-size-small, 0);
-    margin-right: .4em;
     text-transform: lowercase;
     font-variant: small-caps;
     letter-spacing: .1em;
