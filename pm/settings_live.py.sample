@@ -32,3 +32,9 @@ EMAIL_HOST_PASSWORD= ''
 # API Keys
 DISQUS_API_KEY = ''
 FLICKR_APIKEY = ''
+
+# Allowed Hosts
+ALLOWED_HOSTS = [
+    '.example.com',
+    '.example.com.',
+]
