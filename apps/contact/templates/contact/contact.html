@@ -18,7 +18,7 @@
     <div class="contact-form">
         <h1>Contact</h1>
 
-        <p>You may email me directly with the form below. Additional contact methods are <a href="{% url about %}" title="Visit the about page for more contact information">available on the About page</a>.</p>
+        <p>You may email me directly with the form below. Additional contact methods are <a href="{% url "about" %}" title="Visit the about page for more contact information">available on the About page</a>.</p>
 
         <form action="" method="post" class="horizontal">
             {% csrf_token %}

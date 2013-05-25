@@ -1,5 +1,5 @@
 BeautifulSoup==3.2.1
-Django==1.4.3
+Django==1.5.1
 Markdown==2.2.1
 PIL==1.1.7
 Pygments==1.5
@@ -11,14 +11,14 @@ django-compressor==1.2
 django-debug-toolbar==0.9.4
 django-disqus==0.4.1
 django-extensions==1.0.1
--e git+https://github.com/pigmonkey/django-geartracker.git@80d66f53660a23273484d9fe9ae21bab2f57692c#egg=django_geartracker-dev
+-e git+https://github.com/pigmonkey/django-geartracker.git@3c6801369863a93889d2a672293ddbdec90568d2#egg=django_geartracker-dev
 django-inlineobjects==1.0.1
 django-markup==0.4
 django-simplesearch==1.0
 django-taggit==0.9.3
 django-taggit-templatetags==0.4.6dev
 django-templatetag-sugar==0.1
-django-vellum==1.4
+django-vellum==1.4.1
 feedparser==5.1.3
 flickrapi==1.4.2
 pytz==2012h
