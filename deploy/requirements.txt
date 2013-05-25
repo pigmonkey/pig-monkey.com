@@ -11,7 +11,7 @@ django-compressor==1.2
 django-debug-toolbar==0.9.4
 django-disqus==0.4.1
 django-extensions==1.1.1
--e git+https://github.com/pigmonkey/django-geartracker.git@4de94a6e29709c8f67db6116c9553649965468a4#egg=django_geartracker-dev
+-e git+https://github.com/pigmonkey/django-geartracker.git@9255435869384201d47355a45a2b40f49674cd6e#egg=django_geartracker-dev
 django-inlineobjects==1.0.1
 django-markup==0.4
 django-simplesearch==1.0
