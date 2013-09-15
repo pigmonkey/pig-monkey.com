@@ -15,7 +15,7 @@ django-extensions==1.2.1
 django-inlineobjects==1.0.2
 django-markup==0.4
 django-simplesearch==1.0
-django-taggit==0.10a1
+django-taggit==0.10
 django-taggit-templatetags==0.4.6dev
 django-templatetag-sugar==0.1
 django-vellum==1.4.2
