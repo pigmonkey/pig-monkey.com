@@ -1,0 +1,11 @@
+Title: Musings
+Date: 2006-05-15
+Modified: 2012-09-15
+Slug: musings
+
+<blockquote>For American Indians, the important explanations of the world are spiritual ones. In their view, there is a deeper reality than the here-and-now. The real essence or wisdom occurs when one finally gives up trying to explain events in terms of "logic" and "reality". Many confusing aspects of existence can better be explained by actions of a multiplicity of spirits. Instead of a concept of a single god, there is an awareness of "that which we do not understand." In Lakota religion, for example, the term <em>Wakan Tanka</em> is often translated as "god." But a more proper translation, according to the medicine people who taught me, is "The Great Mystery."
+
+While rationality can explain much, there are limits to human capabilities of understanding. The English language is structured to account for cause and effect. For example, English speakers say, "It is raining," with the implication that there is a cause "it" that leads to rain. Many Indian languages, on the other hand, merely note what is most accurately translated as "raining" as an observable fact. Such an approach brings a freedom to stop worrying about causes of things, and merely to relax and accept that our human insights can go only so far. By not taking ourselves too seriously, or over inflating human importance, we can get beyond the logical world.
+
+The emphasis of American Indian religions, then, is on the spiritual nature of all things. To understand the physical world, one must appreciate the underlying spiritual essence. Then one can begin to see that the physical is only a faint shadow, a partial reflection, of a supernatural and extrarational world. By the Indian view, everything that exists is spiritual. Every object -- plants, rocks, water, air, the moon, animals, humans, the earth itself -- has a spirit. The spirit of one thing (including a human) is not superior to the spirit of any other. Such a view promotes a sophisticated ecological awareness of the place that humans have in the larger environment. The function of religion is not to try to condemn or to change what exists, but to accept the realities of the world and to appreciate their contributions to life. Everything that exists has a purpose.</blockquote>
+- Walter L. Williams

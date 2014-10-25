@@ -1,0 +1,11 @@
+Title: Stand Up Straight and Walk!
+Date: 2010-05-09
+Modified: 2012-09-15
+Tags: quote, abbey, wilderness
+Slug: stand-up-straight-and-walk
+
+<blockquote>Sealed in their metallic shells like molluscs on wheels, how can I pry the people free? The auto as tin can, the park ranger as opener. Look here, I want to say, for godsake folks get out of them there machines, take off those fucking sunglasses and unpeel both eyeballs, look around; throw away those god-damned idiotic cameras! For chrissake folks what is this life if full of care we have no time to stand and stare? eh? Take off your shoes for a while, unzip your fly, piss hearty, dig your toes in the hot sand, feel that raw and rugged earth, split a couple of big toenails, draw blood! Why not? Jesus Christ, lady, roll that window down! You can't see the desert if you can't smell it. Dusty? Of course it's dusty -- this is Utah! But it's good dust, good red Utahn dust, rich in iron, rich in irony. Turn that motor off. Get out of that piece of iron and stretch your varicose veins, take off your brassiere and get some hot sun on your old wrinkled dugs! You sir, squinting at the map with your radiator boiling over and your fuel pump vapor-locked, crawl out of that shiny hunk of GM junk and take a walk -- yes, leave the old lady and those squawling brats behind for a while, turn your back on them and take a long quiet walk straight into the canyons, get lost for a while, come back when you damn well fell like it, it'll do you and her and them a world of good. Give the kids a break too, let them out of the car, let them go scrambling over the rocks hunting for rattlesnakes and scorpions and anthills -- yes sir, let them out, turn them loose; how dare you imprison little children in your goddamned upholstered horseless hearse? Yes sir, yes madam, I entreat you, get out of those motorized wheelchairs , get off your foam rubber backsides, stand up straight like men! like women! like human beings! and walk -- <em>walk</em> -- WALK upon our sweet and blessed land!
+
+-Edward Abbey, Desert Solitaire</blockquote>
+
+<a href="http://www.flickr.com/photos/pigmonkey/3400160401/" title="Walking by Pig Monkey, on Flickr"><img src="http://farm4.static.flickr.com/3595/3400160401_6660027f08.jpg" width="500" height="375" alt="Walking" /></a>

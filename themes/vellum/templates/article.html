@@ -1,0 +1,7 @@
+{% extends "blog.html" %}
+
+{% block title %}{{ article.title }} | {{ super() }}{% endblock %}
+
+{% block content %}
+    {% include 'includes/article.html' %}
+{% endblock content %}

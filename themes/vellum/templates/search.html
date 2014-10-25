@@ -1,0 +1,36 @@
+{% extends "blog.html" %}
+
+{% block title %}Search | {{ super() }}{% endblock %}
+
+{% block content %}
+    <article class="entry">
+        <header>
+            <h1>
+                Search
+            </h1>
+        </header>
+
+        <form action="{{ SITE_URL }}/search.html">
+            <input type="text" name="q" id="tipue_search_input" autocomplete="off" required>
+        </form>
+
+        <div id="tipue_search_content"></div>
+
+    </article>
+{% endblock %}
+
+{% block js %}
+    {{ super() }}
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch_set.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#tipue_search_input').tipuesearch({
+                'mode': 'json',
+                'show': {{ DEFAULT_PAGINATION }},
+                'showURL': false,
+                'contentLocation': '{{ SITE_URL }}/tipuesearch_content.json'
+            });
+        });
+    </script>
+{% endblock %}

@@ -1,0 +1,197 @@
+@import "compass/reset";
+@import "compass/css3";
+@import "compass/typography/vertical_rhythm";
+@import "partials/base";
+@import "partials/grids";
+@import "partials/typography";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/forms";
+@import "partials/pygments";
+
+body {
+    background-color: $body-background;
+    color: $font;
+}
+
+::selection {
+    background: $accent;
+    color: $content-background;
+}
+ 
+::-moz-selection {
+    background: $accent;
+    color: $content-background;
+}
+
+a {
+    color: $accent;
+    text-decoration: none;
+    &:hover, &:focus, &:active { text-decoration: underline; }
+}
+
+.entry {
+    @include content-box;
+    header {
+        .entry-title a {
+            color: $font;
+            &:hover, &:focus, &:active {
+                text-decoration: none;
+                color: $accent;
+            }
+        }
+        time { 
+            @include small;
+            color: $subtle;
+        }
+    }
+    .entry-content {
+        img, object {
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        img {
+            height: auto;
+            max-width: 100%;
+            @include border-radius;
+        }
+        .thumbs {
+            list-style: none;
+            margin-left: 0;
+            text-align: center;
+            li, img, object {
+                display: inline; }
+        }
+        .right { @include float-right; }
+        .left { @include float-left; }
+    }
+}
+
+footer {
+    @include leader;
+    color: $subtle;
+    @include small;
+    clear: both;
+    border-top: 1px solid $content-background-darker;
+}
+
+.tag-micro {
+    header, .entry-title, .entry-content, .entry-content > p:first-child { display: inline; }
+    header {
+        time, .edit { display: none; }
+    }
+    .entry-title {
+        font-size: 1.3em;
+        line-height: 1em;
+    }
+}
+
+.notice {
+    @include leader;
+    padding: $gutter-width/2 $gutter-width;
+    @include border-radius;
+    text-align: center;
+    border: 1px solid $accent;
+    background: $content-background;
+    p:first-child { margin-top: 0; }
+}
+
+.query {
+    font-weight: bold;
+}
+
+.tagcloud {
+    list-style: none;
+    li {
+        display: inline-block;
+        margin: 10px;
+        &.tag-1 {
+            font-size: 250%;
+        }
+        &.tag-2 {
+            font-size: 200%;
+        }
+        &.tag-3 {
+            font-size: 150%;
+        }
+        &.tag-4 {
+            font-size: 100%;
+        }
+    }
+}
+
+#tipue_search_content {
+    #tipue_search_results_count {
+        @include trailer;
+        font-style: italic;
+        &:before{
+            content: "(";
+        }
+        &:after{
+            content: ")";
+        }
+    }
+    .tipue_search_content_title {
+        font-size: 1.3em;
+        line-height: 1em;
+        a {
+            color: $font;
+            &:hover, &:focus, &:active {
+                text-decoration: none;
+                color: $accent;
+            }
+        }
+    }
+    .tipue_search_content_text {
+        @include trailer;
+    }
+    #tipue_search_foot_boxes {
+        list-style: none;
+        li {
+            display: inline-block;
+            margin-right: 10px;
+            border: 1px solid $accent;
+            padding: 0 4px;
+            &.current {
+                border-color: $font;
+            }
+        }
+        a {
+            color: $font;
+            display: block;
+            &:hover, &:active, &:focus {
+                color: $accent;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+#archives {
+    list-style: none;
+    .year {
+        display: inline;
+    }
+    .article-archive {
+        margin-left: $gutter-width;
+        list-style: none;
+    }
+    .article-count, .article-date {
+        display: inline;
+        &:before{
+            content: "(";
+        }
+        &:after{
+            content: ")";
+        }
+    }
+
+}
+
+#page-who {
+    img {
+        @include border-radius(100px);
+        @include float-right;
+    }
+}

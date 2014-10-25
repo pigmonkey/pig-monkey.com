@@ -1,0 +1,21 @@
+input {
+    @include border-radius;
+    @include transition-property(background, border);
+    @include transition-duration;
+    border: 1px solid #f0f0f0;
+    padding: 4px;
+    &:focus {
+        border-color: $accent;
+    }
+}
+
+#quick-search {
+    input {
+        background: $body-background;
+        padding: 0px 10px;
+        @include small;
+        &:focus {
+            background: $content-background;
+        }
+    }
+}

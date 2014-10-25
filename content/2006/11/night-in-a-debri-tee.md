@@ -1,0 +1,16 @@
+Title: Night in a Debri-Tee
+Date: 2006-11-01
+Modified: 2012-09-15
+Slug: night-in-a-debri-tee
+
+The <a href="http://www.pig-monkey.com/2006/10/27/fire-shelter-overnight/">fire and shelter class</a> was originally supposed to be 2.5 days. Somewhere along the line, Management cut it down to just 24 hours. Still, our teacher decided to continue with the class. We focused on shelter building, not having much time for fire.
+
+The shelter we built was a debri-pee. Rather self explanatory -- a tee-pee, but made with debris. The group of people (there were 6 of us) sit in a circle, legs crossed, and place a stick in the ground behind their back. This marks this circumference of the circle. After this, two rows of alternating sticks, 2 feet tall, 1 foot apart, are placed around the circle. Three ridge poles, the hight of the tallest person, are setup in the middle, with their ends inside the circle, and tied off with some form of cordage at the top. Their angle should be about 45 degrees to maximize rain run-off. More ridge poles are lain around the circle -- as many as you can find and fit. Then, the lower wall (created by the circle of alternating sticks) is insulated with debris (mmm...sword ferns). Next, the upper wall (created by the ridge poles) is latticed (the lower branches of Hemlock work great -- snack on the needles while you work). Then start throwing on the debris. Sword ferns make a good first layer -- about 4 feet of insulation. Then toss on some maple leaves to minimize rain penetration. Perhaps shingle it with bark. Remember to punch a smoke hole in the top. The hole for the door should be slightly wider than the biggest person. The door itself is a plug made of vines, twigs, sticks, leaves, ferns, etc. Insulate the floor of your new home with ferns, but first lay down a little Hemlock. Remember to stash firewood anywhere and everywhere inside. Small pieces. You don't want to burn your new home down. Carry in a few coals from your outside fire and settle in for the night.
+
+It took the six of us about 5 hours to construct our debri-tee. Since it's sized out by us all sitting cross-legged in the shelter, it's a bit cramped when laying down. You're basically sleeping in the fetal position, with your head on the next person's legs. But other than that, it's comfortable. We each had alternating one hour fire-tending shifts, to keep us warm and make sure the ferns didn't catch fire. It started pouring at about 3AM and rained all night, but our shelter kept us dry.
+
+We each left with a block of cedar from which to craft a bow-drill. I'm waiting for my new knife sharpener to arrive before I give it a shot.
+
+Speaking of knives, our teacher, Phil, had a <a href="http://trackertrail.com/trackerknife/index.html" >Tracker knife</a> that I played with -- the custom, $400 version made by Dave Beck, not the commercial one made with crappy steel. It's certainly nicer than my BK10, though, overall, I can't say I was too impressed with it. Not for a $400 knife. I fell an Alder with it, but the saw is really too short to do much with. The handle has two positions, but felt too small for my hand. I did like cutting ferns with the dip between the chopping and carving blades.
+
+I'm looking forward to building a debri-tee here. And transferring some of the tricks I learned to the other shelters up in the woods.

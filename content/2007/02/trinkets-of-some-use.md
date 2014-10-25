@@ -1,0 +1,13 @@
+Title: Trinkets of Some Use
+Date: 2007-02-22
+Modified: 2012-11-01
+Tags: medical
+Slug: trinkets-of-some-use
+
+After taking the <a href="http://www.pig-monkey.com/2007/01/08/everybody-loves-a-medic/">WFR course</a> last month, I was given a 20% off coupon at the NOLS store. So, I decided to treat myself to a few goodies.
+
+<a href="http://www.nols.edu/store/product.php?productid=16251&cat=256&page=1" >MDI CPR Micromask</a>. Being triple certified in CPR, it may look a little foolish if I didn't carry a mask with me -- at least on trips. This one is pocket sized, so it now lives in my right cargo pocket. It's considered one time use because the little tube is inserted into the patient's mouth. Masks are a better choice than those flimsy plastic sheets they sometime give you in classes for a couple reasons, the first being BSI -- Body Substance Isolation. Patients have a tendency to vomit. Rescuers have a tendency not to want to eat their patients vomit. These masks do a better job of protecting you. <a href="http://en.wikipedia.org/wiki/CPR_mask" >Full masks</a>, even better. The second reason is that the air you inhale is about 21% oxygen, but you exhale only 16%. Thus, breathing for a patient is less effective than the patient breathing for themselves. Masks help to concentrate your breath, making each of your attempts more effective. Full masks also allow your breath to enter through the nostrils.
+
+<a href="http://www.nols.edu/store/product.php?productid=16451&cat=256&page=1" >First Aid Restock Pack</a>. This thing includes all sorts of little goodies. Odd-and-ends that are most frequently used from your kit, and you probably neglect to replace. Plus some 2nd Skin, which is probably the single coolest first aid item available.
+
+<a href="http://www.nols.edu/store/product.php?productid=16187&cat=255&page=2" >Patient Assessment Bandanna</a>. Bandannas have a multitude of uses; whether to keep hair under control, wipe your hands, use as a pot holder, or even filter water. For the wilderness rescuer, the bandanna doubles as a cravat: use it tie a splint or boil it for a sterile bandage. This one has the patient assessment system on it, so when your adrenaline is pumping and you forget what the hell you're supposed to be doing, just farce wiping your brow with this and cheat a glance at the list -- without losing face with your patient or bystanders. Included on the bandanna is a fill-in-the-blank <a href="http://en.wikipedia.org/wiki/SOAP_note" >SOAP note</a>. That little piece of crucial documentation that everybody always forgets, but will save your heiney in court.

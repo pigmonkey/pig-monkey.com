@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block subhead %}
+<div id="subhead">
+    <nav>
+        <ul>
+            <li><a href="{{ SITEURL }}">Posts</a></li>
+            <li><a href="{{ SITEURL }}/archives/">Archives</a></li>
+            <li><a href="{{ SITEURL }}/tag/">Tags</a></li>
+        </ul>
+    </nav>
+    <form id="quick-search" action="{{ SITEURL }}/search.html" onsubmit="return (this.elements['q'].value.length > 0)">
+        <input type="search" name="q" placeholder="Search">
+    </form>
+</div>
+{% endblock %}

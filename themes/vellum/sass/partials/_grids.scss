@@ -1,0 +1,121 @@
+@import "susy";
+@import "breakpoint";
+
+$total-columns  : 12;
+$column-width   : 60px;
+$gutter-width   : 20px;
+$grid-padding   : $gutter-width;
+
+$susy: (
+    columns: $total-columns,
+    gutters: $gutter-width / $column-width,
+    column-width: $column-width,
+);
+
+$breakpoint-alpha: 700px;
+$breakpoint-bravo: 1300px;
+
+.container {
+    @include container;
+}
+
+.content, #footer {
+    @include span(12 of 12);
+}
+
+#top nav a {
+    @include border-radius($default-border-radius*2);
+    margin-bottom: $gutter-width/2;
+}
+
+#subhead {
+    padding: $gutter-width/2 $gutter-width;
+    text-align: center;
+    nav li, form { padding-bottom: $gutter-width/2; }
+    form {
+        margin: 0;
+    }
+}
+
+.pagination {
+    @include span(12 of 12);
+    @include adjust-font-size-to($base-font-size * 10);
+    a {
+        @include transition-property(background, border, color);
+        @include transition-duration;
+        &:hover, &:focus, &:active {
+            text-decoration: none;
+            color: $content-background;
+        }
+    }
+    .older, .newer {
+        @include span(6 of 12);
+    }
+    .older {
+    }
+    .newer {
+        @include omega;
+        text-align: right;
+    }
+}
+
+@include breakpoint($breakpoint-alpha) {
+    #top {
+            .site-title { @include trailer; }
+            nav {
+                    li {
+                        @include span(3 of 12);
+                        &:nth-child(4n) { @include omega; }
+                    }
+                    a {
+                        margin-bottom: 0;
+                        @include border-bottom-radius(0);
+                        &.active { background-color: $accent; }
+                    }
+            }
+    }
+    #subhead {
+        text-align: left;
+        nav {
+            float: left;
+            li {
+                float: left;
+                margin-right: $gutter-width;
+                padding-bottom: 0;
+            }
+        }
+        form {
+            float: right;
+            padding-bottom: 0;
+        }
+    }
+    #footer {
+        .copyright { @include span(6 of 12 omega); }
+        .quote { @include span(6 of 12); }
+        .social { @include span(12 of 12 omega); }
+    }
+}
+
+@include breakpoint($breakpoint-bravo) {
+    .pagination {
+        a {
+            color: $content-background;
+            &:hover, &:focus, &:active {
+                color: $accent;
+            }
+        }
+        .older, .newer {
+            position: fixed;
+            top: 150px;
+            float: none;
+            width: 0;
+            margin: 0;
+        }
+        .older {
+            left: 20px;
+        }
+        .newer {
+            right: 20px;
+        }
+    }
+}

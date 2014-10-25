@@ -1,0 +1,7 @@
+Title: Reloaded DVD
+Date: 2003-10-14
+Modified: 2012-09-15
+Slug: reloaded-dvd
+
+The Reloaded DVD is $14 ($16.32 with tax) at Best Buy. It's two discs: the first disc is the movie and the second is Preload (the making of Reloaded), That Matrix Unfolds (covers both movies and the game), The Freeway Chase (a making of just for that), Get Me an Exit (commercialism at it's best), Enter the Matrix (making of the game), and The MTV Movie Awards Reloaded (some Reloaded skit with the Bullet Proof Monkey and that Nsync guy). You actually get about two or three hours of special features on the second disk, which is pretty cool. One thing I have to comment on is the <i>Get Me an Exit</i> feature, which was actually a making of the commercials (Heinekin, Samsung Phone and TV, and Power-Aid). Was this really necessary? I mean, the commercials are crap (as are all commercials). Do I really need to see how they're made? If I didn't buy the product back in May when the world was in a Matrix-frenzy, why should I buy it now?<br />
+Other than that, it's great. The movie is the same. If you didn't like it in the theatre, you probably won't like it on the DVD. Although, I must recommend at least renting it so you can replay the end and try to figure out just <i>what</i> exactly the Architect says. I picked up on a few very minute details which, coupled with the latest Revolutions trailer (did I mention that I saw the trailer on the big screen when I went to see Kill Bill?), gives you a pretty good idea of the story line for the third film.

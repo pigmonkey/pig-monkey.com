@@ -1,0 +1,18 @@
+{% extends "blog.html" %}
+
+{% block title %}Categories | {{ super() }}{% endblock %}
+
+{% block content %}
+    <article class="entry">
+        <header>
+            <h1>
+                Categories
+            </h1>
+        </header>
+        <ul class="categories">
+        {% for category, articles in categories %}
+            <li><a title="View posts categorized as {{ category }}" href="{{ SITEURL }}/{{ category.url }}">{{ category }}</a> ({{ articles|length }})</li>
+        {% endfor %}
+        </ul>
+    </article>
+{% endblock %}

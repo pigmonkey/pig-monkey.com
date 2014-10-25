@@ -1,0 +1,91 @@
+#top, #subhead {
+    a {
+        @include transition-property(background, border, color);
+        @include transition-duration;
+    }
+}
+
+#top {
+    // Background pattern by Badhon Ebrahim.
+    // Acquired on [Subtle Patterns](http://subtlepatterns.com/).
+    background: $contrast url('/theme/images/black_mamba.png');
+    border-bottom: 5px solid $accent;
+    .site-title {
+        font-size: 1.4em;
+        background: rgba($contrast, 0.5);
+        @include single-text-shadow(4px, 4px, 2px, false, $contrast);
+        text-align: center;
+        padding: .25em;
+        a {
+            color: $accent;
+            &:hover, &:focus, &:active {
+                text-decoration: none;
+                color: $content-background;
+            }
+        }
+    }
+    nav {
+        ul {
+            margin: 0;
+            overflow: auto;
+            li {
+                list-style: none;
+                text-align: center;
+                margin-bottom: 0;
+            }
+        }
+        a {
+            color: $content-background;
+            display: block;
+            line-height: 2em;
+            &:hover, &:focus, &:active {
+                background-color: $accent;
+                text-decoration: none;
+            }
+        }
+    }
+}
+
+#subhead {
+    border: 1px solid $content-background-dark;
+    border-top: none;
+    @include border-bottom-radius;
+    background: $content-background;
+    overflow: auto;
+    nav {
+        ul {
+            margin: 0;
+            li {
+                list-style: none;
+                margin-bottom: 0;
+                &:last-child { margin-right: 0; }
+                a {
+                    color: $font;
+                    text-decoration: none;
+                    display: block;
+                    padding: 3px 10px;
+                    @include border-radius($default-border-radius*2);
+                    border: 1px solid $content-background;
+                    &:hover, &:focus, &:active {
+                        background-color: $body-background;
+                        border-color: $content-background-dark;
+                    }
+                }
+            }
+        }
+    }
+}
+
+#toggle-nav {
+    display: block;
+    position: absolute;
+    padding: 5px;
+    top: 2px;
+    right: 5px;
+    @include border-radius;
+    &:hover, &:active, &:focus {
+        background-color: lighten($contrast, 10%);
+        text-decoration: none;
+    }
+    img { display: block; }
+}
