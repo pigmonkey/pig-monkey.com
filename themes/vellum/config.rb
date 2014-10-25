@@ -16,8 +16,5 @@ http_images_path = http_path + "theme/images"
 # JS
 javascripts_dir = "static/js"
 
-# You can select your preferred output style here (can be overridden via the command line):
-# output_style = :expanded or :nested or :compact or :compressed
-
-# To disable debugging comments that display the original location of your selectors. Uncomment:
-# line_comments = false
+output_style = :compressed
+line_comments = false
