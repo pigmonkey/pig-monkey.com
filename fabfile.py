@@ -41,3 +41,4 @@ def deploy():
     push()
     generate()
     sync()
+    push('github')
