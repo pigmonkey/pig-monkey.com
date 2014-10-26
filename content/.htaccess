@@ -3,3 +3,4 @@ RedirectMatch 301 ^/gear/?.*$ /
 RedirectMatch 301 ^/about/?.*$ /who
 RedirectMatch 301 ^/contact/?.*$ /who
 RedirectMatch 301 ^/search/?$ /search.html
+RedirectMatch 301 ^/feed/.*$ /feed
