@@ -1,0 +1,5 @@
+Title: Currently reading The Mauritius Command by Patrick O'Brian.
+Date: 2014-10-27
+Tags: micro, books
+
+O'Brian's [Aubrey–Maturin series](https://en.wikipedia.org/wiki/Aubrey%E2%80%93Maturin_series) is a daunting twenty novels, which I was finally motivated to begin after reading a [comment on a blog post](http://bastiatblogger.blogspot.com/2013/11/some-fun-books.html?showComment=1384370200348#c9005984459976568037) last year. I am now on [the fourth book](https://en.wikipedia.org/wiki/The_Mauritius_Command) and -- despite not having read historical fiction before this (excepting [The Difference Engine](https://en.wikipedia.org/wiki/The_Difference_Engine) and [The Baroque Cycle](https://en.wikipedia.org/wiki/The_Baroque_Cycle)) -- have been quite enjoying the relationship between the characters of [Jack Aubrey](https://en.wikipedia.org/wiki/Jack_Aubrey) and [Stephen Maturin](https://en.wikipedia.org/wiki/Stephen_Maturin), along with O'Brian's meticulous detailing of Napoleonic-era naval life and combat.
