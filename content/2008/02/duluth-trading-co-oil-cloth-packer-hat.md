@@ -1,7 +1,7 @@
 Title: Duluth Trading Co. Oil Cloth Packer Hat
 Date: 2008-02-16
 Modified: 2012-09-15
-Tags: duluth trading co, review, hat, oil cloth, gear
+Tags: review, hat, gear
 Slug: duluth-trading-co-oil-cloth-packer-hat
 
 A good hat keeps the sun out of your face, the rain off your head, and guarantees the wearer always be presented with a sort of respectability and <a href="http://www.knittingninja.com/wp-content/uploads/2007/05/jayne.jpg">cunning</a>. With a hat on your head, the world seems a more acceptable place.

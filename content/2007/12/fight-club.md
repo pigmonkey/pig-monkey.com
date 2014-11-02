@@ -1,7 +1,7 @@
 Title: Fight Club
 Date: 2007-12-03
 Modified: 2012-09-15
-Tags: martial arts, physical training, health
+Tags: defense, physical training
 Slug: fight-club
 
 For the past two months, I've been attending <a href="http://www.unbridledmartialarts.com/index.htm" >Unbridled Martial Arts</a> -- or, as I refer to it, Fight Club. It's a <a href="http://en.wikipedia.org/wiki/Mixed_martial_arts" >mixed martial arts</a> club, mixed gender and of various skill levels. There is no belt-system, or ranking of any kind. Tuesday and Thursday nights are stand-up fighting, which draw from the likes of muay-thai, kickboxing, judo, American boxing, and karate. Wednesday nights are weapons and grappling. The weapons training is escrima, with the weapons themselves being escrima sticks and knives. Grappling draws from wrestling, Jujutsu, judo, Shamrok submission fighting, and Israeli self-defense.
