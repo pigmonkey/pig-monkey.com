@@ -1,7 +1,7 @@
 Title: I uploaded some photos from the Triple Aught Design winter shoot.
 Date: 2014-01-05
 Modified: 2014-01-05
-Tags: micro
+Tags: micro, triple aught design
 Slug: winter-shoot
 
 The shoot took place in November, over the course of a few days near Desolation Wilderness and in the desert outside of Reno. The photos are [on Flickr](http://www.flickr.com/photos/pigmonkey/sets/72157639467954613/).

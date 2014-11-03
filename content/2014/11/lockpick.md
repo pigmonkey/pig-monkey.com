@@ -1,6 +1,6 @@
 Title: Lockpicking: A Practical Skill
 Date: 2014-11-02
-Tags: gear, edc, lockpicking, quote
+Tags: gear, edc, lockpicking, quote, triple aught design
 
 [Triple Aught Design](https://tripleaughtdesign.com/) is a small business. All of us wear multiple hats to make things go. Sometimes I end up wearing hats that may be considered odd in other businesses.
 

@@ -1,7 +1,7 @@
 Title: The Micro SERE Kit
 Date: 2012-11-03
 Modified: 2012-11-08
-Tags: edc, gear, triple aught design
+Tags: edc, gear, triple aught design, lockpicking
 Slug: micro-sere-kit
 
 As I [mentioned previously](http://pig-monkey.com/2012/10/30/inaugural-its-tactical-muster/), there was quite a lot of swag given out to attendees of the [ITS Tactical](http://www.itstactical.com/) Muster. My favorite piece was the Micro SERE Kit put together by [SerePick](http://www.serepick.com/) and [Triple Aught Design](http://www.tripleaughtdesign.com/).
