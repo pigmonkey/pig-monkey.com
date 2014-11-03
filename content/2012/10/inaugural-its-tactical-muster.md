@@ -1,7 +1,7 @@
 Title: The Inaugural ITS Tactical Muster
 Date: 2012-10-30
 Modified: 2012-11-01
-Tags: medical
+Tags: medical, lockpicking
 Slug: inaugural-its-tactical-muster
 
 The inaugural [ITS Tactical Muster](http://www.itstactical.com/centcom/its-information/1st-annual-its-tactical-muster-and-skill-set-development-excursion/) was a great multi-disciplinary training event. I had never been involved with planning something like this, and was surprised at how smoothly the whole thing went. A large part of the credit for that goes to the students, who represented a diverse set of backgrounds and energetically attacked all training blocks.
