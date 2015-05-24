@@ -52,6 +52,6 @@ PATH = 'content'
 CSS_FILE = 'style.css'
 USE_FOLDER_AS_CATEGORY = False
 DIRECT_TEMPLATES = ('index', 'search')
-STATIC_PATHS = ['media', '.htaccess', 'robots.txt']
+STATIC_PATHS = ['media', '.htaccess', 'robots.txt', 'key.asc']
 SLUGIFY_SOURCE = 'basename'
 TYPOGRIFY = True
