@@ -68,6 +68,21 @@ a {
     }
 }
 
+#footnotes {
+    @include leader;
+    @include small;
+    h2 {
+        display: none;
+    }
+    &:before {
+        content: '\2735';
+        text-align: center;
+        font-size: 4em;
+        display: block;
+        @include opacity(.2);
+    }
+}
+
 footer {
     @include leader;
     color: $subtle;
