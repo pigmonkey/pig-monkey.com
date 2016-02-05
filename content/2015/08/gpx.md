@@ -1,6 +1,6 @@
 Title: Antisocial Activity Tracking
 Date: 2015-08-04
-Tags: bicycle, physical training, run
+Tags: bicycle, physical training, run, android
 
 A GPS track provides useful a useful log of physical activities. Beyond simply recording a route, the series of coordinate and time mappings allow statistics like distance, speed, elevation, and time to be calculated. I recently decided that I wanted to start recording this information, but I was not interested in any of the plethora of social, cloud-based services that are hip these days. A simple [GPX track](https://en.wikipedia.org/wiki/GPS_eXchange_Format) gives me all the information I care about, and I don't have a strong desire to share them with a third party provider or a social network.
 
