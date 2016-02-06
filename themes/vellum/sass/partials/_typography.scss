@@ -70,6 +70,7 @@ em { font-style: italic; }
 pre {
     padding: 10px;
     margin-bottom: 0;
+    overflow: auto;
 }
 code {
     border: 1px solid $content-background-dark;
