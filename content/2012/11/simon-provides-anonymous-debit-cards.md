@@ -1,7 +1,7 @@
 Title: Simon provides anonymous debit cards.
 Date: 2012-11-09
 Modified: 2012-11-09
-Tags: micro, privacy
+Tags: micro, privacy, finance
 Slug: simon-provides-anonymous-debit-cards
 
 Their prepaid Visa and American Express gift cards can be purchased with cash at any [Simon mall](https://www.simon.com/mall). No identification is required. To use the card with online merchants, you will likely need to [register the card](https://www.simon.com/giftcard/) with an address so that it can pass [AVS](https://en.wikipedia.org/wiki/Address_Verification_System) checks. This can be done through [Tor](https://www.torproject.org/) with fake information.
