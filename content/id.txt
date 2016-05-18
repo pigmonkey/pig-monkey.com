@@ -1,0 +1,87 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Last Update: 2016-05-17
+
+This is a signed summary of relevant cryptographic information. This document
+may be used in conjuction with a verified copy of my public key to establish
+trusted communications through other channels.
+
+
+# PGP Fingerprint
+
+5249 2412 A119 0FC0 87EA 0F1D 70B2 20FF 8D2A CF29
+
+
+# Signal Fingerprint
+
+05 93 c8 9f c5 03 9a af
+c6 50 b8 84 5b 5d 8b f7
+41 24 40 30 35 b2 fc f1
+20 e4 15 8b fc de a0 c2
+52
+
+
+# OTR Fingerprints
+
+xmpp:   peter@havenaut.net/nous  05D7ECB2 B4B4EB39 D0F13CD6 BBF391BF C9ADE759
+xmpp:   peter@librum.org/nous    4ACBFF97 A1752486 CC92AB59 E35B0CAC 00D62218
+
+
+# SSH Public Key
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJCcUxVBqctJTbBiv8LL+AdWTC0/tVOJVmVBGqm79VmWEYb/KAmpKoI3MJC3V1VsrWUMX1HPVg/N6SnVteyCGlJbMJN9t60kMDwVlJQeNSUazTxdBhL56+MLGno1fFR0DsyIYf3rArcPOvk0pKUeHrdP5YZJv6yMtMvtCNf4B2hG6cu+otiq6hCPfgWNdu+l27NqlUlpiQufqPmPhO3rE3ZTZlDdmMdXrpmwlNJ9Ur3B8gD9i9pdNwIFoJluA7j0Do7mzSRwN9VVVZbeYdogcQwpAVhZbi4cwDHVAMs+FToxp14xNz1niyDJqsh68wqILdmbl8rwInBdxcxlJxy3wN pigmonkey@nous
+
+
+# PGP Key Signing
+
+I will sign other keys according to the following policy.
+
+## Casual (Level 2)
+
+I have performed a casual check of the person and key, generally meaning that:
+
+* I personally know the subject of the key by the UID, and have for some time;
+* I can readily and reliably recognize them; and
+* I verified their key fingerprint through an out-of-band channel, which might
+  include voice or video chat.
+
+## Extensive (Level 3)
+
+I have performed an extensive check of the person and key, generally meaning that:
+
+* I physically met the person, not by voice or video chat;
+* they presented me with difficult to forge evidence of their identity;
+* I verified their key fingerprint at that time; and
+* I verified that the email address of the UID belongs to the person.
+
+
+## Notes:
+
+* I do not have a specific metric for how long I have to know someone before
+  being willing to certify their key based solely on our relationship. I use my
+  judgement and discretion.
+* I do not require that the UIDs I certify are someone's birth name, or the
+  name on their government documents. I will certify a persistent pseudonym if
+  that is the name someone goes by.
+* "[D]ifficult to forge evidence of... identity" often means government issued
+  photo identification which I find convincing. It may also mean a personal
+  attestation from someone who I know well and consider trustworthy.
+
+
+# PGP Key Management
+
+My private key was generated offline on an air-gapped computer. All key signing
+occurs on an offline, air-gapped computer. The key and computer are stored
+securely in a tamper-evident manner. Signing and encryption subkeys for regular
+use are stored on a YubiKey NEO.
+-----BEGIN PGP SIGNATURE-----
+
+iQEcBAEBCgAGBQJXO9hpAAoJEFTpmKxhi8E3EjEH/jL1JNz5uF5fg/4vxfdQeAsn
+/fR4qmeSxD5BC/HzhXR4Fvv3m6BJrQVAZ+z2jpkdJL23YJGbmuGlrYj1sAhYesEf
+CopVWd6sZGMn3NQb+c2qWyOyy1wV4GFOOdlgsKdReS/J9lewGObaFEHlH/Vh47Pa
+A6V242ByvDlK7HgRWO7ez8CmvF/bFbCt2ESOGOmT8MH3Q1wP5tQ7LwNn99dv7u/F
+ltYhJ9L6LdK2iJzuppMOSDFkmyrrRdZWRgQ8OYBekkjs1rl1TIkkJ62872joerbB
+gl0wN71hiI8BDrdy1B1TfJkFQd3Vp0sDHjKE0Eg0xH+tSDukiHGiMa8/99GYYyo=
+=oPse
+-----END PGP SIGNATURE-----
