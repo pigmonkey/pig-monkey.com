@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2016-05-17
+Last Update: 2016-05-25
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -30,7 +30,7 @@ xmpp:   peter@librum.org/nous    4ACBFF97 A1752486 CC92AB59 E35B0CAC 00D62218
 
 # SSH Public Key
 
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDJCcUxVBqctJTbBiv8LL+AdWTC0/tVOJVmVBGqm79VmWEYb/KAmpKoI3MJC3V1VsrWUMX1HPVg/N6SnVteyCGlJbMJN9t60kMDwVlJQeNSUazTxdBhL56+MLGno1fFR0DsyIYf3rArcPOvk0pKUeHrdP5YZJv6yMtMvtCNf4B2hG6cu+otiq6hCPfgWNdu+l27NqlUlpiQufqPmPhO3rE3ZTZlDdmMdXrpmwlNJ9Ur3B8gD9i9pdNwIFoJluA7j0Do7mzSRwN9VVVZbeYdogcQwpAVhZbi4cwDHVAMs+FToxp14xNz1niyDJqsh68wqILdmbl8rwInBdxcxlJxy3wN pigmonkey@nous
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDotO5erTRlNWn5fcHjskFdwxDDEaJ3Q/vXfWMK6kpefLA6K3G1r/TH57lDsXpNIuUwt/61JCu7ShWLqrmBeVkhnPj8eBjRLg6UtFumXXDRCCHHLjd8nyZqyVHHNd0ygSwC26F+o5s87W2tkZLZjqvym69xLHlIpE2vxndE/Bk/idBm9ZyWBVANJvEs7CTOpxb+G8C08o6IfcpIP+Qf7P/4ydgNWDWAKWJHbJ+rfzkdsRenfcuN3WVa47jzItM3K0ZL6C7FB6F1FS3uTG9ahGBOltzfx6WKlnuOKwzLmNl7SE6I2otMGQv7O7dw4/qWIE8BWHcb6QBtNvwGY29mJ0nX
 
 
 # PGP Key Signing
@@ -77,11 +77,11 @@ securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCgAGBQJXO9hpAAoJEFTpmKxhi8E3EjEH/jL1JNz5uF5fg/4vxfdQeAsn
-/fR4qmeSxD5BC/HzhXR4Fvv3m6BJrQVAZ+z2jpkdJL23YJGbmuGlrYj1sAhYesEf
-CopVWd6sZGMn3NQb+c2qWyOyy1wV4GFOOdlgsKdReS/J9lewGObaFEHlH/Vh47Pa
-A6V242ByvDlK7HgRWO7ez8CmvF/bFbCt2ESOGOmT8MH3Q1wP5tQ7LwNn99dv7u/F
-ltYhJ9L6LdK2iJzuppMOSDFkmyrrRdZWRgQ8OYBekkjs1rl1TIkkJ62872joerbB
-gl0wN71hiI8BDrdy1B1TfJkFQd3Vp0sDHjKE0Eg0xH+tSDukiHGiMa8/99GYYyo=
-=oPse
+iQEcBAEBCgAGBQJXRnBJAAoJEFTpmKxhi8E340EH/RrVvr6pf/tW7pbcN+o6dAkm
+CkmCzH24FE24TW9nQ204adMydb7zOe7MxclDhmce0MSTFru3E+7+iJK4CeXbEYfx
+LBmnUNuRfD8TdL7k4OujdWHQgqkJBLIZy4s7j5QalaYX8fiagI5aG7hDpnFV8Ywn
+ota29zPu0dmsoDhRb5pHUUFG2TjSqEFvavynxLtHJizxVr4sMo2yM6/NbJVVBcUu
+tbSoMC6L2rqSKV910iK6XoACUspbbM5xbVnE/ZcHKC+iXhmbO6YKRPOoXlXp5q1N
+wBDRQpDcNwPFHhZJ5SslWGKDXt/WgQt7uEPxzR3IauRW4AgRf7JGAfbnS6eX+OU=
+=124j
 -----END PGP SIGNATURE-----
