@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2016-05-25
+Last Update: 2016-07-16
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -15,11 +15,11 @@ trusted communications through other channels.
 
 # Signal Fingerprint
 
-05 93 c8 9f c5 03 9a af
-c6 50 b8 84 5b 5d 8b f7
-41 24 40 30 35 b2 fc f1
-20 e4 15 8b fc de a0 c2
-52
+05 34 52 29 5d 9a 45 2c
+d8 fb 77 58 5f 85 33 fa
+62 8e 11 ae 36 e6 41 f4
+ae 9a 63 bb 50 00 2d 91
+12
 
 
 # OTR Fingerprints
@@ -77,11 +77,11 @@ securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
 -----BEGIN PGP SIGNATURE-----
 
-iQEcBAEBCgAGBQJXRnBJAAoJEFTpmKxhi8E340EH/RrVvr6pf/tW7pbcN+o6dAkm
-CkmCzH24FE24TW9nQ204adMydb7zOe7MxclDhmce0MSTFru3E+7+iJK4CeXbEYfx
-LBmnUNuRfD8TdL7k4OujdWHQgqkJBLIZy4s7j5QalaYX8fiagI5aG7hDpnFV8Ywn
-ota29zPu0dmsoDhRb5pHUUFG2TjSqEFvavynxLtHJizxVr4sMo2yM6/NbJVVBcUu
-tbSoMC6L2rqSKV910iK6XoACUspbbM5xbVnE/ZcHKC+iXhmbO6YKRPOoXlXp5q1N
-wBDRQpDcNwPFHhZJ5SslWGKDXt/WgQt7uEPxzR3IauRW4AgRf7JGAfbnS6eX+OU=
-=124j
+iQEcBAEBCgAGBQJXisgfAAoJEFTpmKxhi8E3NaMH/i+JYMJFvIFkk5k2jmTgWbZN
+BW/N4X/lKAAK6wrwD4nDhot72TUSMlYwTPmcIlENxjtstq+ugyonz1YQ7QFBqB6x
+usFoIYG3ndiHdFNhBI0gdD/q2JfSigMOFBMFx8VRQQ/Jdnk8FsXIVUkRSVaQYd66
+mOwfKPWyrd8cFBwfPv3TX77J6Xt1W7Fpp6jz0jOnyb+4SZZGtxlPrjCb4ZkfQA/I
+Ng1vEyKirGPapUcJq2u1CUsMMtWmsYWt8GVO55TqpGwpOlX48H0sRZNb6sHF3Piq
+urHRA1eSK+hejtUfRX1yu3CJeOy0XtPD2GRfmSJ0D4FEPk01RcP3taz/JZQ4Voc=
+=e8l8
 -----END PGP SIGNATURE-----
