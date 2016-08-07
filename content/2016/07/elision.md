@@ -1,0 +1,7 @@
+Title: Geoff Manaugh discusses the deception and misdirection of robot vision.
+Date: 2016-07-23
+Tags: micro, privacy, blogroll
+
+Starting with the [recent Tesla crash](https://www.tesla.com/blog/tragic-loss) caused by the car's inability to discern the tractor against the bright sky, [Geoff discusses how the spread of robots may force us to rebuild our environment](http://www.bldgblog.com/2016/07/robot-war-and-the-future-of-perceptual-deception/) -- either to support their perceptual systems or hinder them. It's an interesting idea to ponder, particularly within the context of [the rise of drones](http://qz.com/185945/drones-are-about-to-upheave-society-in-a-way-we-havent-seen-in-700-years/). Readers of [Daniel Suarez](https://en.wikipedia.org/wiki/Daemon_(technothriller_series)) can sleep easier at night knowing that razorbacks can probably be defeated with a few mirrors and rubber.
+
+> One possible line of defense—among many, of course—would be to redesign your city, even down to the interior of your own home, such that machine vision is constantly confused there. You thus rebuild the world using light-absorbing fabrics and reflective ornament, installing projections and mirrors, screens and smoke. Or “stealth objects” and radar-baffling architectural geometries. A military robot wheeling its way into your home thus simply gets lost there, stuck in a labyrinth of perceptual convolution and reflection-implied rooms that don’t exist.
