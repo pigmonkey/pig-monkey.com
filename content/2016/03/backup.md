@@ -1,6 +1,6 @@
 Title: I celebrated World Backup Day by increasing the resiliency of data in my life.
 Date: 2016-03-31
-Tags: micro, linux, backups, crypto
+Tags: micro, linux, backups, crypto, annex
 
 Four [encrypted](https://wiki.archlinux.org/index.php/Dm-crypt) 2TB hard drives, stored in a [Pelican 1200](http://www.pelican.com/us/en/product/watertight-protector-hard-cases/small-case/standard/1200/), with [Abloy Protec2 PL 321](https://securitysnobs.com/Abloy-Protec2-PL-321-Padlock.html) padlocks as tamper-evident seals. Having everything that matters stored in [git-annex](https://git-annex.branchable.com/) makes projects like this simple: just clone the repositories, define the [preferred content expressions](https://git-annex.branchable.com/preferred_content/), and watch the magic happen.
 

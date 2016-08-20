@@ -1,7 +1,7 @@
 Title: Optical Backups of Photo Archives
 Date: 2013-05-29
 Modified: 2013-05-29
-Tags: backups, crypto, linux
+Tags: backups, crypto, linux, annex
 Slug: optical-photo-backups
 
 I store my photos in [git-annex](http://git-annex.branchable.com/). A full copy of the annex exists on my laptop and on an external drive. Encrypted copies of all of my photos are stored on [Amazon S3](https://aws.amazon.com/s3/) (which I pay for) and [box.com](https://www.box.com/) (which provides 50GB for free) via git-annex [special remotes](http://git-annex.branchable.com/special_remotes/). The photos are backed-up to an external drive daily with the rest of my laptop hard drive via [backitup.sh](https://pig-monkey.com/2012/10/3/back-it-up/) and [cryptshot](http://pig-monkey.com/2012/09/24/cryptshot-automated-encrypted-backups-rsnapshot/). My entire laptop hard drive is also mirrored monthly to an external drive stored off-site.
