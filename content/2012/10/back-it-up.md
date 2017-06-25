@@ -4,7 +4,7 @@ Modified: 2012-12-22
 Tags: shell, backups, code, linux
 Slug: back-it-up
 
-A laptop presents some problems for reliably backing up data. Unlike a server, the laptop may not always be turned on. When it is on, it may not be connected to the backup medium. If you're doing online backups, the laptop may be offline. If you're backing up to an external drive, the drive may not be plugged in. To address these issues I wrote a shell script called [backitup.sh](https://github.com/pigmonkey/backups/blob/master/backitup.sh).
+A laptop presents some problems for reliably backing up data. Unlike a server, the laptop may not always be turned on. When it is on, it may not be connected to the backup medium. If you're doing online backups, the laptop may be offline. If you're backing up to an external drive, the drive may not be plugged in. To address these issues I wrote a shell script called [backitup.sh](https://github.com/pigmonkey/backitup).
 
 ## The Problem
 
@@ -76,6 +76,6 @@ If my encfs filesystem mount point is `~/documents`, I can configure Tarsnapper 
 
 ## Problem Solved
 
-`backitup.sh` solves all of my backup scheduling problems. I only call backup programs directly if I want to make an on-demand backup. All of my automated backups go through `backitup.sh`. If you're interested in the script, you can [download it directly from GitHub](https://github.com/pigmonkey/backups/blob/master/backitup.sh). You can clone my entire [backups repository](https://github.com/pigmonkey/backups) if you're also interested in the other scripts I’ve written to manage different aspects of backing up data.
+`backitup.sh` solves all of my backup scheduling problems. I only call backup programs directly if I want to make an on-demand backup. All of my automated backups go through `backitup.sh`. If you're interested in the script, you can [download it directly from GitHub](https://github.com/pigmonkey/backitup). You can clone my entire [backups repository](https://github.com/pigmonkey/backups) if you're also interested in the other scripts I’ve written to manage different aspects of backing up data.
 
 [Hey yo but wait, back it up, hup, easy back it up](https://www.youtube.com/watch?v=F22yKJRZoZc&t=2m51s)
