@@ -1,5 +1,6 @@
 Title: Thrilling Developments in the Art of Folding
 Date: 2017-07-01
+tags: books, quote
 
 I few months ago I read Marie Kondo's [The Life-Changing Magic of Tidying Up](https://www.amazon.com/dp/1607747308/). It's not the sort of book that usually finds its way into my library, but it had been recommended periodically by a handful of different people over a year or two. I found the book to be disappointing. Many of the pages struck me as fluff -- clutter, you might say, which is ironic given its subject. Edited down to a pamphlet of a dozen pages, or perhaps a short series of blog posts, it could be enjoyable, but there isn't enough content for a book.
 
