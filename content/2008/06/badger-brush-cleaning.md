@@ -1,7 +1,7 @@
 Title: Badger Brush Cleaning
 Date: 2008-06-04
 Modified: 2012-09-15
-Tags: wet shave, clean, badger hair brush, shaving
+Tags: shaving
 Slug: badger-brush-cleaning
 
 I've been <a href="http://www.pig-monkey.com/2008/01/21/ruminations-on-the-act-of-shaving/">wet shaving</a> now for 6 months. Earlier today, I decided to clean my badger hair brush.

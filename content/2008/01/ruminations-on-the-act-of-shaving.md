@@ -1,7 +1,7 @@
 Title: Ruminations on the Act of Shaving
 Date: 2008-01-21
 Modified: 2012-09-15
-Tags: safety razor, merkur, badger hair brush, wet shave, double edged razor, shaving
+Tags: shaving
 Slug: ruminations-on-the-act-of-shaving
 
 While not <a href="http://www.whiskerino.org/2007/about/">growing beards to spite The Man&trade;</a>, those of us of the XY variant must adhere to a regiment of shaving. Up till about a month ago, I'd always used an electric shaver. (How they work is beyond me. You can take the thing apart and there's not one sharp object in it. It's as if they just vibrate the hair to death, perhaps combining that a verbal threat or two, all of which seems little better than rubbing an electric dildo along one's face.)
