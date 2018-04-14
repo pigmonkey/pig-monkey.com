@@ -1,7 +1,7 @@
 Title: Sole and Superfeet
 Date: 2008-06-05
 Modified: 2012-09-15
-Tags: gear, review, sole, boots, feet, superfeet, footwear
+Tags: gear, review, sole, feet, superfeet, footwear
 Slug: sole-and-superfeet
 
 Last March, I used part of my REI dividend on a pair of <a href="http://www.yoursole.com/products/footbeds/signature/viesturs/">Sole Ed Viesturs Ultra Cushion footbeds</a>. Prior to this, I'd been using <a href="http://www.superfeet.com/products/Green.aspx">Green Superfeet</a> in my <a href="http://www.pig-monkey.com/2008/02/02/lowa-renegade-mid-hiking-boots/">Lowa Renegade boots</a>.

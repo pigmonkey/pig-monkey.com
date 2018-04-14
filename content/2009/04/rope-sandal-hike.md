@@ -1,7 +1,7 @@
 Title: Rope Sandal Hike
 Date: 2009-04-05
 Modified: 2012-09-15
-Tags: the road, quote, review, boots, feet, footwear, survival, gear
+Tags: the road, quote, review, feet, footwear, survival, gear
 Slug: rope-sandal-hike
 
 Today was forecast to be 65 degrees Fahrenheit and sunny. Of course, that meant I had to go on a hike. To celebrate the weather, I decided to do the hike in my <a href="http://nomadicstate.com/store/index.php?main_page=product_info&cPath=1&products_id=2">Nomadic State of Mind JC rope sandals</a>, which I've <a href="http://www.flickr.com/photos/pigmonkey/2661446887/">previously mentioned elsewhere</a>.

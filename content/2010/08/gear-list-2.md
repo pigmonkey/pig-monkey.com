@@ -1,7 +1,7 @@
 Title: Gear List
 Date: 2010-08-29
 Modified: 2012-09-15
-Tags: gear, fire, survival, bushcraft, boots, footwear, hardshell, navigation
+Tags: gear, fire, survival, bushcraft, footwear, hardshell, navigation
 Slug: gear-list-2
 
 I've had a few requests to do a gear list for some of my recent trips. Since it's been <a href="http://pig-monkey.com/2009/04/01/gear-list/">over a year since the last one</a>, I thought I would acquiesce. What follows is the list from my <a href="http://pig-monkey.com/2010/08/28/the-goat-rocks-and-the-mountain-man/">recent journey to the Goat Rocks</a>. Though that was a short trip, my gear has varied very little on any trip this year. I'll take warmer clothing earlier (and later) in the year, and of course the amount of food varies based on the length of the trip, but most everything else remains static. This is quite the change from even just a year ago, where it seems like my gear would change drastically from trip to trip! Perhaps I know what I'm doing a little better now.

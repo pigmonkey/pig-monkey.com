@@ -1,7 +1,7 @@
 Title: Lowa Renegade Mid Hiking Boots
 Date: 2008-02-02
 Modified: 2012-09-15
-Tags: review, footwear, gear, boots, lowa
+Tags: review, footwear, gear, lowa
 Slug: lowa-renegade-mid-hiking-boots
 
 <p class="added"><strong>2011 Update:</strong> Although I still wear the Renegade boots, and claim that they're the best hiking boots on the market, my reasons for doing so differ from those I expressed three and a half years ago. (And I don't like Superfeet anymore!) The following is left for posterity.</p>

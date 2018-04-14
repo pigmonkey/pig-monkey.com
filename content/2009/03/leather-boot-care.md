@@ -1,7 +1,7 @@
 Title: Leather Boot Care
 Date: 2009-03-31
 Modified: 2012-09-15
-Tags: feet, footwear, boots
+Tags: feet, footwear
 Slug: leather-boot-care
 
 Despite investing a lot of money into my footwear, thrashing them heavily, and depending on them to carry me further, I've never spent any effort on cleaning or caring for my boots. A month or so ago, I was in REI and took a gander at the footwear section. They happened to have a pair of <a href="http://pig-monkey.com/2008/02/02/lowa-renegade-mid-hiking-boots/">Lowa Renegades</a> on the rack. The Renegades remain my primary boots that I wear on a daily basis and for the vast majority of my travel. I was shocked by the contrast of the boots on my feet and those on the rack. The boots are made of nubuk leather with some cordura around the ankle band. New, the leather is of a smooth, dark blue color. The leather on my feet was dry, wrinkly, and of a brownish-green color. This made me think that maybe there was something to that whole boot care thing, after all.

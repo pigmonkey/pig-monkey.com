@@ -1,7 +1,7 @@
 Title: Obenauf's Skin Care
 Date: 2009-09-28
 Modified: 2012-09-15
-Tags: herb, health, boots
+Tags: herb, health, footwear
 Slug: obenaufs-skin-care
 
 I've been <a href="http://pig-monkey.com/2009/03/31/leather-boot-care/">using Obenauf's products</a> on my boots and other leather products since last spring and have been constantly pleased with the results. Though I've replaced their <a href="https://www.obenaufs.com/index.php?route=product/category&amp;path=25">White Jaguar Leather Cleaner</a> with my standard Dr. Bronner's soap that I use to clean everything else, their <a href="https://www.obenaufs.com/index.php?route=product/category&amp;path=18">oil</a> and <a href="https://www.obenaufs.com/index.php?route=product/category&amp;path=20">leather preservative</a> are great products.
