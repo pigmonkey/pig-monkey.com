@@ -1,7 +1,7 @@
 Title: Trail Designs Ti-Tri Titanium Stove System
 Date: 2009-01-18
 Modified: 2012-09-15
-Tags: fire, review, bushcraft, survival, gear
+Tags: fire, review, bushcraft, survival, gear, stoves
 Slug: trail-designs-ti-tri-titanium-stove-system
 
 I've had a few requests to do a review of the new stove system I've been using for the past couple weeks. I don't feel like I have enough experience with it yet to do a proper review, but I snapped some photos today to let people know what it's all about.

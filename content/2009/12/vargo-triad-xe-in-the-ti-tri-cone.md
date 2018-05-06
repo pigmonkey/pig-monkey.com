@@ -1,7 +1,7 @@
 Title: Vargo Triad XE in the Ti-Tri Cone
 Date: 2009-12-03
 Modified: 2012-09-15
-Tags: review, bushcraft, survival, gear
+Tags: review, bushcraft, survival, gear, stoves
 Slug: vargo-triad-xe-in-the-ti-tri-cone
 
 Yesterday, Avagdu asked me if the <a href="http://www.vargooutdoors.com/store/product_info.php?manufacturers_id=48&amp;products_id=999">Vargo Triad XE</a> stove could be burned inside the cone of my <a href="http://pig-monkey.com/2009/01/18/trail-designs-ti-tri-titanium-stove-system/">Trail Designs Ti-Tri Stove System</a>. I've used it in the cone a couple of different times, but never performed any direct comparisons between it and the <a href="http://www.flickr.com/photos/pigmonkey/3208387846/">12-10 alcohol stove</a> that comes with the Ti-Tri system. Today, I spent some time with both stoves to do just that. Temperatures were around 42 degrees Fahrenheit.

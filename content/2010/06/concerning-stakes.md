@@ -1,7 +1,7 @@
 Title: Concerning Stakes
 Date: 2010-06-14
 Modified: 2012-09-15
-Tags: review, gear
+Tags: review, gear, stoves
 Slug: concerning-stakes
 
 I'm always looking to shed a gram or two from my pack without sacrificing too much functionality. One of the categories of gear that I have been focusing on of late are my tarp stakes. For the past year and a half I have attempted to discover what works best by experimenting with four different types of stakes in a wide variety of ground conditions. The stakes I've used are <a href="http://www.durapeg.com/">Durapegs</a> (6"), <a href="http://gossamergear.com/shelters/shelter-accessories/tite-lite-tent-stake-long-188.html">Tite-Lite Titanium Stakes</a> (6.5"), <a href="http://gossamergear.com/shelters/shelter-accessories/easton-aluminum-tent-stakes.html">Easton Aluminum Stakes</a> (6.25"), and <a href="http://www.bigagnes.com/Products/Detail/Accessory/X-pegSuperlightStakes">Big Agnes X-peg Stakes</a> (7").

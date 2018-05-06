@@ -1,7 +1,7 @@
 Title: Fire Starting with the Trail Designs Ti-Tri Inferno
 Date: 2011-07-29
 Modified: 2012-09-15
-Tags: fire, survival, gear, wilderness
+Tags: fire, survival, gear, wilderness, stoves
 Slug: fire-starting-trail-designs-ti-tri-inferno
 
 On our last morning [in the Red Buttes Wilderness](http://pig-monkey.com/2011/07/2/red-buttes-wilderness/), Avagdu and I woke up to a very wet camp. We wanted fire, but neither of us had brought any dry wood into our shelters the night before. Everything was soaked.
