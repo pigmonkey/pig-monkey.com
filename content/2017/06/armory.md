@@ -38,9 +38,10 @@ For display I use a [Plugable USB 2.0 UGA-165](https://www.amazon.com/dp/B004AIJ
     $ echo "blacklist udlfb" >> /mnt/sdcard/etc/modprobe.d/no-drm.conf
     $ echo udl > /mnt/sdcard/etc/modules-load.d/udl.conf
     
-Finally, I copy over [pass](https://www.passwordstore.org/) so that I have that available on the Armory and unmount the SD card.
+Finally, I copy over [pass](https://www.passwordstore.org/) and [ctmg](https://git.zx2c4.com/ctmg/about/) so that I have them available on the Armory and unmount the SD card.
 
     $ cp /usr/bin/pass /mnt/sdcard/bin/
+    $ cp /usr/bin/ctmg /mnt/sdcard/bin/
     $ umount /mnt/sdcard
     
 The SD card can then be inserted into the Armory. At no time during this process -- or at any point in the future -- is the Armory connected to a network. It is entirely air-gapped. As long as the image was not compromised and the Armory is stored securely, the platform should remain trusted.
