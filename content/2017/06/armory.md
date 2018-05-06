@@ -40,14 +40,14 @@ For display I use a [Plugable USB 2.0 UGA-165](https://www.amazon.com/dp/B004AIJ
     
 Finally, I copy over [pass](https://www.passwordstore.org/) so that I have that available on the Armory and unmount the SD card.
 
-    $ cp /usr/bin/pass /mnt/sdcard/usb/bin/
+    $ cp /usr/bin/pass /mnt/sdcard/bin/
     $ umount /mnt/sdcard
     
 The SD card can then be inserted into the Armory. At no time during this process -- or at any point in the future -- is the Armory connected to a network. It is entirely air-gapped. As long as the image was not compromised and the Armory is stored securely, the platform should remain trusted.
 
 Note that because the Armory is never on a network, and it has no internal battery, it does not keep time. Upon first boot, NTP should be disabled and the time and date set.
 
-    $ timedatectl net-ntp false
+    $ timedatectl set-ntp false
     $ timedatectl set-time "yyyy-mm-dd hh:mm:ss" # UTC
     
 On subsequent boots, the time and date should be set with `timedatectl set-time` before performing any cryptographic operations.
