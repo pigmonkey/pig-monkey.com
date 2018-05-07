@@ -29,8 +29,8 @@ I perform each renewal in a directory specific to the current year, but the `GNU
 
 I keep a copy of my [gpg.conf](https://github.com/pigmonkey/dotfiles/blob/master/gnupg/gpg.conf) on the microSD card. That needs to be copied in to the new directory, and I'll need to tell GnuPG what pinentry program to use.
 
-    $ cp /mnt/sdcard/gpg/gpg.conf $GNUPG
-    $ echo "pinentry-program /usr/bin/pinentry-curses" > $GNUPG/gpg-agent.conf
+    $ cp /mnt/sdcard/gpg/gpg.conf $GNUPGHOME
+    $ echo "pinentry-program /usr/bin/pinentry-curses" > $GNUPGHOME/gpg-agent.conf
 
 After renewing the master key and subkey the previous year, I exported them. I'll now import those backups from the previous year.
 
