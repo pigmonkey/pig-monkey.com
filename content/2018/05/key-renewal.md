@@ -17,10 +17,10 @@ My keys are stored on an encrypted microSD card, which I mount and decrypt.
 
 Next I'll export a few environment variables to make things less redundant later on.
 
-    export YEAR=$(date +%Y)
-    export PREVYEAR=$(($YEAR-1))
-    export GNUPGHOME="/mnt/sdcard/gpg/$YEAR-renewal/.gnupg"
-    export KEYID="0x70B220FF8D2ACF29"
+    $ export YEAR=$(date +%Y)
+    $ export PREVYEAR=$(($YEAR-1))
+    $ export GNUPGHOME="/mnt/sdcard/gpg/$YEAR-renewal/.gnupg"
+    $ export KEYID="0x70B220FF8D2ACF29"
 
 I perform each renewal in a directory specific to the current year, but the `GNUPGHOME` directory I set for this year's renewal doesn't exist yet. Better create it.
 
