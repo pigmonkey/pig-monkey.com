@@ -29,6 +29,8 @@ Paracord loops on each cuff allow the gloves to be easily secured when not in us
 
 <a href="https://www.flickr.com/photos/pigmonkey/41519167314/in/dateposted/" title="SKD PIG Alpha Glove"><img src="https://farm1.staticflickr.com/825/41519167314_5a4d4f3039_c.jpg" width="800" height="450" alt="SKD PIG Alpha Glove"></a>
 
+The gloves do run a little small. I wear a size medium in just about every glove out there. In the PIG Alpha Gloves, size large fits me perfectly.
+
 I purchased a pair of [Magpul Core Technical Gloves](https://www.magpul.com/products/magpul-core-technical-gloves) back in 2015 when Magpul got into the glove game. These are meant to be in the same category of lightweight, dexterous, mechanics glove as the PIG Alpha Gloves and Mechanix, but I found them to be inferior to both offerings. The lack of adjustability in the wrist makes them annoying to put on and take off. The thicker material cuts down on dexterity (while probably improving durability) and makes them too warm to wear in hot weather. The touch screen finger tips are unreliable when the glove is dirty.
 
 Dexterity and durability are inversely related in a glove, but the SKD PIG Alpha Gloves find a happy medium for my use. For poor weather conditions or mountain excursions, I still like gloves like the [Kuiu Guide Gloves](/2011/08/kuiu-guide-gloves/), but the mechanics glove is a better style for every day use. Right now I think the PIG Alpha Gloves are the best glove of this type on the market. I'll continue to wear them every day and replace them every 15 months.
