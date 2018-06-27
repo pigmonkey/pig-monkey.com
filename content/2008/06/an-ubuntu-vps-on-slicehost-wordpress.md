@@ -19,11 +19,11 @@ Nothing further is needed, unless you want fancy rewrites. In that case, we'll h
 
     # wordpress fancy rewrites
     if (-f $request_filename) {
-        break;  
-     }       
+        break;
+     }
      if (-d $request_filename) {
-         break;  
-      }       
+         break;
+      }
       rewrite ^(.+)$ /index.php?q=$1 last;
 
 While we're here, I usually tell Nginx to cache static files by adding the following right above the`location / {` block:

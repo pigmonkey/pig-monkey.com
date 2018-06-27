@@ -131,7 +131,7 @@ Installing [uWSGI](http://projects.unbit.it/uwsgi/) is a simple matter of compil
     #!bash
     $ cd ~/src/
     $ wget http://projects.unbit.it/downloads/uwsgi-0.9.8.tar.gz
-    $ tar xvzf ~/uwsgi-0.9.8.tar.gz 
+    $ tar xvzf ~/uwsgi-0.9.8.tar.gz
     $ cd uwsgi-0.9.8/
     $ make -f Makefile.Py26
     $ sudo cp uwsgi /usr/local/sbin
