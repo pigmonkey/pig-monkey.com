@@ -45,7 +45,7 @@ FEED_MAX_ITEMS = DEFAULT_PAGINATION * 2
 
 # Plugins
 PLUGIN_PATHS = ['plugins',]
-PLUGINS = ['tipue_search']
+PLUGINS = ['tipue_search', 'tag_cloud']
 
 # Generation
 PATH = 'content'
