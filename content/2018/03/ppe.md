@@ -1,6 +1,6 @@
 Title: PPE Kits
 Date: 2018-03-03
-tags: gear, medical
+tags: gear, medical, air
 
 I began carrying an [N95 respirator](https://www.cdc.gov/niosh/npptl/topics/respirators/disp_part/respsource3healthcare.html) in my bag every day around 2007. The masks can be easily added to any first aid kit without much of a weight or size penalty, and offer respiratory protection far superior to that of a bandanna or a surgical mask. While useful during an influenza pandemic, my motivation for carrying the mask was centered more around urban disaster. Any time there are buildings coming down, I assume there will be asbestos, concrete dust, and similar contaminants in the air that I don't in my lungs.
 
