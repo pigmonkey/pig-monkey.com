@@ -46,15 +46,18 @@ a {
         }
     }
     .entry-content {
-        img, object {
+        img, object, video {
             display: block;
             margin-left: auto;
             margin-right: auto;
         }
-        img {
+        img, video {
             height: auto;
             max-width: 100%;
             @include border-radius;
+        }
+        video {
+            @include leader;
         }
         .thumbs {
             list-style: none;
