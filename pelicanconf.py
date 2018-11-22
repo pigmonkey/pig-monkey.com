@@ -39,8 +39,8 @@ AUTHOR_SAVE_AS = ''
 
 # Feeds
 FEED_ATOM = 'feed'
-CATEGORY_FEED_ATOM = 'category/%s/feed'
-TAG_FEED_ATOM = 'tag/%s/feed'
+CATEGORY_FEED_ATOM = 'category/{slug}/feed'
+TAG_FEED_ATOM = 'tag/{slug}/feed'
 FEED_MAX_ITEMS = DEFAULT_PAGINATION * 2
 
 # Plugins
