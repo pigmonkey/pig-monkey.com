@@ -54,4 +54,12 @@ USE_FOLDER_AS_CATEGORY = False
 DIRECT_TEMPLATES = ('index', 'search')
 STATIC_PATHS = ['media', '.htaccess', 'robots.txt', 'key.asc', 'id.txt']
 SLUGIFY_SOURCE = 'basename'
-TYPOGRIFY = True
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'markdown.extensions.smarty': {},
+    },
+    'output_format': 'html5',
+}
