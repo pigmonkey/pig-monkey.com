@@ -91,7 +91,7 @@ footer {
     color: $subtle;
     @include small;
     clear: both;
-    border-top: 1px solid $content-background-darker;
+    border-top: 1px solid $subtle;
 }
 
 .tag-micro {
@@ -142,24 +142,11 @@ footer {
 #tipue_search_content {
     #tipue_search_results_count {
         @include trailer;
-        font-style: italic;
-        &:before{
-            content: "(";
-        }
-        &:after{
-            content: ")";
-        }
+        @include small;
+        color: $subtle;
     }
     .tipue_search_content_title {
-        font-size: 1.3em;
-        line-height: 1em;
-        a {
-            color: $font;
-            &:hover, &:focus, &:active {
-                text-decoration: none;
-                color: $accent;
-            }
-        }
+        @include adjust-font-size-to($base-font-size * 1.75);
     }
     .tipue_search_content_text {
         @include trailer;
@@ -167,19 +154,21 @@ footer {
     #tipue_search_foot_boxes {
         list-style: none;
         li {
+            @include border-radius;
+            background: $content-background-alt;
             display: inline-block;
-            margin-right: 10px;
-            border: 1px solid $accent;
-            padding: 0 4px;
+            margin-right: $gutter-width;
             &.current {
-                border-color: $font;
+                padding: 0 $gutter-width/2;
             }
         }
         a {
-            color: $font;
+            @include border-radius;
             display: block;
+            padding: 0 10px;
             &:hover, &:active, &:focus {
-                color: $accent;
+                color: $font;
+                background: $accent;
                 text-decoration: none;
             }
         }
@@ -208,7 +197,7 @@ footer {
 }
 
 #page-who {
-    img {
+    .entry img {
         @include border-radius(100px);
         @include float-right;
     }

@@ -73,10 +73,9 @@ pre {
     overflow: auto;
 }
 code {
-    border: 1px solid $content-background-dark;
     @include border-radius;
-    color: $subtle;
     padding: 0 5px 2px;
+    background: $content-background-alt;
 }
 
 
@@ -85,19 +84,14 @@ code {
 //
 
 blockquote {
+    @include border-radius(10px);
     font-style: italic;
-    @include adjust-leading-to(1.1);
+    //@include adjust-leading-to(1.1);
     color: $subtle;
-    margin-left: $gutter-width;
-    &:before {
-        font-family: Georgia, serif;
-        content: "“";
-        font-size: 2.75em;
-        text-indent: -.8em;
-        margin-top: .1em;
-        float: left;
-        opacity: .3;
-    }
+    padding: 0 $gutter-width;
+    border: 5px solid $content-background-alt;
+    border-top: none;
+    border-bottom: none;
 }
 cite {
     display: block;
@@ -134,7 +128,7 @@ dl {
     dt {
         @include leader;
         font-weight: 700;
-        border-bottom: 1px solid $content-background-darker;
+        border-bottom: 1px solid $subtle;
     }
     dd {
         @include leader(.5);

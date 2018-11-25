@@ -20,7 +20,7 @@
             color: $accent;
             &:hover, &:focus, &:active {
                 text-decoration: none;
-                color: $content-background;
+                color: $font;
             }
         }
     }
@@ -35,7 +35,7 @@
             }
         }
         a {
-            color: $content-background;
+            color: $font;
             display: block;
             line-height: 2em;
             &:hover, &:focus, &:active {
@@ -47,7 +47,6 @@
 }
 
 #subhead {
-    border: 1px solid $content-background-dark;
     border-top: none;
     @include border-bottom-radius;
     background: $content-background;
@@ -67,8 +66,8 @@
                     @include border-radius($default-border-radius*2);
                     border: 1px solid $content-background;
                     &:hover, &:focus, &:active {
-                        background-color: $body-background;
-                        border-color: $content-background-dark;
+                        background-color: $accent;
+                        border-color: $accent;
                     }
                 }
             }

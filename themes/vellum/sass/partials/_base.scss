@@ -2,18 +2,13 @@
 // Colors
 //
 
-$body-background: #f4f4f4;
-$content-background: #fff;
-$content-background-dark: darken($content-background, 6%);
-$content-background-darker: darken($content-background, 20%);
+$body-background: #000;
+$content-background: #1d1f21;
+$content-background-alt: #2d2d2d;
 $accent: #14C3A2;
-$accent-dark: darken($accent, 10%);
-$accent-darker: darken($accent, 20%);
-$accent-light: lighten($accent, 10%);
-$accent-lighter: lighten($accent, 20%);
 $contrast: #000;
-$font: #222;
-$subtle: #666;
+$font: #c5c8c6;
+$subtle: #969896;
 
 
 //
@@ -35,7 +30,6 @@ $font-size-small: 0.75;
 @mixin content-box {
     @include leader;
     padding: $gutter-width;
-    border: 1px solid $content-background-dark;
     background: $content-background;
     @include border-radius;
 }

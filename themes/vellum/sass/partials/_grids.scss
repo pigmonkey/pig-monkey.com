@@ -44,14 +44,12 @@ $breakpoint-bravo: 1300px;
         @include transition-property(background, border, color);
         @include transition-duration;
         &:hover, &:focus, &:active {
+            color: $font;
             text-decoration: none;
-            color: $content-background;
         }
     }
     .older, .newer {
         @include span(6 of 12);
-    }
-    .older {
     }
     .newer {
         @include omega;
@@ -98,17 +96,11 @@ $breakpoint-bravo: 1300px;
 
 @include breakpoint($breakpoint-bravo) {
     .pagination {
-        a {
-            color: $content-background;
-            &:hover, &:focus, &:active {
-                color: $accent;
-            }
-        }
         .older, .newer {
             position: fixed;
             top: 150px;
             float: none;
-            width: 0;
+            width: unset;
             margin: 0;
         }
         .older {

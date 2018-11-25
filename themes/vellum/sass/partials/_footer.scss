@@ -13,7 +13,7 @@
         a {
             padding-left: $gutter-width;
             padding-right: $gutter-width;
-            @include opacity(.2);
+            @include opacity(.5);
             @include single-transition;
             &:hover, &:active, &:focus { @include opacity(1); }
         }

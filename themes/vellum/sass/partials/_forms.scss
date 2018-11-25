@@ -2,20 +2,20 @@ input {
     @include border-radius;
     @include transition-property(background, border);
     @include transition-duration;
-    border: 1px solid #f0f0f0;
+    background: $content-background;
+    border: 1px solid $content-background-alt;
+    color: $subtle;
     padding: 4px;
     &:focus {
+        background: $content-background;
         border-color: $accent;
+        color: $font;
     }
 }
 
 #quick-search {
     input {
-        background: $body-background;
         padding: 0px 10px;
         @include small;
-        &:focus {
-            background: $content-background;
-        }
     }
 }
