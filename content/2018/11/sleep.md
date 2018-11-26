@@ -1,6 +1,6 @@
 Title: I try to structure my life to optimize sleep.
 Date: 2018-11-21
-Tags: micro, sleep
+Tags: micro, sleep, quote
 
 [Piotr Wozniak](https://en.wikipedia.org/wiki/Piotr_Wo%C5%BAniak_(researcher)), the author of [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition) software [SuperMemo](https://www.supermemo.com/), has a [lengthy treatise on sleep](https://www.supermemo.com/en/articles/sleep), based on his long running research regarding memory and learning. His [disk and RAM metaphor](https://www.supermemo.com/en/articles/sleep#Disk_and_RAM_metaphor) is a useful way to think about the relationship between knowledge and sleep.
 
