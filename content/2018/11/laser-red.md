@@ -1,0 +1,23 @@
+Title: Laser Red
+Date: 2018-11-28
+Tags: gear, review, eye wear
+
+My criteria for sunglasses is fairly simple:
+
+1. They must offer impact protection. Not protecting my eyeballs has always seemed dumb. Not protecting them after [I've sunk a few thousand dollars into my cornea](/2018/11/space-marine/) would be even dumber. [ANSI Z87.1](https://safetyequipment.org/isea-standards/ansiisea-z87-accredited-standards-committee/ansiisea-z87-1-2015-standard/) is a good standard for impact protection, but I will of course happily accept MIL-PRF-31013.
+2. They should offer interchangeable lenses. This is not critical, but it is nice to have. Different lens colors are appropriate in different environments. Good eyewear is usually expensive, which can make purchasing multiple pairs prohibitive. If you do purchase multiple pairs, you still have to carry them, which is much less attractive than carrying one pair of frames and different lenses. [Photochromic lenses](https://en.wikipedia.org/wiki/Photochromic_lens) make the single-lens option more palatable, until you realize that the alternative is *interchangeable* photochromic lenses.
+3. They should not be butt-ugly.
+
+Prior to PRK, the fourth and most important criteria was that they somehow be prescription compatible. I always assumed this was the most limiting criteria. While recovering from my [shine job](https://en.wikipedia.org/wiki/Riddick_(character)#Eyeshine) I lay in bed thinking about eyewear, and assumed that there would be a much wider range of options available to me when I could see again.
+
+Imagine my disappointment when, after I recovered enough to see a computer, I found that there were actually no compelling new options. Even without the need of prescription lenses, the [Rudy Rydon Stealth](/2016/08/rudy/) are still the best thing out there. 
+
+Determined to not be so easily dissuaded from spending money, I decided to treat myself to a new pair of lenses for the Rydons. After some consideration I landed on the [ImpactX2 Photochromic Laser Red](https://www.rudyprojectna.com/products/rydon-replacement-lenses?variant=12253958635621). Red lenses provide excellent contrast and visual depth. I have owned a pair of Rudy's non-photochromic Racing Red lenses for a while and found them to be the ideal option for overcast days, but their static nature gave them a more narrow window of effectiveness which limited their actual use. The Photochromic Laser Red take the same excellent color and add the dynamism I've come to enjoy: the lenses offer 75% light transmission on the clear side and 16% light transmission on the dark side. On the light side that's actually 1 point higher than the same generation clear-to-black lenses, making them even more appropriate for indoor or night work. On the dark side, that's right in the middle of the transmission range typical of most sunglasses. The "laser" in the name refers to a light mirrored coating. These aren't the mirrorshades Bruce Sterling promised you, but the lasering does serve to reduce glare and eye strain by reflecting some of the light away rather than absorbing it. It also adds an attractive bluish sheen.
+
+I bought these lenses last December and I've removed them from the Rydons in exactly two situations: on water and on snow. In those environments I think a good, dark polarized brown lens is hard to beat. I opt for the Rudy Polar 3FX. In every other environment I've been in over the past year, my preference has been for the Photochromic Laser Red. I wear them whenever I'm on the bike. Even if I'm riding past midnight and it is pitch black, they transmit enough light that I barely notice I have them on. I wear them indoors when things are going bang. I wear them during the equinox when the sun is low on the horizon, pointing directly into my eyes. Like all photochromic lenses, they react to UV light, and so are suboptimal in cars. They will darken, but not completely. I tend to only spend a collective handful of hours per year in cars, so this isn't a consideration for me.
+
+If I was only going to have one pair of lenses, it'd be these. (But I like interchangeable lenses so I keep the brown lenses in my pack too.)
+
+<a href="https://www.flickr.com/photos/pigmonkey/46097942721/in/dateposted/" title="Rudy Rydon ImpactX2 Laser Red: Dark"><img src="https://farm5.staticflickr.com/4843/46097942721_525fb82624_c.jpg" width="800" height="450" alt="Rudy Rydon ImpactX2 Laser Red: Dark"></a>
+
+<a href="https://www.flickr.com/photos/pigmonkey/46097943091/in/dateposted/" title="Rudy Rydon ImpactX2 Laser Red: Clear"><img src="https://farm5.staticflickr.com/4849/46097943091_6cd15cb635_c.jpg" width="800" height="450" alt="Rudy Rydon ImpactX2 Laser Red: Clear"></a>
