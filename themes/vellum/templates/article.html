@@ -1,6 +1,6 @@
 {% extends "blog.html" %}
 
-{% block title %}{{ article.title|striptags }} | {{ super() }}{% endblock %}
+{% block title %}{{ article.title|striptags }} | {{ SITENAME }}{% endblock %}
 
 {% block content %}
     {% include 'includes/article.html' %}
