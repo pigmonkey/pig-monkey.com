@@ -1,7 +1,7 @@
 Title: Water
 Date: 2008-02-09
 Modified: 2012-09-15
-Tags: water, sea salt, health, diet
+Tags: water, health, diet
 Slug: water
 
 For the past month, I've been observing a sort of water diet.

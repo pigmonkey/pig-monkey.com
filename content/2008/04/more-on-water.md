@@ -1,7 +1,7 @@
 Title: More On Water
 Date: 2008-04-02
 Modified: 2012-09-15
-Tags: water, sea salt, health, diet
+Tags: water, health, diet
 Slug: more-on-water
 
 BBC: <a href="http://news.bbc.co.uk/2/hi/health/7326437.stm">Lots of water 'is little benefit'</a>
