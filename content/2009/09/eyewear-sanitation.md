@@ -1,7 +1,7 @@
 Title: Eyewear Sanitation
 Date: 2009-09-02
 Modified: 2012-09-15
-Tags: eye wear, gear, sanitation
+Tags: eyewear, gear, sanitation
 Slug: eyewear-sanitation
 
 Last week, my Oakley glasses broke, cracking right down the center of the nose piece. I had had them for only a year and a half, which is not very long for a pair of frames. I would have expected to have had the same set for twice that amount of time. Such an event does not bode well for Oakley or my opinion of the quality of their product.

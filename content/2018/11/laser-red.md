@@ -1,6 +1,6 @@
 Title: Laser Red
 Date: 2018-11-28
-Tags: gear, review, eye wear
+Tags: gear, review, eyewear
 
 My criteria for sunglasses is fairly simple:
 

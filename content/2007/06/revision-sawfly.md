@@ -1,7 +1,7 @@
 Title: Revision Sawfly
 Date: 2007-06-10
 Modified: 2012-09-30
-Tags: eye wear, review, bicycle, gear
+Tags: eyewear, review, bicycle, gear
 Slug: revision-sawfly
 
 Being a member of the genetically defective, it's hard to find eyewear that both offers protection and allows me to see. Products from ESS, Wiley-X, and other top brands don't fit my prescription. Frames from Oakley would kill my budget before even ordering the prescription. Most everything else in the big-wide-world-of-eyewear is concerned only with looks, not with that inevitable situation of a projectile flying at 1300 feet per second  straight at you with intent to gorge your cornea.

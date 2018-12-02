@@ -1,6 +1,6 @@
 Title: Rudy Project Rydon
 Date: 2016-08-07
-Tags: gear, review, eye wear
+Tags: gear, review, eyewear
 
 I've used a pair of [Rudy Project Rydon Stealth](http://www.rudyprojectusa.com/index_inner_detail.php?item_id=SN797306TTE) glasses as sun and safety glasses for about five years now. They're a great eye protection system for active wear, and I think are especially attractive for those who require prescription eyewear. The Rydon offers an adaptable system with interchangeable lenses and full coverage, in a lower profile compared to popular tactical eyewear systems like the [Revision Sawfly](https://www.revisionmilitary.com/product/sawfly/), [Oakley M Frame](http://www.oakleysi.com/Root/Eyewear/Ballistic/SI-Ballistic-M-Frame-3-0/p/700285621944) or [ESS ICE](http://www.esseyepro.com/ICE-Eyeshield_209_category.html).
 

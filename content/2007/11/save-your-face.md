@@ -1,7 +1,7 @@
 Title: Save Your Face
 Date: 2007-11-12
 Modified: 2012-09-30
-Tags: eye wear, bicycle, gear
+Tags: eyewear, bicycle, gear
 Slug: save-your-face
 
 My bike entered into an argument with a set of train tracks today. In a bit of a Snidely-Whiplash-moment, I took a nasty spill on said tracks. No damage to me, thanks to a helmet, gloves, and, most importantly <a href="http://www.pig-monkey.com/2007/06/10/revision-sawfly/">Revision Sawflys</a>.
