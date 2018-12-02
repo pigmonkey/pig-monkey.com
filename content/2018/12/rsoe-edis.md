@@ -1,0 +1,7 @@
+Title: I track disasters via RSOE EDIS.
+Date: 2018-12-01
+Tags: micro, osint
+
+Operated by the [Hungarian National Association of Radio Distress-Signalling and Infocommunications](http://www.rsoe.hu) (RSOE), the [Emergency and Disaster Information Service](http://hisz.rsoe.hu/) (EDIS) collects disaster information from around the globe, and disseminates it using the [Common Alerting Protocol](https://en.wikipedia.org/wiki/Common_Alerting_Protocol). They offer the data via [web map](http://hisz.rsoe.hu/alertmap/index2.php), [email](http://hisz.rsoe.hu/alertmap/database/?pageid=about_email), [RSS](http://hisz.rsoe.hu/alertmap/database/?pageid=about_rss), and [Android application](https://play.google.com/store/apps/details?id=org.rsoe.android.edis_pms) (an [API](https://hisz.rsoe.hu/) is also available, though keys are apparently restricted to government organizations). There is a [wide range of "disasters"](http://hisz.rsoe.hu/alertmap/database/?pageid=about_icons) included, but the normalized protocol supports filtering the events based on criteria such as scope, severity, and urgency. I use the Android application, configured to only show emergency-level alerts.
+
+For earthquakes, I supplement RSOE EDIS with the [USGS Earthquake Notification Service](https://earthquake.usgs.gov/ens/), which provides regional-based subscriptions. I subscribe to email alerts for earthquakes greater than 6.0 for all of the US, and greater than 4.0 for my local area.
