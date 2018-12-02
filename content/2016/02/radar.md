@@ -1,6 +1,6 @@
 Title: Watch the Sky
 Date: 2016-02-04
-Tags: android, aviation
+Tags: android, aviation, osint
 
 I learned about [Flighradar24](https://www.flightradar24.com) last year. They offer a live flight radar, using [data provided by ADS-B on top of Google Maps](https://www.flightradar24.com/how-it-works).
 

@@ -1,6 +1,6 @@
 Title: Russia's latest spyplane is broadcasting its flight home from Syria.
 Date: 2016-02-29
-Tags: micro, aviation
+Tags: micro, aviation, osint
 
 The Aviationist [pointed out](http://theaviationist.com/2016/02/29/job-done-russias-most-advanced-spyplane-is-returning-home-after-deployment-in-syria/) that the plane had its ADS-B transponder on, allowing it to be [tracked on Flightradar24](/2016/02/radar/). The Tu-214R also [broadcast its deployment to Syria on the 15th](http://theaviationist.com/2016/02/15/tu214r-deployed-to-syria/).
 
