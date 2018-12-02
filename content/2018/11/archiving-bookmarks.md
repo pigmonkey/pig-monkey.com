@@ -1,6 +1,6 @@
 Title: Archiving Bookmarks
 Date: 2018-11-23
-tags: annex, linux, backup
+tags: annex, linux, backups
 
 I signed-up for [Pinboard](https://pinboard.in/) in 2014. It provides everything I need from a bookmarking service, which is mostly, you know, bookmarking. I pay for the [archival account](https://pinboard.in/upgrade/), meaning that Pinboard downloads a copy of everything I bookmark and provides me with full-text search. I find this useful and well worth the $25 yearly fee, but Pinboard's archive is only part of the solution. I also need an offline copy of my bookmarks.
 
