@@ -1,7 +1,7 @@
 Title: Gothic Basin
 Date: 2009-10-12
 Modified: 2012-09-15
-Tags: quote, wilderness
+Tags: quote, wilderness, tea
 Slug: gothic-basin
 
 I ventured into Gothic Basin today, an impressive glacier carved wilderness of the <a href="http://www.fs.fed.us/r6/mbs/">Mt. Baker-Snoqualmie National Forest</a>. It lies near what was once a mining area.

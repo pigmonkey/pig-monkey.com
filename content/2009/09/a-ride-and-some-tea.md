@@ -1,7 +1,7 @@
 Title: A Ride and Some Tea
 Date: 2009-09-16
 Modified: 2012-09-30
-Tags: fire, urban exploration, bicycle, bushcraft
+Tags: fire, urban exploration, bicycle, bushcraft, tea
 Slug: a-ride-and-some-tea
 
 I went for a bike ride today, following a set of train tracks through the woods. Off to one side a small path led to a grassy clearing and this square structure. I stopped for a bit, processed a down log to start a small fire, and enjoyed a cup of kukicha tea while reading a book.
