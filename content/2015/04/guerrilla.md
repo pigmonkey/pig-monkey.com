@@ -1,6 +1,6 @@
 Title: Currently reading The Accidental Guerrilla by David Kilcullen.
 Date: 2015-04-14
-Tags: micro, books
+Tags: micro, books, conflict
 
 [Kilcullen](https://en.wikipedia.org/wiki/David_Kilcullen) draws on his decades of experience in asymmetric warfare to develop his theory of [fighting small wars in the midst of a big one](http://www.amazon.com/The-Accidental-Guerrilla-Fighting-Small/dp/0199754098) and the failure of both classical counter-terrorism and counter-insurgency on the modern battlefield.
 

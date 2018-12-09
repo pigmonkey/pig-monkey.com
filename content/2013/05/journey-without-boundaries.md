@@ -1,7 +1,7 @@
 Title: Journey Without Boundaries: Small Team Operations
 Date: 2013-05-01
 Modified: 2013-05-01
-Tags: books
+Tags: books, conflict
 Slug: journey-without-boundaries
 
 I believe that maintaining an interest in asymmetric warfare is a healthy habit. The [Rhodesian Bush War](https://en.wikipedia.org/wiki/Rhodesian_Bush_War) and [South African Border War](https://en.wikipedia.org/wiki/South_African_Border_War) are particularly interesting, as both sides employed direct, unconventional means.
