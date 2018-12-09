@@ -1,7 +1,7 @@
 Title: Possibles Pouch
 Date: 2009-06-07
 Modified: 2012-09-15
-Tags: fire, review, bushcraft, survival, gear, triple aught design
+Tags: fire, review, bushcraft, gear, triple aught design, repair
 Slug: possibles-pouch
 
 My possibles pouch began as being simply a <a href="http://www.dougritter.com/psp_index.htm">Doug Ritter Pocket Survival Pak</a>. The Survival Pak comes in a waterproof envelope that is meant to be carried in a pocket. I prefer a belt-mounted solution, so I ditched the waterproof envelope and moved the contents to a <a href="http://www.tripleaughtdesign.com/Equipment/Pouches/SERE-Pouch">TAD Gear SERE SP pouch</a>. The SERE pouch has velcro webbing on the back, which allows it to be mounted to be mounted to any sort of belt or PALS webbing.

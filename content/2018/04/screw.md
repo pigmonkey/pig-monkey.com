@@ -1,6 +1,6 @@
 Title: How I Screw
 Date: 2018-04-28
-tags: bicycle, gear, edc
+tags: bicycle, gear, edc, repair
 
 [Fix It Sticks](http://fixitsticks.com/) are 1/4" magnetic bit drivers, originally intended as bicycle repair tools. Each stick holds two bits, and can be used individually or connected together in a "T" when more torque is wanted.
 
