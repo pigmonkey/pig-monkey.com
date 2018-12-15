@@ -1,0 +1,47 @@
+table {
+    th, td {
+        padding: 5px 10px;
+    }
+    th {
+        text-align: center;
+    }
+    thead {
+        background-color: shade($content-background-alt, 50);
+        @include border-radius;
+    }
+    tr.odd {
+        background-color: $content-background-alt;
+    }
+    tr.even {
+        background-color: shade($content-background-alt, 10);
+    }
+    tbody > tr:hover {
+        background-color: shade($content-background-alt, 25);
+    }
+    &.dataTable thead {
+        .sorting, .sorting_asc, .sorting_desc {
+            cursor: pointer;
+            background-repeat: no-repeat;
+            background-position: center right;
+        }
+        .sorting {
+            background-image: url('/theme/images/sort_both.png');
+        }
+        .sorting_asc {
+            background-image: url('/theme/images/sort_asc.png');
+        }
+        .sorting_desc {
+            background-image: url('/theme/images/sort_desc.png');
+        }
+    }
+}
+
+.dataTables_filter {
+    @include leader;
+    @include trailer(.7);
+    float: right;
+}
+
+.dataTables_info, .dataTables_filter {
+    @include small;
+}

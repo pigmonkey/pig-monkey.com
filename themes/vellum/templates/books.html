@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title|striptags }} | {{ SITENAME }}{% endblock %}
+
+{% block body_id %}page-{{ page.slug }}{% endblock %}
+
+{% block extrahead %}
+    {{ super() }}
+<style>
+</style>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.5/css/fixedHeader.dataTables.min.css"/>
+{% endblock %}
+
+{% block content %}
+    <article class="entry">
+        <header>
+            <h1 class="entry-title">
+                {{ page.title }}
+            </h1>
+        </header>
+        <div class="entry-content">
+            {{ page.content }}
+            <table id="library-table">
+                <thead>
+                    <tr>
+                        <th>Author</th>
+                        <th>Title</th>
+                        <th>Series</th>
+                        <th>ISBN</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </article>
+{% endblock %}
+
+{% block js %}
+    {{ super() }}
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.18/cr-1.5.0/fh-3.1.4/datatables.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $('#library-table').DataTable({
+                colReorder: true,
+                fixedHeader: true,
+                paging: false,
+                ajax: {
+                    "url": "/media/library/books.json",
+                    "dataSrc": ""
+                },
+                columns: [
+                    { "data": "author_sort" },
+                    { "data": "title" },
+                    { "data": "series" },
+                    { "data": "isbn" },
+                ]
+            });
+        });
+    </script>
+{% endblock %}

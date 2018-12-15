@@ -1,0 +1,4812 @@
+[
+    {
+        "id": 1.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Consider Phlebas",
+        "isbn": 9780316005388.0,
+        "identifiers": "isbn:9780316005388,amazon:031600538X,google:KRh4lwEACAAJ,mobi-asin:d99cd67f-d445-4bd5-a77a-47d339ae5ca5",
+        "series": "Culture",
+        "series_index": 1.0,
+        "uuid": "dcae77bc-9669-42fc-b38b-9343acce0c84"
+    },
+    {
+        "id": 2.0,
+        "author_sort": "Yudkowsky, Eliezer",
+        "title": "Harry Potter and the Methods of Rationality",
+        "isbn": null,
+        "identifiers": "google:vrPQAwAAQBAJ,mobi-asin:d28fa789-bae9-43ac-8b22-fde0d2c0ef93,goodreads:10016013",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "19767b93-6737-4af1-ba8f-3e4144a736a8"
+    },
+    {
+        "id": 3.0,
+        "author_sort": "Vinge, Vernor",
+        "title": "Rainbows End",
+        "isbn": 9780812536362.0,
+        "identifiers": "google:WT-OXLZE2m8C,isbn:9780812536362,amazon:B004M8SR2O,mobi-asin:33d21a6c-8cd1-47de-8a9e-4bada7f27529,barnesnoble:w/rainbows-end-vernor-vinge/1100354026,goodreads:102439",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dd79feb7-7536-4429-9446-f96c909cb0c5"
+    },
+    {
+        "id": 4.0,
+        "author_sort": "Suarez, Daniel",
+        "title": "Kill Decision",
+        "isbn": 9780451417701.0,
+        "identifiers": "isbn:9780451417701,amazon:0451417704,google:Mw1PmllcFFoC,mobi-asin:B0073XV2W2",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a6b44563-757d-40c0-9281-b988427a13ad"
+    },
+    {
+        "id": 5.0,
+        "author_sort": "Suarez, Daniel",
+        "title": "Freedom",
+        "isbn": 9780451231895.0,
+        "identifiers": "amazon:0451231899,google:zN2jdEB8Jj0C,isbn:9780451231895",
+        "series": "Daemon",
+        "series_index": 2.0,
+        "uuid": "f7aea10a-adb0-4727-868a-9e3fc594e5ce"
+    },
+    {
+        "id": 6.0,
+        "author_sort": "Suarez, Daniel",
+        "title": "Daemon",
+        "isbn": 9783499256431.0,
+        "identifiers": "mobi-asin:B0038QN2AS,amazon:3499256436,google:nJMyRP0VMfQC,isbn:9783499256431",
+        "series": "Daemon",
+        "series_index": 1.0,
+        "uuid": "9d402b0a-e41d-4dd9-8b03-05cc16b341b5"
+    },
+    {
+        "id": 7.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "The Player of Games",
+        "isbn": 9780316005401.0,
+        "identifiers": "amazon:0316005401,google:8l28HAAACAAJ,isbn:9780316005401",
+        "series": "Culture",
+        "series_index": 2.0,
+        "uuid": "9391b96c-0fb8-40c3-9791-b61b38b6d338"
+    },
+    {
+        "id": 9.0,
+        "author_sort": "Banks, Iain M. & Edwards, Les",
+        "title": "The State of the Art",
+        "isbn": 9781597800747.0,
+        "identifiers": "isbn:9781597800747,amazon:1597800740,google:QFJyAAAACAAJ,mobi-asin:B00371V6PW",
+        "series": "Culture",
+        "series_index": 4.0,
+        "uuid": "c94f14ec-871f-4b15-8987-ffb6cac11210"
+    },
+    {
+        "id": 10.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "The Mauritius Command",
+        "isbn": 9780006499183.0,
+        "identifiers": "google:bJy__EE_D-YC,isbn:9780006499183,amazon:039330762X,mobi-asin:9a874cd9-e6aa-4ddd-b5e0-3354144ad85a,barnesnoble:w/mauritius-command-patrick-obrian/1003872474,goodreads:325705",
+        "series": "Aubrey & Maturin",
+        "series_index": 4.0,
+        "uuid": "1b9fbc4f-3219-4bb2-a000-c5dbc24a0f4b"
+    },
+    {
+        "id": 12.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "Post Captain",
+        "isbn": 9780393307061.0,
+        "identifiers": "google:S761k-z51Q4C,isbn:9780393307061,amazon:0393307069,mobi-asin:96921424-9a24-4444-9fff-aba65b2d4748,barnesnoble:w/post-captain-patrick-obrian/1100871638,goodreads:17768",
+        "series": "Aubrey & Maturin",
+        "series_index": 2.0,
+        "uuid": "8875c00b-c41e-49ac-818d-545395cb82b9"
+    },
+    {
+        "id": 13.0,
+        "author_sort": "Hughes, Sam",
+        "title": "Ra",
+        "isbn": null,
+        "identifiers": "mobi-asin:09b6d108-4e1e-4945-bad9-ac85f4e5af51",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "db85d51a-3c98-41eb-9db1-58752f2b29ab"
+    },
+    {
+        "id": 14.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "Master and Commander",
+        "isbn": 9780393307054.0,
+        "identifiers": "google:HaEdbjUalUEC,isbn:9780393307054,amazon:0393307050,mobi-asin:6353f675-6ee8-4be9-8410-e2c6e9e97d06,barnesnoble:w/master-and-commander-patrick-obrian/1100871637,goodreads:16175610",
+        "series": "Aubrey & Maturin",
+        "series_index": 1.0,
+        "uuid": "8b3b1d12-0071-4924-9165-4b3f24400528"
+    },
+    {
+        "id": 15.0,
+        "author_sort": "Gibson, William",
+        "title": "Virtual Light",
+        "isbn": 9780141941769.0,
+        "identifiers": "mobi-asin:e855f6b9-b651-42f7-b66d-5ecfd7f36dd8,amazon:0553566067,google:1vtZDpddyGMC,isbn:9780141941769",
+        "series": "Bridge Trilogy",
+        "series_index": 1.0,
+        "uuid": "95b652df-d4a8-4efe-8dd2-590564199b81"
+    },
+    {
+        "id": 16.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "H.M.S. Surprise",
+        "isbn": 9780393037036.0,
+        "identifiers": "mobi-asin:34841a0e-04c3-4e3f-bd57-6f24e964a240,barnesnoble:w/hms-surprise-patrick-obrian/1100871639,google:wCeA3BUXHqoC,isbn:9780393037036,goodreads:1691082",
+        "series": "Aubrey & Maturin",
+        "series_index": 3.0,
+        "uuid": "cecbbd14-d037-48f9-9bef-b22c0d158c01"
+    },
+    {
+        "id": 17.0,
+        "author_sort": "Gibson, William",
+        "title": "Spook Country",
+        "isbn": 9780399154300.0,
+        "identifiers": "amazon:0425226719,google:Ammm5BYnJfgC,isbn:9780399154300",
+        "series": "Blue Ant Trilogy",
+        "series_index": 2.0,
+        "uuid": "4aba1d73-cffb-4221-8e65-ed058c68077c"
+    },
+    {
+        "id": 18.0,
+        "author_sort": "Gibson, William",
+        "title": "Zero History",
+        "isbn": 9780399156823.0,
+        "identifiers": "amazon:B006TQUXW4,google:NRTijwEACAAJ,isbn:9780399156823",
+        "series": "Blue Ant Trilogy",
+        "series_index": 3.0,
+        "uuid": "8c57f790-94e2-4446-83df-80607a7de3b9"
+    },
+    {
+        "id": 19.0,
+        "author_sort": "Gibson, William",
+        "title": "Neuromancer",
+        "isbn": 9780441007462.0,
+        "identifiers": "amazon:0441569595,google:IDFfMPW32hQC,isbn:9780441007462",
+        "series": "Sprawl Trilogy",
+        "series_index": 1.0,
+        "uuid": "e143bb01-9864-4232-9900-700095aa6b6f"
+    },
+    {
+        "id": 20.0,
+        "author_sort": "Gibson, William",
+        "title": "The Peripheral",
+        "isbn": 9780698170704.0,
+        "identifiers": "isbn:9780698170704,amazon:0399158448,google:SLaQAwAAQBAJ,mobi-asin:B00INIXKV2",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e7f7782a-ebfe-4317-aea6-0300a0b020f5"
+    },
+    {
+        "id": 21.0,
+        "author_sort": "Gibson, William",
+        "title": "Mona Lisa Overdrive",
+        "isbn": 9780553281743.0,
+        "identifiers": "amazon:B009QJMUAY,google:YcfWZTENA6cC,isbn:9780553281743",
+        "series": "Sprawl Trilogy",
+        "series_index": 3.0,
+        "uuid": "cf8560f4-a31c-4f68-b60e-e78073a9a9dd"
+    },
+    {
+        "id": 22.0,
+        "author_sort": "Gibson, William",
+        "title": "Johnny Mnemonic",
+        "isbn": 9780441002344.0,
+        "identifiers": "amazon:044100234X,google:CAduQgAACAAJ,isbn:9780441002344",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "61f57614-1c4e-4ff1-bacf-30531aa3a541"
+    },
+    {
+        "id": 23.0,
+        "author_sort": "Gibson, William",
+        "title": "Idoru",
+        "isbn": 9780425158647.0,
+        "identifiers": "isbn:9780425158647,amazon:0425158640,google:u51mSjuiMeMC,mobi-asin:c2512565-2dc4-4d3f-8aeb-0fec4d711d5b",
+        "series": "Bridge Trilogy",
+        "series_index": 2.0,
+        "uuid": "64186b94-91f1-4214-867e-284eb2f9dbcd"
+    },
+    {
+        "id": 24.0,
+        "author_sort": "Gibson, William",
+        "title": "Count Zero",
+        "isbn": 9780441117734.0,
+        "identifiers": "amazon:B000PDYVZM,google:dFX1xN7q-AgC,isbn:9780441117734",
+        "series": "Sprawl Trilogy",
+        "series_index": 2.0,
+        "uuid": "767a7fdf-f3f2-472f-a0af-8366c6eb7328"
+    },
+    {
+        "id": 25.0,
+        "author_sort": "Gibson, William",
+        "title": "All Tomorrow's Parties",
+        "isbn": 9780425190449.0,
+        "identifiers": "isbn:9780425190449,amazon:0425190447,google:ljpe-qkRxcgC,mobi-asin:31a2a2fb-e1cf-4b1a-b132-d590fce5236a",
+        "series": "Bridge Trilogy",
+        "series_index": 3.0,
+        "uuid": "aa23afc2-769a-43b7-91c6-647cbcbd2bc9"
+    },
+    {
+        "id": 26.0,
+        "author_sort": "Gibson, William",
+        "title": "Burning Chrome",
+        "isbn": 9780060539825.0,
+        "identifiers": "amazon:B00ICMWZH4,google:np3sIlyiiiUC,isbn:9780060539825",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ad3ea5de-3801-4e81-845d-5d417d52ca66"
+    },
+    {
+        "id": 27.0,
+        "author_sort": "Gibson, William",
+        "title": "Pattern Recognition",
+        "isbn": 9781402556906.0,
+        "identifiers": "amazon:0425198685,google:3ahaAAAAMAAJ,isbn:9781402556906",
+        "series": "Blue Ant Trilogy",
+        "series_index": 1.0,
+        "uuid": "f0f896bb-3de8-4bda-92d1-8402923edafd"
+    },
+    {
+        "id": 28.0,
+        "author_sort": "Fleming, Ian",
+        "title": "Live and Let Die",
+        "isbn": 9781612185446.0,
+        "identifiers": "google:gvtOMQEACAAJ,isbn:9781612185446,amazon:B008L40PWK,mobi-asin:52cac5f9-9445-4c78-881a-a6745237f43c,barnesnoble:w/live-and-let-die-ian-fleming/1100675045,goodreads:15954466",
+        "series": "James Bond (Original Series)",
+        "series_index": 2.0,
+        "uuid": "9da9fcdd-0f42-4428-99bb-998c96a80d65"
+    },
+    {
+        "id": 29.0,
+        "author_sort": "Fleming, Ian",
+        "title": "Casino Royale",
+        "isbn": 9781612185439.0,
+        "identifiers": "google:i4ZtMAEACAAJ,isbn:9781612185439,amazon:1612185436,mobi-asin:f25fb8e0-fb9f-49d3-b1a6-2b3e9cb7bfcc,barnesnoble:w/casino-royale-ian-fleming/1100675049,goodreads:15954464",
+        "series": "James Bond (Original Series)",
+        "series_index": 1.0,
+        "uuid": "81851a57-f40c-487f-9264-a0576a790b50"
+    },
+    {
+        "id": 30.0,
+        "author_sort": "Crichton, Michael",
+        "title": "The Lost World",
+        "isbn": 9780345538994.0,
+        "identifiers": "isbn:9780345538994,amazon:0345538994,google:T9M0F8eiNvMC,mobi-asin:c73d09de-007d-4aff-87ad-1e025f76d338",
+        "series": "Jurassic Park",
+        "series_index": 2.0,
+        "uuid": "6e231fa8-c071-4838-90a6-946b5454fbcd"
+    },
+    {
+        "id": 31.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Use of Weapons",
+        "isbn": 9780316030571.0,
+        "identifiers": "isbn:9780316030571,amazon:0316030570,google:6n2kIAAACAAJ,mobi-asin:6cb8e261-a9e5-4814-9b06-1d4994a9c239",
+        "series": "Culture",
+        "series_index": 3.0,
+        "uuid": "b2f08a49-8b05-4192-8244-3d959343de47"
+    },
+    {
+        "id": 32.0,
+        "author_sort": "Crichton, Michael",
+        "title": "Jurassic Park: A Novel",
+        "isbn": 9780307763051.0,
+        "identifiers": "mobi-asin:e510e070-2206-40e0-9024-5c97eebe0f73,amazon:B007UH4D3G,google:V5s14nks9I8C,isbn:9780307763051",
+        "series": "Jurassic Park",
+        "series_index": 1.0,
+        "uuid": "a41bd612-6df2-424b-bf44-12b9caa37bdb"
+    },
+    {
+        "id": 33.0,
+        "author_sort": "Blaber, Pete",
+        "title": "The Mission, the Men, and Me: Lessons From a Former Delta Force Commander",
+        "isbn": 9780425236574.0,
+        "identifiers": "isbn:9780425236574,amazon:0425236579,google:1Qgt4oyMwJQC,mobi-asin:901a6662-81f5-4570-87ec-563abec55b6c",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "11a655bc-1f5b-4e3d-87d5-7115f4bab0f6"
+    },
+    {
+        "id": 34.0,
+        "author_sort": "Zuckoff, Mitchell",
+        "title": "13 Hours",
+        "isbn": 9781455582273.0,
+        "identifiers": "isbn:9781455582273,barnesnoble:w/13-hours-mitchell-zuckoff/1119058038,google:fpXooAEACAAJ,mobi-asin:2f6be39b-07cf-4210-bd87-fc684c9dd59f,goodreads:22608586",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "646f74eb-95fa-4b6f-9153-470b043376f6"
+    },
+    {
+        "id": 35.0,
+        "author_sort": "Sachtleben, William Lewis & Allen, Thomas Gaskell",
+        "title": "Across Asia on a Bicycle",
+        "isbn": 3861953285.0,
+        "identifiers": "amazon:B004TOTGK8,isbn:3861953285",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c53dff96-dd5a-4653-9dea-a10385c545cd"
+    },
+    {
+        "id": 36.0,
+        "author_sort": "Strauss, Neil",
+        "title": "The Game: Penetrating the Secret Society of Pickup Artists",
+        "isbn": 9780060554736.0,
+        "identifiers": "mobi-asin:e15f3790-d180-402c-a683-f10604a37b75,amazon:0061995320,google:p0c0nEx-8TcC,isbn:9780060554736",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bf5056ea-25c1-470a-b72d-7c4625a6c159"
+    },
+    {
+        "id": 37.0,
+        "author_sort": "Horne, Patrick Van & Riley, Jason A.",
+        "title": "Left of Bang: How the Marine Corps' Combat Hunter Program Can Save Your Life",
+        "isbn": 9781936891306.0,
+        "identifiers": "isbn:9781936891306,amazon:1936891301,mobi-asin:9504afa9-2233-4c3a-87f9-ef42ca403e1b",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "147d0bca-f562-4173-9b62-a15ebd590245"
+    },
+    {
+        "id": 38.0,
+        "author_sort": "Strauss, Neil",
+        "title": "Emergency: This Book Will Save Your Life",
+        "isbn": 9780060898779.0,
+        "identifiers": "isbn:9780060898779,amazon:0060898771,google:GBfZjLybb8AC,mobi-asin:0552298a-d8ea-4bf5-8ade-723829aa6a45",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "708aace0-58ca-4a80-894b-f710b7ffeeca"
+    },
+    {
+        "id": 39.0,
+        "author_sort": "Burton, Richard Francis",
+        "title": "First Footsteps in East Africa",
+        "isbn": 3842464959.0,
+        "identifiers": "isbn:3842464959,mobi-asin:8e2d4451-3c65-4911-bc73-9e85a12dca84",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "482d145d-ed25-449e-83a3-04d7cc039a55"
+    },
+    {
+        "id": 40.0,
+        "author_sort": "Scahill, Jeremy",
+        "title": "Dirty Wars: The World Is a Battlefield",
+        "isbn": 9781568587271.0,
+        "identifiers": "isbn:9781568587271,amazon:B00B3M3TS4,google:z9RErd_U_WEC,mobi-asin:4cc1b93b-4182-4e0c-b452-114767afbddd",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5b285f42-b2ba-4ae5-b460-c1d3972efa66"
+    },
+    {
+        "id": 41.0,
+        "author_sort": "Sagan, Carl",
+        "title": "Cosmos",
+        "isbn": 9780345331359.0,
+        "identifiers": "isbn:9780345331359,amazon:B00BG6ZPQQ,google:_-XhL6_xsVkC,mobi-asin:3a8f13bb-1204-4e5c-b66a-54d15d670a02",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7cf6258f-b397-4e84-8b35-37ededd986b2"
+    },
+    {
+        "id": 42.0,
+        "author_sort": "Orwell, George",
+        "title": "Homage to Catalonia",
+        "isbn": 8170262100.0,
+        "identifiers": "isbn:8170262100,mobi-asin:14b67fff-1b78-4213-b9fa-424cdd02b61a",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "38863178-1921-4e78-a907-fd7f03a90300"
+    },
+    {
+        "id": 44.0,
+        "author_sort": "Dulles, Allen",
+        "title": "Craft of Intelligence: America's Legendary Spy Master on the Fundamentals of Intelligence Gathering for a Free World",
+        "isbn": 9781592282975.0,
+        "identifiers": "mobi-asin:f015b9d8-e65e-40db-8df4-75e6484f374f,amazon:1592282970,google:mH3qdHK6_EsC,isbn:9781592282975",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c1b992b0-9c9f-4f37-9363-a59d0331cc4e"
+    },
+    {
+        "id": 45.0,
+        "author_sort": "Camp, L. Sprague De",
+        "title": "The Ancient Engineers",
+        "isbn": 9780345482877.0,
+        "identifiers": "mobi-asin:e9061f5f-ec37-4f14-a65e-602d8a566df8,amazon:0345482875,google:cauMt9vJLs0C,isbn:9780345482877",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2c07d42f-6bfe-43d7-84b8-49d76c02f159"
+    },
+    {
+        "id": 46.0,
+        "author_sort": "Maverick, James",
+        "title": "The Sovereign Man: How to Become a Man of High Value, Confidence and Action",
+        "isbn": 9781502886255.0,
+        "identifiers": "amazon:1502886251,google:uiQPogEACAAJ,isbn:9781502886255",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7a291389-6484-49f5-ac05-8de3df5cf815"
+    },
+    {
+        "id": 47.0,
+        "author_sort": "Greenwald, Glenn",
+        "title": "No Place to Hide: Edward Snowden, the NSA and the Surveillance State",
+        "isbn": 9780241969007.0,
+        "identifiers": "isbn:9780241969007,google:vejCAgAAQBAJ,mobi-asin:d8a6713f-d0ec-4287-a6a7-c7ce35a73a24",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d164c64c-a21f-4922-8a4b-74b96e993ac8"
+    },
+    {
+        "id": 48.0,
+        "author_sort": "Lucas, Michael W",
+        "title": "FreeBSD Mastery: Storage Essentials",
+        "isbn": 9780692343203.0,
+        "identifiers": "amazon:0692343202,isbn:9780692343203",
+        "series": "IT Mastery",
+        "series_index": 1.0,
+        "uuid": "817e6828-134d-41b0-8ee2-a96e0493ab6d"
+    },
+    {
+        "id": 49.0,
+        "author_sort": "Lucas, Michael W",
+        "title": "Tarsnap Mastery: Online Backups for the Truly Paranoid",
+        "isbn": 9780692400203.0,
+        "identifiers": "amazon:0692400206,isbn:9780692400203",
+        "series": "IT Mastery",
+        "series_index": 1.0,
+        "uuid": "9d98d626-9247-4aa3-8169-b880edf75d1b"
+    },
+    {
+        "id": 52.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Excession",
+        "isbn": 9780748110001.0,
+        "identifiers": "isbn:9780748110001,mobi-asin:B002TZ3DEO",
+        "series": "Culture",
+        "series_index": 5.0,
+        "uuid": "52e6fe6a-7de0-4d0c-9655-1d36f0d0c09b"
+    },
+    {
+        "id": 53.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Inversions",
+        "isbn": 671036688.0,
+        "identifiers": "mobi-asin:B002TXZR8G,amazon:1416583785,google:OhFRPgAACAAJ,isbn:0671036688",
+        "series": "Culture",
+        "series_index": 6.0,
+        "uuid": "d7f79855-a644-4848-9a78-5ff6724cab5a"
+    },
+    {
+        "id": 54.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Look to Windward",
+        "isbn": 743421922.0,
+        "identifiers": "isbn:0743421922,amazon:145162168X,google:HovpJmfv4wAC,mobi-asin:48b7e7d5-a8c6-4ede-880d-b3aa9053fad2",
+        "series": "Culture",
+        "series_index": 7.0,
+        "uuid": "2f0e2e6c-f83c-43cf-b69f-0c891bc4a53c"
+    },
+    {
+        "id": 55.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Matter",
+        "isbn": 9780316005364.0,
+        "identifiers": "amazon:0316005371,google:-pUgAQAAIAAJ,isbn:9780316005364",
+        "series": "Culture",
+        "series_index": 8.0,
+        "uuid": "20648d6e-8253-476f-be82-620a74f03528"
+    },
+    {
+        "id": 59.0,
+        "author_sort": "Yudkowsky, Eliezer",
+        "title": "Rationality: From AI to Zombies",
+        "isbn": 9781939311153.0,
+        "identifiers": "isbn:9781939311153",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9c37557f-ddd1-489a-b3c1-9b9ffea07682"
+    },
+    {
+        "id": 60.0,
+        "author_sort": "Hoare, Mike",
+        "title": "The Road to Kalamata: A Congo Mercenary's Personal Memoir",
+        "isbn": 9781473817708.0,
+        "identifiers": "amazon:B00K1KJ2DK,isbn:9781473817708,barnesnoble:w/the-road-to-kalamata-mike-hoare/1112369118",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1cf9aa59-5a25-4238-90e7-4a56b9e3e488"
+    },
+    {
+        "id": 61.0,
+        "author_sort": "Rhodes, Richard",
+        "title": "The Making of the Atomic Bomb",
+        "isbn": 9780140116670.0,
+        "identifiers": "amazon:B00BIFBHBW,google:0favPwAACAAJ,isbn:9780140116670,goodreads:16884",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "68e5bd52-bf3a-4ee5-9e13-ad332d80ab28"
+    },
+    {
+        "id": 62.0,
+        "author_sort": "Kilcullen, David",
+        "title": "The Accidental Guerrilla: Fighting Small Wars in the Midst of a Big One",
+        "isbn": 9780195368345.0,
+        "identifiers": "amazon:0199754098,google:eZ5UraZpJ5gC,isbn:9780195368345",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8c2a6f0a-2dc6-44eb-9be7-6e3d5cd4ac9e"
+    },
+    {
+        "id": 67.0,
+        "author_sort": "Adams, Douglas",
+        "title": "Mostly Harmless",
+        "isbn": 9780345418777.0,
+        "identifiers": "barnesnoble:w/mostly-harmless-douglas-adams/1115312510,google:C-IV6MAH0FAC,isbn:9780345418777,amazon:0345418778,goodreads:6356002",
+        "series": "Hitchhiker's Guide to the Galaxy",
+        "series_index": 5.0,
+        "uuid": "0ace8715-dcb3-4b04-815f-d058c6ad609e"
+    },
+    {
+        "id": 68.0,
+        "author_sort": "Adams, Douglas",
+        "title": "So Long, and Thanks for All the Fish",
+        "isbn": 9780345479969.0,
+        "identifiers": "amazon:0345391837,google:0VGFPwAACAAJ,isbn:9780345479969,barnesnoble:w/so-long-and-thanks-for-all-the-fish-douglas-adams/1101092316,goodreads:68355",
+        "series": "Hitchhiker's Guide to the Galaxy",
+        "series_index": 4.0,
+        "uuid": "05571840-398a-477c-943e-fc9356ac7857"
+    },
+    {
+        "id": 69.0,
+        "author_sort": "Adams, Douglas",
+        "title": "Life, the Universe and Everything",
+        "isbn": 9781417618163.0,
+        "identifiers": "barnesnoble:w/life-the-universe-and-everything-douglas-adams/1101102086,google:IiwFHAAACAAJ,isbn:9781417618163,amazon:0345391829,goodreads:6071219",
+        "series": "Hitchhiker's Guide to the Galaxy",
+        "series_index": 3.0,
+        "uuid": "b8d8804a-91d1-4819-b1ff-7c62f062c222"
+    },
+    {
+        "id": 70.0,
+        "author_sort": "Colfer, Eoin",
+        "title": "And Another Thing...",
+        "isbn": 9781401310301.0,
+        "identifiers": "amazon:B005Q5W4T4,google:PayZAAAAQBAJ,isbn:9781401310301,barnesnoble:w/and-another-thing-eoin-colfer/1100317568,goodreads:7724125",
+        "series": "Hitchhiker's Guide to the Galaxy",
+        "series_index": 6.0,
+        "uuid": "bb6505f9-7578-4013-97f1-d6ccf23052cb"
+    },
+    {
+        "id": 71.0,
+        "author_sort": "Adams, Douglas",
+        "title": "The Restaurant at the End of the Universe",
+        "isbn": 9781439557563.0,
+        "identifiers": "amazon:0345391810,google:5hagPwAACAAJ,isbn:9781439557563,barnesnoble:w/restaurant-at-the-end-of-the-universe-douglas-adams/1100618517,goodreads:5513954",
+        "series": "Hitchhiker's Guide to the Galaxy",
+        "series_index": 2.0,
+        "uuid": "b3cd19f2-71af-4e0a-99b0-c4f0645a385e"
+    },
+    {
+        "id": 72.0,
+        "author_sort": "Adams, Douglas",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "isbn": 9780330508117.0,
+        "identifiers": "amazon:0345391802,google:HjtezgAACAAJ,isbn:9780330508117,goodreads:6315566",
+        "series": "Hitchhiker's Guide to the Galaxy",
+        "series_index": 1.0,
+        "uuid": "439b6ce2-c82f-4945-9e6a-8ec6d2946b91"
+    },
+    {
+        "id": 73.0,
+        "author_sort": "Morgan, Richard K.",
+        "title": "Altered Carbon",
+        "isbn": 9781400101375.0,
+        "identifiers": "amazon:0345457684,google:22M-hFhzYREC,isbn:9781400101375,goodreads:1777170",
+        "series": "Takeshi Kovacs Novels",
+        "series_index": 1.0,
+        "uuid": "cc885fc7-7800-4cca-aef3-a657e47e6f6d"
+    },
+    {
+        "id": 74.0,
+        "author_sort": "Miéville, China",
+        "title": "Perdido Street Station",
+        "isbn": 9780345464521.0,
+        "identifiers": "isbn:9780345464521",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "847aa10a-bd2c-4982-be86-ae7ce8dce03d"
+    },
+    {
+        "id": 75.0,
+        "author_sort": "Lucas, Michael W",
+        "title": "FreeBSD Mastery: ZFS",
+        "isbn": 9780692452356.0,
+        "identifiers": "amazon:0692452354,isbn:9780692452356",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f04cb7f7-2f52-4a5d-a881-a2a654f403c7"
+    },
+    {
+        "id": 76.0,
+        "author_sort": "Abbey, Edward",
+        "title": "Desert Solitaire: A Season in the Wilderness",
+        "isbn": 9780008283322.0,
+        "identifiers": "mobi-asin:B005IHAINY,amazon:B005IHAINY,google:1VZBDwAAQBAJ,isbn:9780008283322,barnesnoble:w/desert-solitaire-edward-abbey/1100014581",
+        "series": null,
+        "series_index": 5.0,
+        "uuid": "96bb5ece-04e0-4a5d-9a38-8fb99611fa29"
+    },
+    {
+        "id": 77.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Homeland",
+        "isbn": 9780765333704.0,
+        "identifiers": "google:rjYcDNVSbMsC,isbn:9780765333704,uri:/Homeland/en/epub/Cory_Doctorow_-_Homeland.epub,amazon:0765333708,barnesnoble:w/homeland-cory-doctorow/1111414289,goodreads:12917338",
+        "series": "Little Brother",
+        "series_index": 2.0,
+        "uuid": "554ad635-7cc6-42e9-89a5-34fe990c2b07"
+    },
+    {
+        "id": 78.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Little Brother",
+        "isbn": 9780765323118.0,
+        "identifiers": "google:r1zne2mZDW8C,isbn:9780765323118,urn:urn:uuid:9bde0872-1ad5-11dd-b5b9-0018f369440e,amazon:B003X27L7M,barnesnoble:w/little-brother-cory-doctorow/1100352914,goodreads:954674",
+        "series": "Little Brother",
+        "series_index": 1.0,
+        "uuid": "658c1760-6dcb-4160-a42e-a33c73e75c64"
+    },
+    {
+        "id": 79.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Someone Comes to Town, Someone Leaves Town",
+        "isbn": 9780765312808.0,
+        "identifiers": "amazon:0765312808,google:tTamUiYMmlsC,isbn:9780765312808,barnesnoble:w/someone-comes-to-town-someone-leaves-town-cory-doctorow/1100353613,goodreads:29588",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "cf8ed270-b73e-4bf1-8e53-588ea9ac0059"
+    },
+    {
+        "id": 81.0,
+        "author_sort": "Herbert, Frank",
+        "title": "Chapterhouse: Dune",
+        "isbn": 9780441102679.0,
+        "identifiers": "amazon:B001O1O6IQ,google:ryot4Ag2GGQC,isbn:9780441102679,goodreads:105",
+        "series": "Dune",
+        "series_index": 6.0,
+        "uuid": "d27760c6-f6d2-4669-93ee-e1ba3f211f8a"
+    },
+    {
+        "id": 82.0,
+        "author_sort": "Herbert, Frank",
+        "title": "Heretics of Dune",
+        "isbn": 9781440619649.0,
+        "identifiers": "amazon:0441328008,google:RHLQWg98NyoC,isbn:9781440619649,goodreads:4516719",
+        "series": "Dune",
+        "series_index": 5.0,
+        "uuid": "7a032866-0872-4b62-9d66-ece6715fba7f"
+    },
+    {
+        "id": 85.0,
+        "author_sort": "Herbert, Frank",
+        "title": "God Emperor of Dune",
+        "isbn": 9780441016310.0,
+        "identifiers": "amazon:0441294677,google:Aow3MjNEvgkC,isbn:9780441016310,goodreads:2890074",
+        "series": "Dune",
+        "series_index": 4.0,
+        "uuid": "3432b085-ba57-4879-840f-639c94574477"
+    },
+    {
+        "id": 86.0,
+        "author_sort": "Herbert, Frank",
+        "title": "Children of Dune",
+        "isbn": 441104029.0,
+        "identifiers": "amazon:B0015DTW50,google:_W56NQEACAAJ,isbn:0441104029,goodreads:112",
+        "series": "Dune",
+        "series_index": 3.0,
+        "uuid": "1881a041-597c-404f-aa6f-3827f8193c27"
+    },
+    {
+        "id": 87.0,
+        "author_sort": "Herbert, Frank",
+        "title": "Dune Messiah",
+        "isbn": 9780441015610.0,
+        "identifiers": "amazon:0441172695,google:RHIiCLH6n3gC,isbn:9780441015610,goodreads:1495434",
+        "series": "Dune",
+        "series_index": 2.0,
+        "uuid": "08ea62c0-a7a9-46ae-b175-571663831b60"
+    },
+    {
+        "id": 88.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Snow Crash",
+        "isbn": 9781596061576.0,
+        "identifiers": "barnesnoble:w/snow-crash-neal-stephenson/1100301882,google:CN5sPwAACAAJ,isbn:9781596061576,goodreads:2029569",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ae6a8634-7994-4943-ad70-969e70cf2f21"
+    },
+    {
+        "id": 89.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "In the Beginning...was the Command Line",
+        "isbn": 9780380815937.0,
+        "identifiers": "amazon:B0011GA08E,google:iL9wBRPaTDEC,isbn:9780380815937",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fba9880d-1cd9-4363-96e7-1060ef799abd"
+    },
+    {
+        "id": 90.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "The Big U",
+        "isbn": 9780380816033.0,
+        "identifiers": "amazon:B0011GA0AM,google:uMP0lwEACAAJ,isbn:9780380816033",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "990b6ccd-823a-49d2-9568-2fd0fa37d417"
+    },
+    {
+        "id": 91.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "The Diamond Age",
+        "isbn": 9780553096095.0,
+        "identifiers": "barnesnoble:w/diamond-age-neal-stephenson/1100623049,google:7UpbAAAAMAAJ,isbn:9780553096095,amazon:0553096095,goodreads:1056946",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "01c1e140-0726-4d26-b007-044e7272d776"
+    },
+    {
+        "id": 92.0,
+        "author_sort": "Stephenson, Neal & Bear, Greg & Bear, Erik & Teppo, Mark & Debirmingham, E. D. & Brassey, Joseph & Moo, Cooper",
+        "title": "The Mongoliad",
+        "isbn": 9781612182360.0,
+        "identifiers": "amazon:1455879819,google:b7ikpwAACAAJ,isbn:9781612182360",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "90013569-da30-4c8a-96e7-cd3de00e2659"
+    },
+    {
+        "id": 93.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Zodiac",
+        "isbn": 9780871131812.0,
+        "identifiers": "amazon:0802143156,google:p9D9GgAACAAJ,isbn:9780871131812",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "894f6410-3706-4de7-bace-bae9ea8ccd5b"
+    },
+    {
+        "id": 94.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "System of the World",
+        "isbn": 9780099463368.0,
+        "identifiers": "barnesnoble:w/system-of-the-world-neal-stephenson/1101483582,google:VkpSQz4sX4QC,isbn:9780099463368,amazon:0099463369,goodreads:920429",
+        "series": "Baroque Cycle",
+        "series_index": 3.0,
+        "uuid": "5acca5b1-41b0-4cab-86b4-afac36d0c2c5"
+    },
+    {
+        "id": 95.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Cryptonomicon",
+        "isbn": 9780060512804.0,
+        "identifiers": "amazon:B000FC11A6,google:qYAmfUBPN-UC,isbn:9780060512804,barnesnoble:w/cryptonomicon-neal-stephenson/1100615818,goodreads:816",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2e5f5044-f71e-4911-a085-675a25a4fdb2"
+    },
+    {
+        "id": 96.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "The Confusion",
+        "isbn": 9780060733353.0,
+        "identifiers": "barnesnoble:w/confusion-neal-stephenson/1100615873,google:NJbllgEACAAJ,isbn:9780060733353,amazon:0060733357,goodreads:822",
+        "series": "Baroque Cycle",
+        "series_index": 2.0,
+        "uuid": "81f8219b-314e-4f6a-86b3-ade41c42ef9c"
+    },
+    {
+        "id": 97.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Reamde",
+        "isbn": 9780061977961.0,
+        "identifiers": "barnesnoble:w/reamde-neal-stephenson/1100608610,google:KPKMmwEACAAJ,isbn:9780061977961,goodreads:10552338",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "91cfdeee-927b-400a-a4dd-66eb13daebe5"
+    },
+    {
+        "id": 98.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Quicksilver",
+        "isbn": 9780060833169.0,
+        "identifiers": "amazon:B0072AX7OW,google:H80YT-afYeAC,isbn:9780060833169,barnesnoble:w/quicksilver-neal-stephenson/1100856167,goodreads:45277",
+        "series": "Baroque Cycle",
+        "series_index": 1.0,
+        "uuid": "26b7dc62-9efa-4897-addb-d4440a3390ec"
+    },
+    {
+        "id": 99.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Anathem",
+        "isbn": 9780061474095.0,
+        "identifiers": "amazon:006147410X,google:ZnsZfWOpdukC,isbn:9780061474095",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "967a74d8-76ae-42de-8c19-0d9086377093"
+    },
+    {
+        "id": 100.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Seveneves: A Novel",
+        "isbn": 9780062190376.0,
+        "identifiers": "mobi-asin:B00LZWV8JO,amazon:0062190377,google:wlLZoAEACAAJ,isbn:9780062190376",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "57949bfb-4747-46a7-a281-968f06a0bc33"
+    },
+    {
+        "id": 101.0,
+        "author_sort": "Asimov, Isaac",
+        "title": "Foundation",
+        "isbn": 553293354.0,
+        "identifiers": "barnesnoble:w/foundation-isaac-asimov/1100465950,google:ZgjjE6FoVdMC,isbn:0553293354,amazon:B000FC1PWA,goodreads:7352028",
+        "series": "Foundation (Publication Order)",
+        "series_index": 1.0,
+        "uuid": "ed19a7f7-d7dd-4410-b77f-96c8df8e5f69"
+    },
+    {
+        "id": 102.0,
+        "author_sort": "Asimov, Isaac",
+        "title": "Foundation and Empire",
+        "isbn": 9780553900354.0,
+        "identifiers": "amazon:0553293370,google:BJcgLVibkrEC,isbn:9780553900354,barnesnoble:w/foundation-and-empire-isaac-asimov/1100302510,goodreads:7477803",
+        "series": "Foundation (Publication Order)",
+        "series_index": 2.0,
+        "uuid": "3718218d-4c91-4da5-8aee-c54d5f9d00cc"
+    },
+    {
+        "id": 103.0,
+        "author_sort": "Asimov, Isaac",
+        "title": "Second Foundation",
+        "isbn": 345318005.0,
+        "identifiers": "amazon:B000FC1PWU,google:d8lp4Wth67IC,isbn:0345318005,barnesnoble:w/second-foundation-isaac-asimov/1100302511,goodreads:8491174",
+        "series": "Foundation (Publication Order)",
+        "series_index": 3.0,
+        "uuid": "3dfd7405-aa17-4c0f-afb8-529f5b9932a2"
+    },
+    {
+        "id": 108.0,
+        "author_sort": "Morgan, Richard K.",
+        "title": "Broken Angels",
+        "isbn": 9780575075504.0,
+        "identifiers": "amazon:0345457714,google:H_FyPwAACAAJ,isbn:9780575075504,barnesnoble:w/broken-angels-richard-k-morgan/1100292841,goodreads:1117988",
+        "series": "Takeshi Kovacs Novels",
+        "series_index": 2.0,
+        "uuid": "1f6cf358-fbf6-4859-9f25-e5108d422f1f"
+    },
+    {
+        "id": 112.0,
+        "author_sort": "Crane, Richard & Crane, Nicholas",
+        "title": "Journey to the Centre of the Earth",
+        "isbn": 9780708919286.0,
+        "identifiers": "amazon:0593012917,google:AAGCAAAACAAJ,isbn:9780708919286",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "738091e9-db4b-4290-8623-d9145cb0b10e"
+    },
+    {
+        "id": 113.0,
+        "author_sort": "Hesse, Herman",
+        "title": "Siddhartha",
+        "isbn": 9781618951748.0,
+        "identifiers": "google:2sDrAgAAQBAJ,isbn:9781618951748",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "daf2feb2-7238-4fc5-9d32-fbb94aae5441"
+    },
+    {
+        "id": 114.0,
+        "author_sort": "Kerouac, Jack",
+        "title": "The Dharma Bums",
+        "isbn": 140042520.0,
+        "identifiers": "amazon:0140042520,google:Es3fmFyTrIIC,isbn:0140042520",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "78868349-0467-43e2-b23e-fa48f7e2b170"
+    },
+    {
+        "id": 115.0,
+        "author_sort": "Greenberg, Andy",
+        "title": "This Machine Kills Secrets",
+        "isbn": 9781101593585.0,
+        "identifiers": "amazon:0142180491,google:vVU-l_DpZaIC,isbn:9781101593585",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6d1b6349-f341-4d18-a6a2-a5f56f76ecd3"
+    },
+    {
+        "id": 121.0,
+        "author_sort": "Lawrence, T E",
+        "title": "Seven Pillars of Wisdom: A Triumph",
+        "isbn": 9780804170826.0,
+        "identifiers": "google:rUgkAAAAQBAJ,isbn:9780804170826",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f9bfcb90-d0c2-4ab0-bcea-fe759fb510a6"
+    },
+    {
+        "id": 122.0,
+        "author_sort": "Shirley, John",
+        "title": "A Song Called Youth",
+        "isbn": 9781607013303.0,
+        "identifiers": "isbn:9781607013303,amazon:1607013304,mobi-asin:B007PKQO62",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "753998b4-438f-415e-bd92-4399181ce4fa"
+    },
+    {
+        "id": 123.0,
+        "author_sort": "Mazzetti, Mark",
+        "title": "The Way of the Knife: The CIA, a Secret Army, and a War at the Ends of the Earth",
+        "isbn": 9781594204807.0,
+        "identifiers": "barnesnoble:w/the-way-of-the-knife-mark-mazzetti/1114036105,google:gKOxNAEACAAJ,isbn:9781594204807,goodreads:16158491",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e9c0b5f7-4d71-4e0d-ab9d-b5de84331f90"
+    },
+    {
+        "id": 125.0,
+        "author_sort": "Burton, Richard Francis",
+        "title": "Personal Narrative of a Pilgrimage to Al Madinah and Meccah, Undertaken in 1853",
+        "isbn": null,
+        "identifiers": "mobi-asin:6b3233e6-3a8e-4d6b-8d8d-c399dc3be186",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "52f672a9-6110-4c8f-963e-e10aa5408fe9"
+    },
+    {
+        "id": 126.0,
+        "author_sort": "Bacigalupi, Paolo",
+        "title": "The Windup Girl",
+        "isbn": 1597801577.0,
+        "identifiers": "amazon:1597801585,google:Z6swAQAAMAAJ,isbn:1597801577",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "731bcf46-258d-417f-bb87-4b1547b0df65"
+    },
+    {
+        "id": 127.0,
+        "author_sort": "Dick, Philip K.",
+        "title": "Do Androids Dream of Electric Sheep?",
+        "isbn": 9780194792226.0,
+        "identifiers": "isbn:9780194792226",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0355f165-6a23-48cd-9744-98d74521e431"
+    },
+    {
+        "id": 128.0,
+        "author_sort": "Hemingway, Ernest",
+        "title": "For Whom the Bell Tolls",
+        "isbn": 9780684803357.0,
+        "identifiers": "amazon:B000FC0OOU,google:-08IVs9NR14C,isbn:9780684803357",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6388cc6b-e9b7-4935-bf0a-b33b6c7374dc"
+    },
+    {
+        "id": 129.0,
+        "author_sort": "Hemingway, Ernest",
+        "title": "The Sun Also Rises",
+        "isbn": 743297334.0,
+        "identifiers": "amazon:0743297334,google:ghKyLjIU4-QC,isbn:0743297334",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7f1f2e58-303c-4a6b-b574-afbbea75e72b"
+    },
+    {
+        "id": 130.0,
+        "author_sort": "Hemingway, Ernest",
+        "title": "The Old Man and the Sea",
+        "isbn": 9786144134030.0,
+        "identifiers": "barnesnoble:w/old-man-and-the-sea-ernest-hemingway/1100300820,google:_NRmDwAAQBAJ,isbn:9786144134030,amazon:B000FC0SH8,goodreads:6396997",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e08c06df-c68d-44db-8031-e9754327d8d0"
+    },
+    {
+        "id": 131.0,
+        "author_sort": "Heinlein, Robert A.",
+        "title": "The Moon Is a Harsh Mistress",
+        "isbn": 9780312863555.0,
+        "identifiers": "amazon:0312863551,google:HtuRSsAb2fEC,isbn:9780312863555",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b51181e5-dfbd-4437-967d-1e5a7ee3323a"
+    },
+    {
+        "id": 132.0,
+        "author_sort": "Hemingway, Ernest",
+        "title": "A Farewell to Arms",
+        "isbn": 684801469.0,
+        "identifiers": "amazon:B007CKXYM2,google:kyF-qkCaLtEC,isbn:0684801469",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2d820b1f-1da7-4990-b5e3-6334c67de1a1"
+    },
+    {
+        "id": 133.0,
+        "author_sort": "Haldeman, Joe",
+        "title": "The Forever War",
+        "isbn": 9780312536633.0,
+        "identifiers": "barnesnoble:w/forever-war-joe-haldeman/1100649605,google:l4lxLsH2n3YC,isbn:9780312536633,amazon:0312536631,goodreads:5940939",
+        "series": "The Forever War",
+        "series_index": 1.0,
+        "uuid": "a4aaff1c-e1bb-40a0-acc8-ee454e22c68f"
+    },
+    {
+        "id": 135.0,
+        "author_sort": "Thompson, Hunter S.",
+        "title": "Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream",
+        "isbn": 9780679785897.0,
+        "identifiers": "amazon:0679785892,google:epFkAAAAMAAJ,isbn:9780679785897",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e8bc3a8d-f249-410a-a045-2c1c0428027d"
+    },
+    {
+        "id": 136.0,
+        "author_sort": "Larsson, Stieg",
+        "title": "The Girl Who Played With Fire",
+        "isbn": 9780307269980.0,
+        "identifiers": "barnesnoble:w/girl-who-played-with-fire-stieg-larsson/1100160513,google:RxqHmAEACAAJ,isbn:9780307269980,amazon:0307949508,goodreads:5060378",
+        "series": "Millennium",
+        "series_index": 2.0,
+        "uuid": "0dfbfb80-efab-4b5c-a221-47b5ba34ca33"
+    },
+    {
+        "id": 137.0,
+        "author_sort": "Larsson, Stieg",
+        "title": "The Girl Who Kicked the Hornet's Nest",
+        "isbn": 9780307593672.0,
+        "identifiers": "amazon:B0031YJFCQ,google:AZ5J6B1-4BoC,isbn:9780307593672,barnesnoble:w/girl-who-kicked-the-hornets-nest-stieg-larsson/1100160449,goodreads:7677839",
+        "series": "Millennium",
+        "series_index": 3.0,
+        "uuid": "9dc3217b-f248-4aeb-86fe-11bde1313194"
+    },
+    {
+        "id": 138.0,
+        "author_sort": "Larsson, Stieg",
+        "title": "The Girl With the Dragon Tattoo",
+        "isbn": 9780307269751.0,
+        "identifiers": "barnesnoble:w/girl-with-the-dragon-tattoo-stieg-larsson/1100040490,google:4i8gmQEACAAJ,isbn:9780307269751,amazon:0307949486,goodreads:2429135",
+        "series": "Millennium",
+        "series_index": 1.0,
+        "uuid": "87fdac40-7ace-4a96-9ba3-bd3ac7340834"
+    },
+    {
+        "id": 139.0,
+        "author_sort": "Tolkien, J. R. R.",
+        "title": "The Lord of the Rings",
+        "isbn": 9780618640157.0,
+        "identifiers": "amazon:B007978OY6,isbn:9780618640157",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a19f3e3d-cc60-48f6-b7d1-aee5dd5eb6e4"
+    },
+    {
+        "id": 140.0,
+        "author_sort": "Tolkien, J. R. R.",
+        "title": "The Hobbit",
+        "isbn": 9780048231260.0,
+        "identifiers": "isbn:9780048231260",
+        "series": "Lord of the Rings",
+        "series_index": 0.0,
+        "uuid": "3c37bd0f-9ccb-4e55-9ba3-83a6212f61bd"
+    },
+    {
+        "id": 141.0,
+        "author_sort": "Tolkien, J. R. R.",
+        "title": "The Silmarillion",
+        "isbn": 9780547951980.0,
+        "identifiers": "amazon:0345325818,google:4OfWWfRDAXcC,isbn:9780547951980",
+        "series": "Lord of the Rings",
+        "series_index": 0.5,
+        "uuid": "0ddfdb7e-9be7-49f1-9a20-8561b571b3c9"
+    },
+    {
+        "id": 142.0,
+        "author_sort": "Weir, Andy",
+        "title": "The Martian",
+        "isbn": 9780804139021.0,
+        "identifiers": "google:2q8gnQEACAAJ,isbn:9780804139021,amazon:0804139024,mobi-asin:b5286102-5851-48ec-a6f1-026fbd64f746,barnesnoble:w/the-martian-andy-weir/1114993828,goodreads:18007564",
+        "series": "The Martian",
+        "series_index": 1.0,
+        "uuid": "40cf739b-a90d-438c-a463-792ef02ff550"
+    },
+    {
+        "id": 143.0,
+        "author_sort": "Guin, Ursula K. le",
+        "title": "The Left Hand of Darkness",
+        "isbn": 9780708880814.0,
+        "identifiers": "amazon:0441007317,google:Nk7AQgAACAAJ,isbn:9780708880814",
+        "series": "Ekumen",
+        "series_index": 4.0,
+        "uuid": "d863e609-bc08-4b05-bf8a-3be28922d6ef"
+    },
+    {
+        "id": 147.0,
+        "author_sort": "Potts, Rolf",
+        "title": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel",
+        "isbn": 9780812992182.0,
+        "identifiers": "isbn:9780812992182,amazon:0812992180,google:JQ0RAQAAIAAJ,mobi-asin:edf686af-1e3d-40f7-87c0-47fbe536d88a",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "401258e5-321c-4aaf-8392-2b4c939d1f8b"
+    },
+    {
+        "id": 148.0,
+        "author_sort": "Mann, Thomas",
+        "title": "The Magic Mountain",
+        "isbn": 9781400044214.0,
+        "identifiers": "amazon:0679772871,google:cuMEllGGLdgC,isbn:9781400044214",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "91340319-399a-4bf7-a10c-86354f6c8d70"
+    },
+    {
+        "id": 153.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "The Surgeon's Mate",
+        "isbn": 9780393037074.0,
+        "identifiers": "amazon:B006CQQOGK,google:IqQINfZ3sM4C,isbn:9780393037074,barnesnoble:w/surgeons-mate-patrick-obrian/1100871643,goodreads:1030100",
+        "series": "Aubrey & Maturin",
+        "series_index": 7.0,
+        "uuid": "a2ab66d5-db17-4a4e-9f86-5c4a8d06fc6e"
+    },
+    {
+        "id": 162.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "Desolation Island",
+        "isbn": 9780007255870.0,
+        "identifiers": "amazon:039330812X,google:mNkK8xlFNfYC,isbn:9780007255870,barnesnoble:w/desolation-island-patrick-obrian/1100871641,goodreads:2047152",
+        "series": "Aubrey & Maturin",
+        "series_index": 5.0,
+        "uuid": "b979dd56-bae2-49d5-bf75-3fbefe671154"
+    },
+    {
+        "id": 163.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "The Fortune of War",
+        "isbn": 9780393037067.0,
+        "identifiers": "barnesnoble:w/fortune-of-war-patrick-obrian/1100871642,google:9uHOWYahFWUC,isbn:9780393037067,amazon:B006C3QMH4,goodreads:560656",
+        "series": "Aubrey & Maturin",
+        "series_index": 6.0,
+        "uuid": "7cc63b11-db9f-4fff-9638-6a3c150d860d"
+    },
+    {
+        "id": 168.0,
+        "author_sort": "Rich, Ben R. & Janos, Leo",
+        "title": "Skunk Works: A Personal Memoir of My Years of Lockheed",
+        "isbn": 9780316246934.0,
+        "identifiers": "amazon:B00A2DIW3C,google:oL4bHPIt7XIC,isbn:9780316246934",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "88034600-4372-45d9-ab14-2bd353ccbc29"
+    },
+    {
+        "id": 169.0,
+        "author_sort": "Thesiger, Wilfred",
+        "title": "Arabian Sands",
+        "isbn": 141442077.0,
+        "identifiers": "amazon:0141442077,google:2yRaU6w6x2kC,isbn:0141442077",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "18a42fca-6373-4877-9383-f624e5414959"
+    },
+    {
+        "id": 175.0,
+        "author_sort": "Chayes, Sarah",
+        "title": "The Punishment of Virtue: Inside Afghanistan After the Taliban",
+        "isbn": 9781101201640.0,
+        "identifiers": "barnesnoble:w/punishment-of-virtue-sarah-chayes/1100624965,google:BkUeKhAQZOMC,isbn:9781101201640,amazon:0143112066,goodreads:1333921",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d22709fd-b037-4289-88f2-a4ab75ab2af2"
+    },
+    {
+        "id": 176.0,
+        "author_sort": "Pratchett, Terry",
+        "title": "The Colour of Magic",
+        "isbn": 9780552157278.0,
+        "identifiers": "mobi-asin:38b1146d-c1a9-4555-806e-7f20ac47d478,barnesnoble:w/color-of-magic-terry-pratchett/1100615947,google:nOQwRwYZ2tsC,isbn:9780552157278,goodreads:2332957",
+        "series": "Discworld",
+        "series_index": 1.0,
+        "uuid": "240b2659-9c9f-4001-832e-c27f9339495e"
+    },
+    {
+        "id": 178.0,
+        "author_sort": "Lucas, Michael W",
+        "title": "Sudo Mastery: User Access Control for Real People",
+        "isbn": null,
+        "identifiers": "amazon:B00GA2W47O",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b9fb3826-6a7a-4c13-a5bc-7e3fb164e50e"
+    },
+    {
+        "id": 181.0,
+        "author_sort": "Hemingway, Ernest",
+        "title": "Green Hills of Africa",
+        "isbn": 9780099460954.0,
+        "identifiers": "barnesnoble:w/green-hills-of-africa-ernest-hemingway/1100300816,isbn:9780099460954,goodreads:10776",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5441e399-acd1-4ad0-b82d-73e946b465a4"
+    },
+    {
+        "id": 182.0,
+        "author_sort": "Greene, Graham",
+        "title": "Journey Without Maps",
+        "isbn": 143039725.0,
+        "identifiers": "google:Cz1zXmbqV-AC,isbn:0143039725",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d14bb836-fbd4-4f30-8989-d87909ba33ea"
+    },
+    {
+        "id": 183.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "Dies the Fire",
+        "isbn": 9780451460417.0,
+        "identifiers": "amazon:B0023EF9IY,isbn:9780451460417",
+        "series": "Emberverse",
+        "series_index": 1.0,
+        "uuid": "1f899326-798e-4d92-92ea-4aeb34898c8b"
+    },
+    {
+        "id": 184.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The Lord of Mountains",
+        "isbn": null,
+        "identifiers": "urn:URN|ISBN|978-1-1016-0509-7,sonybookid:CBUSCEPGI033ZK0B",
+        "series": "Emberverse",
+        "series_index": 9.0,
+        "uuid": "1016b831-4189-4387-8684-11fcab2c82fb"
+    },
+    {
+        "id": 185.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The Tears of the Sun",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Emberverse",
+        "series_index": 8.0,
+        "uuid": "30e90bb7-a694-4d04-9280-e3f3f1366ec9"
+    },
+    {
+        "id": 186.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "A Meeting at Corvallis",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Emberverse",
+        "series_index": 3.0,
+        "uuid": "879006dc-eab0-44d8-bd53-d100eefa8f27"
+    },
+    {
+        "id": 187.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The High King of Montival",
+        "isbn": 9780451463524.0,
+        "identifiers": "amazon:045146401X,google:OimTNQEACAAJ,isbn:9780451463524",
+        "series": "Emberverse",
+        "series_index": 7.0,
+        "uuid": "eea0688e-975c-4118-afb2-ea501fa9e546"
+    },
+    {
+        "id": 188.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The Protector's War",
+        "isbn": 9780451460776.0,
+        "identifiers": "isbn:9780451460776",
+        "series": "Emberverse",
+        "series_index": 2.0,
+        "uuid": "c7c5df41-cde1-424b-8ec4-f07b8eeaf296"
+    },
+    {
+        "id": 189.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The Sword of the Lady",
+        "isbn": 9780451463081.0,
+        "identifiers": "google:q3KQNQEACAAJ,isbn:9780451463081",
+        "series": "Emberverse",
+        "series_index": 6.0,
+        "uuid": "a6148d57-993f-4734-8829-dae72af9cd7f"
+    },
+    {
+        "id": 190.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The Scourge of God",
+        "isbn": 9780451462282.0,
+        "identifiers": "amazon:0451462661,isbn:9780451462282",
+        "series": "Emberverse",
+        "series_index": 5.0,
+        "uuid": "3915f1f5-7e28-4bbc-8bc2-e1fac4bc5920"
+    },
+    {
+        "id": 191.0,
+        "author_sort": "Stirling, S. M.",
+        "title": "The Sunrise Lands",
+        "isbn": 9780451461704.0,
+        "identifiers": "amazon:0451462254,google:loUrAAAAYAAJ,isbn:9780451461704",
+        "series": "Emberverse",
+        "series_index": 4.0,
+        "uuid": "cc6f54f7-c6f7-437d-90d7-96bf9cf3b1e8"
+    },
+    {
+        "id": 195.0,
+        "author_sort": "Singer, P. W. & Cole, August",
+        "title": "Ghost Fleet: A Novel of the Next World War",
+        "isbn": 9780544142848.0,
+        "identifiers": "isbn:9780544142848,amazon:0544142845,mobi-asin:B00LZ7GOI4",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4ff46a95-11ca-465a-8fe8-56c14486cec8"
+    },
+    {
+        "id": 196.0,
+        "author_sort": "Hemingway, Ernest",
+        "title": "A Moveable Feast",
+        "isbn": 224608568.0,
+        "identifiers": "mobi-asin:B014HX3XNG,amazon:B014HX3XNG,isbn:0224608568",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "03cc5b5b-cebb-4c0b-9b12-fa0193d83819"
+    },
+    {
+        "id": 197.0,
+        "author_sort": "Fermor, Patrick Leigh",
+        "title": "A Time of Gifts: On Foot to Constantinople: From the Hook of Holland to the Middle Danube (Journey Across Europe Book 1)",
+        "isbn": 9781590175170.0,
+        "identifiers": "isbn:9781590175170,mobi-asin:B005EH3DJY",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6fe0b362-25d5-4543-b1e0-f3d4d78c2e71"
+    },
+    {
+        "id": 202.0,
+        "author_sort": "Cline, Ernest",
+        "title": "Ready Player One",
+        "isbn": 9780307887450.0,
+        "identifiers": "amazon:B004J4WKUQ,google:FY_HWAcm10MC,isbn:9780307887450",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "17fbed6b-77e8-4dfb-9293-043ede008c51"
+    },
+    {
+        "id": 203.0,
+        "author_sort": "Kerouac, Jack",
+        "title": "On the Road",
+        "isbn": 9780140031928.0,
+        "identifiers": "google:OZJmDQAAQBAJ,isbn:9780140031928,amazon:014312028X,mobi-asin:B002IPZFYQ,barnesnoble:w/on-the-road-jack-kerouac/1100315194,goodreads:16077641",
+        "series": "American Alpine Journal",
+        "series_index": 93.0,
+        "uuid": "1151f0f6-14ac-45b0-80a8-19d383336e46"
+    },
+    {
+        "id": 204.0,
+        "author_sort": "Matthiessen, Peter",
+        "title": "The Snow Leopard",
+        "isbn": 9781101663189.0,
+        "identifiers": "amazon:B00JJXV3JG,isbn:9781101663189",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0d230280-842d-408b-8466-81ee4bd4c81e"
+    },
+    {
+        "id": 205.0,
+        "author_sort": "Gottschall, Jonathan",
+        "title": "The Professor in the Cage: Why Men Fight and Why We Like to Watch",
+        "isbn": 9781594205637.0,
+        "identifiers": "amazon:1594205639,google:lHXwoAEACAAJ,isbn:9781594205637",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5328dbca-f194-4097-8ea6-b3f3c9fff55c"
+    },
+    {
+        "id": 206.0,
+        "author_sort": "Weatherford, Jack",
+        "title": "Genghis Khan and the Making of the Modern World",
+        "isbn": 9781491513705.0,
+        "identifiers": "amazon:1491513705,google:56_DNcoTnSAC,isbn:9781491513705,goodreads:93426",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "86f1fbee-f391-44a3-ae79-91065a4202db"
+    },
+    {
+        "id": 208.0,
+        "author_sort": "Thoreau, Henry David & Levin, Jonathan",
+        "title": "Walden and Civil Disobedience",
+        "isbn": 9781593082086.0,
+        "identifiers": "amazon:1494812487,google:RbpFzu9G3BsC,isbn:9781593082086",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "adb273a3-3d07-4430-ae4b-83c20761181c"
+    },
+    {
+        "id": 209.0,
+        "author_sort": "Fletcher, Colin",
+        "title": "The Man Who Walked Through Time: The Story of the First Trip Afoot Through the Grand Canyon",
+        "isbn": 9780679723066.0,
+        "identifiers": "amazon:B00OEXJB5E,google:hM7vPAAACAAJ,isbn:9780679723066,barnesnoble:w/the-man-who-walked-through-time-colin-fletcher/1112274006,goodreads:728348",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d9b1e05b-00cb-49ff-a995-23e45ad37f70"
+    },
+    {
+        "id": 210.0,
+        "author_sort": "Cline, Ernest",
+        "title": "Armada: A Novel",
+        "isbn": 9780804137256.0,
+        "identifiers": "amazon:0804137250,google:LU9HoAEACAAJ,isbn:9780804137256",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b7e39c1e-b4f2-4c36-9bf4-a087257f6d68"
+    },
+    {
+        "id": 212.0,
+        "author_sort": "Government, U. S.",
+        "title": "A Tradecraft Primer: Structured Analytic Techniques for Improving Intelligence Analysis",
+        "isbn": 9781234065867.0,
+        "identifiers": "google:a1P-ygAACAAJ,isbn:9781234065867,goodreads:13164457",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c16a3089-57c4-4a2e-acf9-a9a815b49542"
+    },
+    {
+        "id": 214.0,
+        "author_sort": "Wendig, Chuck",
+        "title": "Zeroes: A Novel",
+        "isbn": 9780062351555.0,
+        "identifiers": "amazon:0062351559,isbn:9780062351555",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f77b4261-73aa-41b5-a30f-03c2989fb3ea"
+    },
+    {
+        "id": 215.0,
+        "author_sort": "Manchette, Jean-Patrick & Brook, James",
+        "title": "The Prone Gunman",
+        "isbn": 9780872864023.0,
+        "identifiers": "amazon:0872864022,google:eLmx1VzjofYC,isbn:9780872864023,barnesnoble:w/prone-gunman-jean-patrick-manchette/1101158922,goodreads:248681",
+        "series": "City Lights Noir",
+        "series_index": 1.0,
+        "uuid": "ebf4da7b-0fcb-41fd-b110-fb289877c41d"
+    },
+    {
+        "id": 216.0,
+        "author_sort": "Waugh, Billy & Keown, Tim",
+        "title": "Hunting the Jackal: A Special Forces and CIA Soldier's Fifty Years on the Frontlines of the War Against Terrorism",
+        "isbn": 9780060564100.0,
+        "identifiers": "isbn:9780060564100,barnesnoble:w/hunting-the-jackal-billy-waugh/1125825064,mobi-asin:B005O077BQ,goodreads:355941",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b4a197e5-bce9-4dba-9f0f-e5bf67cf2f28"
+    },
+    {
+        "id": 217.0,
+        "author_sort": "Emerson, Clinton",
+        "title": "Escape the Wolf - Preemptive Personal Security Handbook",
+        "isbn": null,
+        "identifiers": "amazon:B0099BJENU,mobi-asin:B0099BJENU,goodreads:19022193",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "aae30098-f64c-428b-8a92-eeb567d8cb0f"
+    },
+    {
+        "id": 218.0,
+        "author_sort": "Gonzales, Laurence",
+        "title": "Deep Survival: Who Lives, Who Dies, and Why",
+        "isbn": 9780393076578.0,
+        "identifiers": "mobi-asin:B0028Z4LUU,google:mQLDLn0GQfwC,isbn:9780393076578",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fb753682-5f60-4dbb-a9c1-4c07a4bc6797"
+    },
+    {
+        "id": 219.0,
+        "author_sort": "Gaiman, Neil & Sterling, Bruce & Beukes, Lauren & Doctorow, Cory & Jewel, Carolyn & Newitz, Annalee & Anders, Charlie Jane & Ashby, Madeline & Bacigalupi, Paolo & Brin, David & Cadigan, Pat & Ford, Paul & Grey, Sl & Gunn, Eileen & Human, Charles & Hurley, Kameron & Kelly, James Patrick & Naam, Ramez & Rajaniemi, Hannu & Rucker, Rudy & Shiner, Lewis & Yu, Charles",
+        "title": "Pwning Tomorrow: Stories From the Electronic Frontier",
+        "isbn": 9780996668613.0,
+        "identifiers": "isbn:9780996668613,goodreads:28461361",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "77b50e5a-65ad-46fb-8c7d-6634d5ad4557"
+    },
+    {
+        "id": 220.0,
+        "author_sort": "McGregor, Richard",
+        "title": "The Party: The Secret World of China's Communist Rulers",
+        "isbn": 9780061708763.0,
+        "identifiers": "google:cbWiKFRqNd0C,isbn:9780061708763",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1dc2adfe-b348-4bd5-bea8-6280c03cc2de"
+    },
+    {
+        "id": 221.0,
+        "author_sort": "Dick, Philip K.",
+        "title": "The Man in the High Castle",
+        "isbn": 9780241964262.0,
+        "identifiers": "google:ndYwZ2bGr3cC,isbn:9780241964262",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e8af8ae6-9f35-4432-9d49-a82775c68d2e"
+    },
+    {
+        "id": 222.0,
+        "author_sort": "Robinson, Kim Stanley",
+        "title": "Aurora",
+        "isbn": 9780316378741.0,
+        "identifiers": "google:GoedBAAAQBAJ,isbn:9780316378741",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "aa485012-2af4-43ef-8006-607eaa84fce4"
+    },
+    {
+        "id": 223.0,
+        "author_sort": "Corey, James S. A.",
+        "title": "Leviathan Wakes",
+        "isbn": 9780316129084.0,
+        "identifiers": "google:1VdJlwEACAAJ,isbn:9780316129084",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "446fd6ab-0e44-49a7-9649-50faeef85ef0"
+    },
+    {
+        "id": 224.0,
+        "author_sort": "McDonald, Ian",
+        "title": "Luna: New Moon",
+        "isbn": 9780765375513.0,
+        "identifiers": "google:NihfCgAAQBAJ,isbn:9780765375513,amazon:0765375516,mobi-asin:B00VRT927A,barnesnoble:w/luna-ian-mcdonald/1121112726,goodreads:23848027",
+        "series": "Luna",
+        "series_index": 1.0,
+        "uuid": "1b00b146-ad43-4d74-9c07-30dc84b91a12"
+    },
+    {
+        "id": 225.0,
+        "author_sort": "Mitnick, Kevin & Simon, William L. & Wozniak, Steve",
+        "title": "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker",
+        "isbn": 9780316134477.0,
+        "identifiers": "barnesnoble:w/ghost-in-the-wires-kevin-mitnick/1100214121,google:p-nRxITKc34C,isbn:9780316134477,goodreads:11509438",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c4fc1fab-1c5e-43f1-9dc8-c7dc9cf04584"
+    },
+    {
+        "id": 226.0,
+        "author_sort": "Seitz, Justin",
+        "title": "Black Hat Python: Python Programming for Hackers and Pentesters",
+        "isbn": 9781593276553.0,
+        "identifiers": "isbn:9781593276553,google:ZQ0BrgEACAAJ,mobi-asin:B00QL616DW",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7f1bd08b-b7b0-4c15-a593-b5833a2c05a4"
+    },
+    {
+        "id": 227.0,
+        "author_sort": "Zetter, Kim",
+        "title": "Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon",
+        "isbn": 9780770436186.0,
+        "identifiers": "isbn:9780770436186,google:1l2YAwAAQBAJ,mobi-asin:B00KEPLC08",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fb08ab81-c9e3-47f3-adcd-5d9c7e56773f"
+    },
+    {
+        "id": 228.0,
+        "author_sort": "Mitnick, Kevin & Simon, William L. & Wozniak, Steve",
+        "title": "The Art of Deception: Controlling the Human Element of Security",
+        "isbn": 9780764542800.0,
+        "identifiers": "google:oyZAnwEACAAJ,isbn:9780764542800,amazon:076454280X,mobi-asin:B006BBZHAK,barnesnoble:w/art-of-deception-kevin-d-mitnick/1100750976,goodreads:18160",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b19e11c0-294a-42ee-afeb-1491bf3b1043"
+    },
+    {
+        "id": 229.0,
+        "author_sort": "Russinovich, Mark & Schmidt, Howard",
+        "title": "Zero Day",
+        "isbn": 9780312612467.0,
+        "identifiers": "barnesnoble:w/zero-day-mark-russinovich/1100350862,isbn:9780312612467,amazon:031261246X,goodreads:9763010",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ae3a8391-0feb-4f3b-9c0c-2f96073da81d"
+    },
+    {
+        "id": 230.0,
+        "author_sort": "Krebs, Brian",
+        "title": "Spam Nation: The Inside Story of Organized Cybercrime-From Global Epidemic to Your Front Door",
+        "isbn": 9781492603238.0,
+        "identifiers": "google:FGNvoAEACAAJ,isbn:9781492603238",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e5b8d8f1-6c65-43fa-ab68-330646f846e0"
+    },
+    {
+        "id": 231.0,
+        "author_sort": "Bowden, Mark",
+        "title": "Killing Pablo: The Hunt for the World's Greatest Outlaw",
+        "isbn": 9780802123787.0,
+        "identifiers": "amazon:0802123783,google:tCi-oQEACAAJ,isbn:9780802123787,goodreads:419083",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "14ca38ec-ab63-4a38-8ec2-5b23cb2697bf"
+    },
+    {
+        "id": 232.0,
+        "author_sort": "Willink, Jocko & Babin, Leif",
+        "title": "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+        "isbn": 9781466874961.0,
+        "identifiers": "mobi-asin:B00VE4Y0Z2,isbn:9781466874961",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3ae9f6ee-c018-478e-8cc0-3382cd585deb"
+    },
+    {
+        "id": 233.0,
+        "author_sort": "Vinge, Vernor",
+        "title": "True Names",
+        "isbn": 9780312944445.0,
+        "identifiers": "google:CaNdPgAACAAJ,isbn:9780312944445,goodreads:1280983",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "995a3530-9281-4a3a-a496-6f519fcb106c"
+    },
+    {
+        "id": 234.0,
+        "author_sort": "McChrystal, Stanley A. & Mcchrystal, Stanley & Fussell, Chris & Collins, Tantum & Silverman, David",
+        "title": "Team of Teams: New Rules of Engagement for a Complex World",
+        "isbn": 9781591847489.0,
+        "identifiers": "google:OY7NoAEACAAJ,isbn:9781591847489",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1f9e3a93-1bb5-4237-b5d5-f452eb41f399"
+    },
+    {
+        "id": 235.0,
+        "author_sort": "Maclean, Fitzroy",
+        "title": "Eastern Approaches",
+        "isbn": 9780140132717.0,
+        "identifiers": "mobi-asin:B00UME8722,barnesnoble:w/eastern-approaches-fitzroy-maclean/1102811592,google:h_EeBgAAQBAJ,isbn:9780140132717",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c416c81b-e2c1-4794-a71b-604f47013649"
+    },
+    {
+        "id": 236.0,
+        "author_sort": "Campbell, Joseph",
+        "title": "The Hero With a Thousand Faces",
+        "isbn": 9781577315933.0,
+        "identifiers": "amazon:B001U09A4Q,google:I1uFuXlvFgMC,isbn:9781577315933,barnesnoble:w/the-hero-with-a-thousand-faces-joseph-campbell/1116648171,goodreads:4822737",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "af1e1f60-2e04-44df-acdc-7004f4fa7010"
+    },
+    {
+        "id": 240.0,
+        "author_sort": "Ferriss, Timothy",
+        "title": "The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich",
+        "isbn": 9780307465351.0,
+        "identifiers": "google:7ayVcWQJ89YC,isbn:9780307465351",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "44068959-0d32-440b-b54b-84f7bd4e51fd"
+    },
+    {
+        "id": 241.0,
+        "author_sort": "Eco, Umberto",
+        "title": "Foucault's Pendulum",
+        "isbn": 9780156032971.0,
+        "identifiers": "isbn:9780156032971,barnesnoble:w/foucaults-pendulum-umberto-eco/1100623434,google:jbpsQD0khY0C,mobi-asin:B003WUYPI8,amazon:015603297X",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4b0e5f11-4f9c-41d5-8078-312a0260ab9a"
+    },
+    {
+        "id": 242.0,
+        "author_sort": "Fromm, Pete",
+        "title": "Indian Creek Chronicles: A Winter Alone in the Wilderness",
+        "isbn": 9780312422721.0,
+        "identifiers": "google:0AaJzrvyu2cC,isbn:9780312422721,amazon:0312422725,mobi-asin:B00MKTO2PI,barnesnoble:w/indian-creek-chronicles-pete-fromm/1112167381,goodreads:1532394",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "995a0413-e7b9-4a46-8a67-6aeefeabc164"
+    },
+    {
+        "id": 243.0,
+        "author_sort": "Stewart, Rory",
+        "title": "The Places in Between",
+        "isbn": 9780156035934.0,
+        "identifiers": "mobi-asin:B003IEJZUQ,google:Nz_2AwAAQBAJ,isbn:9780156035934",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1ce17455-200a-489d-903d-b51bb3656f31"
+    },
+    {
+        "id": 244.0,
+        "author_sort": "Trevanian",
+        "title": "Shibumi: A Novel",
+        "isbn": 9781400098033.0,
+        "identifiers": "google:CQK24flPB1IC,isbn:9781400098033",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ef14f6dd-848a-44ba-9a6f-258294ec6ffe"
+    },
+    {
+        "id": 246.0,
+        "author_sort": "Taleb, Nassim Nicholas",
+        "title": "Antifragile: Things That Gain From Disorder",
+        "isbn": 9780679645276.0,
+        "identifiers": "mobi-asin:B0083DJWGO,google:5fqbz_qGi0AC,isbn:9780679645276",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "58d8c639-4b2d-4730-a340-bc36eee7604f"
+    },
+    {
+        "id": 247.0,
+        "author_sort": "Wynne, Marcus",
+        "title": "Air Marshals",
+        "isbn": null,
+        "identifiers": "barnesnoble:w/air-marshals-marcus-wynne/1101222031,google:F1ZxBwAAQBAJ,mobi-asin:B004YKYJFE,goodreads:11331773",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e3bbd827-3e04-44ee-8111-b034b8d96cc9"
+    },
+    {
+        "id": 248.0,
+        "author_sort": "Army, Department Of The & Defense, The U S Department Of",
+        "title": "Special Operations Forces Medical Handbook",
+        "isbn": 9781616082789.0,
+        "identifiers": "isbn:9781616082789,google:GFYhY49DzQkC,mobi-asin:B005WKM66E",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "48fb78e9-fdd1-42f6-be56-fe76db802a05"
+    },
+    {
+        "id": 250.0,
+        "author_sort": "Vonhof, John",
+        "title": "Fixing Your Feet: Prevention and Treatments for Athletes",
+        "isbn": 9780899973548.0,
+        "identifiers": "isbn:9780899973548,barnesnoble:w/fixing-your-feet-john-vonhof/1100343121,mobi-asin:B004K6MDZU,amazon:0899976387,goodreads:3192985",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4c55638b-bbc8-4a41-b05a-176bf4276978"
+    },
+    {
+        "id": 251.0,
+        "author_sort": "Burton, Fred",
+        "title": "Ghost: Confessions of a Counterterrorism Agent",
+        "isbn": 9780345494252.0,
+        "identifiers": "google:nYA8zwB0bt0C,isbn:9780345494252,amazon:0345494253,mobi-asin:B00139VURE,barnesnoble:w/ghost-fred-burton/1100396054,goodreads:6416053",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d1be8b71-5c64-4a4f-8333-e05a8dccca4e"
+    },
+    {
+        "id": 254.0,
+        "author_sort": "Soufan, Ali & Freedman, Daniel",
+        "title": "The Black Banners: The Inside Story of 9/11 and the War Against Al-Qaeda",
+        "isbn": 9780393079425.0,
+        "identifiers": "amazon:0393079422,google:DEeIeiV0nnIC,isbn:9780393079425,barnesnoble:w/the-black-banners-ali-soufan/1126025818,goodreads:10954987",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "52c85338-b97b-48f4-bbe4-6ac69196b830"
+    },
+    {
+        "id": 256.0,
+        "author_sort": "Manaugh, Geoff",
+        "title": "A Burglar's Guide to the City",
+        "isbn": 9780374710286.0,
+        "identifiers": "mobi-asin:B00V35U0TM,google:QSSNBwAAQBAJ,isbn:9780374710286",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8538b2c0-d94a-4ebf-a16a-09855ee2629f"
+    },
+    {
+        "id": 257.0,
+        "author_sort": "Luna, J. J.",
+        "title": "How to Be Invisible",
+        "isbn": 312252501.0,
+        "identifiers": "isbn:0312252501,mobi-asin:B0065QZVB6",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5d39fe9a-7a2d-4ba0-96d0-db0dbc7f4c4d"
+    },
+    {
+        "id": 258.0,
+        "author_sort": "Quinn, Daniel",
+        "title": "Ishmael",
+        "isbn": 9780340717103.0,
+        "identifiers": "isbn:9780340717103,google:IlRIPgAACAAJ,mobi-asin:B000SEFH6A,goodreads:1054617",
+        "series": "Ishmael",
+        "series_index": 1.0,
+        "uuid": "b0c6b80a-9ada-424e-a06a-a1c5b1c64546"
+    },
+    {
+        "id": 259.0,
+        "author_sort": "Quinn, Daniel",
+        "title": "My Ishmael",
+        "isbn": 9780553106367.0,
+        "identifiers": "isbn:9780553106367,barnesnoble:w/my-ishmael-daniel-quinn/1100619995,google:JSJcAAAAMAAJ,mobi-asin:B002PXFYHY,goodreads:227209",
+        "series": "Ishmael",
+        "series_index": 3.0,
+        "uuid": "a72ef6ec-d16b-47a0-8e1a-8c6509e30b0c"
+    },
+    {
+        "id": 260.0,
+        "author_sort": "Quinn, Daniel",
+        "title": "The Story of B: An Adventure of the Mind and Spirit",
+        "isbn": 9780553100532.0,
+        "identifiers": "isbn:9780553100532,barnesnoble:w/story-of-b-daniel-quinn/1100619815,google:OljRVSNjI_wC,mobi-asin:B00338075Y,goodreads:1198383",
+        "series": "Ishmael",
+        "series_index": 2.0,
+        "uuid": "4e93560f-2a11-462e-b120-31acf4bfedb2"
+    },
+    {
+        "id": 261.0,
+        "author_sort": "Williamson, Jed",
+        "title": "Accidents in North American Mountaineering 2014: Know The Ropes: Snow Climbing",
+        "isbn": 1933056851.0,
+        "identifiers": "isbn:1933056851,goodreads:21972320",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 67.0,
+        "uuid": "d7165e12-ce61-4406-a04e-0f9c978d8f6f"
+    },
+    {
+        "id": 262.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "Accidents in North American Mountaineering 2015: Know The Ropes: Protection",
+        "isbn": 9781933056890.0,
+        "identifiers": "barnesnoble:w/accident-in-north-american-mountaineering-2015-dougald-macdonald/1121490951,google:3Cn5rQEACAAJ,isbn:9781933056890,goodreads:26192707",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 68.0,
+        "uuid": "c754ad61-82f1-4925-8d8f-5fda20c3b775"
+    },
+    {
+        "id": 263.0,
+        "author_sort": "Abram, David",
+        "title": "The Spell of the Sensuous: Perception and Language in a More-Than-Human World",
+        "isbn": 9780307830555.0,
+        "identifiers": "mobi-asin:B009FKTKUW,google:-aVDf4-42tAC,isbn:9780307830555",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "30239137-1044-402a-b0ae-89faa4b5d13f"
+    },
+    {
+        "id": 264.0,
+        "author_sort": "Bey, Hakim",
+        "title": "T.A.Z.: The Temporary Autonomous Zone, Ontological Anarchy, Poetic Terrorism",
+        "isbn": 9781570271519.0,
+        "identifiers": "google:6nRhsgf8FU0C,isbn:9781570271519",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f9931b3e-917e-41a7-99b5-99cda2e088e0"
+    },
+    {
+        "id": 265.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "The American Alpine Journal 2015: The World's Most Significant Climbs",
+        "isbn": 1933056878.0,
+        "identifiers": "amazon:1933056878,isbn:1933056878,goodreads:26870664",
+        "series": "American Alpine Journal",
+        "series_index": 89.0,
+        "uuid": "c4feaeb4-5f13-4f1b-80e7-e29e9b8f0327"
+    },
+    {
+        "id": 266.0,
+        "author_sort": "Grey, Stephen",
+        "title": "The New Spymasters: Inside the Modern World of Espionage From the Cold War to Global Terror",
+        "isbn": 9780312379223.0,
+        "identifiers": "barnesnoble:w/the-new-spymasters-stephen-grey/1121443269,google:EHXhBQAAQBAJ,isbn:9780312379223,amazon:0312379226,goodreads:23941377",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1e798832-e49e-46e8-910e-c4a85e405d47"
+    },
+    {
+        "id": 268.0,
+        "author_sort": "Williams, Walter Jon",
+        "title": "Hardwired",
+        "isbn": 9781597800624.0,
+        "identifiers": "google:3bArAAAACAAJ,isbn:9781597800624",
+        "series": "Hardwired",
+        "series_index": 1.0,
+        "uuid": "d623c9f1-301e-4490-80cf-93190f40fbae"
+    },
+    {
+        "id": 269.0,
+        "author_sort": "Smuggler & XYZ",
+        "title": "The Second Realm: Crypto-Anarchy, Tradecraft, TAZ and Counterculture",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bcc5402d-decf-49bf-89a5-18a248d0955d"
+    },
+    {
+        "id": 270.0,
+        "author_sort": "Anonymous",
+        "title": "A Lodging of Wayfaring Men",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3187845e-6829-46de-8db1-a7ec9bc2547d"
+    },
+    {
+        "id": 271.0,
+        "author_sort": "Glubb, Sir John Bagot",
+        "title": "The Fate of Empires and Search for Survival",
+        "isbn": 9780851581279.0,
+        "identifiers": "google:0OQpAAAACAAJ,isbn:9780851581279",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "afcacef3-7b70-46e8-a9af-3851830feb93"
+    },
+    {
+        "id": 272.0,
+        "author_sort": "Ludlow, Peter",
+        "title": "Crypto Anarchy, Cyberstates, and Pirate Utopias",
+        "isbn": 262122383.0,
+        "identifiers": "google:PGcazfru0R8C,isbn:0262122383",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "11ba11a5-b945-4dd5-8a7a-3a4c9005447a"
+    },
+    {
+        "id": 273.0,
+        "author_sort": "Carré, John le",
+        "title": "Tinker, Tailor, Soldier, Spy",
+        "isbn": 9780143120933.0,
+        "identifiers": "isbn:9780143120933,amazon:B0042PA6BC,google:6Zm_ngEACAAJ,mobi-asin:15a74f08-bb9a-43a7-8ee1-11ee21495eda",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5340f82e-5fba-4ad8-b8a0-cae7837e3f5f"
+    },
+    {
+        "id": 274.0,
+        "author_sort": "Kennan, George Frost",
+        "title": "Tent Life in Siberia",
+        "isbn": 898755980.0,
+        "identifiers": "isbn:0898755980",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a23670f8-fed5-40c6-a266-1da61da9aada"
+    },
+    {
+        "id": 275.0,
+        "author_sort": "Stevenson, Robert Louis",
+        "title": "Treasure Island",
+        "isbn": 9781402713187.0,
+        "identifiers": "google:NTGDz-HBRBYC,isbn:9781402713187",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d0dd1fa2-cef9-461c-8eb2-e3202bd5215f"
+    },
+    {
+        "id": 276.0,
+        "author_sort": "Stoker, Bram",
+        "title": "Dracula",
+        "isbn": 8476391099.0,
+        "identifiers": "google:sn9W2cLuhxYC,isbn:8476391099",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2eda9f40-3e9c-4eb3-b423-e5f12e2a538c"
+    },
+    {
+        "id": 277.0,
+        "author_sort": "Yoshikawa, Eiji & Terry, Charles S.",
+        "title": "Musashi",
+        "isbn": 9781568364278.0,
+        "identifiers": "barnesnoble:w/musashi-an-epic-novel-of-the-samurai-era-eiji-yoshikawa/1003251381,google:Q-3wLgEACAAJ,isbn:9781568364278,amazon:156836427X,goodreads:15893429",
+        "series": "Musashi Complete",
+        "series_index": 1.0,
+        "uuid": "f1abb568-c54b-435e-b725-cfaf018a1218"
+    },
+    {
+        "id": 280.0,
+        "author_sort": "Highsmith, Patricia",
+        "title": "Strangers on a Train",
+        "isbn": 9780393321982.0,
+        "identifiers": "barnesnoble:w/strangers-on-a-train-patricia-highsmith/1122983473,google:qbkfHZEygt4C,isbn:9780393321982,amazon:B007Q6XIVO,goodreads:15677",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fcda37ab-b25b-421b-b211-29af558f7d13"
+    },
+    {
+        "id": 281.0,
+        "author_sort": "Highsmith, Patricia",
+        "title": "The Talented Mr. Ripley",
+        "isbn": 9780393332148.0,
+        "identifiers": "google:DO-7KCY6APMC,isbn:9780393332148",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5026e7b0-c2e2-4286-af3e-f70e982cf77b"
+    },
+    {
+        "id": 282.0,
+        "author_sort": "Kennedy, Sean",
+        "title": "Immersion 2086",
+        "isbn": 9781682225448.0,
+        "identifiers": "mobi-asin:B019229ZI4,barnesnoble:w/immersion-sean-kennedy/1123121022,isbn:9781682225448,amazon:1682225445,goodreads:27971562",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "18acdacf-d4a1-4b3b-90f7-0976d0e30880"
+    },
+    {
+        "id": 284.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Cumulus",
+        "isbn": 9781532707193.0,
+        "identifiers": "isbn:9781532707193,barnesnoble:w/cumulus-eliot-peper/1123730718,mobi-asin:B01E4L5L6S,amazon:B01E4L5L6S,goodreads:29908112",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0a16d262-383e-4f9e-a292-444489a76738"
+    },
+    {
+        "id": 285.0,
+        "author_sort": "Sterling, Bruce",
+        "title": "Islands in the Net",
+        "isbn": 441374239.0,
+        "identifiers": "google:maE8BQAAQBAJ,isbn:0441374239,amazon:B00PDDKVXK,mobi-asin:1c547975-5a1c-4ec0-9327-e3513babf6d0,barnesnoble:w/islands-in-the-net-bruce-sterling/1000654395,goodreads:23514977",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fb66152e-ebdf-48da-9cea-4c4b06531320"
+    },
+    {
+        "id": 286.0,
+        "author_sort": "Simon, Ted",
+        "title": "Jupiter's Travels",
+        "isbn": 9780140054101.0,
+        "identifiers": "isbn:9780140054101,barnesnoble:w/jupiters-travels-ted-simon/1100086352,google:flPTbaplSLMC,mobi-asin:B002RI92RU,goodreads:820934",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8d4d212b-2c12-4dd5-948c-0e12dde67293"
+    },
+    {
+        "id": 287.0,
+        "author_sort": "Moore, Alan W. & Bolland, Brian",
+        "title": "Batman: The Killing Joke",
+        "isbn": 1401216676.0,
+        "identifiers": "isbn:1401216676",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "109be96a-aceb-4da3-a146-0afc527761d2"
+    },
+    {
+        "id": 288.0,
+        "author_sort": "Otomo, Katsuhiro",
+        "title": "Akira, Vol. 1",
+        "isbn": 9781569714980.0,
+        "identifiers": "isbn:9781569714980,goodreads:93371",
+        "series": "Akira: 6 Volumes",
+        "series_index": 1.0,
+        "uuid": "76f6d03f-c1ce-40fd-8ce0-4dfb10b96ebf"
+    },
+    {
+        "id": 289.0,
+        "author_sort": "Whedon, Joss & Mathews, Brett",
+        "title": "Serenity: Those Left Behind #2",
+        "isbn": null,
+        "identifiers": "goodreads:27261280",
+        "series": "Serenity: Those Left Behind",
+        "series_index": 2.0,
+        "uuid": "6f255d21-6b2b-415c-ae78-329b69952adf"
+    },
+    {
+        "id": 290.0,
+        "author_sort": "Whedon, Zack",
+        "title": "Serenity: Downtime",
+        "isbn": null,
+        "identifiers": "goodreads:13624757",
+        "series": null,
+        "series_index": 2.3,
+        "uuid": "0599bf31-b86f-40ab-b7b4-ed05657e1519"
+    },
+    {
+        "id": 291.0,
+        "author_sort": "Whedon, Zack & Whedon, Joss & Samnee, Chris & Stewart, Dave & Morris, Steve",
+        "title": "Serenity: The Shepherd's Tale",
+        "isbn": 1595825614.0,
+        "identifiers": "isbn:1595825614",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "562c3fe8-d309-4cc7-a1a2-8ffd88a567be"
+    },
+    {
+        "id": 292.0,
+        "author_sort": "Oswalt, Patton",
+        "title": "Serenity: Float Out",
+        "isbn": null,
+        "identifiers": "goodreads:9776380",
+        "series": null,
+        "series_index": 2.4,
+        "uuid": "91e9de38-11c7-45ff-ab76-07fd781c1c2b"
+    },
+    {
+        "id": 293.0,
+        "author_sort": "Krueger, Jim",
+        "title": "Serenity: The Other Half",
+        "isbn": null,
+        "identifiers": "goodreads:11381977",
+        "series": null,
+        "series_index": 2.2,
+        "uuid": "4ef297de-9dbd-4850-83b3-4172b541da17"
+    },
+    {
+        "id": 294.0,
+        "author_sort": "Whedon, Joss & Matthews, Brett",
+        "title": "Serenity: Those Left Behind #1",
+        "isbn": null,
+        "identifiers": "goodreads:26904579",
+        "series": "Serenity: Those Left Behind",
+        "series_index": 1.0,
+        "uuid": "cb9f029f-cd6d-4856-bd35-a7334d101555"
+    },
+    {
+        "id": 295.0,
+        "author_sort": "Whedon, Joss & Matthews, Brett",
+        "title": "Serenity: Better Days #3",
+        "isbn": null,
+        "identifiers": "goodreads:19433017",
+        "series": "Serenity: Better Days",
+        "series_index": 3.0,
+        "uuid": "a7340145-7873-4c31-9a76-17c4df6c43ee"
+    },
+    {
+        "id": 296.0,
+        "author_sort": "Whedon, Joss & Matthews, Brett",
+        "title": "Serenity: Better Days #1",
+        "isbn": null,
+        "identifiers": "goodreads:20769393",
+        "series": "Serenity: Better Days",
+        "series_index": 1.0,
+        "uuid": "d25c57c9-96eb-4f0c-974a-9b011749b4df"
+    },
+    {
+        "id": 297.0,
+        "author_sort": "Whedon, Joss & Matthews, Brett",
+        "title": "Serenity: Better Days #2",
+        "isbn": null,
+        "identifiers": "goodreads:20769390",
+        "series": "Serenity: Better Days",
+        "series_index": 2.0,
+        "uuid": "197edddc-d1fd-4cb3-a631-360f667453fc"
+    },
+    {
+        "id": 298.0,
+        "author_sort": "Whedon, Joss & Matthews, Brett",
+        "title": "Serenity: Those Left Behind #3",
+        "isbn": null,
+        "identifiers": "goodreads:27261356",
+        "series": "Serenity: Those Left Behind",
+        "series_index": 3.0,
+        "uuid": "e3a13d60-7f35-405f-8b3f-35c33339b128"
+    },
+    {
+        "id": 299.0,
+        "author_sort": "Otomo, Katsuhiro & tomo & Sivasubramanian, Kumar",
+        "title": "Akira Club",
+        "isbn": 9781593077419.0,
+        "identifiers": "barnesnoble:w/akira-club-katsuhiro-otomo/1008168650,google:pxAwAAAACAAJ,isbn:9781593077419,goodreads:93390",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8bd414f4-7c41-48ad-b4d0-a4455d9cdfb5"
+    },
+    {
+        "id": 300.0,
+        "author_sort": "Otomo, Katsuhiro",
+        "title": "Akira, Vol. 2",
+        "isbn": 9781569714997.0,
+        "identifiers": "isbn:9781569714997,goodreads:93370",
+        "series": "Akira: 6 Volumes",
+        "series_index": 2.0,
+        "uuid": "b9cce72d-fd1d-424e-a2a0-137b59ddbf68"
+    },
+    {
+        "id": 301.0,
+        "author_sort": "Otomo, Katsuhiro",
+        "title": "Akira, Vol. 6",
+        "isbn": 9781569715284.0,
+        "identifiers": "isbn:9781569715284,goodreads:93375",
+        "series": "Akira: 6 Volumes",
+        "series_index": 6.0,
+        "uuid": "239b4349-56d0-4cf0-8339-a214446f29bd"
+    },
+    {
+        "id": 302.0,
+        "author_sort": "Otomo, Katsuhiro",
+        "title": "Akira, Vol. 5",
+        "isbn": 9781569715277.0,
+        "identifiers": "isbn:9781569715277,goodreads:93376",
+        "series": "Akira: 6 Volumes",
+        "series_index": 5.0,
+        "uuid": "8f50d268-a118-414d-bf92-d4aa7f8222d5"
+    },
+    {
+        "id": 303.0,
+        "author_sort": "Otomo, Katsuhiro",
+        "title": "Akira, Vol. 3",
+        "isbn": 9781569715253.0,
+        "identifiers": "isbn:9781569715253,goodreads:93372",
+        "series": "Akira: 6 Volumes",
+        "series_index": 3.0,
+        "uuid": "ffbb238e-198f-45a2-ac72-cc207151d033"
+    },
+    {
+        "id": 304.0,
+        "author_sort": "Otomo, Katsuhiro",
+        "title": "Akira, Vol. 4",
+        "isbn": 9781569715260.0,
+        "identifiers": "isbn:9781569715260,goodreads:93374",
+        "series": "Akira: 6 Volumes",
+        "series_index": 4.0,
+        "uuid": "b3a194d4-587a-41e8-93da-8820b51936c8"
+    },
+    {
+        "id": 305.0,
+        "author_sort": "Miller, Frank",
+        "title": "The Dark Knight Returns",
+        "isbn": 9781404622494.0,
+        "identifiers": "google:8N9PPwAACAAJ,isbn:9781404622494,goodreads:15989630",
+        "series": "The Dark Knight Saga",
+        "series_index": 1.0,
+        "uuid": "bf6bee07-ad1c-454b-a356-0fc1885e3a7f"
+    },
+    {
+        "id": 307.0,
+        "author_sort": "Miller, Frank & Mazzucchelli, David",
+        "title": "Batman: Year One",
+        "isbn": 9781401207526.0,
+        "identifiers": "google:MpBwPAAACAAJ,isbn:9781401207526,goodreads:59980",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3880becb-637d-4048-8161-436d478331ea"
+    },
+    {
+        "id": 308.0,
+        "author_sort": "Schwalm, Tony",
+        "title": "The Guerrilla Factory: The Making of Special Forces Officers, the Green Berets",
+        "isbn": 9781451623611.0,
+        "identifiers": "mobi-asin:B007EE5BL8,barnesnoble:w/the-guerrilla-factory-tony-schwalm/1110900982,isbn:9781451623611,goodreads:13547219",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "741d29f4-c184-403c-af33-3fcd7ecc436e"
+    },
+    {
+        "id": 309.0,
+        "author_sort": "Saint-Andre, Peter",
+        "title": "The Tao of Roark: Variations on a Theme From Ayn Rand",
+        "isbn": 9780615822952.0,
+        "identifiers": "isbn:9780615822952,barnesnoble:w/the-tao-of-roark-peter-saint-andre/1115483841,google:UG9wnQEACAAJ,mobi-asin:B00D0BOVE2,goodreads:18054611",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "be0881e9-f50d-44ba-83f9-949d2e65c92a"
+    },
+    {
+        "id": 310.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #1",
+        "isbn": null,
+        "identifiers": "goodreads:22380630",
+        "series": "Transmetropolitan",
+        "series_index": 1.0,
+        "uuid": "52162ceb-f12e-406a-bdd7-79012c87f58d"
+    },
+    {
+        "id": 311.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #60",
+        "isbn": null,
+        "identifiers": "goodreads:17908818",
+        "series": "Transmetropolitan",
+        "series_index": 60.0,
+        "uuid": "2565fb8f-51d3-44da-a5ee-dd67f31cfd7b"
+    },
+    {
+        "id": 312.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #59",
+        "isbn": null,
+        "identifiers": "goodreads:17908815",
+        "series": "Transmetropolitan",
+        "series_index": 59.0,
+        "uuid": "c60280b5-ce22-4f20-aaa7-451e851a2e79"
+    },
+    {
+        "id": 313.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #58",
+        "isbn": null,
+        "identifiers": "goodreads:17908812",
+        "series": "Transmetropolitan",
+        "series_index": 58.0,
+        "uuid": "0930b683-1a7b-4c3f-a294-4abfa457d416"
+    },
+    {
+        "id": 314.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #57",
+        "isbn": null,
+        "identifiers": "goodreads:17908756",
+        "series": "Transmetropolitan",
+        "series_index": 57.0,
+        "uuid": "68f5a7da-f768-4423-9e0c-7b06d4748201"
+    },
+    {
+        "id": 315.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #56",
+        "isbn": null,
+        "identifiers": "goodreads:17908753",
+        "series": "Transmetropolitan",
+        "series_index": 56.0,
+        "uuid": "4715a321-43c5-4a58-9d62-d97636808672"
+    },
+    {
+        "id": 316.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #2",
+        "isbn": null,
+        "identifiers": "goodreads:22405732",
+        "series": "Transmetropolitan",
+        "series_index": 2.0,
+        "uuid": "6e68e017-162b-44bc-a608-3fc9841b87c1"
+    },
+    {
+        "id": 317.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #55",
+        "isbn": null,
+        "identifiers": "goodreads:17908744",
+        "series": "Transmetropolitan",
+        "series_index": 55.0,
+        "uuid": "fe66905c-f7b4-4f18-bb89-49cb94fd9de0"
+    },
+    {
+        "id": 318.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #54",
+        "isbn": null,
+        "identifiers": "goodreads:17908738",
+        "series": "Transmetropolitan",
+        "series_index": 54.0,
+        "uuid": "304e6071-8986-4530-af62-40dbb8d618ed"
+    },
+    {
+        "id": 319.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #53",
+        "isbn": null,
+        "identifiers": "goodreads:17908735",
+        "series": "Transmetropolitan",
+        "series_index": 53.0,
+        "uuid": "782f6cae-1d66-408d-a9d2-4376de59f35c"
+    },
+    {
+        "id": 320.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #52",
+        "isbn": null,
+        "identifiers": "goodreads:17908727",
+        "series": "Transmetropolitan",
+        "series_index": 52.0,
+        "uuid": "879b54f6-a19c-4756-aa48-c14ecfd2732c"
+    },
+    {
+        "id": 321.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #50",
+        "isbn": null,
+        "identifiers": "goodreads:17906669",
+        "series": "Transmetropolitan",
+        "series_index": 50.0,
+        "uuid": "3a85280c-e39d-4ca7-b73d-a45b749dbca4"
+    },
+    {
+        "id": 322.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #51",
+        "isbn": null,
+        "identifiers": "goodreads:17906677",
+        "series": "Transmetropolitan",
+        "series_index": 51.0,
+        "uuid": "b5d0863b-2f48-47b6-ba3f-29e83b2e4049"
+    },
+    {
+        "id": 323.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #49",
+        "isbn": null,
+        "identifiers": "goodreads:17906660",
+        "series": "Transmetropolitan",
+        "series_index": 49.0,
+        "uuid": "b8af06af-d4f9-458a-82be-8894432d33fa"
+    },
+    {
+        "id": 324.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #3",
+        "isbn": null,
+        "identifiers": "goodreads:22405730",
+        "series": "Transmetropolitan",
+        "series_index": 3.0,
+        "uuid": "0281bf59-482b-43c3-8795-9194a356b0df"
+    },
+    {
+        "id": 325.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #48",
+        "isbn": null,
+        "identifiers": "goodreads:17906653",
+        "series": "Transmetropolitan",
+        "series_index": 48.0,
+        "uuid": "35928301-1e81-42d6-bb4a-12dcf4bd106d"
+    },
+    {
+        "id": 326.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #47",
+        "isbn": null,
+        "identifiers": "goodreads:17906645",
+        "series": "Transmetropolitan",
+        "series_index": 47.0,
+        "uuid": "a4035bc5-18ac-4c8e-950b-750bbacf9207"
+    },
+    {
+        "id": 327.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #45",
+        "isbn": null,
+        "identifiers": "goodreads:17906605",
+        "series": "Transmetropolitan",
+        "series_index": 45.0,
+        "uuid": "220d5607-b9bf-4101-a3e2-f872d51b2409"
+    },
+    {
+        "id": 328.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #46",
+        "isbn": null,
+        "identifiers": "goodreads:17906635",
+        "series": "Transmetropolitan",
+        "series_index": 46.0,
+        "uuid": "1ff33a91-7d0a-4520-a9a6-3407b80cfd72"
+    },
+    {
+        "id": 329.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #44",
+        "isbn": null,
+        "identifiers": "goodreads:17906595",
+        "series": "Transmetropolitan",
+        "series_index": 44.0,
+        "uuid": "7ebe95fd-208c-4c42-a09b-978deb87f50f"
+    },
+    {
+        "id": 330.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #43",
+        "isbn": null,
+        "identifiers": "goodreads:17906588",
+        "series": "Transmetropolitan",
+        "series_index": 43.0,
+        "uuid": "29865e69-8ee5-45f8-b383-fdee5a519973"
+    },
+    {
+        "id": 331.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #42",
+        "isbn": null,
+        "identifiers": "goodreads:17888566",
+        "series": "Transmetropolitan",
+        "series_index": 42.0,
+        "uuid": "02e3e507-8ddd-437d-b9dc-5019b3201b20"
+    },
+    {
+        "id": 332.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #41",
+        "isbn": null,
+        "identifiers": "goodreads:17888186",
+        "series": "Transmetropolitan",
+        "series_index": 41.0,
+        "uuid": "106da79a-14a8-4942-901c-c2fbdf632ffb"
+    },
+    {
+        "id": 333.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #39",
+        "isbn": null,
+        "identifiers": "goodreads:17887385",
+        "series": "Transmetropolitan",
+        "series_index": 39.0,
+        "uuid": "0f3581d6-48d9-4e60-b777-0536e7dd3498"
+    },
+    {
+        "id": 334.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #40",
+        "isbn": null,
+        "identifiers": "goodreads:17888117",
+        "series": "Transmetropolitan",
+        "series_index": 40.0,
+        "uuid": "25fcecbe-d642-430e-a656-4e7e88e1d1fe"
+    },
+    {
+        "id": 335.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #38",
+        "isbn": null,
+        "identifiers": "goodreads:17887375",
+        "series": "Transmetropolitan",
+        "series_index": 38.0,
+        "uuid": "1acb2f25-8315-4bad-821f-bf05f4fd485d"
+    },
+    {
+        "id": 336.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #37",
+        "isbn": null,
+        "identifiers": "goodreads:17887360",
+        "series": "Transmetropolitan",
+        "series_index": 37.0,
+        "uuid": "908523e0-333a-4bdc-99db-2807bcaf7b26"
+    },
+    {
+        "id": 337.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #36",
+        "isbn": null,
+        "identifiers": "goodreads:17886348",
+        "series": "Transmetropolitan",
+        "series_index": 36.0,
+        "uuid": "3ea85cc1-241d-40d3-9172-72c075e6cb42"
+    },
+    {
+        "id": 338.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #35",
+        "isbn": null,
+        "identifiers": "goodreads:17886334",
+        "series": "Transmetropolitan",
+        "series_index": 35.0,
+        "uuid": "d7493591-7160-46b4-80c2-7b42eb492965"
+    },
+    {
+        "id": 339.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #34",
+        "isbn": null,
+        "identifiers": "goodreads:17886317",
+        "series": "Transmetropolitan",
+        "series_index": 34.0,
+        "uuid": "deb11dbe-c4cb-4058-bd5c-aded44a0c05f"
+    },
+    {
+        "id": 340.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #33",
+        "isbn": null,
+        "identifiers": "goodreads:17886295",
+        "series": "Transmetropolitan",
+        "series_index": 33.0,
+        "uuid": "b060e221-fe73-43d3-bce2-e8f62c45f35e"
+    },
+    {
+        "id": 341.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #32",
+        "isbn": null,
+        "identifiers": "goodreads:17886277",
+        "series": "Transmetropolitan",
+        "series_index": 32.0,
+        "uuid": "d263df86-915a-4cc3-b764-c76ccf50e9fe"
+    },
+    {
+        "id": 342.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #31",
+        "isbn": null,
+        "identifiers": "goodreads:17886269",
+        "series": "Transmetropolitan",
+        "series_index": 31.0,
+        "uuid": "89c127dd-ac7c-4480-8eda-e485b4fa5198"
+    },
+    {
+        "id": 343.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #30",
+        "isbn": null,
+        "identifiers": "goodreads:17886265",
+        "series": "Transmetropolitan",
+        "series_index": 30.0,
+        "uuid": "f4be4cc2-227e-4c4c-a182-eb1b282f7595"
+    },
+    {
+        "id": 344.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #29",
+        "isbn": null,
+        "identifiers": "goodreads:17886260",
+        "series": "Transmetropolitan",
+        "series_index": 29.0,
+        "uuid": "03a23328-fb13-4dde-9687-d27b4fb96700"
+    },
+    {
+        "id": 345.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #28",
+        "isbn": null,
+        "identifiers": "goodreads:17886257",
+        "series": "Transmetropolitan",
+        "series_index": 28.0,
+        "uuid": "79f2d703-cccc-404e-97ad-94d31cac6251"
+    },
+    {
+        "id": 346.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #27",
+        "isbn": null,
+        "identifiers": "goodreads:17886254",
+        "series": "Transmetropolitan",
+        "series_index": 27.0,
+        "uuid": "b1ec935b-2e02-420e-ae2c-543a671986b9"
+    },
+    {
+        "id": 347.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #26",
+        "isbn": null,
+        "identifiers": "goodreads:17886250",
+        "series": "Transmetropolitan",
+        "series_index": 26.0,
+        "uuid": "3db167e9-f5a9-4ada-bdcd-b785a3e93345"
+    },
+    {
+        "id": 348.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #25",
+        "isbn": null,
+        "identifiers": "goodreads:17886246",
+        "series": "Transmetropolitan",
+        "series_index": 25.0,
+        "uuid": "bd945ce1-6a91-4756-876f-da23bf9bc70c"
+    },
+    {
+        "id": 349.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #24",
+        "isbn": null,
+        "identifiers": "goodreads:22618221",
+        "series": "Transmetropolitan",
+        "series_index": 24.0,
+        "uuid": "b1c2cd3e-f02d-45aa-bbbc-5dcca7c370a1"
+    },
+    {
+        "id": 350.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #23",
+        "isbn": null,
+        "identifiers": "goodreads:22618203",
+        "series": "Transmetropolitan",
+        "series_index": 23.0,
+        "uuid": "3f5da76f-4eff-4642-a18d-a55e70708ad0"
+    },
+    {
+        "id": 351.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #22",
+        "isbn": null,
+        "identifiers": "goodreads:22618250",
+        "series": "Transmetropolitan",
+        "series_index": 22.0,
+        "uuid": "da993d02-220b-4904-b2f0-23412b64a4e1"
+    },
+    {
+        "id": 352.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #21",
+        "isbn": null,
+        "identifiers": "goodreads:22618238",
+        "series": "Transmetropolitan",
+        "series_index": 21.0,
+        "uuid": "d3675968-d36a-4db8-9a81-4712df9f8493"
+    },
+    {
+        "id": 353.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #20",
+        "isbn": null,
+        "identifiers": "goodreads:22618230",
+        "series": "Transmetropolitan",
+        "series_index": 20.0,
+        "uuid": "807a21d9-18ac-48db-8318-6b470f241a9b"
+    },
+    {
+        "id": 354.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #19",
+        "isbn": null,
+        "identifiers": "goodreads:22618222",
+        "series": "Transmetropolitan",
+        "series_index": 19.0,
+        "uuid": "5e5ebc80-8108-4e78-b4f1-5602bab5e9f3"
+    },
+    {
+        "id": 355.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #16",
+        "isbn": null,
+        "identifiers": "goodreads:22618239",
+        "series": "Transmetropolitan",
+        "series_index": 16.0,
+        "uuid": "20732be3-36f7-42ca-80c2-aaf8591c53c9"
+    },
+    {
+        "id": 356.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #17",
+        "isbn": null,
+        "identifiers": "goodreads:22618210",
+        "series": "Transmetropolitan",
+        "series_index": 17.0,
+        "uuid": "4317995c-0e40-4153-8bdc-e59905d2e667"
+    },
+    {
+        "id": 357.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #18",
+        "isbn": null,
+        "identifiers": "goodreads:22618213",
+        "series": "Transmetropolitan",
+        "series_index": 18.0,
+        "uuid": "12bb6aef-d358-4ff5-a69c-037e7bd3c29a"
+    },
+    {
+        "id": 358.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #15",
+        "isbn": null,
+        "identifiers": "goodreads:22618219",
+        "series": "Transmetropolitan",
+        "series_index": 15.0,
+        "uuid": "9f617203-c38d-4c38-8980-0c76b9870cca"
+    },
+    {
+        "id": 359.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #14",
+        "isbn": null,
+        "identifiers": "goodreads:22618194",
+        "series": "Transmetropolitan",
+        "series_index": 14.0,
+        "uuid": "50f6ae5b-2f6a-44fb-aa6d-0306abf6fa3f"
+    },
+    {
+        "id": 360.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #12",
+        "isbn": null,
+        "identifiers": "goodreads:22618223",
+        "series": "Transmetropolitan",
+        "series_index": 12.0,
+        "uuid": "348d263b-ac34-46c0-b950-0a0cf3a182ac"
+    },
+    {
+        "id": 361.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #13",
+        "isbn": null,
+        "identifiers": "goodreads:22618235",
+        "series": "Transmetropolitan",
+        "series_index": 13.0,
+        "uuid": "7ad6dab7-6282-4867-a38c-0e4cf061c221"
+    },
+    {
+        "id": 362.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #11",
+        "isbn": null,
+        "identifiers": "goodreads:22618197",
+        "series": "Transmetropolitan",
+        "series_index": 11.0,
+        "uuid": "5dd1f58e-f794-4479-9ca7-65c81a1245e0"
+    },
+    {
+        "id": 363.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #10",
+        "isbn": null,
+        "identifiers": "goodreads:22618212",
+        "series": "Transmetropolitan",
+        "series_index": 10.0,
+        "uuid": "cda2dfad-bdb8-45ce-9ca2-f08f0084ee31"
+    },
+    {
+        "id": 364.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #8",
+        "isbn": null,
+        "identifiers": "goodreads:22460351",
+        "series": "Transmetropolitan",
+        "series_index": 8.0,
+        "uuid": "8f460582-bc7f-4aa1-a30e-f61beea92351"
+    },
+    {
+        "id": 365.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #9",
+        "isbn": null,
+        "identifiers": "goodreads:22618229",
+        "series": "Transmetropolitan",
+        "series_index": 9.0,
+        "uuid": "2d956485-cf4b-408a-9808-04f4d1adcdce"
+    },
+    {
+        "id": 366.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #7: Boyfriend Is a Virus",
+        "isbn": null,
+        "identifiers": "goodreads:22459628",
+        "series": "Transmetropolitan",
+        "series_index": 7.0,
+        "uuid": "01228f14-774c-478d-9aae-39cf4d6f57e9"
+    },
+    {
+        "id": 367.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #4",
+        "isbn": null,
+        "identifiers": "goodreads:22405731",
+        "series": "Transmetropolitan",
+        "series_index": 4.0,
+        "uuid": "918abf5a-7e91-4da8-9dd4-731460155ead"
+    },
+    {
+        "id": 368.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #5",
+        "isbn": null,
+        "identifiers": "goodreads:22405733",
+        "series": "Transmetropolitan",
+        "series_index": 5.0,
+        "uuid": "bce80c3b-e1a7-4d92-878d-daf6f0c89eba"
+    },
+    {
+        "id": 369.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Transmetropolitan #6",
+        "isbn": null,
+        "identifiers": "goodreads:22405734",
+        "series": "Transmetropolitan",
+        "series_index": 6.0,
+        "uuid": "189f0710-2e7a-4711-9aa7-bde2187f4537"
+    },
+    {
+        "id": 370.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #10",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 10.0,
+        "uuid": "8ea734a7-b485-4833-b12c-b76f903e56db"
+    },
+    {
+        "id": 371.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #9",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 9.0,
+        "uuid": "93f95035-41a6-4cd2-a71d-372ce8ee5400"
+    },
+    {
+        "id": 372.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #12",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 12.5,
+        "uuid": "21dd4031-f921-4bad-8eb3-1db1d128f5ff"
+    },
+    {
+        "id": 373.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #14",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 14.0,
+        "uuid": "e8463c5a-458a-46a2-b747-10a297626979"
+    },
+    {
+        "id": 374.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #1",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 1.0,
+        "uuid": "4de952e0-e9bb-4de6-8f11-041e5703038e"
+    },
+    {
+        "id": 375.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #12",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 12.0,
+        "uuid": "7e91c4c1-c0af-4005-8114-9e6d27390b20"
+    },
+    {
+        "id": 376.0,
+        "author_sort": "Culper, Samuel",
+        "title": "Forward Observer Magazine #11",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Forward Observer Magazine",
+        "series_index": 11.0,
+        "uuid": "f2878325-a723-40f0-8ad4-eb5a750cd9b7"
+    },
+    {
+        "id": 378.0,
+        "author_sort": "Luna, J. J.",
+        "title": "Invisible Money, Hidden Assets, Secret Accounts",
+        "isbn": null,
+        "identifiers": "amazon:B00DF4SH0I,goodreads:18972918",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a931ad49-1763-4fea-b128-ee8f2281d8de"
+    },
+    {
+        "id": 379.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #2",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 2.0,
+        "uuid": "75ec86c4-7dc3-4db8-9818-2707d8675b93"
+    },
+    {
+        "id": 380.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #3",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 3.0,
+        "uuid": "f3c37017-a43e-4dc7-b8de-a7c5347e17ca"
+    },
+    {
+        "id": 381.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #6",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 6.0,
+        "uuid": "0e08f74a-cdd3-4132-989c-87fc5258f846"
+    },
+    {
+        "id": 382.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #4",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 4.0,
+        "uuid": "f7ac808f-a87c-44d8-a74f-ec5d8c52a79e"
+    },
+    {
+        "id": 383.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #1",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 1.0,
+        "uuid": "dc14daa2-b84f-41ed-b82c-f478dc2bb66c"
+    },
+    {
+        "id": 384.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #5",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 5.0,
+        "uuid": "1213c861-cbea-41d6-b2f3-32230de5ee74"
+    },
+    {
+        "id": 385.0,
+        "author_sort": "Emerson, Ralph Waldo",
+        "title": "Essays",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "56f4aff6-a308-45a3-808c-a5e7bbe8a03d"
+    },
+    {
+        "id": 386.0,
+        "author_sort": "Grahame, Kenneth",
+        "title": "The Wind in the Willows",
+        "isbn": 9780194791373.0,
+        "identifiers": "amazon:0763665266,google:TnFmPgAACAAJ,isbn:9780194791373,goodreads:19729467",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "de69588d-1f14-4a14-a976-a436c55b09fb"
+    },
+    {
+        "id": 387.0,
+        "author_sort": "Conrad, Joseph",
+        "title": "Heart of Darkness",
+        "isbn": 9781892295491.0,
+        "identifiers": "amazon:1936594145,google:4npDDQAAQBAJ,isbn:9781892295491,barnesnoble:w/heart-of-darkness-joseph-conrad/1116616937,goodreads:4900",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e7ad7b11-cef6-406b-b0b4-521d51409b06"
+    },
+    {
+        "id": 390.0,
+        "author_sort": "Edmondson, Nathan",
+        "title": "The Activity, Volume 3",
+        "isbn": 9781607067597.0,
+        "identifiers": "barnesnoble:w/activity-volume-3-nathan-edmondson/1115199858,isbn:9781607067597",
+        "series": "The Activity",
+        "series_index": 3.0,
+        "uuid": "75df293d-1e81-4b24-a7a8-b314015f991a"
+    },
+    {
+        "id": 391.0,
+        "author_sort": "Edmondson, Nathan",
+        "title": "The Activity, Volume 2",
+        "isbn": 9781607067191.0,
+        "identifiers": "barnesnoble:w/the-activity-volume-2-nathan-edmondson/1113766781,isbn:9781607067191",
+        "series": "The Activity",
+        "series_index": 2.0,
+        "uuid": "c8fead80-ff07-4c5f-8acf-4cd1847335f6"
+    },
+    {
+        "id": 392.0,
+        "author_sort": "Edmondson, Nathan",
+        "title": "The Activity, Volume 1",
+        "isbn": 9781607065616.0,
+        "identifiers": "barnesnoble:w/activity-volume-1-nathan-edmondson/1109645214,isbn:9781607065616",
+        "series": "The Activity",
+        "series_index": 1.0,
+        "uuid": "f0903ce0-b2e2-4efc-9831-d1d1fb76e372"
+    },
+    {
+        "id": 393.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Calvin and Hobbes",
+        "isbn": 9780836220889.0,
+        "identifiers": "barnesnoble:w/calvin-and-hobbes-3-in-the-shadow-of-the-night-bill-watterson/1109232506,isbn:9780836220889,goodreads:77727",
+        "series": "Calvin and Hobbes",
+        "series_index": 1.0,
+        "uuid": "96ecf03c-5b72-4309-82d4-e15b32585fc5"
+    },
+    {
+        "id": 394.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Calvin and Hobbes: Something Under the Bed Is Drooling",
+        "isbn": 836218256.0,
+        "identifiers": "isbn:0836218256,goodreads:17886577",
+        "series": "Calvin and Hobbes",
+        "series_index": 2.0,
+        "uuid": "7d314b7c-8ec1-4013-8b95-04cc70ac8927"
+    },
+    {
+        "id": 395.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Yukon Ho!",
+        "isbn": 9780836218350.0,
+        "identifiers": "barnesnoble:w/yukon-ho-bill-watterson/1100195057,isbn:9780836218350,goodreads:199723",
+        "series": "Calvin and Hobbes",
+        "series_index": 3.0,
+        "uuid": "88e7870a-24a7-4f82-823a-d9f9b7954b71"
+    },
+    {
+        "id": 396.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Weirdos From Another Planet!",
+        "isbn": 9780836218626.0,
+        "identifiers": "barnesnoble:w/weirdos-from-another-planet-bill-watterson/1013497511,isbn:9780836218626,goodreads:77730",
+        "series": "Calvin and Hobbes",
+        "series_index": 4.0,
+        "uuid": "11b87281-2170-40b5-8ca1-abe9a2c213a3"
+    },
+    {
+        "id": 397.0,
+        "author_sort": "Watterson, Bill",
+        "title": "The Revenge of the Baby-Sat",
+        "isbn": 9780836218664.0,
+        "identifiers": "barnesnoble:w/revenge-of-the-baby-sat-bill-watterson/1100195058,isbn:9780836218664,goodreads:77728",
+        "series": "Calvin and Hobbes",
+        "series_index": 5.0,
+        "uuid": "b94327d2-1df8-4179-83d9-3e1b28c77132"
+    },
+    {
+        "id": 398.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Scientific Progress Goes \"Boink\"",
+        "isbn": 9780836218787.0,
+        "identifiers": "barnesnoble:w/scientific-progress-goes-boink-bill-watterson/1019561981,isbn:9780836218787,goodreads:70488",
+        "series": "Calvin and Hobbes",
+        "series_index": 6.0,
+        "uuid": "6914ccfb-9a67-42f4-8a0b-4a97a20a0740"
+    },
+    {
+        "id": 399.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Attack of the Deranged Mutant Killer Monster Snow Goons(Calvin and Hobbes Series)",
+        "isbn": 9780836218831.0,
+        "identifiers": "barnesnoble:w/attack-of-the-deranged-mutant-killer-monster-snow-goons-bill-watterson/1019561980,isbn:9780836218831,goodreads:77726",
+        "series": "Calvin and Hobbes",
+        "series_index": 7.0,
+        "uuid": "facb9bce-0226-40b9-a664-ff79793a151d"
+    },
+    {
+        "id": 400.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Calvin and Hobbes. The Days Are Just Packed",
+        "isbn": 9780836217353.0,
+        "identifiers": "barnesnoble:w/calvin-and-hobbes-the-days-are-just-packed-bill-watterson/1109232763,isbn:9780836217353,goodreads:24818",
+        "series": "Calvin and Hobbes",
+        "series_index": 8.0,
+        "uuid": "d6bbe647-f2a3-455b-b2b3-b517735149a8"
+    },
+    {
+        "id": 401.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection",
+        "isbn": 9780836217698.0,
+        "identifiers": "barnesnoble:w/homicidal-psycho-jungle-cat-bill-watterson/1101098256,isbn:9780836217698,goodreads:24816",
+        "series": "Calvin and Hobbes",
+        "series_index": 9.0,
+        "uuid": "aec2b73a-03bd-4b46-97fc-eb6413d18855"
+    },
+    {
+        "id": 402.0,
+        "author_sort": "Watterson, Bill",
+        "title": "There's Treasure Everywhere",
+        "isbn": 9780836213126.0,
+        "identifiers": "barnesnoble:w/theres-treasure-everywhere-bill-watterson/1019566344,isbn:9780836213126,goodreads:70489",
+        "series": "Calvin and Hobbes",
+        "series_index": 10.0,
+        "uuid": "6a860b90-e275-4b2d-9282-1bed5c7c8c5f"
+    },
+    {
+        "id": 404.0,
+        "author_sort": "Watterson, Bill",
+        "title": "It's a Magical World: A Calvin and Hobbes Collection",
+        "isbn": 9780836221367.0,
+        "identifiers": "barnesnoble:w/its-a-magical-world-bill-watterson/1019561978,isbn:9780836221367,goodreads:24814",
+        "series": "Calvin and Hobbes",
+        "series_index": 11.0,
+        "uuid": "085c0f70-2abc-4d00-8797-fafa3c7d2ae6"
+    },
+    {
+        "id": 405.0,
+        "author_sort": "Watterson, Bill",
+        "title": "Calvin and Hobbes: Sunday Pages 1985-1995",
+        "isbn": 9780740721359.0,
+        "identifiers": "barnesnoble:w/calvin-and-hobbes-bill-watterson/1100877643,isbn:9780740721359,goodreads:24820",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9ba368e0-c8f2-49e1-acd3-e022cb56f9bf"
+    },
+    {
+        "id": 406.0,
+        "author_sort": "Watterson, Bill",
+        "title": "The Calvin and Hobbes: Tenth Anniversary Book",
+        "isbn": 9780836204384.0,
+        "identifiers": "barnesnoble:w/calvin-and-hobbes-bill-watterson/1100877643,isbn:9780836204384,goodreads:24813",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "85d48981-3fe3-446a-b793-4306278f5c57"
+    },
+    {
+        "id": 407.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "The American Alpine Journal 2016: The World's Most Significant Climbs",
+        "isbn": 9781933056913.0,
+        "identifiers": "isbn:9781933056913,goodreads:29280887",
+        "series": "American Alpine Journal",
+        "series_index": 90.0,
+        "uuid": "4b345bfb-f624-4316-bae1-5fc5cb34fc31"
+    },
+    {
+        "id": 408.0,
+        "author_sort": "Williamson, Jed",
+        "title": "Accidents in North American Mountaineering 2012: Know The Ropes: Rappelling",
+        "isbn": 9781933056777.0,
+        "identifiers": "isbn:9781933056777,goodreads:15028175",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 65.0,
+        "uuid": "2586762e-f68b-4c01-a693-e427ea2c0317"
+    },
+    {
+        "id": 409.0,
+        "author_sort": "Williamson, Jed",
+        "title": "Accidents in North American Mountaineering 2013: Know The Ropes: Lowering",
+        "isbn": 9781933056814.0,
+        "identifiers": "isbn:9781933056814,goodreads:17872388",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 66.0,
+        "uuid": "5ecc934f-30d6-49b6-bd79-e33127d291e1"
+    },
+    {
+        "id": 410.0,
+        "author_sort": "Eisler, Barry",
+        "title": "A Clean Kill in Tokyo",
+        "isbn": 9781477820803.0,
+        "identifiers": "mobi-asin:B00M4LHQ82,barnesnoble:w/a-clean-kill-in-tokyo-barry-eisler/1115109389,isbn:9781477820803,goodreads:925",
+        "series": "John Rain",
+        "series_index": 1.0,
+        "uuid": "e05ebb89-0df8-4d2a-b3c6-4b276ba824b9"
+    },
+    {
+        "id": 411.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "The American Alpine Journal 2014: The World's Most Significant Climbs",
+        "isbn": 1933056835.0,
+        "identifiers": "amazon:1933056835,isbn:1933056835,goodreads:21972319",
+        "series": "American Alpine Journal",
+        "series_index": 88.0,
+        "uuid": "3efd18af-44c4-4d2f-92b6-f2013054e14d"
+    },
+    {
+        "id": 412.0,
+        "author_sort": "Transportation, U.S. Department Of",
+        "title": "Emergency Response Guidebook 2016",
+        "isbn": 9781535185981.0,
+        "identifiers": "barnesnoble:w/emergency-response-guidebook-2016-us-department-of-transportation/1124083082,isbn:9781535185981,amazon:1535185988,goodreads:31153017",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ec94fb09-9605-4171-a6d8-e94a98c739f7"
+    },
+    {
+        "id": 413.0,
+        "author_sort": "Werner, David & Thuman, Carol & Maxwell, Jane",
+        "title": "Where There Is No Doctor: A Village Health Care Handbook",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "22fc376b-7579-4dd3-bd07-99444a94ee69"
+    },
+    {
+        "id": 414.0,
+        "author_sort": "Dickson, Murray",
+        "title": "Where There Is No Dentist",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "33e6201c-fe45-4254-a4bd-c07f52dc45e1"
+    },
+    {
+        "id": 415.0,
+        "author_sort": "Popper, Nathaniel",
+        "title": "Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money",
+        "isbn": 9780062362506.0,
+        "identifiers": "mobi-asin:B00P6TZLOU,barnesnoble:w/digital-gold-nathaniel-popper/1120728331,isbn:9780062362506,goodreads:23546676",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ad966c82-bdc6-4200-a93c-3046caed81e3"
+    },
+    {
+        "id": 416.0,
+        "author_sort": "Vigna, Paul",
+        "title": "The Age of Cryptocurrency: How Bitcoin and Digital Money Are Challenging the Global Economic Order",
+        "isbn": 9781466873063.0,
+        "identifiers": "barnesnoble:w/the-age-of-cryptocurrency-paul-vigna/1120327580,isbn:9781466873063",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "16d837f0-0679-441b-ab14-02d20137d68d"
+    },
+    {
+        "id": 417.0,
+        "author_sort": "Musashi, Miyamoto & Wilson, William Scott & Tsujimura, Shiro",
+        "title": "The Book of Five Rings",
+        "isbn": 9781590302484.0,
+        "identifiers": "barnesnoble:w/book-of-five-rings-miyamoto-musashi/1002079196,google:o06YP08dp2gC,isbn:9781590302484,goodreads:13151220",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bd1b4da7-c038-4001-8b99-aa615d5a1201"
+    },
+    {
+        "id": 418.0,
+        "author_sort": "Wilson, William Scott",
+        "title": "The Lone Samurai: The Life of Miyamoto Musashi",
+        "isbn": 9781590309872.0,
+        "identifiers": "mobi-asin:B00C28DO24,barnesnoble:w/the-lone-samurai-william-scott-wilson/1111632187,isbn:9781590309872,goodreads:356867",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "95d224ae-4b42-4b19-8397-d5396c20e9ff"
+    },
+    {
+        "id": 419.0,
+        "author_sort": "Williamson, Jed",
+        "title": "Accidents in North American Mountaineering 2016",
+        "isbn": null,
+        "identifiers": "goodreads:29280888",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 69.0,
+        "uuid": "6d5887f8-e368-43dc-8bfe-2d40dd5b2164"
+    },
+    {
+        "id": 420.0,
+        "author_sort": "Harlin, John",
+        "title": "The American Alpine Journal 2012: The World's Most Significant Climbs",
+        "isbn": null,
+        "identifiers": "goodreads:15939382",
+        "series": "American Alpine Journal",
+        "series_index": 86.0,
+        "uuid": "d5b22c71-f7ac-4e2d-8665-1168d6fd74d3"
+    },
+    {
+        "id": 421.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "The American Alpine Journal 2013: The World's Most Significant Climbs",
+        "isbn": 9781933056791.0,
+        "identifiers": "barnesnoble:w/the-american-alpine-journal-2013-american-alpine-club/1115263998,isbn:9781933056791,goodreads:17872387",
+        "series": "American Alpine Journal",
+        "series_index": 87.0,
+        "uuid": "b4f7a7bc-ff0b-4fbb-87fa-eabac8d879be"
+    },
+    {
+        "id": 422.0,
+        "author_sort": "Wilderness Medicine Institute",
+        "title": "Wilderness Medicine Handbook, 11th Edition",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a9927956-c3ef-48e2-a154-7f1e0d26f24d"
+    },
+    {
+        "id": 423.0,
+        "author_sort": "Wilderness Medicine Institute",
+        "title": "Wilderness Medicine Handbook, 10th Edition",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6f09df76-abd2-4374-b698-42c8a930aa2d"
+    },
+    {
+        "id": 424.0,
+        "author_sort": "Bernstein, William J.",
+        "title": "If You Can",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6fa31302-5088-41a2-b0c8-0154c5628724"
+    },
+    {
+        "id": 425.0,
+        "author_sort": "Vail, Jeff",
+        "title": "A Theory of Power",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f1503133-3c61-4625-8efc-aa699a37cd24"
+    },
+    {
+        "id": 426.0,
+        "author_sort": "Lovecraft, H.P.",
+        "title": "The Complete Works of H.P. Lovecraft",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8a8ab2c2-d8fb-413b-a3a7-726e90a753aa"
+    },
+    {
+        "id": 427.0,
+        "author_sort": "Godesky, Jason",
+        "title": "Thirty Theses",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7f32f420-07fe-4571-adea-c035c485cb85"
+    },
+    {
+        "id": 428.0,
+        "author_sort": "Older, Malka",
+        "title": "Infomocracy",
+        "isbn": 9780765385154.0,
+        "identifiers": "google:YabuCwAAQBAJ,isbn:9780765385154,amazon:B0151U75ME,mobi-asin:B0151U75ME,barnesnoble:w/infomocracy-malka-ann-older/1122537843,goodreads:26114433",
+        "series": "Centenal Cycle",
+        "series_index": 1.0,
+        "uuid": "f53ad5f8-617f-4155-be76-ad7830ce1faf"
+    },
+    {
+        "id": 429.0,
+        "author_sort": "Shea, Robert & Wilson, Robert Anton",
+        "title": "The Illuminatus! Trilogy",
+        "isbn": 9780440539810.0,
+        "identifiers": "mobi-asin:B007NZQUUE,barnesnoble:w/illuminatus-trilogy-robert-shea/1100271829,isbn:9780440539810,goodreads:57913",
+        "series": "Illuminatus!",
+        "series_index": 1.0,
+        "uuid": "95c5fda5-078f-444a-a96c-ad8d47ebd18d"
+    },
+    {
+        "id": 430.0,
+        "author_sort": "Morris, Edmund",
+        "title": "The Rise of Theodore Roosevelt",
+        "isbn": 9780375756788.0,
+        "identifiers": "google:G2QXAQAAIAAJ,isbn:9780375756788,amazon:B004DEPH3E,mobi-asin:B004DEPH3E,barnesnoble:w/rise-of-theodore-roosevelt-edmund-morris/1100271601,goodreads:9768874",
+        "series": "Theodore Roosevelt",
+        "series_index": 1.0,
+        "uuid": "fc33e4fd-4429-43ac-be00-dd19e8e62068"
+    },
+    {
+        "id": 431.0,
+        "author_sort": "Morris, Edmund",
+        "title": "Theodore Rex",
+        "isbn": 9780812966008.0,
+        "identifiers": "google:O9r_p6Kbi24C,isbn:9780812966008,amazon:B004DEPH0M,mobi-asin:B004DEPH0M,barnesnoble:w/theodore-rex-edmund-morris/1100271600,goodreads:9768052",
+        "series": "Theodore Roosevelt",
+        "series_index": 2.0,
+        "uuid": "cda3e7d2-85a5-4dcc-b4b1-06cc87c624d5"
+    },
+    {
+        "id": 433.0,
+        "author_sort": "Winslow, Don",
+        "title": "The Cartel",
+        "isbn": 9781101874998.0,
+        "identifiers": "mobi-asin:B00PP3DNCE,barnesnoble:w/the-cartel-don-winslow/1121197998,isbn:9781101874998,amazon:B00PP3DNCE,goodreads:23602561",
+        "series": "Power of the Dog",
+        "series_index": 2.0,
+        "uuid": "7fa72683-a7cb-48b3-b778-c8934f783276"
+    },
+    {
+        "id": 434.0,
+        "author_sort": "Obermayer, Bastian & Obermaier, Frederik",
+        "title": "The Panama Papers: Breaking the Story of How the Rich and Powerful Hide Their Money",
+        "isbn": 9781786070470.0,
+        "identifiers": "barnesnoble:w/the-panama-papers-bastian-obermayer/1123895382,isbn:9781786070470,goodreads:29993722",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "71149497-b0e5-4acc-aa46-ade32a7a9f1f"
+    },
+    {
+        "id": 435.0,
+        "author_sort": "Dick Blust, Jr.",
+        "title": "Back Country Navigation for the Hunter",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5d0c7d5e-f288-4feb-9006-348bc89218c9"
+    },
+    {
+        "id": 436.0,
+        "author_sort": "Shirley, John",
+        "title": "City Come A-Walkin'",
+        "isbn": 9781568581910.0,
+        "identifiers": "mobi-asin:B00NWRDZCS,isbn:9781568581910,goodreads:1123715",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5dfb3033-6fa8-4c51-972d-9f9b09b1d2ee"
+    },
+    {
+        "id": 438.0,
+        "author_sort": "Testa, M.",
+        "title": "Militant Anti-Fascism: A Hundred Years of Resistance",
+        "isbn": 9781849352031.0,
+        "identifiers": "barnesnoble:w/militant-anti-fascism-m-testa/1118973792,isbn:9781849352031,goodreads:21535426",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e5d66985-f301-40d0-9fde-3ba639c81b5a"
+    },
+    {
+        "id": 441.0,
+        "author_sort": "Morgan, Richard K.",
+        "title": "Woken Furies",
+        "isbn": 9780345479716.0,
+        "identifiers": "isbn:9780345479716,barnesnoble:w/woken-furies-richard-k-morgan/1100294037,mobi-asin:B000FCKDKU,goodreads:29397",
+        "series": "Takeshi Kovacs",
+        "series_index": 3.0,
+        "uuid": "a89cdebc-949b-407a-86dd-2ad7f5707afa"
+    },
+    {
+        "id": 442.0,
+        "author_sort": "Mountebank, T.",
+        "title": "Sister Sable",
+        "isbn": 9781517645175.0,
+        "identifiers": "mobi-asin:B0135HUFPY,barnesnoble:w/sister-sable-t-mountebank/1122450650,isbn:9781517645175,goodreads:26022605",
+        "series": "The Mad Queen",
+        "series_index": 1.0,
+        "uuid": "cb0341a5-05a2-4d88-9d72-4298b31660a8"
+    },
+    {
+        "id": 443.0,
+        "author_sort": "Watts, Peter",
+        "title": "Blindsight",
+        "isbn": 9780765312181.0,
+        "identifiers": "barnesnoble:w/blindsight-peter-watts/1100355721,isbn:9780765312181,goodreads:48484",
+        "series": "Firefall",
+        "series_index": 1.0,
+        "uuid": "60ed46b4-4442-40d6-8049-17a49066e736"
+    },
+    {
+        "id": 445.0,
+        "author_sort": "Cordell, Drew",
+        "title": "Absolute Knowledge",
+        "isbn": null,
+        "identifiers": "mobi-asin:B01NCK6MIQ,goodreads:33666708",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2eb2bbaa-32a2-4710-a0be-46da0f797d73"
+    },
+    {
+        "id": 446.0,
+        "author_sort": "Brand, Stewart",
+        "title": "Clock of the Long Now",
+        "isbn": 9780786722921.0,
+        "identifiers": "isbn:9780786722921,barnesnoble:w/clock-of-the-long-now-stewart-brand/1111639912,mobi-asin:B003P9XCY4,goodreads:9008721",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3e5bba10-da7a-49bb-868d-a7a317fb40ad"
+    },
+    {
+        "id": 447.0,
+        "author_sort": "Newbold, Robert C. & Lynch, William E.",
+        "title": "The Project Manifesto: Transforming Your Life and Work With Critical Chain Values",
+        "isbn": 9781934979150.0,
+        "identifiers": "barnesnoble:w/the-project-manifesto-robert-c-newbold/1118739805,isbn:9781934979150,goodreads:21420921",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a19de881-2410-49d8-8370-0b22607c708f"
+    },
+    {
+        "id": 450.0,
+        "author_sort": "Sterling, Bruce",
+        "title": "Holy Fire",
+        "isbn": 9780307796776.0,
+        "identifiers": "isbn:9780307796776,barnesnoble:w/holy-fire-bruce-sterling/1100089852,mobi-asin:B01GHDDWNK,goodreads:12061499",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b9c91f7f-a295-4f9b-b6cf-adf069cf4b96"
+    },
+    {
+        "id": 453.0,
+        "author_sort": "Ferriss, Timothy",
+        "title": "Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers",
+        "isbn": 9781328683786.0,
+        "identifiers": "barnesnoble:w/tools-of-titans-tim-ferriss/1124512855,google:I6iaDAAAQBAJ,isbn:9781328683786,amazon:B01LF32ZNU,goodreads:31823677",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6710829a-9d71-4a33-b52c-56404a4c0d4a"
+    },
+    {
+        "id": 454.0,
+        "author_sort": "McDougall, Christopher",
+        "title": "Natural Born Heroes: Mastering the Lost Secrets of Strength and Endurance",
+        "isbn": 9780307742223.0,
+        "identifiers": "mobi-asin:B00NRQI5U6,barnesnoble:w/natural-born-heroes-christopher-mcdougall/1122353374,isbn:9780307742223,goodreads:25893524",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b6483a21-4ab9-4954-8548-f449a07f8b51"
+    },
+    {
+        "id": 455.0,
+        "author_sort": "Morgan, Richard K.",
+        "title": "Market Forces",
+        "isbn": 345457749.0,
+        "identifiers": "mobi-asin:B000FCJZJK,amazon:B000FCJZJK,isbn:0345457749,goodreads:40450",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e9416ed7-05af-4acc-b7ba-4da8fe6c9b80"
+    },
+    {
+        "id": 456.0,
+        "author_sort": "Forsyth, Frederick",
+        "title": "The Day of the Jackal",
+        "isbn": 9780553266306.0,
+        "identifiers": "isbn:9780553266306,mobi-asin:B0081KZ20E,goodreads:540020",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "549460b2-7bab-479a-93f3-877ceaeead9d"
+    },
+    {
+        "id": 457.0,
+        "author_sort": "Forsyth, Frederick",
+        "title": "The Odessa File",
+        "isbn": 9781101607282.0,
+        "identifiers": "mobi-asin:B0085DOJLU,barnesnoble:w/odessa-file-frederick-forsyth/1101116208,isbn:9781101607282,goodreads:16646847",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1251e6c0-131e-4063-808d-3c86aec4f4ec"
+    },
+    {
+        "id": 458.0,
+        "author_sort": "Lagercrantz, David",
+        "title": "The Girl in the Spider's Web",
+        "isbn": 9781848667778.0,
+        "identifiers": "isbn:9781848667778,goodreads:26621753",
+        "series": "Millennium",
+        "series_index": 4.0,
+        "uuid": "7fdc8dad-312c-45e9-819b-14a6849ddecb"
+    },
+    {
+        "id": 459.0,
+        "author_sort": "Forsyth, Frederick",
+        "title": "Dogs of War",
+        "isbn": 9781101607541.0,
+        "identifiers": "isbn:9781101607541,barnesnoble:w/dogs-of-war-frederick-forsyth/1102553705,mobi-asin:B0085DOI20,goodreads:16692566",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e7319d72-3bf1-45bc-bc02-de9215663f5c"
+    },
+    {
+        "id": 460.0,
+        "author_sort": "Gonzalez, Josan",
+        "title": "The Future is Now, Volume 1",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Future is Now",
+        "series_index": 1.0,
+        "uuid": "a6d66329-620c-4e7a-bbe8-11731539592a"
+    },
+    {
+        "id": 461.0,
+        "author_sort": "Gonzalez, Josan",
+        "title": "The Future is Now, Volume 2",
+        "isbn": 9788494608414.0,
+        "identifiers": "isbn:9788494608414",
+        "series": "The Future is Now",
+        "series_index": 2.0,
+        "uuid": "a39f9af3-5fe4-490f-8f60-ef896774ede0"
+    },
+    {
+        "id": 462.0,
+        "author_sort": "Mitnick, Kevin",
+        "title": "The Art of Invisibility: The World's Most Famous Hacker Teaches You How to Be Safe in the Age of Big Brother and Big Data",
+        "isbn": 9780316380508.0,
+        "identifiers": "mobi-asin:B01GZY28CW,barnesnoble:w/the-art-of-invisibility-kevin-mitnick/1123889644,isbn:9780316380508",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ebdb977c-bdda-4657-8cbb-8400ee40b609"
+    },
+    {
+        "id": 463.0,
+        "author_sort": "Stevens, Taylor",
+        "title": "The Informationist",
+        "isbn": 9780307717115.0,
+        "identifiers": "isbn:9780307717115,barnesnoble:w/informationist-taylor-stevens/1100045422,mobi-asin:B004IK8PWS,goodreads:9941438",
+        "series": "Vanessa Michael Munroe",
+        "series_index": 1.0,
+        "uuid": "c922d0bc-470c-4895-b2da-f3fb320b6fa2"
+    },
+    {
+        "id": 464.0,
+        "author_sort": "Fleming, Ian",
+        "title": "Moonraker",
+        "isbn": 9781612185453.0,
+        "identifiers": "google:L6ZfMQEACAAJ,isbn:9781612185453,amazon:1612185452,mobi-asin:B008L40R1E,ff:f/ian-fleming/moonraker,barnesnoble:w/moonraker-ian-fleming/1100675046,goodreads:15954467",
+        "series": "James Bond (Original Series)",
+        "series_index": 3.0,
+        "uuid": "1136838c-ad04-4e95-8579-3120d50d3033"
+    },
+    {
+        "id": 465.0,
+        "author_sort": "Naam, Ramez",
+        "title": "Apex",
+        "isbn": 9780857664013.0,
+        "identifiers": "barnesnoble:w/apex-ramez-naam/1118476943,isbn:9780857664013,goodreads:22926906",
+        "series": "Nexus",
+        "series_index": 3.0,
+        "uuid": "53d0ea8c-6bd9-4a6f-b2bf-2800477e082c"
+    },
+    {
+        "id": 466.0,
+        "author_sort": "Naam, Ramez",
+        "title": "Crux",
+        "isbn": 9781942948018.0,
+        "identifiers": "google:vZDDCAAAQBAJ,isbn:9781942948018,amazon:B00TOZI7J8,mobi-asin:53c0bd8e-5ff9-466d-9fad-87de84b6fdf9,barnesnoble:w/crux-ramez-naam/1113937931,goodreads:15997527",
+        "series": "The Nexus Trilogy",
+        "series_index": 2.0,
+        "uuid": "6849e21a-add0-439b-bd56-f8be588b1e1c"
+    },
+    {
+        "id": 467.0,
+        "author_sort": "Naam, Ramez",
+        "title": "Nexus",
+        "isbn": 9780857662934.0,
+        "identifiers": "isbn:9780857662934,goodreads:13642710",
+        "series": "Nexus",
+        "series_index": 1.0,
+        "uuid": "2f5ffd99-0358-47d0-9e18-4ede916ca001"
+    },
+    {
+        "id": 468.0,
+        "author_sort": "McDonald, Ian",
+        "title": "Wolf Moon",
+        "isbn": 9780765375537.0,
+        "identifiers": "amazon:0765375532,google:b7TYoAEACAAJ,isbn:9780765375537,barnesnoble:w/luna-ian-mcdonald/1126272861,goodreads:28220871",
+        "series": "Luna",
+        "series_index": 2.0,
+        "uuid": "44ad1349-673d-4b83-8f3b-a85a6dd532ab"
+    },
+    {
+        "id": 469.0,
+        "author_sort": "Fleming, Ian",
+        "title": "Diamonds Are Forever",
+        "isbn": 9781612185460.0,
+        "identifiers": "google:9VcvMQEACAAJ,isbn:9781612185460,amazon:1612185460,mobi-asin:B008L40OW6,ff:f/ian-fleming/diamonds-are-forever,barnesnoble:w/diamonds-are-forever-ian-fleming/1100668263,goodreads:15954468",
+        "series": "James Bond (Original Series)",
+        "series_index": 4.0,
+        "uuid": "1c0572c6-a058-432c-945d-7c8256334127"
+    },
+    {
+        "id": 470.0,
+        "author_sort": "Mingyur, Yongey",
+        "title": "The Joy of Living: Unlocking the Secret and Science of Happiness",
+        "isbn": 9780307346254.0,
+        "identifiers": "mobi-asin:712683fb-d779-456e-987c-ce44ff0c3ac7,barnesnoble:w/the-joy-of-living-yongey-mingyur-rinpoche/1113774756,isbn:9780307346254,goodreads:289448",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6667bba7-43e1-4ce8-891b-f3334748c2f4"
+    },
+    {
+        "id": 472.0,
+        "author_sort": "Pirsig, Robert M.",
+        "title": "Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values",
+        "isbn": 9780060589462.0,
+        "identifiers": "mobi-asin:B0026772N8,isbn:9780060589462,goodreads:629",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3053025d-bb75-4931-8788-de4ed9b3ffc5"
+    },
+    {
+        "id": 473.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Walkaway",
+        "isbn": 9780765392763.0,
+        "identifiers": "isbn:9780765392763,goodreads:30139664",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0890da1d-65dd-4f92-93b8-2cc2de840755"
+    },
+    {
+        "id": 474.0,
+        "author_sort": "Pratchett, Terry",
+        "title": "The Light Fantastic",
+        "isbn": 9780061020704.0,
+        "identifiers": "barnesnoble:w/light-fantastic-terry-pratchett/1100616025,isbn:9780061020704,goodreads:34506",
+        "series": "Discworld",
+        "series_index": 2.0,
+        "uuid": "7a3ff559-5d3a-4d5b-af34-8d28c32ecd5d"
+    },
+    {
+        "id": 475.0,
+        "author_sort": "Kondo, Marie",
+        "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+        "isbn": 9781607747314.0,
+        "identifiers": "barnesnoble:w/the-life-changing-magic-of-tidying-up-marie-kondo/1119564096,isbn:9781607747314,goodreads:22551617",
+        "series": "Magic cleaning",
+        "series_index": 1.0,
+        "uuid": "f0a8356a-e44f-4796-988d-ed8675ef8fff"
+    },
+    {
+        "id": 478.0,
+        "author_sort": "Schimelpfenig, Tod",
+        "title": "Nols Wilderness Medicine",
+        "isbn": 811718255.0,
+        "identifiers": "isbn:0811718255,goodreads:28288103",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6979a02b-56e1-447a-a372-e11cc78b77e3"
+    },
+    {
+        "id": 479.0,
+        "author_sort": "Zeek",
+        "title": "The Art of Shen Ku",
+        "isbn": 9780399527258.0,
+        "identifiers": "isbn:9780399527258,goodreads:301811",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "688dffb3-627f-46e8-bac9-cbead64b067d"
+    },
+    {
+        "id": 480.0,
+        "author_sort": "Mason, Zachary",
+        "title": "Void Star",
+        "isbn": 9780374285067.0,
+        "identifiers": "isbn:9780374285067,goodreads:29939057",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6e93df14-b099-40ff-a161-9f2e05d44a44"
+    },
+    {
+        "id": 482.0,
+        "author_sort": "McBay, Aric",
+        "title": "In the Wake: Tools for Gridcash",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b58ea078-5f56-41da-bf05-6cb9641dae0a"
+    },
+    {
+        "id": 483.0,
+        "author_sort": "McBay, Aric",
+        "title": "Peak Oil Survival: Preparation for Life After Gridcrash",
+        "isbn": 9781592281275.0,
+        "identifiers": "asin:B001F7BFBA,guid:4ea988c82947c84d8859d81640da103ae9f5572d,isbn:9781592281275,oasin:1592281273,goodreads:295815",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "901001a2-1db9-41e6-957c-b378716430dd"
+    },
+    {
+        "id": 484.0,
+        "author_sort": "Woodmencey, Jim",
+        "title": "Reading Weather, 2nd: The Field Guide to Forecasting the Weather",
+        "isbn": 9780762782369.0,
+        "identifiers": "asin:B0091RRH36,isbn:9780762782369,oasin:0762782366,barnesnoble:w/reading-weather-2nd-jim-woodmencey/1110980604,guid:94c0c027406e9fbad178bb6f3a2984f532ff2fc,goodreads:13593039",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ccbf3e40-cab3-4062-b18c-56acc3e56880"
+    },
+    {
+        "id": 485.0,
+        "author_sort": "Stephenson, Neal & Galland, Nicole",
+        "title": "The Rise and Fall of D.O.D.O.",
+        "isbn": 9780062409164.0,
+        "identifiers": "isbn:9780062409164,barnesnoble:w/the-rise-and-fall-of-dodo-neal-stephenson/1124651137,mobi-asin:B01M0HPHR6,goodreads:32075825",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c6311cba-6419-429a-a7bb-532c5c7fef70"
+    },
+    {
+        "id": 486.0,
+        "author_sort": "Weisgerber, Bernie",
+        "title": "An Ax to Grind: A Practical Ax Manual",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d9d377d8-5db6-4c4d-944c-5872fa023ce1"
+    },
+    {
+        "id": 487.0,
+        "author_sort": "Rollins, Henry",
+        "title": "Get in the Van",
+        "isbn": 9781880985823.0,
+        "identifiers": "mobi-asin:B004GXBA06,isbn:9781880985823,goodreads:19070198",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4e4e212a-03ab-4413-b812-4428db8f399c"
+    },
+    {
+        "id": 488.0,
+        "author_sort": "Feynman, Richard",
+        "title": "Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",
+        "isbn": 9780393316049.0,
+        "identifiers": "isbn:9780393316049,uri:urn:uuid:75cce0cd-f428-4227-9cad-a2f4828b3e83,goodreads:5544",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "17017166-adee-48c7-9f7b-f11eebe8ec0c"
+    },
+    {
+        "id": 489.0,
+        "author_sort": "Anders, Charlie Jane",
+        "title": "All the Birds in the Sky",
+        "isbn": 9781466871120.0,
+        "identifiers": "isbn:9781466871120,goodreads:25659088",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ac7ee3a2-399a-4243-b769-5340bc44e8fc"
+    },
+    {
+        "id": 490.0,
+        "author_sort": "Harari, Yuval Noah",
+        "title": "Sapiens: A Brief History of Humankind",
+        "isbn": 9780062316110.0,
+        "identifiers": "mobi-asin:fb84f097-8b75-44b5-8dd2-650c14f31316,amazon:0062316095,isbn:9780062316110,barnesnoble:w/sapiens-yuval-noah-harari/1118611502,goodreads:23692271",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7bf5a4b9-68f9-455a-9c72-9f99132fed93"
+    },
+    {
+        "id": 491.0,
+        "author_sort": "Crouch, Blake",
+        "title": "Dark Matter",
+        "isbn": 9781101904220.0,
+        "identifiers": "google:1imJDAAAQBAJ,isbn:9781101904220,amazon:B0180T0IUY,mobi-asin:B0180T0IUY,ff:c/blake-crouch/dark-matter,goodreads:27833670",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f1ddeb5b-33d2-4883-9e11-e685365c4029"
+    },
+    {
+        "id": 492.0,
+        "author_sort": "Wolfe, Tom",
+        "title": "The Right Stuff",
+        "isbn": 9780312427566.0,
+        "identifiers": "amazon:B00139XSBA,google:CiSXWxWkx_oC,isbn:9780312427566,barnesnoble:w/the-right-stuff-tom-wolfe/1117058151,goodreads:586472",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ee2be86e-c837-4626-8bbe-fec3d1ae2090"
+    },
+    {
+        "id": 494.0,
+        "author_sort": "Palmer, Ada",
+        "title": "Too Like the Lightning",
+        "isbn": 9781786699503.0,
+        "identifiers": "isbn:9781786699503,amazon:1786699508,google:1yXfCwAAQBAJ,mobi-asin:B015MP6WPY,goodreads:26114545",
+        "series": "Terra Ignota",
+        "series_index": 1.0,
+        "uuid": "6053a08a-5198-45b5-ba8b-755caf108962"
+    },
+    {
+        "id": 496.0,
+        "author_sort": "Bloom, John",
+        "title": "Eccentric Orbits: The Iridium Story",
+        "isbn": 9780802121684.0,
+        "identifiers": "amazon:0802121683,google:IMtmjwEACAAJ,isbn:9780802121684,barnesnoble:w/eccentric-orbits-john-bloom/1122941373,goodreads:26893707",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4a07c8b8-fde6-44d2-9df4-34608b196f79"
+    },
+    {
+        "id": 497.0,
+        "author_sort": "Sterling, Bruce",
+        "title": "Heavy Weather",
+        "isbn": 1857981928.0,
+        "identifiers": "barnesnoble:w/heavy-weather-bruce-sterling/1100013779,google:mJqJGwAACAAJ,isbn:1857981928,amazon:055357292X,goodreads:3009917",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "369e3b42-9a1a-4734-96d2-d7a9b64b55b9"
+    },
+    {
+        "id": 498.0,
+        "author_sort": "Sterling, Bruce",
+        "title": "The Zenith Angle",
+        "isbn": 345468651.0,
+        "identifiers": "barnesnoble:w/zenith-angle-bruce-sterling/1100293445,google:3rE55SNxgdQC,isbn:0345468651,amazon:0345468651,goodreads:218568",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0d63cfcd-c540-4a8d-83c3-585b167538ac"
+    },
+    {
+        "id": 502.0,
+        "author_sort": "Macintyre, Ben & Carré, John le",
+        "title": "A Spy Among Friends: Kim Philby and the Great Betrayal",
+        "isbn": 9780804136648.0,
+        "identifiers": "barnesnoble:w/a-spy-among-friends-ben-macintyre/1117447776,google:wIzIAgAAQBAJ,isbn:9780804136648,goodreads:21408700",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "41e63f14-0fbf-4fbc-8769-fa3f409eb319"
+    },
+    {
+        "id": 504.0,
+        "author_sort": "Slocum, Joshua",
+        "title": "Sailing Alone Around the World",
+        "isbn": 1589760891.0,
+        "identifiers": "amazon:0486203263,google:_ghNnQAACAAJ,isbn:1589760891",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5100109c-4702-409c-a2e8-e339121214f0"
+    },
+    {
+        "id": 505.0,
+        "author_sort": "Newitz, Annalee",
+        "title": "Scatter, Adapt, and Remember: How Humans Will Survive a Mass Extinction",
+        "isbn": 9780385535922.0,
+        "identifiers": "amazon:B00A9ET57Q,google:uDL9LLwgJIEC,isbn:9780385535922,barnesnoble:w/scatter-adapt-and-remember-annalee-newitz/1112030620,goodreads:16156173",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e67e49de-06be-4308-ad8c-de97b8a05237"
+    },
+    {
+        "id": 506.0,
+        "author_sort": "Greitens, Eric",
+        "title": "Resilience: Hard-Won Wisdom for Living a Better Life",
+        "isbn": 9780544705265.0,
+        "identifiers": "barnesnoble:w/resilience-eric-greitens/1119887801,isbn:9780544705265",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "af0df5fa-e04f-48d3-af36-f3c2a99f3d4d"
+    },
+    {
+        "id": 509.0,
+        "author_sort": "Laux, Douglas & Pezzullo, Ralph",
+        "title": "Left of Boom: How a Young CIA Case Officer Penetrated the Taliban and Al-Qaeda",
+        "isbn": 9781466893214.0,
+        "identifiers": "barnesnoble:w/left-of-boom-doug-laux/1123640748,google:AdIaCgAAQBAJ,isbn:9781466893214,amazon:B0111KOV2K,goodreads:25857799",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8025dec2-b56b-4e50-9b73-91eea7c574a1"
+    },
+    {
+        "id": 510.0,
+        "author_sort": "Greitens, Eric",
+        "title": "The Heart and the Fist: The Education of a Humanitarian, the Making of a Navy SEAL",
+        "isbn": 9780547424859.0,
+        "identifiers": "barnesnoble:w/heart-and-the-fist-eric-greitens/1029217965,google:U1zMgkoUuwgC,isbn:9780547424859,amazon:B0098RLDT8,goodreads:9525402",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d58c1079-3643-472b-a726-fd447fd5255f"
+    },
+    {
+        "id": 511.0,
+        "author_sort": "Burrington, Ingrid",
+        "title": "Networks of New York: An Illustrated Field Guide to Urban Internet Infrastructure",
+        "isbn": 9781612195421.0,
+        "identifiers": "amazon:1612195423,google:agoACwAAQBAJ,isbn:9781612195421,barnesnoble:w/networks-of-new-york-ingrid-burrington/1123015015,goodreads:27876376",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e3a8d04c-17d0-4a63-902c-e2af4fa499a1"
+    },
+    {
+        "id": 512.0,
+        "author_sort": "Ellis, Bret Easton",
+        "title": "American Psycho",
+        "isbn": 9780679735779.0,
+        "identifiers": "barnesnoble:w/american-psycho-bret-easton-ellis/1100619412,google:pfLFPDWjq8YC,isbn:9780679735779,amazon:0679735771,goodreads:8570631",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2db45421-349e-411a-9fd5-9e22eff3fe63"
+    },
+    {
+        "id": 514.0,
+        "author_sort": "Preston, Richard",
+        "title": "The Wild Trees: A Story of Passion and Daring",
+        "isbn": 9781588366030.0,
+        "identifiers": "amazon:0812975596,google:QNJXefA8U58C,isbn:9781588366030,goodreads:7159497",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "939f9ce2-5bb7-47d9-8ba8-991d031ce95f"
+    },
+    {
+        "id": 517.0,
+        "author_sort": "Schlosser, Eric",
+        "title": "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety",
+        "isbn": 9780143125785.0,
+        "identifiers": "amazon:1594202389,google:lJ6JDQAAQBAJ,isbn:9780143125785,barnesnoble:w/command-and-control-eric-schlosser/1115624496,goodreads:6452798",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "832946c5-91c7-4363-8d6d-47e7883ae044"
+    },
+    {
+        "id": 519.0,
+        "author_sort": "Kushner, David",
+        "title": "Masters of Doom Masters of Doom Masters of Doom",
+        "isbn": 9781588362896.0,
+        "identifiers": "google:ltQ6LYHpmQEC,isbn:9781588362896,goodreads:7748687",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c8a6662b-5172-483d-88fd-9ef2a6f8c928"
+    },
+    {
+        "id": 520.0,
+        "author_sort": "Guin, Ursula K. Le",
+        "title": "The Dispossessed",
+        "isbn": 785764038.0,
+        "identifiers": "amazon:0061054887,google:tlhFtmTixvwC,isbn:0785764038,goodreads:13651",
+        "series": "Hainish Cycle",
+        "series_index": 5.0,
+        "uuid": "cb659841-7bd2-45ac-89b9-2ab02c3e3ba7"
+    },
+    {
+        "id": 524.0,
+        "author_sort": "Catmull, Ed",
+        "title": "Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration",
+        "isbn": 9780679644507.0,
+        "identifiers": "amazon:B00GUOEMA4,isbn:9780679644507",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7ebb91c7-3540-49b7-a963-b14c325705fe"
+    },
+    {
+        "id": 525.0,
+        "author_sort": "Bowles, Paul",
+        "title": "The Sheltering Sky",
+        "isbn": 9780141023427.0,
+        "identifiers": "amazon:B005AJWU7C,google:2UuQPwAACAAJ,isbn:9780141023427,goodreads:243598",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a03253b5-a1c0-4177-a6ca-f356cd7060e5"
+    },
+    {
+        "id": 526.0,
+        "author_sort": "Norman, Don",
+        "title": "The Design of Everyday Things: Revised and Expanded Edition",
+        "isbn": 9780465072996.0,
+        "identifiers": "amazon:B00E257T6C,google:nVQPAAAAQBAJ,isbn:9780465072996,goodreads:23216254",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "207454fd-b4a2-4380-9443-51063f1219a7"
+    },
+    {
+        "id": 527.0,
+        "author_sort": "Kotler, Steven & Wheal, Jamie",
+        "title": "Stealing Fire: How Silicon Valley, the Navy SEALs, and Maverick Scientists Are Revolutionizing the Way We Live and Work",
+        "isbn": 9781470856076.0,
+        "identifiers": "amazon:1470856077,google:9cFBDAAAQBAJ,isbn:9781470856076,goodreads:30317415",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "99c01abe-d470-4ecf-9aee-84c4073d4026"
+    },
+    {
+        "id": 530.0,
+        "author_sort": "Winslow, Don",
+        "title": "Satori",
+        "isbn": 9780446561914.0,
+        "identifiers": "mobi-asin:B0047Y176Q,amazon:B00B9ZK6MC,google:QrjEgKsuXlIC,isbn:9780446561914",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0346cd0b-4579-4aa6-93a6-189734d879cc"
+    },
+    {
+        "id": 531.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Some Remarks",
+        "isbn": 9780062024435.0,
+        "identifiers": "barnesnoble:w/some-remarks-neal-stephenson/1106580221,google:2wTNygAACAAJ,isbn:9780062024435,amazon:B00BJEMLJO,goodreads:13406933",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "744aaab5-2c8b-4842-b52f-d749bc41e834"
+    },
+    {
+        "id": 533.0,
+        "author_sort": "Asher, Neal",
+        "title": "Gridlinked",
+        "isbn": 9781429910392.0,
+        "identifiers": "amazon:0765349051,google:bcNZ5Dt_3s8C,isbn:9781429910392,goodreads:98046",
+        "series": "Agent Cormac",
+        "series_index": 1.0,
+        "uuid": "e90a937f-a38e-480a-b69c-00293cce9b74"
+    },
+    {
+        "id": 535.0,
+        "author_sort": "Newitz, Annalee",
+        "title": "Autonomous",
+        "isbn": 9780765392077.0,
+        "identifiers": "isbn:9780765392077,amazon:0765392070,mobi-asin:B01N4P14CI,goodreads:28209634",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a2ee6b89-cf85-4ee2-b898-4c068b6c4ab9"
+    },
+    {
+        "id": 536.0,
+        "author_sort": "Older, Malka",
+        "title": "Null States",
+        "isbn": 9780765393388.0,
+        "identifiers": "isbn:9780765393388,mobi-asin:B01MZ1I8LO,goodreads:31189192",
+        "series": "Centenal Cycle",
+        "series_index": 2.0,
+        "uuid": "937f0db2-84d1-4fa7-934a-b6b425aa20ed"
+    },
+    {
+        "id": 537.0,
+        "author_sort": "American Alpine Club",
+        "title": "Accidents in North American Climbing 2017 (Accidents in North American Mountaineering)",
+        "isbn": 9781933056975.0,
+        "identifiers": "amazon:1933056975,isbn:9781933056975",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 70.0,
+        "uuid": "a973c0c9-bdc2-42ea-9887-1f7c9e76f459"
+    },
+    {
+        "id": 538.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "American Alpine Journal 2017: The World's Most Significant Climbs",
+        "isbn": 9781933056968.0,
+        "identifiers": "amazon:1933056967,google:AC0inQAACAAJ,isbn:9781933056968,goodreads:34485765",
+        "series": "American Alpine Journal",
+        "series_index": 91.0,
+        "uuid": "95d0e87c-5b5a-4c78-9b8c-8d9901725bd5"
+    },
+    {
+        "id": 541.0,
+        "author_sort": "Talbot, David",
+        "title": "Season of the Witch: Enchantment, Terror and Deliverance in the City of Love",
+        "isbn": 9781439127872.0,
+        "identifiers": "amazon:1439108242,google:sW-0ApN9WYwC,isbn:9781439127872,goodreads:12352452",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a90a0ed2-973f-4561-9085-10b0d98587e1"
+    },
+    {
+        "id": 543.0,
+        "author_sort": "Herbert, Frank",
+        "title": "Dune",
+        "isbn": 8834718453.0,
+        "identifiers": "amazon:B00B7NPRY8,google:B1hSG45JCX4C,isbn:8834718453,goodreads:234225",
+        "series": "Dune",
+        "series_index": 1.0,
+        "uuid": "aca347e3-cd4a-480c-b7fb-43767e6004be"
+    },
+    {
+        "id": 545.0,
+        "author_sort": "Winzenburg, Lucas",
+        "title": "Bunyan Velo Issue #7",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Bunyan Velo",
+        "series_index": 7.0,
+        "uuid": "48c2f6fb-eecf-4c2c-bdf9-a0b7ee844e39"
+    },
+    {
+        "id": 548.0,
+        "author_sort": "Turner, Fred",
+        "title": "From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism",
+        "isbn": 9780226817439.0,
+        "identifiers": "asin:B004BKJVYG,google:2SNFpgX_WigC,isbn:9780226817439,oasin:0226817415,amazon:B004BKJVYG,guid:176aca9726667f2038e4c01ceee0d05993de4414,goodreads:5592",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dd325101-4a2a-48db-a8b1-dddd6bec85f8"
+    },
+    {
+        "id": 549.0,
+        "author_sort": "Clarke, Arthur C.",
+        "title": "Rendezvous With Rama",
+        "isbn": 9780795325755.0,
+        "identifiers": "amazon:B00AHIP8ZM,google:mVEqAAAAQBAJ,isbn:9780795325755,goodreads:24628240",
+        "series": "Rama",
+        "series_index": 1.0,
+        "uuid": "eda454ab-c000-4d4b-ba82-2bab78152af6"
+    },
+    {
+        "id": 550.0,
+        "author_sort": "Isaacson, Walter",
+        "title": "Leonardo Da Vinci",
+        "isbn": 9781501139154.0,
+        "identifiers": "amazon:B071Y385Q1,google:vkA5DwAAQBAJ,isbn:9781501139154,goodreads:34684622",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9eda7d4d-7fcc-4fef-95bc-7bc912ff05a2"
+    },
+    {
+        "id": 551.0,
+        "author_sort": "Bell, Jim",
+        "title": "The Interstellar Age: The Story of the Men and Women Who Flew the Forty-Year Voyager Mission",
+        "isbn": 9781101983898.0,
+        "identifiers": "amazon:0525954325,google:joXaCwAAQBAJ,isbn:9781101983898",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "585dc0ad-da5e-4bbc-bf0d-abc26ea2a0c5"
+    },
+    {
+        "id": 552.0,
+        "author_sort": "Hillis, W. Daniel",
+        "title": "The Pattern on the Stone: The Simple Ideas That Make Computers Work",
+        "isbn": 9780465066872.0,
+        "identifiers": "mobi-asin:B00NP8ME30,google:uXLCBAAAQBAJ,isbn:9780465066872",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bdf4791e-5c55-4540-ac31-08a0382542ef"
+    },
+    {
+        "id": 553.0,
+        "author_sort": "Kennedy, Sean",
+        "title": "Ambient Reports : 2087",
+        "isbn": 9781483575865.0,
+        "identifiers": "isbn:9781483575865,amazon:1483575861,google:n-BcDQAAQBAJ,mobi-asin:B01JJ4JL2K,goodreads:31341727",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c293bb5b-1f93-43bb-989a-4cd119e4099c"
+    },
+    {
+        "id": 556.0,
+        "author_sort": "Morgan, Richard K.",
+        "title": "Thirteen",
+        "isbn": 9780345498106.0,
+        "identifiers": "amazon:B000SCHCAQ,google:zfaeh7Q9it4C,isbn:9780345498106,goodreads:7556514",
+        "series": "Black Man",
+        "series_index": 1.0,
+        "uuid": "2beb214d-9430-4f50-b7dc-424f4865894c"
+    },
+    {
+        "id": 560.0,
+        "author_sort": "Elpel, Thomas J.",
+        "title": "Botany in a Day: The Patterns Method of Plant Identification",
+        "isbn": 9781892784353.0,
+        "identifiers": "amazon:1892784351,google:gbcwnQEACAAJ,isbn:9781892784353",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "366ad6b0-bd1b-421e-a6e5-69c90d958ff4"
+    },
+    {
+        "id": 564.0,
+        "author_sort": "Palmer, Ada",
+        "title": "Seven Surrenders",
+        "isbn": 9780765378026.0,
+        "identifiers": "amazon:0765378027,isbn:9780765378026,goodreads:28220647",
+        "series": "Terra Ignota",
+        "series_index": 2.0,
+        "uuid": "437a4c80-37f9-4151-b93d-db2084ebfcb3"
+    },
+    {
+        "id": 565.0,
+        "author_sort": "Garland, Alex",
+        "title": "The Beach",
+        "isbn": 9781101657508.0,
+        "identifiers": "amazon:1573220485,google:cZWZ_Scx7u8C,isbn:9781101657508,goodreads:17977241",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f668edcb-50ec-4c44-b39d-0e006da6fe5d"
+    },
+    {
+        "id": 567.0,
+        "author_sort": "Tynan & Potts, Rolf & Sivers, Derek & Babauta, Leo & Iceton, Todd",
+        "title": "Forever Nomad: The Ultimate Guide to World Travel, From a Weekend to a Lifetime",
+        "isbn": null,
+        "identifiers": "amazon:B07CCNV34D,mobi-asin:B07CCNV34D",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "579041ea-0b5a-424e-af92-21716a997332"
+    },
+    {
+        "id": 568.0,
+        "author_sort": "Administration, National Aeronautics & Bugos, Glenn E.",
+        "title": "Atmosphere of Freedom: 70 Years at the NASA Ames Research Center: 70th Anniversary Edition",
+        "isbn": 9781493625123.0,
+        "identifiers": "google:6o3NngEACAAJ,isbn:9781493625123",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5df9aa11-aa82-41ce-891a-89c2bbb70ce1"
+    },
+    {
+        "id": 569.0,
+        "author_sort": "Weir, Andy",
+        "title": "Artemis",
+        "isbn": 9780091956950.0,
+        "identifiers": "amazon:B06ZZMYC4G,google:ADoZjwEACAAJ,isbn:9780091956950,goodreads:34928122",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "cc08711e-3878-4d07-bee4-de40d9dc794b"
+    },
+    {
+        "id": 571.0,
+        "author_sort": "Elpel, Thomas J.",
+        "title": "Participating in Nature: Wilderness Survival and Primitive Living Skills",
+        "isbn": 9781892784308.0,
+        "identifiers": "amazon:1892784300,isbn:9781892784308",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "aa88afc6-46ec-4f3a-9c5b-61ce9efd4e0f"
+    },
+    {
+        "id": 572.0,
+        "author_sort": "RZA, The",
+        "title": "The Tao of Wu",
+        "isbn": 9781101150955.0,
+        "identifiers": "amazon:1594484856,google:CvZLx3kn2IIC,isbn:9781101150955",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "62267740-e9e0-4ed1-80ae-e912499d2993"
+    },
+    {
+        "id": 573.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Normal",
+        "isbn": 9780374534974.0,
+        "identifiers": "barnesnoble:w/normal-warren-ellis/1118064947,isbn:9780374534974,goodreads:20518817",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "63725c49-029d-401e-a1a8-8ec71519509b"
+    },
+    {
+        "id": 575.0,
+        "author_sort": "Kamiya, Gary",
+        "title": "Cool Gray City of Love: 49 Views of San Francisco",
+        "isbn": 9781620401262.0,
+        "identifiers": "amazon:B00D78R550,google:auinBQAAQBAJ,isbn:9781620401262,barnesnoble:w/cool-gray-city-of-love-gary-kamiya/1114764186,goodreads:16059425",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bcc96eca-5120-4303-abf9-f3b3175740f3"
+    },
+    {
+        "id": 578.0,
+        "author_sort": "Wickman, Gino",
+        "title": "Traction: Get a Grip on Your Business",
+        "isbn": 9781936661824.0,
+        "identifiers": "google:1sl__J9p70AC,isbn:9781936661824,amazon:B007QWLLV2,mobi-asin:B007QWLLV2,barnesnoble:w/traction-gino-wickman/1100073595,goodreads:16390069",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5653a58d-6563-4877-95ff-2467d73280d1"
+    },
+    {
+        "id": 580.0,
+        "author_sort": "Pavone, Chris",
+        "title": "The Travelers",
+        "isbn": 9780385348508.0,
+        "identifiers": "barnesnoble:w/the-travelers-chris-pavone/1122135420,isbn:9780385348508,goodreads:25731543",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "df4e41a2-9a22-4483-967d-433ba1ca6699"
+    },
+    {
+        "id": 581.0,
+        "author_sort": "Rajaniemi, Hannu",
+        "title": "The Quantum Thief",
+        "isbn": 9780575088870.0,
+        "identifiers": "barnesnoble:w/quantum-thief-hannu-rajaniemi/1100093612,isbn:9780575088870,amazon:B004ULPVN6,goodreads:7562764",
+        "series": "Jean le Flambeur",
+        "series_index": 1.0,
+        "uuid": "d8041e10-50bf-4a0f-b6c3-4da6c21a3624"
+    },
+    {
+        "id": 584.0,
+        "author_sort": "Cowles, Virginia",
+        "title": "The Phantom Major: The Story of David Stirling and the SAS Regiment",
+        "isbn": 9781848843868.0,
+        "identifiers": "mobi-asin:B07D74ZL3S,barnesnoble:w/the-phantom-major-virginia-cowles/1111529428,isbn:9781848843868,amazon:1848843860",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b0dfe7d6-e657-440b-9101-39bbbb4a01b5"
+    },
+    {
+        "id": 588.0,
+        "author_sort": "Barlow, John Perry & Greenfield, Robert",
+        "title": "Mother American Night: My Life in Crazy Times",
+        "isbn": 9781524760182.0,
+        "identifiers": "amazon:1524760188,isbn:9781524760182,barnesnoble:w/mother-american-night-john-perry-barlow/1127509502",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "323ef2de-160b-4924-bf78-80a4845ec159"
+    },
+    {
+        "id": 590.0,
+        "author_sort": "Johnson, Clarence L. & Smith, Maggie",
+        "title": "Kelly: More Than My Share of It All",
+        "isbn": 9781588343604.0,
+        "identifiers": "barnesnoble:w/kelly-clarence-l-johnson/1112405025,google:S51fBgAAQBAJ,isbn:9781588343604,goodreads:16030483",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9b3fc583-801b-4724-90da-efa93764f0b7"
+    },
+    {
+        "id": 595.0,
+        "author_sort": "Beukes, Lauren",
+        "title": "Moxyland",
+        "isbn": 9780857660053.0,
+        "identifiers": "amazon:0316267910,isbn:9780857660053,barnesnoble:w/moxyland-lauren-beukes/1100310752,goodreads:9268456",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b4e32c69-a911-4b77-ba50-c7ed6fecc5af"
+    },
+    {
+        "id": 596.0,
+        "author_sort": "American Alpine Club",
+        "title": "Accidents in North American Climbing 2018",
+        "isbn": 9780999855614.0,
+        "identifiers": "amazon:0999855611,google:MObutAEACAAJ,isbn:9780999855614,barnesnoble:w/accidents-in-north-american-climbing-2018-american-alpine-club/1129394014,goodreads:41558618",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 71.0,
+        "uuid": "4c80607c-f9bd-4240-8778-8b7029bb70c3"
+    },
+    {
+        "id": 597.0,
+        "author_sort": "MacDonald, Dougald",
+        "title": "The American Alpine Journal 2018",
+        "isbn": 9780999855607.0,
+        "identifiers": "amazon:0999855603,google:-SFyswEACAAJ,isbn:9780999855607",
+        "series": "American Alpine Journal",
+        "series_index": 92.0,
+        "uuid": "5b3d6132-df34-415f-8b1f-95f3259a18eb"
+    },
+    {
+        "id": 598.0,
+        "author_sort": "Agrawal, Roma",
+        "title": "Built: The Hidden Stories Behind Our Structures",
+        "isbn": 9781635570229.0,
+        "identifiers": "barnesnoble:w/built-roma-agrawal/1126191254,isbn:9781635570229,goodreads:34921647",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e74f90eb-e526-4749-97e6-982ee4f76466"
+    },
+    {
+        "id": 599.0,
+        "author_sort": "Older, Malka",
+        "title": "State Tectonics",
+        "isbn": 9780765399465.0,
+        "identifiers": "barnesnoble:w/state-tectonics-malka-older/1127621308,google:lBlGDwAAQBAJ,isbn:9780765399465,goodreads:37901995",
+        "series": "Centenal Cycle",
+        "series_index": 3.0,
+        "uuid": "694c3e4a-b5b2-4dfe-805e-410d1da6dce2"
+    },
+    {
+        "id": 600.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Bandwidth",
+        "isbn": 9781503954427.0,
+        "identifiers": "google:Zjv0swEACAAJ,isbn:9781503954427,amazon:1503954420,mobi-asin:B075CLV95J,barnesnoble:w/bandwidth-eliot-peper/1127189580,goodreads:36261374",
+        "series": "An Analog Novel",
+        "series_index": 1.0,
+        "uuid": "20aac23e-afa9-4e56-9415-0de6f34122ee"
+    },
+    {
+        "id": 601.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Neon Fever Dream",
+        "isbn": 9781535033220.0,
+        "identifiers": "mobi-asin:B01HUCXBTM,amazon:B01HUCXBTM,isbn:9781535033220,barnesnoble:w/neon-fever-dream-eliot-peper/1124224421,goodreads:31180481",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "368be084-56c9-4307-a409-61c77ed514d4"
+    },
+    {
+        "id": 606.0,
+        "author_sort": "Tilford, Gregory L.",
+        "title": "From Earth to Herbalist: An Earth-Conscious Guide to Medicinal Plants",
+        "isbn": 9780878423729.0,
+        "identifiers": "amazon:0878423729,isbn:9780878423729,barnesnoble:w/from-earth-to-herbalist-gregory-l-tilford/1113182824,goodreads:569895",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a08d2d90-23c8-47d5-8566-73f20e6c5d04"
+    },
+    {
+        "id": 608.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Borderless",
+        "isbn": 9781503904729.0,
+        "identifiers": "google:w95FuAEACAAJ,isbn:9781503904729,amazon:1503904725,mobi-asin:B07BM7F9SF,barnesnoble:w/borderless-eliot-peper/1128957544,goodreads:40498095",
+        "series": "An Analog Novel",
+        "series_index": 2.0,
+        "uuid": "4547d89e-4e10-484a-97e1-8672a1812f0c"
+    },
+    {
+        "id": 609.0,
+        "author_sort": "Morgan, Richard K.",
+        "title": "Thin Air: A Novel",
+        "isbn": 345493125.0,
+        "identifiers": "amazon:B0738K33YC,isbn:0345493125",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5b3e223d-2607-472d-9935-fc1d0bed437a"
+    },
+    {
+        "id": 611.0,
+        "author_sort": "Sisson, Mark",
+        "title": "The Primal Blueprint: Reprogram Your Genes for Effortless Weight Loss, Vibrant Health, and Boundless Energy",
+        "isbn": 9780982207703.0,
+        "identifiers": "isbn:9780982207703,goodreads:6515468",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c15682d2-4354-40eb-a916-768c159c465d"
+    },
+    {
+        "id": 613.0,
+        "author_sort": "Sproul, Barbara C.",
+        "title": "Primal Myths: Creation Myths Around the World",
+        "isbn": 9780060675011.0,
+        "identifiers": "barnesnoble:w/primal-myths-barbara-c-sproul/1111727607,google:-_a_7ZWGuKEC,isbn:9780060675011,amazon:B00BEFNX9U,goodreads:1295530",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3c7078ba-92aa-4587-839c-11eb276bcbb0"
+    },
+    {
+        "id": 616.0,
+        "author_sort": "Dunn, David L.",
+        "title": "Wound Closure Manual",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c5ac7589-b28b-4699-b7e6-5909149ad941"
+    },
+    {
+        "id": 618.0,
+        "author_sort": "Austere Medicine Discussion Board Moderators",
+        "title": "Survival & Austere Medicine: An Introduction, Third Edition",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7c9dab8b-e602-4137-bf18-9adb2135e182"
+    },
+    {
+        "id": 620.0,
+        "author_sort": "Tsunetomo, Yamamoto & Wilson, William Scott",
+        "title": "Hagakure: The Book of the Samurai",
+        "isbn": null,
+        "identifiers": "amazon:B00G3KCLTE,mobi-asin:B00G3KCLTE",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f0fdb284-44c5-45f3-8fa4-a821bd8023f9"
+    },
+    {
+        "id": 621.0,
+        "author_sort": "Wilson, William Scott",
+        "title": "The One Taste of Truth: Zen and the Art of Drinking Tea",
+        "isbn": 9780834828544.0,
+        "identifiers": "google:GgLEAwAAQBAJ,isbn:9780834828544,amazon:1611800269,mobi-asin:B00AWTM1K6,barnesnoble:w/the-one-taste-of-truth-william-scott-wilson/1111032950,goodreads:15792594",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "44340208-4bd6-4c48-a101-48aab883f1ae"
+    },
+    {
+        "id": 622.0,
+        "author_sort": "Soho, Takuan & Wilson, William Scott",
+        "title": "The Unfettered Mind: Writings From a Zen Master to a Master Swordsman",
+        "isbn": null,
+        "identifiers": "amazon:B0088Q9RRK",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1d203980-8301-48a6-9fc7-9e39b261400e"
+    },
+    {
+        "id": 623.0,
+        "author_sort": "Doggett, Peter",
+        "title": "The Man Who Sold the World: David Bowie and the 1970s",
+        "isbn": 9780062097149.0,
+        "identifiers": "amazon:B00767971I,google:e27t-ag4NakC,isbn:9780062097149,barnesnoble:w/the-man-who-sold-the-world-peter-doggett/1110788651,goodreads:12904790",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ac64857e-cf4d-41a5-b965-2f1ed428e7b0"
+    },
+    {
+        "id": 625.0,
+        "author_sort": "Pelton, Robert Young",
+        "title": "Licensed to Kill: Privatizing the War on Terror",
+        "isbn": 9780307345455.0,
+        "identifiers": "barnesnoble:w/licensed-to-kill-robert-young-pelton/1100266595,google:TTdzM1saxysC,isbn:9780307345455,goodreads:7092321",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "aed96b88-7fe6-4f3e-a843-5846bd39403f"
+    },
+    {
+        "id": 626.0,
+        "author_sort": "Pelton, Robert Young",
+        "title": "Adventurist",
+        "isbn": 9780767909273.0,
+        "identifiers": "amazon:0767909275,google:h1QjGTfODdkC,isbn:9780767909273,barnesnoble:w/adventurist-robert-young-pelton/1100304144,goodreads:6251954",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "eca398eb-af26-47dc-aea2-4cf4564b5444"
+    },
+    {
+        "id": 627.0,
+        "author_sort": "Tremper, Bruce",
+        "title": "Staying Alive in Avalanche Terrain, 3rd Edition",
+        "isbn": 9781680511383.0,
+        "identifiers": "amazon:1680511386,isbn:9781680511383",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d4e39d5e-96e0-4944-90e5-1d0d253685b0"
+    },
+    {
+        "id": 628.0,
+        "author_sort": "Mason, Zachary",
+        "title": "The Lost Books of the Odyssey: A Novel",
+        "isbn": 9780312680466.0,
+        "identifiers": "barnesnoble:w/lost-books-of-the-odyssey-zachary-mason/1100259182,google:qdDrwupM0dUC,isbn:9780312680466,amazon:B003AJS276",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "eb7b98af-dd81-41fd-b726-7dd86dbbc543"
+    },
+    {
+        "id": 629.0,
+        "author_sort": "Smith, Rick & Menesse, Tania",
+        "title": "Yehuda Moon and the Kickstand Cyclery, Vol. 1: Life on a Bicycle",
+        "isbn": 9780983187905.0,
+        "identifiers": "isbn:9780983187905,amazon:0983187908,mobi-asin:B01M14WABX,barnesnoble:w/yehuda-moon-and-the-kickstand-cyclery-volume-1-rick-smith/1029412674",
+        "series": "Yehuda Moon and the Kickstand Cyclery",
+        "series_index": 1.0,
+        "uuid": "bec1f4dc-bf29-47ce-a111-72fdb55a7c5c"
+    },
+    {
+        "id": 630.0,
+        "author_sort": "Smith, Rick & Griggs, Brian",
+        "title": "Yehuda Moon and the Kickstand Cyclery, Vol. 5: New Bike Day",
+        "isbn": null,
+        "identifiers": "mobi-asin:B01LY72I2F",
+        "series": "Yehuda Moon and the Kickstand Cyclery",
+        "series_index": 5.0,
+        "uuid": "f8089d63-0770-4f7d-821c-ade75a1ac49e"
+    },
+    {
+        "id": 631.0,
+        "author_sort": "Smith, Rick & Griggs, Brian",
+        "title": "Yehuda Moon and the Kickstand Cyclery, Vol. 6: Round the Bend",
+        "isbn": null,
+        "identifiers": "mobi-asin:B01LZQXIHK",
+        "series": "Yehuda Moon and the Kickstand Cyclery",
+        "series_index": 6.0,
+        "uuid": "ecaee83c-6e60-4d0a-9b0e-9b775a80387c"
+    },
+    {
+        "id": 633.0,
+        "author_sort": "Weed, Susun S.",
+        "title": "Healing Wise",
+        "isbn": 9780961462024.0,
+        "identifiers": "amazon:0961462027,google:_PabImMF1DIC,isbn:9780961462024,barnesnoble:w/healing-wise-susun-s-weed/1000011869,goodreads:425700",
+        "series": "Wise Woman Herbal",
+        "series_index": 4.0,
+        "uuid": "c72dd9d7-86b6-40ab-b483-ef5787147512"
+    },
+    {
+        "id": 634.0,
+        "author_sort": "Hib & Kika",
+        "title": "Off the Map",
+        "isbn": 9780970910134.0,
+        "identifiers": "amazon:0970910134,google:jqN4gY4Dg4cC,isbn:9780970910134,barnesnoble:w/off-the-map-crimethinc-ex-workers-collective/1127017346,goodreads:302405",
+        "series": "CrimethInc. Letters",
+        "series_index": 2.0,
+        "uuid": "29d5897c-292b-4f7d-88e9-821663b8af7e"
+    },
+    {
+        "id": 635.0,
+        "author_sort": "Collective, Crimethink Workers & C., Nadia & Dixon, Frederick Markatos & Guevara, Nietzsche & Humble, Jane E. & Maul, Paul F. & Nera, Stella & Tzarathustra, Tristan & Winterson, Jeanette",
+        "title": "Days of War, Nights of Love: Crimethink for Beginners",
+        "isbn": 9780970910103.0,
+        "identifiers": "amazon:097091010X,isbn:9780970910103,goodreads:90416",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "241c0041-c761-4be0-a3e3-39a69b7a8350"
+    },
+    {
+        "id": 636.0,
+        "author_sort": "Pollan, Michael",
+        "title": "The Omnivore's Dilemma: A Natural History of Four Meals",
+        "isbn": 9780143038580.0,
+        "identifiers": "amazon:B000SEIDR0,google:Qh7dkdVsbDkC,isbn:9780143038580,barnesnoble:w/the-omnivores-dilemma-michael-pollan/1116688309,goodreads:3109",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c4a51900-3c86-4946-973d-ef3394336f0c"
+    },
+    {
+        "id": 637.0,
+        "author_sort": "Bagnold, Ralph A.",
+        "title": "Libyan Sands: Travel in a Dead World",
+        "isbn": 9781906011338.0,
+        "identifiers": "isbn:9781906011338,amazon:1906011338,google:-VmrQQAACAAJ,mobi-asin:B00B9CO5H2,goodreads:8898775",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ae8f6d25-4844-401b-b5f7-7b8c502cd2e1"
+    },
+    {
+        "id": 638.0,
+        "author_sort": "Newby, Eric",
+        "title": "A Short Walk in the Hindu Kush",
+        "isbn": 9781885283177.0,
+        "identifiers": "amazon:B00BKQ1FA2,google:O5kkppun_RkC,isbn:9781885283177,barnesnoble:w/a-short-walk-in-the-hindu-kush-eric-newby/1001835040,goodreads:118141",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c46ddc6f-2be9-4f32-af73-448619541c7c"
+    },
+    {
+        "id": 639.0,
+        "author_sort": "McPhee, John",
+        "title": "La Place De La Concorde Suisse",
+        "isbn": 9780374519322.0,
+        "identifiers": "google:8yk5jXBNvh0C,isbn:9780374519322,amazon:0374519323,mobi-asin:B005E8AINW,barnesnoble:w/la-place-de-la-concorde-suisse-john-mcphee/1102949089,goodreads:80",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ac9bf16f-efb1-4c2b-89ab-e9d98ff2ff48"
+    }
+]

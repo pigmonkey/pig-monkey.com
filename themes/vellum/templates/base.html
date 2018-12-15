@@ -11,6 +11,8 @@
 
     <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/style/{{ CSS_FILE }}">
 
+    {% block extrahead %}{% endblock %}
+
     {% if FEED_ATOM %}
     <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed">
     {% endif %}
