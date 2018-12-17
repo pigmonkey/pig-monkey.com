@@ -1,7 +1,7 @@
 Title: Repackaged Soap Bar
 Date: 2009-08-29
 Modified: 2012-09-30
-Tags: review, gear
+Tags: review, gear, ablution
 Slug: repackaged-soap-bar
 
 Here's another great idea that I gleaned from scanning the <a href="http://www.backpackinglight.com/cgi-bin/backpackinglight/forums/index.html?id=9sTyccSp:216.254.23.78">BackpackingLight Forums</a>: using the plastic container from an old <a href="http://www.rei.com/product/747197">bike tube patch kit</a> as a soap bar container.

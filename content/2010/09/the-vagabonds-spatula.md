@@ -1,7 +1,7 @@
 Title: The Vagabond's Spatula
 Date: 2010-09-15
 Modified: 2012-09-15
-Tags: food, review, gear
+Tags: food, review, gear, ablution
 Slug: the-vagabonds-spatula
 
 Cleaning my pot in the wilderness has always proved a challenge. I'm not hugely concerned with completely sanitizing it -- that would not be realistic -- but I do like to get all the food remnants out of the pot after every meal. A few extra ants in my ramen? No problem. Fungi and bacteria in the oatmeal? I'd rather avoid that.

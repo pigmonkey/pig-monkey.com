@@ -2,6 +2,7 @@ Title: Today, we make soap
 Date: 2006-02-18
 Modified: 2012-09-15
 Slug: today-we-make-soap
+Tags: ablution
 
 (Did you know 60% of anything you put in your skin will go into your bloodstream?)
 

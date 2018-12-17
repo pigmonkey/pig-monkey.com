@@ -1,7 +1,7 @@
 Title: Lanolizing Wool
 Date: 2011-02-19
 Modified: 2012-09-15
-Tags: review, wool, gear
+Tags: review, wool, gear, ablution
 Slug: lanolizing-wool
 
 <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Lanolin">Lanolin</a> is a kind of wax that sheep and other wool-bearing animals produce to protect their coats. It is, in fact, a waterproofing agent. Any lanolin that remains in the wool after shearing is generally stripped out during the process of turning the hair into clothing, thus reducing the wool's ability to shed water.
