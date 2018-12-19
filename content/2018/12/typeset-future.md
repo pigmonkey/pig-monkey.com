@@ -1,6 +1,6 @@
 Title: Typeset in the Future analyzes the typography and semiotics in great science fiction films.
 Date: 2018-12-17
-Tags: micro
+Tags: micro, blogroll
 
 New content is infrequent, but I'm always excited when a new entry pops up in my feed reader. The latest is [WALL·E](https://typesetinthefuture.com/2018/12/04/walle/). My favorite is [Alien](https://typesetinthefuture.com/2014/12/01/alien/).
 
