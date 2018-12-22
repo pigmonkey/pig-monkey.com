@@ -1,6 +1,6 @@
 Title: Using Network Trust
 Date: 2016-01-31
-Tags: linux, privacy, annex
+Tags: linux, privacy
 
 Work continues on [Spark](https://github.com/pigmonkey/spark), my [Arch Linux provisioning system](http://pig-monkey.com/2015/12/spark/). As the project has progressed, it has created some useful tools that I've spun off into their own projects. One of those is [nmtrust](https://github.com/pigmonkey/nmtrust).
 
