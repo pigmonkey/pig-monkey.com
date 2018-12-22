@@ -4,11 +4,11 @@
 @import "partials/base";
 @import "partials/grids";
 @import "partials/typography";
+@import "partials/tables";
 @import "partials/header";
 @import "partials/footer";
 @import "partials/forms";
 @import "partials/pygments";
-@import "partials/tables";
 
 body {
     background-color: $body-background;
