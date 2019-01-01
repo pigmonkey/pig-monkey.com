@@ -4818,5 +4818,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "ac9bf16f-efb1-4c2b-89ab-e9d98ff2ff48"
+    },
+    {
+        "id": 640.0,
+        "author_sort": "Miller, Donald",
+        "title": "Building a StoryBrand: Clarify Your Message So Customers Will Listen",
+        "isbn": 9780718033323.0,
+        "identifiers": "google:b3xDDgAAQBAJ,isbn:9780718033323,amazon:B06XFJ2JGR,mobi-asin:B06XFJ2JGR,barnesnoble:w/building-a-storybrand-donald-miller/1125895902,goodreads:34460583",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "433b7f2b-9fa3-4708-bf0b-684257ff395b"
+    },
+    {
+        "id": 644.0,
+        "author_sort": "Sloan, Robin",
+        "title": "Mr. Penumbra's 24-Hour Bookstore",
+        "isbn": 9780374214913.0,
+        "identifiers": "isbn:9780374214913,goodreads:13538873",
+        "series": "Mr. Penumbra's 24-Hour Bookstore",
+        "series_index": 1.0,
+        "uuid": "c38def83-4940-4564-9281-461ab8fc88bf"
     }
 ]
