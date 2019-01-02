@@ -1,6 +1,6 @@
 Title: This past summer a 13-year-old girl shattered my optimism for the future.
 Date: 2018-12-28
-Tags: micro, quote
+Tags: micro, quote, books
 
 In June, The Atlantic published an article [discussing the use of Instagram as a source of life advice by (pre-)teens](https://www.theatlantic.com/technology/archive/2018/06/how-instagram-threads-became-the-wikihow-for-gen-z/561998/). I do not understand insta-face-tweeting, but what struck me most was 13-year-old Sophie's justification of her behaviour:
 
