@@ -1,14 +1,14 @@
-<article class="entry{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %} category-{{ article.category.slug }}">
+<article class="entry{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %} category-{{ article.category.slug }}" itemscope itemType="http://schema.org/BlogPosting">
     <header>
-        <h1 class="entry-title">
+        <h1 class="entry-title" itemprop="headline">
             <a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
         </h1>
-        <time pubdate datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
+        <time datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>
     </header>
-    <div class="entry-content">
+    <div class="entry-content" itemprop="articleBody">
         {{ article.content }}
     </div>
     <footer>
-        <p class="meta">This post was published on <time pubdate datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>. {% if article.tags %}It was tagged with {% for tag in article.tags %}<a href="{{ SITEURLL }}/{{ tag.url }}" title="View all posts tagged with {{ tag|escape }}">{{ tag|escape }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.{% endif %}</p>
+        <p class="meta">This post was published on <time itemprop="datePublished" datetime="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>. {% if article.modified %}It was modified on <time itemprop="datePublished" datetime="{{ article.modified.isoformat() }}">{{ article.modified.date() }}</time>. {% endif %}{% if article.tags %}It was tagged with {% for tag in article.tags %}<a href="{{ SITEURLL }}/{{ tag.url }}" title="View all posts tagged with {{ tag|escape }}">{{ tag|escape }}</a>{% if not loop.last %}, {% endif %}{% endfor %}.{% endif %}</p>
     </footer>
 </article>
