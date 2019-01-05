@@ -4500,6 +4500,16 @@
         "uuid": "9b3fc583-801b-4724-90da-efa93764f0b7"
     },
     {
+        "id": 593.0,
+        "author_sort": "Meadows, Donella & Wright, Diana",
+        "title": "Thinking in Systems: A Primer",
+        "isbn": 9781603580557.0,
+        "identifiers": "amazon:1603580557,isbn:9781603580557,barnesnoble:w/thinking-in-systems-donella-h-meadows/1102338602,goodreads:3828902",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3a7e148f-7965-4d14-a8c2-46d39646c853"
+    },
+    {
         "id": 595.0,
         "author_sort": "Beukes, Lauren",
         "title": "Moxyland",
@@ -4838,5 +4848,25 @@
         "series": "Mr. Penumbra's 24-Hour Bookstore",
         "series_index": 1.0,
         "uuid": "c38def83-4940-4564-9281-461ab8fc88bf"
+    },
+    {
+        "id": 646.0,
+        "author_sort": "Kennedy, Sean",
+        "title": "Hardwired Faith",
+        "isbn": null,
+        "identifiers": "mobi-asin:B0719G3LZ2,goodreads:35132080",
+        "series": "The Exoskeleton Codex",
+        "series_index": 1.0,
+        "uuid": "9c027cfe-235e-4a74-8f2c-995da8493bf0"
+    },
+    {
+        "id": 649.0,
+        "author_sort": "Kephart, Horace & Nash, David",
+        "title": "Camping and Woodcraft: A Handbook for Vacation Campers and Travelers in the Woods",
+        "isbn": 9781510722613.0,
+        "identifiers": "barnesnoble:w/camping-and-woodcraft-horace-kephart/1125792379,google:9TTRDgAAQBAJ,isbn:9781510722613,goodreads:36709688",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b34edd81-3b05-4b76-b61d-1e8496db9b6a"
     }
 ]
