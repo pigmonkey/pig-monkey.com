@@ -4,13 +4,13 @@ Modified: 2013-07-22
 Tags: edc, review, gear, knife
 Slug: candiru
 
-The [ESEE Candiru](http://www.eseeknives.com/candiru.htm) is [another](http://pig-monkey.com/2013/07/21/crkt-rsk-mk5-sheaths/) nice knife that suffers from a terrible sheath.
+The [ESEE Candiru](http://www.eseeknives.com/candiru.htm) is [another](/2013/07/crkt-rsk-mk5-sheaths/) nice knife that suffers from a terrible sheath.
 
 In fact, it is a great little knife. Unfortunately the only sheath that the Candiru comes with is a simple Cordura pouch. I threw this away immediately upon receiving the knife and replaced it with a [horizontal belt sheath from Dark Star Gear](http://darkstargear.com/sheaths/). The Dark Star Gear sheath first came to my attention on [pistol-forum.com](http://pistol-forum.com/showthread.php?5935-Dark-Star-Gear-kydex-sheaths-for-ESEE-Candiru-amp-Izula). At the time I hadn't purchased the Candriu, but horizontal carry of a small fixed blade at about 11:00 on the belt impressed me as a great idea. I knew I wanted to give it a shot.
 
 <a href="http://www.flickr.com/photos/pigmonkey/9345898887/" title="Dark Star Gear Sheath by Pig Monkey, on Flickr"><img src="https://farm8.staticflickr.com/7422/9345898887_d6f9745376_c.jpg" width="800" height="534" alt="Dark Star Gear Sheath"></a>
 
-I considered ordering the sheath for my [Izula](http://pig-monkey.com/2009/12/1/rat-izula-neck-knife/), which is the knife I usually carry when I want a fixed blade, but I was concerned that it would be a little too big to conceal horizontally on my waist<sup class="footnote-ref" id="fnref:izula"><a rel="footnote" href="#fn:izula" title="see footnote">1</a></sup>. Instead I decided to purchase the ESEE Candiru, which [Brian Green had raved about](http://briangreen.net/2012/11/esee-candiru-17oz-fixed-blade-knife.html) last year, just for this carry method. (I actually ordered the sheath before I ordered the knife.)
+I considered ordering the sheath for my [Izula](/2009/12/rat-izula-neck-knife/), which is the knife I usually carry when I want a fixed blade, but I was concerned that it would be a little too big to conceal horizontally on my waist<sup class="footnote-ref" id="fnref:izula"><a rel="footnote" href="#fn:izula" title="see footnote">1</a></sup>. Instead I decided to purchase the ESEE Candiru, which [Brian Green had raved about](http://briangreen.net/2012/11/esee-candiru-17oz-fixed-blade-knife.html) last year, just for this carry method. (I actually ordered the sheath before I ordered the knife.)
 
 I'm extremely pleased with both purchases. The Candiru is not quite as general-purpose as the larger Izula, but it performs all the functions that I require of an urban EDC blade, and provides yet another option for an EDC fixed blade. This is something that I have come to prefer over a folder since I purchased the Izula about 4 years ago. The Dark Star Gear sheath allows me to carry it comfortable and conceal it with nothing more than a t-shirt, while still providing for a quick draw. The sheath has also exposed me to the idea of carrying at 11:00, which is a very nice piece of real-estate on the belt that I have previously overlooked.
 

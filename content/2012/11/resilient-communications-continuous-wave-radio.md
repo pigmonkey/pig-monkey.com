@@ -14,7 +14,7 @@ Slug: resilient-communications-continuous-wave-radio
 
 The resulting code groups lend themselves to being transmitted via low-tech, resilient means, such as continuous wave radio. The ability to do this with any file is a simple but amazingly powerful concept.
 
-I discovered codegroup around the same time that I was [learning Morse code](http://pig-monkey.com/2011/09/16/learning-morse-code/). I decided to take advantage of codegroup and put what I was learning into practice. This led to the development of [morse.py](https://github.com/pigmonkey/ham/blob/master/morse.py).
+I discovered codegroup around the same time that I was [learning Morse code](/2011/09/learning-morse-code/). I decided to take advantage of codegroup and put what I was learning into practice. This led to the development of [morse.py](https://github.com/pigmonkey/ham/blob/master/morse.py).
 
 With codegroup, I end up with a series of ASCII characters. I wanted to be able to feed those characters into a program which would convert them to Morse. The program should display the dits and dahs, but more importantly: it should beep them out.
 

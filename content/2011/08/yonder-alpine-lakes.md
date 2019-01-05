@@ -51,4 +51,4 @@ Down and out along the Foss.
 
 <a href="http://www.flickr.com/photos/pigmonkey/6040029217/" title="Copper Lake by Pig Monkey, on Flickr"><img src="http://farm7.static.flickr.com/6207/6040029217_6ab4f24b02_b.jpg" width="800" height="533" alt="Copper Lake"></a>
 
-[Yonders and yonders](http://pig-monkey.com/2010/09/16/yonders-and-yonders/).
+[Yonders and yonders](/2010/09/yonders-and-yonders/).

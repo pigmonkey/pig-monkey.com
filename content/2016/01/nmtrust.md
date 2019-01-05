@@ -2,7 +2,7 @@ Title: Using Network Trust
 Date: 2016-01-31
 Tags: linux, privacy
 
-Work continues on [Spark](https://github.com/pigmonkey/spark), my [Arch Linux provisioning system](http://pig-monkey.com/2015/12/spark/). As the project has progressed, it has created some useful tools that I've spun off into their own projects. One of those is [nmtrust](https://github.com/pigmonkey/nmtrust).
+Work continues on [Spark](https://github.com/pigmonkey/spark), my [Arch Linux provisioning system](/2015/12/spark/). As the project has progressed, it has created some useful tools that I've spun off into their own projects. One of those is [nmtrust](https://github.com/pigmonkey/nmtrust).
 
 The idea is simple. As laptop users, we frequently connect our machines to a variety of networks. Some of those networks we trust, others we don't. I trust my home and work networks because I administer both of them. I don't trust networks at cafes, hotels or airports, but sometimes I still want to use them. There are certain services I want to run when connected to trusted networks: mail syncing, [file syncing](https://git-annex.branchable.com/), [online backups](https://www.tarsnap.com/), [instant messaging](https://www.bitlbee.org/) and the like. I don't want to run these on untrusted networks, either out of concern over the potential leak of private information or simply to keep my network footprint small.
 

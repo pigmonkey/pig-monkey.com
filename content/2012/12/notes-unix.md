@@ -6,7 +6,7 @@ Slug: notes-unix
 
 As a long-time user of [Unix-like](https://en.wikipedia.org/wiki/Unix-like) systems, I prefer to do as much work in the command-line as possible. I store data in plain text whenever appropriate. I edit in [vim](http://www.vim.org/) and take advantage of the [pipeline](https://en.wikipedia.org/wiki/Pipeline_(Unix)) to manipulate the data with powerful tools like [awk](https://en.wikipedia.org/wiki/AWK) and [grep](https://en.wikipedia.org/wiki/Grep).
 
-Notes are one such instance where plain text makes sense. All of my notes -- which are scratch-pads for ideas, reference material, logs, and [whatnot](http://harrypotter.wikia.com/wiki/Pensieve) -- are kept as individual text files in the directory `~/documents/notes`. The entire `~/documents` directory is synced between my laptop and my work computer, and of course it is backed up with [tarsnap](http://pig-monkey.com/2012/09/16/tarsnapper-managing-tarsnap-backups/).
+Notes are one such instance where plain text makes sense. All of my notes -- which are scratch-pads for ideas, reference material, logs, and [whatnot](http://harrypotter.wikia.com/wiki/Pensieve) -- are kept as individual text files in the directory `~/documents/notes`. The entire `~/documents` directory is synced between my laptop and my work computer, and of course it is backed up with [tarsnap](/2012/09/tarsnapper-managing-tarsnap-backups/).
 
 When I want to read, edit or create a note, my habit is simply to open the file in vim.
 

@@ -4,7 +4,7 @@ Modified: 2012-11-08
 Tags: edc, gear, triple aught design, lockpicking
 Slug: micro-sere-kit
 
-As I [mentioned previously](http://pig-monkey.com/2012/10/30/inaugural-its-tactical-muster/), there was quite a lot of swag given out to attendees of the [ITS Tactical](http://www.itstactical.com/) Muster. My favorite piece was the Micro SERE Kit put together by [SerePick](http://www.serepick.com/) and [Triple Aught Design](http://www.tripleaughtdesign.com/).
+As I [mentioned previously](/2012/10/inaugural-its-tactical-muster/), there was quite a lot of swag given out to attendees of the [ITS Tactical](http://www.itstactical.com/) Muster. My favorite piece was the Micro SERE Kit put together by [SerePick](http://www.serepick.com/) and [Triple Aught Design](http://www.tripleaughtdesign.com/).
 
 <a href="http://www.flickr.com/photos/pigmonkey/8151797680/" title="Micro SERE Kit by Pig Monkey, on Flickr"><img src="https://farm9.staticflickr.com/8337/8151797680_8c931a9b6b_c.jpg" width="800" height="534" alt="Micro SERE Kit"></a>
 

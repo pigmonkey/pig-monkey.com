@@ -62,7 +62,7 @@ It's windy up on the ridge. There's a small notch in the rock fence where I setu
 
 <a href="http://www.flickr.com/photos/pigmonkey/5892434373/" title="Preparing for Lily Pad Lake by Pig Monkey, on Flickr"><img src="http://farm6.static.flickr.com/5078/5892434373_e951acf0c4_z.jpg" width="640" height="427" alt="Preparing for Lily Pad Lake"></a>
 
-Climbing down from the end of the road we regain the the PCT. It is soon obscured by snow. The slope is indeed steep here -- steep enough that I don't feel safe crossing it without an ice axe or traction devices. But there's a bare spot above. I make for that, where we can cross above the snow field and then come back down on the other side. I'm having flashbacks of [last year in the Glacier Peak Wilderness](http://pig-monkey.com/2010/07/20/a-few-days-in-the-glacier-peak-wilderness/).
+Climbing down from the end of the road we regain the the PCT. It is soon obscured by snow. The slope is indeed steep here -- steep enough that I don't feel safe crossing it without an ice axe or traction devices. But there's a bare spot above. I make for that, where we can cross above the snow field and then come back down on the other side. I'm having flashbacks of [last year in the Glacier Peak Wilderness](/2010/07/a-few-days-in-the-glacier-peak-wilderness/).
 
 We make it to the top, and across, but before heading back down to where we need to be there's a finger of the snow field to descend. Avagdu goes first, sitting down on the snow and attempting a controlled descent that ends up being a glissade to the other side. I do the same.
 

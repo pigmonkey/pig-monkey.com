@@ -4,11 +4,11 @@ Modified: 2013-05-29
 Tags: backups, crypto, linux, annex
 Slug: optical-photo-backups
 
-I store my photos in [git-annex](http://git-annex.branchable.com/). A full copy of the annex exists on my laptop and on an external drive. Encrypted copies of all of my photos are stored on [Amazon S3](https://aws.amazon.com/s3/) (which I pay for) and [box.com](https://www.box.com/) (which provides 50GB for free) via git-annex [special remotes](http://git-annex.branchable.com/special_remotes/). The photos are backed-up to an external drive daily with the rest of my laptop hard drive via [backitup.sh](https://pig-monkey.com/2012/10/3/back-it-up/) and [cryptshot](http://pig-monkey.com/2012/09/24/cryptshot-automated-encrypted-backups-rsnapshot/). My entire laptop hard drive is also mirrored monthly to an external drive stored off-site.
+I store my photos in [git-annex](http://git-annex.branchable.com/). A full copy of the annex exists on my laptop and on an external drive. Encrypted copies of all of my photos are stored on [Amazon S3](https://aws.amazon.com/s3/) (which I pay for) and [box.com](https://www.box.com/) (which provides 50GB for free) via git-annex [special remotes](http://git-annex.branchable.com/special_remotes/). The photos are backed-up to an external drive daily with the rest of my laptop hard drive via [backitup.sh](/2012/10/back-it-up/) and [cryptshot](/2012/09/cryptshot-automated-encrypted-backups-rsnapshot/). My entire laptop hard drive is also mirrored monthly to an external drive stored off-site.
 
 (The majority of my photos are also [on Flickr](http://www.flickr.com/photos/pigmonkey/), but I don't consider that a backup or even reliable storage.)
 
-All of this is what I consider to be the bare minimum for any redundant data storage. Photos have special value, above the value that I assign to most other data. This value only increases with age. As such they require an additional backup method, but due to the size of my collection I want to avoid backup methods that involve paying for more online storage, such as [Tarsnap](http://pig-monkey.com/2012/09/16/tarsnapper-managing-tarsnap-backups/).
+All of this is what I consider to be the bare minimum for any redundant data storage. Photos have special value, above the value that I assign to most other data. This value only increases with age. As such they require an additional backup method, but due to the size of my collection I want to avoid backup methods that involve paying for more online storage, such as [Tarsnap](/2012/09/tarsnapper-managing-tarsnap-backups/).
 
 I choose optical discs as the medium for my photo backups. This has the advantage of being read-only, which makes it more difficult for accidental deletions or corruption to propagate through the backup system. DVD-Rs have a capacity of 4.7 GBs and a cost of around $0.25 per disc. Their life expectancy varies, but 10-years seem to be a reasonable low estimate.
 
@@ -79,5 +79,5 @@ The final step is to burn the augmented image. I always burn discs at low speeds
     #!bash
     $ cdrecord -v speed=4 dev=/dev/sr0 2012.iso
 
-Similar to the optical backups of my [password database](http://pig-monkey.com/2013/04/4/password-management-vim-gnupg/), I burn two copies of each disc. One copy is stored off-site. This provides a reasonably level of assurance against any loss of my photos.
+Similar to the optical backups of my [password database](/2013/04/password-management-vim-gnupg/), I burn two copies of each disc. One copy is stored off-site. This provides a reasonably level of assurance against any loss of my photos.
 

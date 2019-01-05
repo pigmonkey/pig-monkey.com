@@ -4,7 +4,7 @@ Modified: 2013-08-01
 Tags: edc, review, gear
 Slug: keychain
 
-Below the [Maxpedition Keyper](/2013/04/8/keyper/) I connect a quick-release fob. This adds enough length to the setup that the keys can be silenced in my pocket, but still securely attached to my belt via the Keyper. The side-release buckle provides easy, one-handed access. The fob attaches to the Keyper via a normal split ring.
+Below the [Maxpedition Keyper](/2013/04/keyper/) I connect a quick-release fob. This adds enough length to the setup that the keys can be silenced in my pocket, but still securely attached to my belt via the Keyper. The side-release buckle provides easy, one-handed access. The fob attaches to the Keyper via a normal split ring.
 
 For most of the 8 years that I've used the fob, I've attached the keys to it via another split ring. I tried a [cable ring from CountyComm](http://www.countycomm.com/ring.html) for some time, but it was too large and the closure unscrewed itself frequently. Later, when the [FREEKey](http://freekeyusa.com/) came out, I gave it a shot. It worked well enough but I found that it offered no practical advantage over a normal split ring. Finally, last March I learned about the [Flex O Loc Key Ring](http://www.etsy.com/listing/58371877/super-strong-flex-o-loc-key-rings) from [Brian Green](http://briangreen.net/2013/03/the-amazing-flex-o-loc-key-ring.html). I bought a pack of them and have been using one on my keychain ever since. I find that they're perfect: the right size, easy to open, and secure when closed.
 

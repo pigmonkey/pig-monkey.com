@@ -4,7 +4,7 @@ Modified: 2013-09-28
 Tags: books, bicycle
 Slug: across-asia-bicycle
 
-In 1891, Thomas Gaskell Allen and William Lewis Sachtleben set out from St. Louis, Missouri to ride their bicycles around the world. [Across Asia on a Bicycle](http://www.gutenberg.org/ebooks/31111) is the account of the Asian leg of their 15,044 mile journey -- from Constantinople to Peking. It is an excellent read and, along with [Journey to the Centre of the Earth](/2012/09/17/currently-reading-journey-centre-earth-richard-and-nicholas-crane/), sits as my favorite cycling book.
+In 1891, Thomas Gaskell Allen and William Lewis Sachtleben set out from St. Louis, Missouri to ride their bicycles around the world. [Across Asia on a Bicycle](http://www.gutenberg.org/ebooks/31111) is the account of the Asian leg of their 15,044 mile journey -- from Constantinople to Peking. It is an excellent read and, along with [Journey to the Centre of the Earth](/2012/09/currently-reading-journey-centre-earth-richard-and-nicholas-crane/), sits as my favorite cycling book.
 
 ![Illustration from Across Asia on a Bicycle: Evening halt in a village](/media/images/across-asia-on-a-bicycle.png)
 

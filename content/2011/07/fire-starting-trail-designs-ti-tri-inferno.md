@@ -4,13 +4,13 @@ Modified: 2012-09-15
 Tags: fire, survival, gear, wilderness, stoves
 Slug: fire-starting-trail-designs-ti-tri-inferno
 
-On our last morning [in the Red Buttes Wilderness](http://pig-monkey.com/2011/07/2/red-buttes-wilderness/), Avagdu and I woke up to a very wet camp. We wanted fire, but neither of us had brought any dry wood into our shelters the night before. Everything was soaked.
+On our last morning [in the Red Buttes Wilderness](/2011/07/red-buttes-wilderness/), Avagdu and I woke up to a very wet camp. We wanted fire, but neither of us had brought any dry wood into our shelters the night before. Everything was soaked.
 
 We gathered what we could -- branches from dead fall that were up off the ground, as well as dead lower branches from standing trees -- but the trees were so sparse in the area that, even after splitting, much of this wood was still wet. (I should mention that we *wanted* a fire, but did not *need* one. I, at least, was not hugely motivated to put a large amount of energy into batoning. So a small amount of our failure ought to be attributed to laziness.)
 
-After failing to get a blaze going with the wet wood, even after using a bit of [inner tube](http://pig-monkey.com/tags/inner-tube/) to extend the flame, I hit on the idea of using the Inferno.
+After failing to get a blaze going with the wet wood, even after using a bit of inner tube to extend the flame, I hit on the idea of using the Inferno.
 
-I've had my [Trail Designs Ti-Tri](http://pig-monkey.com/2009/01/18/trail-designs-ti-tri-titanium-stove-system/) for two and a half years now. It's been my primary stove system for all of that time. Last Fall, I contacted [Trail Designs](http://www.traildesigns.com/) and had them send me an Inferno insert for the system. The Inferno consists of a second, inverted cone and a grate. The grate raises the base of the fire up off of the ground, allowing for an improved air flow, and the second cone creates a double-walled stove. This turns the Ti-Tri into a wood gassifier, similar to the [Four Dogs Bushcooker](http://www.fourdog.com/index_files/bushcooker.htm) or the ever-popular [Bushbuddy](http://www.bushbuddy.ca/).
+I've had my [Trail Designs Ti-Tri](/2009/01/trail-designs-ti-tri-titanium-stove-system/) for two and a half years now. It's been my primary stove system for all of that time. Last Fall, I contacted [Trail Designs](http://www.traildesigns.com/) and had them send me an Inferno insert for the system. The Inferno consists of a second, inverted cone and a grate. The grate raises the base of the fire up off of the ground, allowing for an improved air flow, and the second cone creates a double-walled stove. This turns the Ti-Tri into a wood gassifier, similar to the [Four Dogs Bushcooker](http://www.fourdog.com/index_files/bushcooker.htm) or the ever-popular [Bushbuddy](http://www.bushbuddy.ca/).
 
 So, back at camp, I thought the Inferno might help. I had never used it before solely to start a camp fire, but I knew from previous experience using it to cook my dinner that it was efficient enough to burn damp wood. It would give us a raised platform, allowing us to build the fire up off of the saturated ground, and the cone would provide a wall to keep the heat in and help dry the wood.
 

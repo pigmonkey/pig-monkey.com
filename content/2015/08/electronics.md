@@ -6,7 +6,7 @@ I carry a selection of tools to support the electronic devices that I utilize th
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pigmonkey/19589596453/in/dateposted/" title="GPP1"><img src="https://farm1.staticflickr.com/357/19589596453_9f93ac2827_c.jpg" width="800" height="450" alt="GPP1"></a>
 
-The electronic devices that this package supports are primarily my [phone](http://www.sonymobile.com/gb/products/phones/xperia-z3-compact/), [helmet light](http://pig-monkey.com/2015/07/overtake/), and the [flashlight](http://www.elzetta.com/elzetta-alpha-1-cell-light-model-b323.html) on my belt<sup class="footnote-ref" id="fnref:kindle"><a rel="footnote" href="#fn:kindle" title="see footnote">1</a></sup>. While these items serve multiple purposes, they tend to fall into the category of critical safety devices. As such, it is important to have the accessories needed to support their regular use.
+The electronic devices that this package supports are primarily my [phone](http://www.sonymobile.com/gb/products/phones/xperia-z3-compact/), [helmet light](/2015/07/overtake/), and the [flashlight](http://www.elzetta.com/elzetta-alpha-1-cell-light-model-b323.html) on my belt<sup class="footnote-ref" id="fnref:kindle"><a rel="footnote" href="#fn:kindle" title="see footnote">1</a></sup>. While these items serve multiple purposes, they tend to fall into the category of critical safety devices. As such, it is important to have the accessories needed to support their regular use.
 
 I do carry a laptop between home and work, and to a lesser extent some of the items in this package support that, but for the most part the things needed to support the laptop (power adapter, peripherals, etc) live at both home and work. They're not items that I carry.
 

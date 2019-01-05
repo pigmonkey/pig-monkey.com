@@ -4,7 +4,7 @@ Modified: 2012-11-18
 Tags: radio, morse
 Slug: learning-morse-code
 
-Although it's no longer required for the [amateur radio Technician license](http://pig-monkey.com/2010/10/15/studying-for-the-amateur-radio-technician-exam/), I have decided to learn [Morse code](https://secure.wikimedia.org/wikipedia/en/wiki/Morse_code). Despite it's age, Morse remains one of the most effective ways to transmit information over long distances using minimal infrastructure and power.
+Although it's no longer required for the [amateur radio Technician license](/2010/10/studying-for-the-amateur-radio-technician-exam/), I have decided to learn [Morse code](https://secure.wikimedia.org/wikipedia/en/wiki/Morse_code). Despite it's age, Morse remains one of the most effective ways to transmit information over long distances using minimal infrastructure and power.
 
 <a href="http://www.flickr.com/photos/pigmonkey/6153359143/" title="Learning Morse Code by Pig Monkey, on Flickr"><img src="https://farm7.static.flickr.com/6173/6153359143_4750b730cb_b.jpg" width="800" height="533" alt="Learning Morse Code"></a>
 

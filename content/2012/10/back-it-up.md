@@ -8,7 +8,7 @@ A laptop presents some problems for reliably backing up data. Unlike a server, t
 
 ## The Problem
 
-Let's say you want to backup a laptop to an external USB drive once per day with [cryptshot](http://pig-monkey.com/2012/09/24/cryptshot-automated-encrypted-backups-rsnapshot/).
+Let's say you want to backup a laptop to an external USB drive once per day with [cryptshot](/2012/09/cryptshot-automated-encrypted-backups-rsnapshot/).
 
 You could add a cron entry to call `cryptshot.sh` at a certain time every day. What if the laptop isn't turned on? What if the drive isn't connected? In either case the backup will not be completed. The machine will then wait a full 24 hours before even attempting the backup again. This could easily result in weeks passing without a successful backup.
 
@@ -54,7 +54,7 @@ The default period of `backitup.sh` is `DAILY`, so in this case I don't have to 
 
 All three of these entries are executed hourly, which means that at the top of every hour, my laptop attempts to back itself up. As long as the USB drive is plugged in during one of those hours, the backup will complete. If cryptshot is executed, but fails, another attempt will be made the next hour. Daily backups will only be successfully completed, at most, once per day; weekly backups, once per week; and monthly backups, once per month. This setup works well for me, but if you want a higher assurance that your daily backups will be completed every day you could change the cron interval to `*/5 * * * *`, which will result in cron executing `backitup.sh` every 5 minutes.
 
-What if you want to perform daily online backups with [Tarsnapper](http://pig-monkey.com/2012/09/16/tarsnapper-managing-tarsnap-backups/)?
+What if you want to perform daily online backups with [Tarsnapper](/2012/09/tarsnapper-managing-tarsnap-backups/)?
 
     @hourly backitup.sh -l ~/.tarsnapper-lastrun -b tarsnapper.py
 

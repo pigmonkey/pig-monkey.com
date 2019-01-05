@@ -45,7 +45,7 @@ At the lake there are a few other people already camped. I find a likely looking
 
 <a href="http://www.flickr.com/photos/pigmonkey/6117419631/" title="Lyman Lake by Pig Monkey, on Flickr"><img src="https://farm7.static.flickr.com/6190/6117419631_4dc34c4547_b.jpg" width="800" height="533" alt="Lyman Lake"></a>
 
-A downed Hemlock tree next to my camp provides plenty of slightly-damp wood. I break off a few branches and after three minutes of processing have enough to fire up the [Inferno](http://pig-monkey.com/2011/07/29/fire-starting-trail-designs-ti-tri-inferno/). After dinner I have plenty of fuel left over, so I boil some water for hot chocolate. The fire is still going as I finish the drink, allowing me to heat a bit of water for cleaning and then dry the pot before putting it away. Then to bed.
+A downed Hemlock tree next to my camp provides plenty of slightly-damp wood. I break off a few branches and after three minutes of processing have enough to fire up the [Inferno](/2011/07/fire-starting-trail-designs-ti-tri-inferno/). After dinner I have plenty of fuel left over, so I boil some water for hot chocolate. The fire is still going as I finish the drink, allowing me to heat a bit of water for cleaning and then dry the pot before putting it away. Then to bed.
 
 Image Lake
 ---------------

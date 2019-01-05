@@ -4,7 +4,7 @@ Modified: 2012-09-15
 Tags: wilderness
 Slug: high-summer-rambling-chiwaukum-mountains
 
-Continuing with my recent theme of short, low-mileage trips I ventured back into the Alpine Lakes Wilderness last weekend. After hitting snow at low elevations at the [Foss Lakes the previous week](http://pig-monkey.com/2011/08/14/yonder-alpine-lakes/), I decided this time to head east of the crest.
+Continuing with my recent theme of short, low-mileage trips I ventured back into the Alpine Lakes Wilderness last weekend. After hitting snow at low elevations at the [Foss Lakes the previous week](/2011/08/yonder-alpine-lakes/), I decided this time to head east of the crest.
 
 <a href="http://www.flickr.com/photos/pigmonkey/6072004460/" title="Entering the Alpine Lakes by Pig Monkey, on Flickr"><img src="http://farm7.static.flickr.com/6189/6072004460_cb6bcdba7f_b.jpg" width="800" height="533" alt="Entering the Alpine Lakes"></a>
 

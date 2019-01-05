@@ -4,7 +4,7 @@ Modified: 2012-09-15
 Tags: wilderness
 Slug: ingalls-way
 
-I gained the pass just before noon. On the other side, the ridge fell to reveal Jack Creek, Mount Stuart and the other paths I had traveled [the year before](http://pig-monkey.com/2010/09/25/equinox-in-the-stuart-range/). It's pleasing to see that country again, and I gaze off into the Wilderness as I recall some of the moments of that past trip. I'm also satisfied that my route finding had gone perfectly to plan.
+I gained the pass just before noon. On the other side, the ridge fell to reveal Jack Creek, Mount Stuart and the other paths I had traveled [the year before](/2010/09/equinox-in-the-stuart-range/). It's pleasing to see that country again, and I gaze off into the Wilderness as I recall some of the moments of that past trip. I'm also satisfied that my route finding had gone perfectly to plan.
 
 <a href="http://www.flickr.com/photos/pigmonkey/6018845559/" title="Jack Creek by Pig Monkey, on Flickr"><img src="http://farm7.static.flickr.com/6008/6018845559_23c15c28c1_b.jpg" width="800" height="450" alt="Jack Creek"></a>
 

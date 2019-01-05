@@ -144,7 +144,7 @@ Passwords should be long and unique. To satisfy this any password manager needs 
 
 ## Backups
 
-The `~/pw` directory is backed up in the same way as most other things on my hard drive: to [Tarsnap](http://www.tarsnap.com/) via [Tarsnapper](http://pig-monkey.com/2012/09/16/tarsnapper-managing-tarsnap-backups/), to an external drive via [rsnapshot](http://www.rsnapshot.org/) and [cryptshot](http://pig-monkey.com/2012/09/24/cryptshot-automated-encrypted-backups-rsnapshot/), [rsync to a mirror drive](https://wiki.archlinux.org/index.php/Full_System_Backup_with_rsync). The issue with these standard backups is that they're all encrypted and the keys to decrypt them are stored in the password manager. If I loose `~/pw` I'll have plenty of backups around, but none that I can actually access. I address this problem with regular backups to optical media.
+The `~/pw` directory is backed up in the same way as most other things on my hard drive: to [Tarsnap](http://www.tarsnap.com/) via [Tarsnapper](/2012/09/tarsnapper-managing-tarsnap-backups/), to an external drive via [rsnapshot](http://www.rsnapshot.org/) and [cryptshot](/2012/09/cryptshot-automated-encrypted-backups-rsnapshot/), [rsync to a mirror drive](https://wiki.archlinux.org/index.php/Full_System_Backup_with_rsync). The issue with these standard backups is that they're all encrypted and the keys to decrypt them are stored in the password manager. If I loose `~/pw` I'll have plenty of backups around, but none that I can actually access. I address this problem with regular backups to optical media.
 
 At the beginning of every month I burn the password directory to two CDs. One copy is stored at home and the other at an off-site location. I began these optical media backups in December, so I currently have two sets consisting of five discs each. Any one of these discs will provide me with the keys I need to access a backup made with one of the more frequent methods.
 
@@ -153,7 +153,7 @@ Of course, all the files being burned to these discs are still encrypted with my
 
 ## Shell
 
-I've defined a [shell function](https://github.com/pigmonkey/dotfiles/blob/master/shellrc#L70), `pw()`, that operates exactly like the function I use for [notes on Unix](http://pig-monkey.com/2012/12/22/notes-unix/).
+I've defined a [shell function](https://github.com/pigmonkey/dotfiles/blob/master/shellrc#L70), `pw()`, that operates exactly like the function I use for [notes on Unix](/2012/12/notes-unix/).
 
     #!bash
     # Set the password database directory.

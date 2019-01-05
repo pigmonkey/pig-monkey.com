@@ -12,11 +12,11 @@ Continue along the north fork of the Sky, as the trail slowly gains elevation. E
 
 <a href="http://www.flickr.com/photos/pigmonkey/6140723977/" title="Dishpan Gap by Pig Monkey, on Flickr"><img src="https://farm7.static.flickr.com/6067/6140723977_b16a3c48ea_b.jpg" width="800" height="533" alt="Dishpan Gap"></a>
 
-At the junction, consider a short detour north to nearby Blue Lake and [Pilot Ridge](http://pig-monkey.com/2010/07/20/a-few-days-in-the-glacier-peak-wilderness/), in the Glacier Peak Wilderness, but decide against it. Instead, take the Pacific Crest Trail south.
+At the junction, consider a short detour north to nearby Blue Lake and [Pilot Ridge](/2010/07/a-few-days-in-the-glacier-peak-wilderness/), in the Glacier Peak Wilderness, but decide against it. Instead, take the Pacific Crest Trail south.
 
 <a href="http://www.flickr.com/photos/pigmonkey/6140730033/" title="Junction at Dishpan Gap by Pig Monkey, on Flickr"><img src="https://farm7.static.flickr.com/6072/6140730033_904a8265bd_b.jpg" width="800" height="533" alt="Junction at Dishpan Gap"></a>
 
-Walk along the ridge. Gaze south, to far off [Stuart Peak](http://pig-monkey.com/2010/09/25/equinox-in-the-stuart-range/), and west to the distinctive snow-capped peaks of [Gothic Basin](http://pig-monkey.com/2009/10/12/gothic-basin/) and [surroundings](http://pig-monkey.com/2010/06/26/monte-cristo-and-glacier-basin/). Feel some sense of satisfaction at having traveled a piece of this country.
+Walk along the ridge. Gaze south, to far off [Stuart Peak](/2010/09/equinox-in-the-stuart-range/), and west to the distinctive snow-capped peaks of [Gothic Basin](/2009/10/gothic-basin/) and [surroundings](/2010/06/monte-cristo-and-glacier-basin/). Feel some sense of satisfaction at having traveled a piece of this country.
 
 <a href="http://www.flickr.com/photos/pigmonkey/6141309338/" title="Mountains of Monte Cristo through Trees by Pig Monkey, on Flickr"><img src="https://farm7.static.flickr.com/6085/6141309338_423bcc599f_b.jpg" width="800" height="533" alt="Mountains of Monte Cristo through Trees"></a>
 

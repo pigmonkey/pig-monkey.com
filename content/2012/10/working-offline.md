@@ -44,4 +44,4 @@ Even now that I'm back to having constant internet access, I still find myself u
 
 ## Backups
 
-I keep [backitup.sh](http://pig-monkey.com/2012/10/3/back-it-up/) in my network profile so that my online backups attempt to execute whenever I get online. If you're only online once or twice a week, you probably have more important things to do than remembering to manually trigger your online backups. It's nice to have that automated.
+I keep [backitup.sh](/2012/10/back-it-up/) in my network profile so that my online backups attempt to execute whenever I get online. If you're only online once or twice a week, you probably have more important things to do than remembering to manually trigger your online backups. It's nice to have that automated.

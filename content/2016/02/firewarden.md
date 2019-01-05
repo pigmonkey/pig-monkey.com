@@ -2,7 +2,7 @@ Title: Firewarden
 Date: 2016-02-05
 Tags: linux, privacy
 
-I've [previously mentioned](http://pig-monkey.com/2015/08/firejail/) the [Firejail](https://firejail.wordpress.com/) sandbox program. It's an incredibly useful tool. I use it to jail pretty much [all the things](https://github.com/pigmonkey/spark/search?q=firejail). Over the past six months, I've found that one of my primary use cases for Firejail is to create private, temporary sandboxes which can be destroyed upon closure. I wrote [Firewarden](https://github.com/pigmonkey/firewarden), a simple wrapper script around Firejail, to reduce the keystrokes needed for this type of use.
+I've [previously mentioned](/2015/08/firejail/) the [Firejail](https://firejail.wordpress.com/) sandbox program. It's an incredibly useful tool. I use it to jail pretty much [all the things](https://github.com/pigmonkey/spark/search?q=firejail). Over the past six months, I've found that one of my primary use cases for Firejail is to create private, temporary sandboxes which can be destroyed upon closure. I wrote [Firewarden](https://github.com/pigmonkey/firewarden), a simple wrapper script around Firejail, to reduce the keystrokes needed for this type of use.
 
 ## Disposable Browsers
 

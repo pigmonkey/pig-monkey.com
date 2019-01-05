@@ -4,12 +4,12 @@ Modified: 2012-12-22
 Tags: shell, postfix, vps, python, linux, howto, django, nginx, ubuntu
 Slug: ubuntu-vps-django
 
-Three years ago I wrote [a guide to building a VPS web server](http://pig-monkey.com/2008/06/10/an-ubuntu-vps-on-slicehost-basic-setup/) for serving sites in a PHP environment. That setup served me well for some time, but most of the sites I run now -- [including this one](http://pig-monkey.com/2011/06/11/move-django/) -- are now written in Python. Earlier this year I built another web server to reflect this. It's similar to before; I still use Ubuntu and I still like to serve pages with nginx. But PHP has been replaced with Python, and many of the packages used to build the environment have changed as a result. As with the last time, I decided to compile my notes into a guide, both for my own reference and in case anyone else would like to duplicate it. So far, the server has proven to be fast and efficient. It serves Python using uWSGI, uses a PostgreSQL database, and includes a simple mail server provided by Postfix. I think it's a good setup for serving simple Django-based websites.
+Three years ago I wrote [a guide to building a VPS web server](/2008/06/an-ubuntu-vps-on-slicehost-basic-setup/) for serving sites in a PHP environment. That setup served me well for some time, but most of the sites I run now -- [including this one](/2011/06/move-django/) -- are now written in Python. Earlier this year I built another web server to reflect this. It's similar to before; I still use Ubuntu and I still like to serve pages with nginx. But PHP has been replaced with Python, and many of the packages used to build the environment have changed as a result. As with the last time, I decided to compile my notes into a guide, both for my own reference and in case anyone else would like to duplicate it. So far, the server has proven to be fast and efficient. It serves Python using uWSGI, uses a PostgreSQL database, and includes a simple mail server provided by Postfix. I think it's a good setup for serving simple Django-based websites.
 
 Basic Setup
 ----------------
 
-[As with last time](http://pig-monkey.com/2008/06/10/an-ubuntu-vps-on-slicehost-basic-setup), I recommend following [Slicehost's basic server setup article](http://articles.slicehost.com/2010/4/30/ubuntu-lucid-setup-part-1). It discusses user administration, SSH security, and firewalls. I no longer use Slicehost as my VPS provider, but I find that Slicehost's articles provide an excellent base regardless of the host.
+[As with last time](/2008/06/an-ubuntu-vps-on-slicehost-basic-setup), I recommend following [Slicehost's basic server setup article](http://articles.slicehost.com/2010/4/30/ubuntu-lucid-setup-part-1). It discusses user administration, SSH security, and firewalls. I no longer use Slicehost as my VPS provider, but I find that Slicehost's articles provide an excellent base regardless of the host.
 
 
 ###Packages
@@ -30,7 +30,7 @@ After the repositories have been updated, I install some essential packages.
 
 ###DenyHosts
 
-Slicehost's setup article recommends turning off password authentication in SSH, forcing users to login with keys only. I use keys whenever I can, but I appreciate the option of being able to login to my server from any computer, when I may or may not have my SSH key with me. So I leave password authentication enabled. This presents the possibility of brute-force attacks. Enter [DenyHosts](http://denyhosts.sourceforge.net/). DenyHosts, which I have [discussed previously](http://pig-monkey.com/2008/10/03/thoughts-on-ssh-security/) attempts to protect against SSH attacks by banning hosts after a certain number of failed login attempts. When password authentication is enabled, running DenyHosts is a smart move.
+Slicehost's setup article recommends turning off password authentication in SSH, forcing users to login with keys only. I use keys whenever I can, but I appreciate the option of being able to login to my server from any computer, when I may or may not have my SSH key with me. So I leave password authentication enabled. This presents the possibility of brute-force attacks. Enter [DenyHosts](http://denyhosts.sourceforge.net/). DenyHosts, which I have [discussed previously](/2008/10/thoughts-on-ssh-security/) attempts to protect against SSH attacks by banning hosts after a certain number of failed login attempts. When password authentication is enabled, running DenyHosts is a smart move.
 
     #!bash
     $ sudo apt-get install denyhosts
@@ -116,7 +116,7 @@ The version check and update commands both have the `-q` switch, which disables 
 Web Server
 ----------------
 
-With the basics complete, it's time to start serving something! In my [previous article](http://pig-monkey.com/2008/06/10/an-ubuntu-vps-on-slicehost-web-server/) I covered serving a PHP-based Wordpress site via FastCGI and nginx. This time around the stack will be different: [nginx](http://nginx.org/), [uWSGI](http://projects.unbit.it/uwsgi/), [Python](http://www.python.org/), and [Django](http://www.djangoproject.com/).
+With the basics complete, it's time to start serving something! In my [previous article](/2008/06/an-ubuntu-vps-on-slicehost-web-server/) I covered serving a PHP-based Wordpress site via FastCGI and nginx. This time around the stack will be different: [nginx](http://nginx.org/), [uWSGI](http://projects.unbit.it/uwsgi/), [Python](http://www.python.org/), and [Django](http://www.djangoproject.com/).
 
 A few basic packages will help flesh out the server's Python development environment:
 
@@ -539,7 +539,7 @@ The basic server is setup and secure. Django, uWSGI, nginx and PostgreSQL are al
 Mail Server
 ---------------
 
-Most of my domains use [Google Apps](http://www.google.com/apps/), so I don't need a full-blown mail server. I do want programs and scripts to be able to send mail, and I prefer not to do so through an external SMTP server -- I'd rather just deal with having sendmail running on my own box. And I do have a few domains that do not use Google Apps. They have one or two aliases associated with them, so the server needs to receive messages for those domains and forward them off to an external address. If any of this sounds vaguely familiar, it's because it's the same thing I detailed [last time](http://pig-monkey.com/2008/06/10/an-ubuntu-vps-on-slicehost-mail/). My setup now is the same as then, so I won't repeat any of it here.
+Most of my domains use [Google Apps](http://www.google.com/apps/), so I don't need a full-blown mail server. I do want programs and scripts to be able to send mail, and I prefer not to do so through an external SMTP server -- I'd rather just deal with having sendmail running on my own box. And I do have a few domains that do not use Google Apps. They have one or two aliases associated with them, so the server needs to receive messages for those domains and forward them off to an external address. If any of this sounds vaguely familiar, it's because it's the same thing I detailed [last time](/2008/06/an-ubuntu-vps-on-slicehost-mail/). My setup now is the same as then, so I won't repeat any of it here.
 
 For a more detailed explanation of running [Postfix](http://www.postfix.org/), you can [read the Slicehost articles](http://articles.slicehost.com/email).
 

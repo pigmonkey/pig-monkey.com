@@ -4,7 +4,7 @@ Modified: 2013-07-29
 Tags: micro, wilderness
 Slug: north-fork-sky
 
-I refer to this area as [a confluence of Wilderness](/2011/09/12/confluence-wilderness/). The [Wild Sky Wilderness](http://en.wikipedia.org/wiki/Wild_Sky_Wilderness), [Henry M. Jackson Wilderness](http://en.wikipedia.org/wiki/Henry_M._Jackson_Wilderness), and [Glacier Peak Wilderness](http://en.wikipedia.org/wiki/Glacier_Peak_Wilderness) all meet here. This trip was spent [on and around Cady Ridge](http://www.flickr.com/photos/pigmonkey/sets/72157634830835595), field testing the [Hill People Gear Ute](http://www.hillpeoplegear.com/Products/InDetail/UtePack/tabid/926/Default.aspx).
+I refer to this area as [a confluence of Wilderness](/2011/09/confluence-wilderness/). The [Wild Sky Wilderness](http://en.wikipedia.org/wiki/Wild_Sky_Wilderness), [Henry M. Jackson Wilderness](http://en.wikipedia.org/wiki/Henry_M._Jackson_Wilderness), and [Glacier Peak Wilderness](http://en.wikipedia.org/wiki/Glacier_Peak_Wilderness) all meet here. This trip was spent [on and around Cady Ridge](http://www.flickr.com/photos/pigmonkey/sets/72157634830835595), field testing the [Hill People Gear Ute](http://www.hillpeoplegear.com/Products/InDetail/UtePack/tabid/926/Default.aspx).
 
 <a href="http://www.flickr.com/photos/pigmonkey/9388768624/" title="Toward Benchmark by Pig Monkey, on Flickr"><img src="http://farm4.staticflickr.com/3761/9388768624_851f88c41a_c.jpg" width="800" height="534" alt="Toward Benchmark"></a>
 

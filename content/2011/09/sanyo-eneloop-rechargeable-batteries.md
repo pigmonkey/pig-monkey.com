@@ -4,7 +4,7 @@ Modified: 2012-12-02
 Tags: battery, review, gear
 Slug: sanyo-eneloop-rechargeable-batteries
 
-I go through batteries at a fairly high rate. Electronic devices for the wilderness, such as my headlamp and GPS, see regular use. At home, things like my wireless mouse need power. The biggest drain are my lights -- particular in the winter, when they are used to [light my regular commute](http://pig-monkey.com/2011/02/20/lighting-my-ride-with-twofish/).
+I go through batteries at a fairly high rate. Electronic devices for the wilderness, such as my headlamp and GPS, see regular use. At home, things like my wireless mouse need power. The biggest drain are my lights -- particular in the winter, when they are used to [light my regular commute](/2011/02/lighting-my-ride-with-twofish/).
 
 This last spring I decided to invest in a set of rechargeable batteries. Although some of my devices run on CR123 batteries, most use AA or AAAs. To start with, I was concerned only with being able to recharge the AA and AAA batteries. Years ago I had a set of rechargeable batteries, but I think the technology was not very developed back then. They seemed to drain quickly and not hold many charges. Today, the market is different. Some brief research showed that there were many options out there, with positive reviews for most of them.
 
