@@ -1,0 +1,5 @@
+Title: I don't know anything about, or have much interest in, high-frequency trading.
+Date: 2019-01-06
+Tags: micro, radio, osint, blogroll
+
+But some of the technology behind it is fascinating. This past summer the [Sniper in Mahwah](https://sniperinmahwah.wordpress.com/) blog published [a](https://sniperinmahwah.wordpress.com/2018/05/07/shortwave-trading-part-i-the-west-chicago-tower-mystery/) [four](https://sniperinmahwah.wordpress.com/2018/06/07/shortwave-trading-part-ii-faq-and-other-chicago-area-sites/) [part](https://sniperinmahwah.wordpress.com/2018/07/13/shortwave-trading-part-iii-fourth-chicago-site-east-coast-patent-regulation-and-farmer-kevin-mystery/) [series](https://sniperinmahwah.wordpress.com/2018/07/16/shortwave-trading-part-iv-sleuthing-examples-research-tools-techniques-deputies-wanted/) investigating the use of shortwave radio as a low latency link in high-frequency trading. I'd call it the best piece of hacker-tourism since [Mother Earth Mother Board](https://www.wired.com/1996/12/ffglass/), but I think it's probably the only piece of hacker-tourism since Mother Earth Mother Board. It doesn't have much competition.
