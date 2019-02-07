@@ -4918,5 +4918,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "341ae526-3836-4ccb-86d9-b24b33f07156"
+    },
+    {
+        "id": 652.0,
+        "author_sort": "Kerouac, Jack",
+        "title": "Big Sur",
+        "isbn": 9781101548813.0,
+        "identifiers": "amazon:147505890X,google:pQfA7wj1RXoC,isbn:9781101548813,barnesnoble:w/big-sur-jack-kerouac/1100485366,goodreads:50140",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "88b6c539-77ba-4af2-b5bf-83dc3045b0ea"
+    },
+    {
+        "id": 653.0,
+        "author_sort": "Beckett, Samuel",
+        "title": "Waiting for Godot: A Tragicomedy in Two Acts",
+        "isbn": 9780802198822.0,
+        "identifiers": "amazon:080214442X,google:FGhVMc7gN0EC,isbn:9780802198822",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "365fefa5-3a83-472a-96fc-7d86c98ee584"
+    },
+    {
+        "id": 656.0,
+        "author_sort": "Gilliam, Harold & Palmer, Phil",
+        "title": "The Face of San Francisco",
+        "isbn": null,
+        "identifiers": "asin:B0007DZKY6 llcn:60015174",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "71cfab33-d87c-4d6a-b620-7f9f6609fdc3"
     }
 ]
