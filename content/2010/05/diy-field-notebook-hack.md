@@ -1,7 +1,7 @@
 Title: DIY Field Notebook Hack
 Date: 2010-05-21
 Modified: 2012-11-10
-Tags: howto, notepad, gear
+Tags: howto, writing, gear
 Slug: diy-field-notebook-hack
 
 Here's an idea I stole from <a href="http://bfelabs.com/2010/04/19/field-notebook-hack/">the excellent BFE Labs</a>: hacking a <a href="http://www.riteintherain.com/">Rite in the Rain</a> notebook to include a retention strap. The original idea at BFE was just a strap to keep the notebook closed and contain loose leafs that were shoved inside, but while making the strap he accidentally cut the webbing too short. To solve this he sewed on another piece of webbing as an extension and found that the overlap between the two pieces made a good pen holder.

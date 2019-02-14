@@ -1,7 +1,7 @@
 Title: The Field Message Pad
 Date: 2012-11-10
 Modified: 2012-11-10
-Tags: review, notepad, gear
+Tags: review, gear, writing
 Slug: field-message-pad
 
 My first experience with a field message pad was in 2005. I carried a Field Message Pad Cover by Canadian Peacekeeper -- now [CP Gear](http://www.cpgear.com/) -- filled with the [Canadian military standard issue pad](http://www.cpgear.com/store/checklist_refills/military_pad_refill.htm). I was introduced to the concept by one of the early episodes of [Patrolling with Sean Kennedy](http://www.rantmedia.ca/patrolling/). The idea of having a cover for one's notepad, which not only protected the pad but also contained pens and the other tools necessary for a dead tree data dump, simply made sense. The system was a pleasure to use, but after filling my last Canadian pad in 2006, I left it in favour of more conventional notepads. The refill pads, being available only from Canada, were difficult to acquire, and all the cool kids were using [Moleskines](http://www.moleskine.com/) and similar products. I forgot about the old field message pad until this year.

@@ -1,7 +1,7 @@
 Title: DIY Water Measuring Doohickey
 Date: 2010-05-22
 Modified: 2012-11-10
-Tags: water, howto, notepad, gear, stoves
+Tags: water, howto, gear, stoves
 Slug: diy-water-measuring-doohickey
 
 When I purchased my <a href="http://pig-monkey.com/2009/01/18/trail-designs-ti-tri-titanium-stove-system/">Trail Designs Ti-Tri Titanium Stove System</a>, I bought it with a 900mL pot from <a href="http://www.titaniumgoat.com/">Titanium Goat</a>. I like the pot, but it has one shortcoming: there are no measuring marks on it. I'm not comfortable just pouring a little water into a pot and saying "Well, that <em>looks</em> like 2 cups." I prefer a slightly higher level of accuracy.
