@@ -1,6 +1,6 @@
 Title: NASA Ames Research Center's 1970s-era space settlement project shaped a vision of the future.
 Date: 2019-02-10
-Tags: micro
+Tags: micro, offworld
 
 [Via Artsy](https://www.artsy.net/article/artsy-editorial-nasa-art-shape-vision-future): 
 
