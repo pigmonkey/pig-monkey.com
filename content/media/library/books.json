@@ -4500,6 +4500,16 @@
         "uuid": "9b3fc583-801b-4724-90da-efa93764f0b7"
     },
     {
+        "id": 592.0,
+        "author_sort": "Pollan, Michael",
+        "title": "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence",
+        "isbn": 9781594204227.0,
+        "identifiers": "amazon:B076GPJXWZ,isbn:9781594204227,barnesnoble:w/how-to-change-your-mind-michael-pollan/1127236693",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d48a4620-78a5-4855-81a4-d49b13b021f7"
+    },
+    {
         "id": 593.0,
         "author_sort": "Meadows, Donella & Wright, Diana",
         "title": "Thinking in Systems: A Primer",
@@ -4840,6 +4850,16 @@
         "uuid": "433b7f2b-9fa3-4708-bf0b-684257ff395b"
     },
     {
+        "id": 641.0,
+        "author_sort": "DeWitt, Helen",
+        "title": "The Last Samurai",
+        "isbn": 9780811225519.0,
+        "identifiers": "barnesnoble:w/the-last-samurai-helen-dewitt/1103790350,google:AI75CwAAQBAJ,isbn:9780811225519,amazon:B01EBAZRL6,goodreads:190372",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c3eefb92-ed41-46f7-9d69-d80724d7249b"
+    },
+    {
         "id": 642.0,
         "author_sort": "Sterling, Bruce",
         "title": "A Good Old-Fashioned Future",
@@ -4948,5 +4968,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "71cfab33-d87c-4d6a-b620-7f9f6609fdc3"
+    },
+    {
+        "id": 658.0,
+        "author_sort": "Lavski, Ehud & Nathan, Yael",
+        "title": "Don't They Know It's the End of the World",
+        "isbn": null,
+        "identifiers": "goodreads:36125983",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9629becf-4928-49ec-9464-759e558e33b8"
+    },
+    {
+        "id": 659.0,
+        "author_sort": "Lavski, Ehud & Nathan, Yael",
+        "title": "The Day the World Went Away",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4ad7a54b-e5a2-44c1-bb4e-595c9393e3a1"
     }
 ]
