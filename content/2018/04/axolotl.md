@@ -1,6 +1,6 @@
 Title: The Axolotl Tanks
 Date: 2018-04-15
-tags: health
+tags: health, audio
 
 I've been using an [isolation tank](https://en.wikipedia.org/wiki/Isolation_tank) every few weeks since the beginning of the year. The tanks are large, enclosed bathtubs, filled with body-temperature salt water, in which you float and not much else.
 

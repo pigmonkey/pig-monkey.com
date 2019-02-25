@@ -1,6 +1,6 @@
 Title: I appreciate that Nine Inch Nails is the type of band that inspires a team of rogue archivists to follow them around and record their shows.
 Date: 2018-12-20
-Tags: micro
+Tags: micro, audio
 
 [Reflecting in the Chrome](http://ninlive.com/) attempts to be a complete archive of live NIN performances. I've been using it to revisit the [three](http://ninlive.com/shows/2018/20180613.html) [different](http://ninlive.com/shows/2018/20181203.html) [shows](http://ninlive.com/shows/2018/20181204.html) I attended this year.
 
