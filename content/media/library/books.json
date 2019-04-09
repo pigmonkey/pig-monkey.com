@@ -4370,6 +4370,16 @@
         "uuid": "f668edcb-50ec-4c44-b39d-0e006da6fe5d"
     },
     {
+        "id": 566.0,
+        "author_sort": "Busch, Colleen Morton",
+        "title": "Fire Monks: Zen Mind Meets Wildfire at the Gates of Tassajara",
+        "isbn": 9781594202919.0,
+        "identifiers": "google:kjvHNAEACAAJ,isbn:9781594202919,goodreads:10699029",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6ffc04a3-8654-4f01-890f-7ddcd8c2d1ed"
+    },
+    {
         "id": 567.0,
         "author_sort": "Tynan & Potts, Rolf & Sivers, Derek & Babauta, Leo & Iceton, Todd",
         "title": "Forever Nomad: The Ultimate Guide to World Travel, From a Weekend to a Lifetime",
@@ -4588,6 +4598,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "368be084-56c9-4307-a409-61c77ed514d4"
+    },
+    {
+        "id": 604.0,
+        "author_sort": "Okorafor, Nnedi",
+        "title": "Who Fears Death",
+        "isbn": 9780756407285.0,
+        "identifiers": "amazon:0756407281,isbn:9780756407285,barnesnoble:w/who-fears-death-nnedi-okorafor/1100316695",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "be745f02-8b07-450f-9c6a-1fd122521ad2"
     },
     {
         "id": 606.0,
@@ -4970,6 +4990,16 @@
         "uuid": "365fefa5-3a83-472a-96fc-7d86c98ee584"
     },
     {
+        "id": 655.0,
+        "author_sort": "Kerouac, Jack",
+        "title": "Satori in Paris & Pic",
+        "isbn": 9780802130617.0,
+        "identifiers": "amazon:0802130615,isbn:9780802130617,barnesnoble:w/satori-in-paris-and-pic-jack-kerouac/1100624435,goodreads:57905",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "256e9693-7779-445a-a033-285605e10ba9"
+    },
+    {
         "id": 656.0,
         "author_sort": "Gilliam, Harold & Palmer, Phil",
         "title": "The Face of San Francisco",
@@ -4998,5 +5028,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "4ad7a54b-e5a2-44c1-bb4e-595c9393e3a1"
+    },
+    {
+        "id": 664.0,
+        "author_sort": "Wynne, Marcus",
+        "title": "Wylde: Books 1-3",
+        "isbn": null,
+        "identifiers": "amazon:B07LDZ3JWV,barnesnoble:w/wylde-marcus-wynne/1130028155",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "05736f96-2712-4c5e-a6bb-53cfe129cbfd"
+    },
+    {
+        "id": 665.0,
+        "author_sort": "Baudrillard, Jean & Glaser, Sheila Faria",
+        "title": "Simulacra and Simulation",
+        "isbn": 9780472065219.0,
+        "identifiers": "barnesnoble:w/simulacra-and-simulation-jean-0-baudrillard/1122972889,google:9Z9biHaoLZIC,isbn:9780472065219,amazon:0472065211,goodreads:22613",
+        "series": "Body, In Theory: Histories of Cultural Materialism",
+        "series_index": 1.0,
+        "uuid": "f9155dec-1025-41f2-b572-23947b5829d2"
+    },
+    {
+        "id": 666.0,
+        "author_sort": "Woods, Erin & Woods, Bill",
+        "title": "Bicycling the Backroads Around Puget Sound",
+        "isbn": 9780898864519.0,
+        "identifiers": "amazon:0898864518,google:RvYgduuu-NIC,isbn:9780898864519,barnesnoble:w/bicycling-the-backroads-around-puget-sound-erin-woods/1102877354,goodreads:299180",
+        "series": "Bicycling the Backroads",
+        "series_index": 1.0,
+        "uuid": "51ea722a-8349-445e-9bc9-b7040a064144"
     }
 ]
