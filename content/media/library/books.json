@@ -4460,6 +4460,16 @@
         "uuid": "5653a58d-6563-4877-95ff-2467d73280d1"
     },
     {
+        "id": 579.0,
+        "author_sort": "Ellis, Warren",
+        "title": "Gun Machine",
+        "isbn": 9780316187404.0,
+        "identifiers": "barnesnoble:w/gun-machine-warren-ellis/1110621122,isbn:9780316187404,amazon:B007ZFIMC6,goodreads:14739231",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e02deb59-145f-44c2-a431-e1214235a088"
+    },
+    {
         "id": 580.0,
         "author_sort": "Pavone, Chris",
         "title": "The Travelers",
@@ -5030,6 +5040,26 @@
         "uuid": "4ad7a54b-e5a2-44c1-bb4e-595c9393e3a1"
     },
     {
+        "id": 660.0,
+        "author_sort": "Kerouac, Jack",
+        "title": "The Subterraneans",
+        "isbn": 9780802131867.0,
+        "identifiers": "barnesnoble:w/subterraneans-jack-kerouac/1100624437,google:jdVGcx8Hnk0C,isbn:9780802131867,amazon:0802131867,goodreads:330760",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8d265f0a-82ec-450b-8cb6-3d63a102fc99"
+    },
+    {
+        "id": 661.0,
+        "author_sort": "Burnham, Frederick Russell",
+        "title": "Scouting on Two Continents",
+        "isbn": null,
+        "identifiers": "mobi-asin:B079LGQDGZ,goodreads:26130685",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "be7e7696-dfad-4c71-a542-b73684bc7f56"
+    },
+    {
         "id": 664.0,
         "author_sort": "Wynne, Marcus",
         "title": "Wylde: Books 1-3",
@@ -5058,5 +5088,45 @@
         "series": "Bicycling the Backroads",
         "series_index": 1.0,
         "uuid": "51ea722a-8349-445e-9bc9-b7040a064144"
+    },
+    {
+        "id": 667.0,
+        "author_sort": "Hemert, Caroline Van",
+        "title": "The Sun Is a Compass: A Memoir",
+        "isbn": 9780316414425.0,
+        "identifiers": "barnesnoble:w/the-sun-is-a-compass-caroline-van-hemert/1129429924,google:yMIduQEACAAJ,isbn:9780316414425,goodreads:40696959",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c294cfe8-6fbb-463d-a360-2c694b8e768a"
+    },
+    {
+        "id": 669.0,
+        "author_sort": "Woodmansee, Mike",
+        "title": "Trekking Washington",
+        "isbn": 9780898869040.0,
+        "identifiers": "amazon:0898869048,google:HerpxfguxnwC,isbn:9780898869040,barnesnoble:w/trekking-washington-mike-woodmansee/1100432873,goodreads:611911",
+        "series": "Backpacker Magazine",
+        "series_index": 1.0,
+        "uuid": "a1736a53-b6fd-4767-88dd-053a5628fbbd"
+    },
+    {
+        "id": 677.0,
+        "author_sort": "Lorain, Douglas",
+        "title": "Backpacking Washington: From Volcanic Peaks to Rainforest Valleys",
+        "isbn": 9780899975467.0,
+        "identifiers": "barnesnoble:w/backpacking-washington-douglas-lorain/1100432951,google:rkcN0dYE-vMC,isbn:9780899975467,amazon:B0064C4YY6,goodreads:16304909",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a1029939-fc9b-40d8-8181-b2b083cc3e13"
+    },
+    {
+        "id": 681.0,
+        "author_sort": "Thorness, Bill",
+        "title": "Biking Puget Sound: 60 Rides From Olympia to the San Juans",
+        "isbn": 9781594858901.0,
+        "identifiers": "barnesnoble:w/biking-puget-sound-2nd-ed-bill-thorness/1119582351,google:ipQTCgAAQBAJ,isbn:9781594858901,amazon:159485890X,goodreads:23374353",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9dade9da-d6c5-4ebc-93f6-6836d1787779"
     }
 ]
