@@ -5120,6 +5120,16 @@
         "uuid": "a1029939-fc9b-40d8-8181-b2b083cc3e13"
     },
     {
+        "id": 678.0,
+        "author_sort": "Verne, Jules",
+        "title": "Around the World in Eighty Days",
+        "isbn": 9780140449068.0,
+        "identifiers": "barnesnoble:w/around-the-world-in-eighty-days-jules-verne/1100059495,isbn:9780140449068,uri:http://www.gutenberg.org/ebooks/103,goodreads:54479",
+        "series": "Extraordinary Voyages",
+        "series_index": 1.0,
+        "uuid": "9c5de370-b90d-4a04-9d98-60d03b2d522a"
+    },
+    {
         "id": 681.0,
         "author_sort": "Thorness, Bill",
         "title": "Biking Puget Sound: 60 Rides From Olympia to the San Juans",
