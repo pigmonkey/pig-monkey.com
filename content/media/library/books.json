@@ -4100,6 +4100,16 @@
         "uuid": "939f9ce2-5bb7-47d9-8ba8-991d031ce95f"
     },
     {
+        "id": 515.0,
+        "author_sort": "Markham, Beryl",
+        "title": "West With the Night",
+        "isbn": 9781453237915.0,
+        "identifiers": "amazon:8087830601,google:LtzdJWWVOSQC,isbn:9781453237915,goodreads:15815304",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1a235e33-74bf-438e-a295-6799871c2444"
+    },
+    {
         "id": 517.0,
         "author_sort": "Schlosser, Eric",
         "title": "Command and Control: Nuclear Weapons, the Damascus Accident, and the Illusion of Safety",
@@ -4168,6 +4178,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "99c01abe-d470-4ecf-9aee-84c4073d4026"
+    },
+    {
+        "id": 528.0,
+        "author_sort": "Dinesen, Isak & Blixen, Karen",
+        "title": "Out of Africa",
+        "isbn": 9780307799586.0,
+        "identifiers": "amazon:0679600213,google:hQK67dQoPZIC,isbn:9780307799586,goodreads:12016758",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bd3b08bc-228b-4574-8512-248f1b3c3c69"
     },
     {
         "id": 530.0,
@@ -5138,5 +5158,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "9dade9da-d6c5-4ebc-93f6-6836d1787779"
+    },
+    {
+        "id": 683.0,
+        "author_sort": "Sasaki, Fumio",
+        "title": "Goodbye, Things: The New Japanese Minimalism",
+        "isbn": 9780393609035.0,
+        "identifiers": "barnesnoble:w/goodbye-things-fumio-sasaki/1123956945,google:_k18DAAAQBAJ,isbn:9780393609035,goodreads:30231806",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "255732b9-9a4a-48a9-8d7c-114568099e3b"
+    },
+    {
+        "id": 684.0,
+        "author_sort": "Suarez, Daniel",
+        "title": "Delta-V",
+        "isbn": 9781524742423.0,
+        "identifiers": "google:7LJkDwAAQBAJ,isbn:9781524742423,amazon:B07FLX8V84,mobi-asin:B07FLX8V84,barnesnoble:w/delta-v-daniel-suarez/1129098580,goodreads:40859000",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4765163b-77f3-4943-9b3b-27f9d7f588c7"
     }
 ]
