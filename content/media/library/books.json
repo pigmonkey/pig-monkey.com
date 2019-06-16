@@ -4710,6 +4710,16 @@
         "uuid": "c5ac7589-b28b-4699-b7e6-5909149ad941"
     },
     {
+        "id": 617.0,
+        "author_sort": "Austin, Scott",
+        "title": "Cybernetic Punk",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3163b035-dec3-40c2-99b1-9c4674af3fe8"
+    },
+    {
         "id": 618.0,
         "author_sort": "Austere Medicine Discussion Board Moderators",
         "title": "Survival & Austere Medicine: An Introduction, Third Edition",
@@ -5178,5 +5188,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "4765163b-77f3-4943-9b3b-27f9d7f588c7"
+    },
+    {
+        "id": 685.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Radicalized",
+        "isbn": 9781250228581.0,
+        "identifiers": "mobi-asin:B07HWY7XG8,barnesnoble:w/radicalized-cory-doctorow/1129556877,google:wYaFDwAAQBAJ,isbn:9781250228581,goodreads:41940386",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "54bd4e56-d220-4ccb-b0eb-f37adbdb457a"
+    },
+    {
+        "id": 686.0,
+        "author_sort": "Maughan, Tim",
+        "title": "Infinite Detail",
+        "isbn": 9780374175412.0,
+        "identifiers": "amazon:0374175411,google:HyuFDwAAQBAJ,isbn:9780374175412,barnesnoble:w/infinite-detail-tim-maughan/1128680278,goodreads:40121978",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5e433cbf-1d3a-4117-a4e3-c3c41f2b737b"
     }
 ]
