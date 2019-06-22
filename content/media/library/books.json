@@ -1972,11 +1972,11 @@
     {
         "id": 273.0,
         "author_sort": "Carré, John le",
-        "title": "Tinker, Tailor, Soldier, Spy",
+        "title": "Tinker Tailor Soldier Spy",
         "isbn": 9780143120933.0,
-        "identifiers": "isbn:9780143120933,amazon:B0042PA6BC,google:6Zm_ngEACAAJ,mobi-asin:15a74f08-bb9a-43a7-8ee1-11ee21495eda",
-        "series": null,
-        "series_index": 1.0,
+        "identifiers": "google:6Zm_ngEACAAJ,isbn:9780143120933,amazon:B0042PA6BC,mobi-asin:15a74f08-bb9a-43a7-8ee1-11ee21495eda,barnesnoble:w/tinker-tailor-soldier-spy-john-le-carr/1100258843,goodreads:11821566",
+        "series": "George Smiley",
+        "series_index": 5.0,
         "uuid": "5340f82e-5fba-4ad8-b8a0-cae7837e3f5f"
     },
     {

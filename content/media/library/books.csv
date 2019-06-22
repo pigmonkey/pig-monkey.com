@@ -196,7 +196,7 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "270","Anonymous","A Lodging of Wayfaring Men","","","","1.0","3187845e-6829-46de-8db1-a7ec9bc2547d"
 "271","Glubb, Sir John Bagot","The Fate of Empires and Search for Survival","9780851581279","google:0OQpAAAACAAJ,isbn:9780851581279","","1.0","afcacef3-7b70-46e8-a9af-3851830feb93"
 "272","Ludlow, Peter","Crypto Anarchy, Cyberstates, and Pirate Utopias","0262122383","google:PGcazfru0R8C,isbn:0262122383","","1.0","11ba11a5-b945-4dd5-8a7a-3a4c9005447a"
-"273","Carré, John le","Tinker, Tailor, Soldier, Spy","9780143120933","isbn:9780143120933,amazon:B0042PA6BC,google:6Zm_ngEACAAJ,mobi-asin:15a74f08-bb9a-43a7-8ee1-11ee21495eda","","1.0","5340f82e-5fba-4ad8-b8a0-cae7837e3f5f"
+"273","Carré, John le","Tinker Tailor Soldier Spy","9780143120933","google:6Zm_ngEACAAJ,isbn:9780143120933,amazon:B0042PA6BC,mobi-asin:15a74f08-bb9a-43a7-8ee1-11ee21495eda,barnesnoble:w/tinker-tailor-soldier-spy-john-le-carr/1100258843,goodreads:11821566","George Smiley","5.0","5340f82e-5fba-4ad8-b8a0-cae7837e3f5f"
 "274","Kennan, George Frost","Tent Life in Siberia","0898755980","isbn:0898755980","","1.0","a23670f8-fed5-40c6-a266-1da61da9aada"
 "275","Stevenson, Robert Louis","Treasure Island","9781402713187","google:NTGDz-HBRBYC,isbn:9781402713187","","1.0","d0dd1fa2-cef9-461c-8eb2-e3202bd5215f"
 "276","Stoker, Bram","Dracula","8476391099","google:sn9W2cLuhxYC,isbn:8476391099","","1.0","2eda9f40-3e9c-4eb3-b423-e5f12e2a538c"
