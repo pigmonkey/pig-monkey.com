@@ -5000,6 +5000,16 @@
         "uuid": "b34edd81-3b05-4b76-b61d-1e8496db9b6a"
     },
     {
+        "id": 650.0,
+        "author_sort": "Loeb, Jeph",
+        "title": "Batman: Dark Victory",
+        "isbn": 9781401235802.0,
+        "identifiers": "amazon:B006ADB33Y,google:STLfAAAAQBAJ,isbn:9781401235802",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "58325d36-8d30-49c2-9d93-0b8f689df9e7"
+    },
+    {
         "id": 651.0,
         "author_sort": "Loeb, Jeph",
         "title": "Batman: The Long Halloween",
@@ -5208,5 +5218,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "5e433cbf-1d3a-4117-a4e3-c3c41f2b737b"
+    },
+    {
+        "id": 689.0,
+        "author_sort": "Fisker, Jacob Lund",
+        "title": "Early Retirement Extreme",
+        "isbn": 9781453601211.0,
+        "identifiers": "google:dTm7cQAACAAJ,isbn:9781453601211,amazon:145360121X,mobi-asin:B0046LU7H0,barnesnoble:w/early-retirement-extreme-jacob-lund-fisker/1100216189,goodreads:9519944",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dc0d8110-5307-441d-963a-0f3e247f53fe"
+    },
+    {
+        "id": 690.0,
+        "author_sort": "Reynolds, Chanel",
+        "title": "What Matters Most: The Get Your Shit Together Guide to Wills, Money, Insurance, and Life's \"What-Ifs\"",
+        "isbn": 62689436.0,
+        "identifiers": "amazon:B077MCDZP4,isbn:0062689436,barnesnoble:w/what-matters-most-chanel-reynolds/1129142104",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e501fef4-5e04-4f71-9c74-711a12f1a53c"
     }
 ]
