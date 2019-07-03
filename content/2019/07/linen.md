@@ -1,0 +1,5 @@
+Title: I source my linen from recovering communist states in the remnants of the Soviet Union.
+Date: 2019-07-02
+Tags: micro, sleep
+
+Linen is my preferred material for bedding and towels (except for travel towels, where [I still prefer synthetic](/2018/03/better-towel/)). When purchased through normal channels, it can be prohibitively expensive. I cut out the middlemen and acquire linen directly from Eastern European makers on [Esty](https://www.etsy.com/), where it is much more affordable. My [duvet cover](https://www.etsy.com/listing/274336888/linen-duvet-cover-with-hidden-buttons) is [from Belarus](https://www.etsy.com/shop/SHOP2016). My [sheets](https://www.etsy.com/listing/277582026/linen-flat-sheet-linen-natural-flat) and [pillow cases](https://www.etsy.com/listing/277204904/linen-pillowcase-linen-pillow-cover) also hail [from Belarus](https://www.etsy.com/shop/ShopByElla). My [preferred towels](https://www.etsy.com/listing/561680819/linen-travel-towel-linen-bath-towel) are [from Lithuania](https://www.etsy.com/shop/Linenfiesta).
