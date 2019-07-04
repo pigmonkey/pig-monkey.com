@@ -29,6 +29,11 @@ Simple bash scripts I use to exfiltrate and infiltrate data from my Android phon
 Firewarden is a bash script used to open a program within a private [Firejail](https://github.com/netblue30/firejail) sandbox.
 
 
+## [Geoweather](https://github.com/pigmonkey/geoweather)
+
+Geolocated weather forecasts using the power of the World Wide Web.
+
+
 ## [GOESImage](https://github.com/pigmonkey/goesimage)
 
 GOESImage is a bash script which downloads the latest imagery from the [NOAA Geostationary Operational Environment Satellites](https://www.star.nesdis.noaa.gov/GOES/index.php) and sets it as the desktop background via [feh](https://feh.finalrewind.org/).
