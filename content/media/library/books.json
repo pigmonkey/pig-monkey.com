@@ -5238,5 +5238,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "e501fef4-5e04-4f71-9c74-711a12f1a53c"
+    },
+    {
+        "id": 698.0,
+        "author_sort": "Vinge, Vernor",
+        "title": "A Fire Upon the Deep",
+        "isbn": 9780812515282.0,
+        "identifiers": "amazon:0812515285,google:UGAKB3r0sZQC,isbn:9780812515282,barnesnoble:w/fire-upon-the-deep-vernor-vinge/1100351137,goodreads:77711",
+        "series": "Zones of Thought",
+        "series_index": 1.0,
+        "uuid": "2700cc1e-f23b-4024-9fa5-c933eb42c4fe"
     }
 ]
