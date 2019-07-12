@@ -1,12 +1,10 @@
 Title: MSR HyperFlow Filter Cartridge Replacement
 Date: 2009-05-20
 Modified: 2012-09-15
-Tags: water, filter, gear
+Tags: water, gear
 Slug: msr-hyperflow-filter-cartridge-replacement
 
 Last year, <a href="http://www.backpackinglight.com">Backpacking Light</a> published <a href="http://www.backpackinglight.com/cgi-bin/backpackinglight/msr_hyperflow_microfilter.html">a review of the MSR Hyperflow filter</a>. It was one of their subscription-only articles, so I never read it. Apparently, the reviewer attempting to filter only slightly-less-than-clear water and experienced a very quick build-up of material in the filter element that could not be removed by back-flushing and vastly deteriorated the flow-rate of the filter. Since the review, MSR has acknowledged the problem and released a new filter cartridge to address the problem.
-
-<!--more-->
 
 Yesterday, Backpacking Light published <a href="http://www.backpackinglight.com/cgi-bin/backpackinglight/msr_hyperflow_modified_cartridge_review.html?id=P3xvWc2U:140.160.107.66">a second review of the Hyperflow, this one using the revised filter cartridge</a>. The reviewer once again experienced the same problem, with only a slight improvement in the flow-rate of the filter once clogged.
 

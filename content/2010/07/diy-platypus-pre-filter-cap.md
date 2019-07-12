@@ -1,7 +1,7 @@
 Title: DIY Platypus Pre-Filter Cap
 Date: 2010-07-13
 Modified: 2012-09-15
-Tags: water, filter, howto, gear
+Tags: water, howto, gear
 Slug: diy-platypus-pre-filter-cap
 
 Although <a href="http://pig-monkey.com/2010/04/25/hydration-musings/">I have misgivings about their durability</a>, <a href="http://www.cascadedesigns.com/platypus">Platypus</a>' <a href="http://www.cascadedesigns.com/platypus/handheld-hydration/platy-bottle/product">2L+ bottles</a> remains the primary water reservoirs in my pack. It's been a bit over a year now since I started using them. At the same time I switched over to Platypus, I also started treating my water with chemicals rather than filtering it. Both methods of treatment have their advantages and disadvantages, but lately I have been using chemicals almost exclusively.
@@ -11,8 +11,6 @@ A water filter, of course, filters out not only the invisible nasties that upset
 As a first attempt to solve this I started to place a bandanna over the opening of the Platypus, and then poured the source water over that. That worked great for getting out the sediment, but then I had the problem of having a wet rag. If the sun is out, it dries, but the other 307 days of the year, the bandanna -- even a synthetic Buff -- became a bit of a hassle to dry. I wanted some sort of pre-filter that I could get wet without worrying about it.
 
 The solution (like more than a few before it) came while browsing the <a href="http://www.backpackinglight.com">BackpackingLight</a> forums.
-
-<!--more-->
 
 <a href="http://www.flickr.com/photos/pigmonkey/4790268567/" title="DIY Platypus Pre-Filter Cap by Pig Monkey, on Flickr"><img src="http://farm5.static.flickr.com/4136/4790268567_8a73e40bd3.jpg" width="500" height="375" alt="DIY Platypus Pre-Filter Cap" /></a>
 
