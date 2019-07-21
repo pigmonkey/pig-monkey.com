@@ -1,14 +1,12 @@
 Title: DIY Water Measuring Doohickey
 Date: 2010-05-22
 Modified: 2012-11-10
-Tags: water, howto, gear, stoves
+Tags: water, howto, gear, stoves, food
 Slug: diy-water-measuring-doohickey
 
 When I purchased my <a href="http://pig-monkey.com/2009/01/18/trail-designs-ti-tri-titanium-stove-system/">Trail Designs Ti-Tri Titanium Stove System</a>, I bought it with a 900mL pot from <a href="http://www.titaniumgoat.com/">Titanium Goat</a>. I like the pot, but it has one shortcoming: there are no measuring marks on it. I'm not comfortable just pouring a little water into a pot and saying "Well, that <em>looks</em> like 2 cups." I prefer a slightly higher level of accuracy.
 
 Originally I addressed this by scoring the handle of my spork to mark 1, 2, and 3 cups measured in the pot -- an idea which I think originally came to me from somewhere on the <a href="http://www.backpackinglight.com/">BackpackingLight</a> Forums. This method works ok -- though making the marks deep enough to be visible on the titanium was a bit tough with my knife -- but I've never felt that it is very accurate. It will tell me if I have roughly 1 cup of water in the pot, but I could really be anywhere between 3/4 of a cup to 1 1/4 cups. That's the difference between nice, fluffy couscous and overly soggy (or dry and undercooked) couscous, you know.
-
-<!--more-->
 
 <a href="http://www.flickr.com/photos/pigmonkey/4630611286/" title="Pot and Spork by Pig Monkey, on Flickr"><img src="http://farm4.static.flickr.com/3380/4630611286_8edfa28fef.jpg" width="500" height="375" alt="Pot and Spork" /></a>
 

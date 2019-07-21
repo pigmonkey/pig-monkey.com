@@ -1,6 +1,6 @@
 Title: Standard Issue Oatmeal
 Date: 2017-07-02
-tags: recipe
+tags: recipe, food
 
 I go the boxing gym in the morning before work. When I wake up I throw down a small amount of yogurt and granola, but I need a second breakfast that I can easily prepare in the office after the gym. Oatmeal is a good solution. A couple years ago I started preparing my own oatmeal instead of using store-bought packets.
 

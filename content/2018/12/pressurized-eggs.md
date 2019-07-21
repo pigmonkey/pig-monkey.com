@@ -1,6 +1,6 @@
 Title: Pressurized Eggs
 Date: 2018-12-26
-Tags: recipe
+Tags: recipe, food
 
 As with [rice](/2018/12/rice/), "hard boiled" eggs are one of my go-to pressure cooker dishes when I don't have the time or inclination to cook a full meal. I only began using the pressure cooker for this in the past couple years, but it has proven to be faster and to produce consistently better results than actually boiling the eggs.
 

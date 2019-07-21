@@ -1,6 +1,6 @@
 Title: Single Shot Rice
 Date: 2018-12-22
-Tags: recipe
+Tags: recipe, food
 
 
 A [cast iron skillet](https://shop.lodgemfg.com/skillets-and-covers/9-inch-cast-iron-skillet.asp) and a [pressure cooker](https://www.fagoramerica.com/cookware/pressure_cookers/splendid_line/splendid) were two of the first kitchen utensils I purchased when I began cooking for myself back in college. I still have the same two tools, and the vast majority of the things I cook involve one or both of them.

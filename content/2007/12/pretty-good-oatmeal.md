@@ -2,6 +2,7 @@ Title: Pretty Good Oatmeal
 Date: 2007-12-09
 Modified: 2012-09-15
 Slug: pretty-good-oatmeal
+tags: recipe, food
 
 Every Saturday morning, the first thing I do upon waking is go for run. After coming back and showering, I break-fast with this oatmeal, which I find to be mighty tasty.
 

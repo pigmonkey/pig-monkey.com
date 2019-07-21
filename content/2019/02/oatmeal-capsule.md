@@ -1,6 +1,6 @@
 Title: Oatmeal Capsules
 Date: 2019-02-27
-tags: gear, review
+tags: gear, review, food
 
 When I began mixing my [standard issue oatmeal](/2017/07/oatmeal/) I stored it in Ziploc bags. The thicker freezer bags were reusable for a couple months before they needed to be replaced, but I wanted a longer lasting solution. This led me to the [Sistema Klip It 1520](https://sistemaplastics.com/products/klip-it-rectangular/200ml-rectangle). At 200ml this container is the right size for a single serving. The seal and locking clips keep the contents fresh. It is durable enough to last pretty much forever, and the stackable design makes it convenient to store multiple units.
 
