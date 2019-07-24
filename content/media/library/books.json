@@ -4630,6 +4630,16 @@
         "uuid": "368be084-56c9-4307-a409-61c77ed514d4"
     },
     {
+        "id": 603.0,
+        "author_sort": "Chase, Marilyn",
+        "title": "The Barbary Plague: The Black Death in Victorian San Francisco",
+        "isbn": 9781588362858.0,
+        "identifiers": "barnesnoble:w/the-barbary-plague-marilyn-chase/1124368628,google:o9yPYXIYwkAC,isbn:9781588362858,goodreads:11164521",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "570045ca-d69f-4e02-97aa-e0cf9adc642d"
+    },
+    {
         "id": 604.0,
         "author_sort": "Okorafor, Nnedi",
         "title": "Who Fears Death",
@@ -5220,6 +5230,16 @@
         "uuid": "5e433cbf-1d3a-4117-a4e3-c3c41f2b737b"
     },
     {
+        "id": 687.0,
+        "author_sort": "White, Corey J.",
+        "title": "Killing Gravity",
+        "isbn": 9780765396310.0,
+        "identifiers": "amazon:0765396319,google:d2R9DQAAQBAJ,isbn:9780765396310,barnesnoble:w/killing-gravity-corey-j-white/1125140266,goodreads:33091587",
+        "series": "Voidwitch Saga",
+        "series_index": 1.0,
+        "uuid": "2612c348-25e3-4d23-bdd7-068a535b8531"
+    },
+    {
         "id": 689.0,
         "author_sort": "Fisker, Jacob Lund",
         "title": "Early Retirement Extreme",
@@ -5248,5 +5268,15 @@
         "series": "Zones of Thought",
         "series_index": 1.0,
         "uuid": "2700cc1e-f23b-4024-9fa5-c933eb42c4fe"
+    },
+    {
+        "id": 699.0,
+        "author_sort": "Pynchon, Thomas",
+        "title": "Bleeding Edge",
+        "isbn": 9780143125754.0,
+        "identifiers": "amazon:0143125753,isbn:9780143125754,barnesnoble:w/bleeding-edge-thomas-pynchon/1114731750,goodreads:17208457",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4a57fe72-56d1-4c6f-a94c-6cfd30e10f93"
     }
 ]
