@@ -5,7 +5,7 @@ sortorder: 10
 
 I'm just some guy, you know?
 
-I value autonomy, movement, and diversity. I have a tendency to be distrustful of authority. I prefer decentralized, [rhizomatic](http://www.jeffvail.net/2007/01/what-is-rhizome.html) networks to centralized systems. I dislike writing autobiography.
+I value autonomy, movement, and diversity. I have a tendency to be distrustful of authority. I prefer decentralized, [rhizomatic](https://github.com/pigmonkey/atheoryofpower/blob/master/chapters/09-forward_to_rhizome.md) networks to centralized systems. I dislike writing autobiography.
 
 The best way to learn about me is to [explore my writings](/archives/). This website functions as the central portal for my online presence. It is a record of many goings and comings, doings and beings; stories, symbols and meanings. Gossamer threads that may be woven into a larger web: a story of this age of the world.
 
