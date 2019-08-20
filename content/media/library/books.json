@@ -4280,6 +4280,16 @@
         "uuid": "aca347e3-cd4a-480c-b7fb-43767e6004be"
     },
     {
+        "id": 544.0,
+        "author_sort": "Larteguy, Jean & Fielding, Xan & Kaplan, Robert D.",
+        "title": "The Centurions",
+        "isbn": 9780143107446.0,
+        "identifiers": "amazon:0143107445,isbn:9780143107446",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6966187d-1fe5-4802-a7e3-6471acea158b"
+    },
+    {
         "id": 545.0,
         "author_sort": "Winzenburg, Lucas",
         "title": "Bunyan Velo Issue #7",
@@ -5278,5 +5288,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "4a57fe72-56d1-4c6f-a94c-6cfd30e10f93"
+    },
+    {
+        "id": 702.0,
+        "author_sort": "Coram, Robert",
+        "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
+        "isbn": 316881465.0,
+        "identifiers": "barnesnoble:w/boyd-robert-coram/1100303959,google:wWHIpt3EowQC,isbn:0316881465,amazon:B000FA5UEG,goodreads:8854089",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a683e321-12ff-4c5a-882d-62c6bc321198"
     }
 ]
