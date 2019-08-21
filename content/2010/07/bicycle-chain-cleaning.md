@@ -1,7 +1,7 @@
 Title: Bicycle Chain Cleaning
 Date: 2010-07-14
 Modified: 2012-09-30
-Tags: howto, bicycle, clean
+Tags: bicycle, ablution
 Slug: bicycle-chain-cleaning
 
 Those chain cleaning tools sold at most outdoors stores tend to pretty useless in my experience. They run around $30, but end up being cheap and ineffective pieces of plastic. I've given up on them in favor of cleaning my chain manually via a method discovered on <a href="http://www.sheldonbrown.com/chains.html">Sheldon Brown's chain maintenance page</a> (any man with <a href="http://sheldonbrown.com/images/scb_eagle.jpeg">a beard like that</a> must be infallible).
