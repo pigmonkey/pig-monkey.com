@@ -1,0 +1,7 @@
+Title: Destruction and Creation
+Date: 2019-08-25
+Tags: books, conflict
+
+After [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_%28military_strategist%29) revolutionized aerial combat and aeronautical engineering with his [Energy-Manuverability Theory](https://en.wikipedia.org/wiki/Energy%E2%80%93maneuverability_theory) he embarked on a study of the nature of creativity. Boyd's goal was to understand why he, a curious fighter pilot, was the first to discover E-M Theory. The result was [Destruction and Creation](https://github.com/pigmonkey/destructionandcreation). As one of the only pieces of writing Boyd ever published, it provides insight into his mind and offers hints of Boyd's later work -- both his best known (the [OODA Loop](https://en.wikipedia.org/wiki/OODA_loop)) and his most important ([Patterns of Conflict](https://en.wikipedia.org/wiki/Patterns_of_Conflict)).
+
+Destruction and Creation is freely [available as a PDF](http://www.goalsys.com/books/documents/DESTRUCTION_AND_CREATION.pdf), which is useful for printing but not for reading or manipulating. It is included as an appendix in Robert Coram's [Boyd biography](https://www.amazon.com/Boyd-The-Fighter-Pilot-Changed/dp/0316796883), which is available in digital format, but is poorly formatted. I converted the article into Markdown-flavored plain text, with a [BibTeX](https://en.wikipedia.org/wiki/BibTeX) bibliography, suitable for processing via [Pandoc](http://pandoc.org/). It is [available on GitHub](https://github.com/pigmonkey/destructionandcreation).
