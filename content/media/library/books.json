@@ -5298,5 +5298,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "a683e321-12ff-4c5a-882d-62c6bc321198"
+    },
+    {
+        "id": 709.0,
+        "author_sort": "Boyd, John R.",
+        "title": "Destruction and Creation",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "eafe29bd-622d-4137-a226-f69039d97ea6"
     }
 ]
