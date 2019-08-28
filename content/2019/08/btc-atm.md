@@ -1,0 +1,23 @@
+Title: Experience at the Bitcoin ATM
+Date: 2019-08-27
+Tags: bitcoin
+
+Recently I had need of Bitcoin. For a thing.
+
+I decided to use this need as an excuse to try a [Bitcoin ATM](https://en.wikipedia.org/wiki/Bitcoin_ATM). I'd noticed them appearing throughout town over the past few years but never had a reason to use one.
+
+The liquor store that I chose had a [General Bytes BATMTwo](https://www.generalbytes.com/batmtwo/). It was simple to use, but slow. After selecting the button to begin, it sat at a loading screen for a good minute. After loading, it showed me the current exchange rate for BTC (there was no option for a different currency) and asked if I wanted to deposit more or less than $1000 USD. I selected less. It then asked me to input a phone number where it could send an SMS. After giving it my number I waited around for about another minute until it sent me a message with a 5 digit number. I entered that number into the ATM, after which it allowed me to proceed.
+
+It next prompted me to scan a QR code for an existing destination wallet, or to hit another button if I did not yet have a wallet created. I didn't see any option to manually enter an address. I assumed it would want a QR code, so before I embarked on this journey of discovery I had generated a new wallet on my computer, saved its address as both a QR code and as plain text, and copied those files to my phone. Getting it scan the QR code from my phone screen took a few seconds of finagling, but this is typical of reading any barcode from a phone in my experience. After it read the code it took me to the next screen and prompted me to insert bills. This screen also showed the destination address, how much fiat currency I had deposited, and what the amount of Bitcoin received would be. I opened the text file on my phone where I had saved the wallet address and verified that this matched what it had decoded from the QR code.
+
+I wanted to deposit multiple bills, but it did not indicate if I should feed all of them in at once or one at time. I decided to insert them one at a time. As I did this it correctly displayed the amount of money I had deposited. It read all the bills successfully. However, the BTC amount stayed at 0, and it displayed a loading message in one corner of the screen. This began another wait, again of about 60 seconds, until it calculated the amount of BTC I would receive. I suppose it was fetching the current exchange rate, though if it gets an updated rate at this stage I'm not sure why it wasted time fetching the exchange rate back in the initial step.
+
+Once it had showed me the amount of BTC I would receive I hit the button indicating I was done inserting bills. It immediately displayed a confirmation screen that said the transaction was complete, with a confirmation of the USD deposited, the BTC received, and a transaction ID. At this point it asked me if I was done or if I wanted a receipt. I selected the receipt option to see what it would look like. It asked if I would like a receipt via SMS or email. Since it already had my phone number, I selected SMS. It immediately said that the receipt was sent, and then a few seconds later when back to its idling screen for the next customer. About a minute later the SMS receipt arrived. The message included the transaction ID, localized timestamp, USD deposited, BTC purchased, and destination wallet address.
+
+I didn't get back to my computer until about 45 minutes later. When I checked the funds were in my wallet, but I'm not sure how immediately they appeared.
+
+The ATM claimed to impose no fees, but the exchange rate it offered is substandard. At the time I completed the transaction I believe the price on Coinbase was about $10,123.47. Given the amount of BTC that ended up in my wallet, the price the machine offered me was about $12,208.17.
+
+Still, the process was simple, and the results quick. This is the first time I purchased Bitcoin with cash since circa 2012, when there was a service that would allow you to make a cash deposit into a random Wells Fargo account in exchange for Bitcoin. I used this service half a dozen times or so and never had a bad experience, but the whole transaction took a few hours to complete -- and I remember hearing that the person who ran it was later arrested for something or other. The ATM experience certainly felt less shady.
+
+From a privacy standpoint, the only personal information required by the ATM was a phone number that was able to receive a SMS. I'm not sure what General Bytes feels they are accomplishing by going through the steps for the SMS token, but it is a requirement that is easy enough to satisfy.
