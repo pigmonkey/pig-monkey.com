@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 pelican = "*"
-markdown = "==2.6.11"
+markdown = "*"
 typogrify = "*"
 "beautifulsoup4" = "*"
 

@@ -21,15 +21,15 @@
 
 {% block js %}
     {{ super() }}
+    <script src="{{ SITEURL }}/tipuesearch_content.js"></script>
     <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch_set.js"></script>
-    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch.js"></script>
+    <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/tipuesearch/tipuesearch.min.js"></script>
     <script>
         $(document).ready(function() {
             $('#tipue_search_input').tipuesearch({
-                'mode': 'json',
                 'show': {{ DEFAULT_PAGINATION }},
                 'showURL': false,
-                'contentLocation': '{{ SITEURL }}/tipuesearch_content.json'
+                'imageZoom': false,
             });
         });
     </script>
