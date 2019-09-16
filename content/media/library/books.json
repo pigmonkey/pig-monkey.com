@@ -5310,6 +5310,16 @@
         "uuid": "a683e321-12ff-4c5a-882d-62c6bc321198"
     },
     {
+        "id": 705.0,
+        "author_sort": "Thomas, Lowell & Stephens, Mitchell",
+        "title": "With Lawrence in Arabia",
+        "isbn": 9781510715738.0,
+        "identifiers": "barnesnoble:w/with-lawrence-in-arabia-lowell-jackson-thomas/1100020380,google:mWSCDwAAQBAJ,isbn:9781510715738,goodreads:43516079",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "234f5832-908c-4a26-9e25-9e67d230bc1d"
+    },
+    {
         "id": 709.0,
         "author_sort": "Boyd, John R.",
         "title": "Destruction and Creation",
@@ -5318,5 +5328,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "eafe29bd-622d-4137-a226-f69039d97ea6"
+    },
+    {
+        "id": 713.0,
+        "author_sort": "Sloan, Robin",
+        "title": "Sourdough",
+        "isbn": 9780374203108.0,
+        "identifiers": "barnesnoble:w/sourdough-robin-sloan/1125461012,isbn:9780374203108,goodreads:33916024",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7885d361-b604-4ea8-a8ce-10568de48005"
+    },
+    {
+        "id": 714.0,
+        "author_sort": "Mountaineers, The",
+        "title": "Mountaineering: The Freedom of the Hills",
+        "isbn": 9781594854088.0,
+        "identifiers": "isbn:9781594854088,amazon:1680510045,google:GwyXx4DzDjwC,mobi-asin:B0049P1ZTC,barnesnoble:w/mountaineering-the-mountaineers/1125305047",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "aeb3c461-2b76-4d4d-8982-f971d07613ee"
     }
 ]
