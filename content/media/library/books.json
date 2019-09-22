@@ -5260,6 +5260,16 @@
         "uuid": "2612c348-25e3-4d23-bdd7-068a535b8531"
     },
     {
+        "id": 688.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Eastern Standard Tribe",
+        "isbn": 9781429972697.0,
+        "identifiers": "amazon:0765307596,google:pVw68k6kufwC,isbn:9781429972697,goodreads:29589",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fc352606-9b1f-4a98-88b5-03539fc63a08"
+    },
+    {
         "id": 689.0,
         "author_sort": "Fisker, Jacob Lund",
         "title": "Early Retirement Extreme",
@@ -5348,5 +5358,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "aeb3c461-2b76-4d4d-8982-f971d07613ee"
+    },
+    {
+        "id": 717.0,
+        "author_sort": "Leiber, Fritz",
+        "title": "Our Lady of Darkness",
+        "isbn": 9781497616738.0,
+        "identifiers": "amazon:B00J84L2G0,google:5ucoAwAAQBAJ,isbn:9781497616738,barnesnoble:w/our-lady-of-darkness-fritz-leiber/1000818626,goodreads:102267",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7f755e8a-91c9-4620-971b-a2f9ec76c727"
     }
 ]
