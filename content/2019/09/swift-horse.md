@@ -2,7 +2,7 @@ Title: I prefer a steel steed over flesh.
 Date: 2019-09-21
 Tags: micro, bicycle, books, quote
 
-But otherwise I agree with the sentiment express by [Al-Mutanabbi](https://en.wikipedia.org/wiki/Al-Mutanabbi) (translated by [Gertrude Bell](https://en.wikipedia.org/wiki/Gertrude_Bell)):
+But otherwise I agree with the sentiment expressed by [Al-Mutanabbi](https://en.wikipedia.org/wiki/Al-Mutanabbi) (translated by [Gertrude Bell](https://en.wikipedia.org/wiki/Gertrude_Bell)):
 
 > The finest place in the world is the back of a swift horse,
 > 
