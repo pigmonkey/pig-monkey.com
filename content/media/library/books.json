@@ -5290,6 +5290,16 @@
         "uuid": "e501fef4-5e04-4f71-9c74-711a12f1a53c"
     },
     {
+        "id": 694.0,
+        "author_sort": "Carré, John le",
+        "title": "The Spy Who Came in From the Cold",
+        "isbn": 9780743442534.0,
+        "identifiers": "amazon:B004NSURT4,isbn:9780743442534,goodreads:19494",
+        "series": "George Smiley",
+        "series_index": 3.0,
+        "uuid": "29f843e9-0cf1-4905-9e7b-96f30a187a6a"
+    },
+    {
         "id": 698.0,
         "author_sort": "Vinge, Vernor",
         "title": "A Fire Upon the Deep",
@@ -5308,6 +5318,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "4a57fe72-56d1-4c6f-a94c-6cfd30e10f93"
+    },
+    {
+        "id": 700.0,
+        "author_sort": "Carré, John le",
+        "title": "The Tailor of Panama",
+        "isbn": 9780679454465.0,
+        "identifiers": "amazon:B000NXNTKW,google:x30jqXtULOIC,isbn:9780679454465,goodreads:45783",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d1542220-4c85-4b4b-88a6-e96f409ef839"
     },
     {
         "id": 702.0,
@@ -5338,6 +5358,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "234f5832-908c-4a26-9e25-9e67d230bc1d"
+    },
+    {
+        "id": 708.0,
+        "author_sort": "Anders, Charlie Jane",
+        "title": "The City in the Middle of the Night",
+        "isbn": 9780765379962.0,
+        "identifiers": "amazon:0765379961,google:RGJkDwAAQBAJ,isbn:9780765379962,goodreads:37534907",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1984dacc-234f-415b-9cb0-950701832606"
     },
     {
         "id": 709.0,
@@ -5378,5 +5408,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "7f755e8a-91c9-4620-971b-a2f9ec76c727"
+    },
+    {
+        "id": 718.0,
+        "author_sort": "Chandler, Raymond",
+        "title": "The Big Sleep",
+        "isbn": 9780394758282.0,
+        "identifiers": "barnesnoble:w/big-sleep-raymond-chandler/1100243685,google:J45s2d8tAggC,isbn:9780394758282,amazon:0394758285,goodreads:6283999",
+        "series": "A Philip Marlowe Mystery",
+        "series_index": 1.0,
+        "uuid": "2bee9781-84a0-4e1f-9377-01aee357b9c7"
     }
 ]
