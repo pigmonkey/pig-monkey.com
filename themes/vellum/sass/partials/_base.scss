@@ -28,7 +28,7 @@ $font-size-small: 0.75;
 }
 
 @mixin content-box {
-    @include leader;
+    margin-top: 3em;
     padding: $gutter-width;
     background: $content-background;
     @include border-radius;
