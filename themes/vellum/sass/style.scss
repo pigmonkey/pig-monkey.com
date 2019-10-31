@@ -187,12 +187,9 @@ footer {
     }
     .article-count, .article-date {
         display: inline;
-        &:before{
-            content: "(";
-        }
-        &:after{
-            content: ")";
-        }
+    }
+    .article-date {
+        margin-right: 10px;
     }
 
 }

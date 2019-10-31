@@ -17,8 +17,8 @@
                 <ul class="article-archive">
                     {% for article in year.list %}
                     <li class="article">
-                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                         <div class="article-date">{{ article.locale_date }}</div>
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
                     </li>
                     {% endfor %}
                 </ul>
