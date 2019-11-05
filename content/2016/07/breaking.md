@@ -1,6 +1,6 @@
 Title: Breaking News
 Date: 2016-07-22
-Tags: android, osint
+Tags: telephone, osint
 
 In the past I've struggled to find a way to be alerted to breaking news, were "breaking news" is defined as things that matter<sup class="footnote-ref" id="fnref:matter"><a rel="footnote" href="#fn:matter" title="see footnote">1</a></sup>.
 

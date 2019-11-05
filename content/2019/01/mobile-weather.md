@@ -1,7 +1,7 @@
 Title: Mobile Weather
 Date: 2019-01-09
 Modified: 2019-07-03
-Tags: android
+Tags: telephone
 
 [Los Angeles is suing The Weather Channel for selling the data of mobile users](https://www.nytimes.com/2019/01/03/technology/weather-channel-app-lawsuit.html). This behaviour shouldn't be surprising. Most mobile software, from the operating system on up, seems to exist primarily to provide some base modicum of functionality in exchange for the privilege of fucking you in new and exciting ways.
 
