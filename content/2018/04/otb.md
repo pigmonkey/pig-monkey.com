@@ -1,5 +1,6 @@
 Title: Tactical Chucks
 Date: 2018-04-14
+Modified: 2019-11-05
 tags: gear, review, footwear
 
 The [Altama OTB Maritime Assault Boots](https://originalfootwear.com/collections/altama/products/altama-maritime-assault-mid-1?variant=42541947717) are a great pair of everyday footwear. Modeled off of Chuck Taylors, they're a fairly simple concept: a 1000D Cordura upper, large rubber toe cap, and low-profile outsole with minimal lugs.
@@ -10,7 +11,7 @@ The boots provide excellent grip on wet and dry concrete. Altama claims to use s
 
 I bought them in a size US 10 / EUR 43, which fit me perfect. In most brands I alternate between a US 9.5 or 10, which usually translates to a fairly consistent EUR 42. They tip my scale at 29.3 oz (832 grams) for the pair.
 
-The laces that come with the boots are ridiculously long. Unless you tuck them into the boot, they'll catch on things. They constitute a hazard on the bike. I replaced them with [Lawson Toughlaces](http://lawsonequipment.com/Technora-Toughlaces-p1080.html), laced in a [double helix](https://www.fieggen.com/shoelace/doublehelixlacing.htm) and tied in a [bowknot](https://www.fieggen.com/shoelace/twoloopknot.htm). Lawson's laces are just heavy pieces of [Technora](https://en.wikipedia.org/wiki/Technora) with metal aglets on the end. Abrasian resistant, fire resistant to 932 degrees Fahrenheit, and with a breaking strength in excess of 1,000 lbs -- you can saw through restraints all day with the Toughlaces and they will still probably last until the heat death of the universe. I have them cut to 54" for these boots.
+The laces that come with the boots are ridiculously long. Unless you tuck them into the boot, they'll catch on things. They constitute a hazard on the bike. I replaced them with [Lawson Toughlaces](http://lawsonequipment.com/Technora-Toughlaces-p1080.html), laced in a [double helix](https://www.fieggen.com/shoelace/doublehelixlacing.htm) and tied in a [bowknot](https://www.fieggen.com/shoelace/twoloopknot.htm). Lawson's laces are just heavy pieces of [Technora](https://en.wikipedia.org/wiki/Technora) with metal aglets on the end. Abrasian resistant, fire resistant to 932 degrees Fahrenheit, and with a breaking strength in excess of 1,000 lbs -- you can saw through restraints all day with the Toughlaces and they will still probably last until the heat death of the universe. I have them cut to 58" for these boots.
 
 <a href="https://www.flickr.com/photos/pigmonkey/39649097480/in/dateposted/" title="Altama OTB Maritime Assault Boot"><img src="https://farm1.staticflickr.com/889/39649097480_174ee32644_c.jpg" width="800" height="450" alt="Altama OTB Maritime Assault Boot"></a>
 
