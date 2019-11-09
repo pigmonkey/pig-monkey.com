@@ -43,13 +43,25 @@
                 paging: false,
                 ajax: {
                     "url": "/media/library/books.json",
-                    "dataSrc": ""
+                    "dataSrc": function (json) {
+                        for(var i=0; i< json.length; i++){
+                            // Build a URL with the ISBN.
+                            if(json[i].isbn) {
+                                json[i].isbn_url = 'https://isbn.nu/' + json[i].isbn;
+                                json[i].isbn_link = '<a href="' + json[i].isbn_url + '">' + json[i].isbn + '</a>';
+                            } else {
+                                json[i].isbn_url = '';
+                                json[i].isbn_link = '';
+                            }
+                        }
+                        return json;
+                    }
                 },
                 columns: [
                     { "data": "author_sort" },
                     { "data": "title" },
                     { "data": "series" },
-                    { "data": "isbn" },
+                    { "data": "isbn_link" },
                 ]
             });
         });
