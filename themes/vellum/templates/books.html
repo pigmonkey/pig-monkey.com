@@ -24,6 +24,7 @@
                         <th>Author</th>
                         <th>Title</th>
                         <th>Series</th>
+                        <th>Index</th>
                         <th>ISBN</th>
                     </tr>
                 </thead>
@@ -53,6 +54,10 @@
                                 json[i].isbn_url = '';
                                 json[i].isbn_link = '';
                             }
+                            // Clear the series index if there is no series.
+                            if(!json[i].series) {
+                                json[i].series_index = '';
+                            }
                         }
                         return json;
                     }
@@ -61,6 +66,7 @@
                     { "data": "author_sort" },
                     { "data": "title" },
                     { "data": "series" },
+                    { "data": "series_index" },
                     { "data": "isbn_link" },
                 ]
             });
