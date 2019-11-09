@@ -321,10 +321,10 @@
     },
     {
         "id": 35.0,
-        "author_sort": "Sachtleben, William Lewis & Allen, Thomas Gaskell",
+        "author_sort": "Allen, Thomas G. & Sachtleben, William L.",
         "title": "Across Asia on a Bicycle",
-        "isbn": 3861953285.0,
-        "identifiers": "amazon:B004TOTGK8,isbn:3861953285",
+        "isbn": 9783861953289.0,
+        "identifiers": "amazon:B004TOTGK8,google:rQ6fam5_3nkC,isbn:9783861953289,goodreads:14636404",
         "series": null,
         "series_index": 1.0,
         "uuid": "c53dff96-dd5a-4653-9dea-a10385c545cd"
@@ -363,8 +363,8 @@
         "id": 39.0,
         "author_sort": "Burton, Richard Francis",
         "title": "First Footsteps in East Africa",
-        "isbn": 3842464959.0,
-        "identifiers": "isbn:3842464959,mobi-asin:8e2d4451-3c65-4911-bc73-9e85a12dca84",
+        "isbn": 9781428017306.0,
+        "identifiers": "isbn:9781428017306,barnesnoble:w/first-footsteps-in-east-africa-richard-burton/1100486406,mobi-asin:8e2d4451-3c65-4911-bc73-9e85a12dca84,goodreads:1227489",
         "series": null,
         "series_index": 1.0,
         "uuid": "482d145d-ed25-449e-83a3-04d7cc039a55"
@@ -393,8 +393,8 @@
         "id": 42.0,
         "author_sort": "Orwell, George",
         "title": "Homage to Catalonia",
-        "isbn": 8170262100.0,
-        "identifiers": "isbn:8170262100,mobi-asin:14b67fff-1b78-4213-b9fa-424cdd02b61a",
+        "isbn": 9780436231391.0,
+        "identifiers": "google:acnyAAAAMAAJ,isbn:9780436231391,amazon:B003K16PFU,mobi-asin:14b67fff-1b78-4213-b9fa-424cdd02b61a,barnesnoble:w/homage-to-catalonia-george-orwell/1000202714,goodreads:42189452",
         "series": null,
         "series_index": 1.0,
         "uuid": "38863178-1921-4e78-a907-fd7f03a90300"
@@ -473,8 +473,8 @@
         "id": 53.0,
         "author_sort": "Banks, Iain M.",
         "title": "Inversions",
-        "isbn": 671036688.0,
-        "identifiers": "mobi-asin:B002TXZR8G,amazon:1416583785,google:OhFRPgAACAAJ,isbn:0671036688",
+        "isbn": 9781416583783.0,
+        "identifiers": "google:cO00U2Llra8C,isbn:9781416583783,amazon:1416583785,mobi-asin:B002TXZR8G,barnesnoble:w/inversions-iain-m-banks/1102041247,goodreads:1716465",
         "series": "Culture",
         "series_index": 6.0,
         "uuid": "d7f79855-a644-4848-9a78-5ff6724cab5a"
@@ -483,8 +483,8 @@
         "id": 54.0,
         "author_sort": "Banks, Iain M.",
         "title": "Look to Windward",
-        "isbn": 743421922.0,
-        "identifiers": "isbn:0743421922,amazon:145162168X,google:HovpJmfv4wAC,mobi-asin:48b7e7d5-a8c6-4ede-880d-b3aa9053fad2",
+        "isbn": 9781451621686.0,
+        "identifiers": "google:HovpJmfv4wAC,isbn:9781451621686,amazon:145162168X,mobi-asin:48b7e7d5-a8c6-4ede-880d-b3aa9053fad2,barnesnoble:w/look-to-windward-iain-m-banks/1100367784,goodreads:12016",
         "series": "Culture",
         "series_index": 7.0,
         "uuid": "2f0e2e6c-f83c-43cf-b69f-0c891bc4a53c"
@@ -703,8 +703,8 @@
         "id": 86.0,
         "author_sort": "Herbert, Frank",
         "title": "Children of Dune",
-        "isbn": 441104029.0,
-        "identifiers": "amazon:B0015DTW50,google:_W56NQEACAAJ,isbn:0441104029,goodreads:112",
+        "isbn": 9780441104024.0,
+        "identifiers": "barnesnoble:w/children-of-dune-frank-herbert/1100361916,google:JPLMR68U78cC,isbn:9780441104024,amazon:B0015DTW50,goodreads:112",
         "series": "Dune",
         "series_index": 3.0,
         "uuid": "1881a041-597c-404f-aa6f-3827f8193c27"
@@ -853,8 +853,8 @@
         "id": 101.0,
         "author_sort": "Asimov, Isaac",
         "title": "Foundation",
-        "isbn": 553293354.0,
-        "identifiers": "barnesnoble:w/foundation-isaac-asimov/1100465950,google:ZgjjE6FoVdMC,isbn:0553293354,amazon:B000FC1PWA,goodreads:7352028",
+        "isbn": 9780553293357.0,
+        "identifiers": "barnesnoble:w/foundation-isaac-asimov/1100465950,google:ZgjjE6FoVdMC,isbn:9780553293357,amazon:B000FC1PWA,goodreads:7352028",
         "series": "Foundation (Publication Order)",
         "series_index": 1.0,
         "uuid": "ed19a7f7-d7dd-4410-b77f-96c8df8e5f69"
@@ -873,8 +873,8 @@
         "id": 103.0,
         "author_sort": "Asimov, Isaac",
         "title": "Second Foundation",
-        "isbn": 345318005.0,
-        "identifiers": "amazon:B000FC1PWU,google:d8lp4Wth67IC,isbn:0345318005,barnesnoble:w/second-foundation-isaac-asimov/1100302511,goodreads:8491174",
+        "isbn": 9780553382594.0,
+        "identifiers": "amazon:B000FC1PWU,google:f5hLaocYRGgC,isbn:9780553382594,barnesnoble:w/second-foundation-isaac-asimov/1100302511,goodreads:8491174",
         "series": "Foundation (Publication Order)",
         "series_index": 3.0,
         "uuid": "3dfd7405-aa17-4c0f-afb8-529f5b9932a2"
@@ -913,8 +913,8 @@
         "id": 114.0,
         "author_sort": "Kerouac, Jack",
         "title": "The Dharma Bums",
-        "isbn": 140042520.0,
-        "identifiers": "amazon:0140042520,google:Es3fmFyTrIIC,isbn:0140042520",
+        "isbn": 9780140042528.0,
+        "identifiers": "amazon:0140042520,google:Es3fmFyTrIIC,isbn:9780140042528,barnesnoble:w/dharma-bums-jack-kerouac/1100315581,goodreads:43912052",
         "series": null,
         "series_index": 1.0,
         "uuid": "78868349-0467-43e2-b23e-fa48f7e2b170"
@@ -973,8 +973,8 @@
         "id": 126.0,
         "author_sort": "Bacigalupi, Paolo",
         "title": "The Windup Girl",
-        "isbn": 1597801577.0,
-        "identifiers": "amazon:1597801585,google:Z6swAQAAMAAJ,isbn:1597801577",
+        "isbn": 9781597801584.0,
+        "identifiers": "barnesnoble:w/windup-girl-paolo-bacigalupi/1100225865,google:Z6swAQAAMAAJ,isbn:9781597801584,amazon:1597801585,goodreads:6597651",
         "series": null,
         "series_index": 1.0,
         "uuid": "731bcf46-258d-417f-bb87-4b1547b0df65"
@@ -1003,8 +1003,8 @@
         "id": 129.0,
         "author_sort": "Hemingway, Ernest",
         "title": "The Sun Also Rises",
-        "isbn": 743297334.0,
-        "identifiers": "amazon:0743297334,google:ghKyLjIU4-QC,isbn:0743297334",
+        "isbn": 9780743297332.0,
+        "identifiers": "amazon:0743297334,google:ghKyLjIU4-QC,isbn:9780743297332,barnesnoble:w/sun-also-rises-ernest-hemingway/1100300822,goodreads:43496189",
         "series": null,
         "series_index": 1.0,
         "uuid": "7f1f2e58-303c-4a6b-b574-afbbea75e72b"
@@ -1033,8 +1033,8 @@
         "id": 132.0,
         "author_sort": "Hemingway, Ernest",
         "title": "A Farewell to Arms",
-        "isbn": 684801469.0,
-        "identifiers": "amazon:B007CKXYM2,google:kyF-qkCaLtEC,isbn:0684801469",
+        "isbn": 9780684801469.0,
+        "identifiers": "barnesnoble:w/farewell-to-arms-ernest-hemingway/1100300814,google:rhfAxQEACAAJ,isbn:9780684801469,amazon:B007CKXYM2,goodreads:43497364",
         "series": null,
         "series_index": 1.0,
         "uuid": "2d820b1f-1da7-4990-b5e3-6334c67de1a1"
@@ -1201,10 +1201,10 @@
     },
     {
         "id": 169.0,
-        "author_sort": "Thesiger, Wilfred",
+        "author_sort": "Thesiger, Wilfred & Stewart, Rory",
         "title": "Arabian Sands",
-        "isbn": 141442077.0,
-        "identifiers": "amazon:0141442077,google:2yRaU6w6x2kC,isbn:0141442077",
+        "isbn": 9780141442075.0,
+        "identifiers": "amazon:0141442077,google:2yRaU6w6x2kC,isbn:9780141442075,barnesnoble:w/arabian-sands-wilfred-thesiger/1100624740,goodreads:294335",
         "series": null,
         "series_index": 1.0,
         "uuid": "18a42fca-6373-4877-9383-f624e5414959"
@@ -1253,8 +1253,8 @@
         "id": 182.0,
         "author_sort": "Greene, Graham",
         "title": "Journey Without Maps",
-        "isbn": 143039725.0,
-        "identifiers": "google:Cz1zXmbqV-AC,isbn:0143039725",
+        "isbn": 9781504053983.0,
+        "identifiers": "barnesnoble:w/journey-without-maps-graham-greene/1101075248,google:DbtaDwAAQBAJ,isbn:9781504053983,amazon:0143039725,goodreads:3695",
         "series": null,
         "series_index": 1.0,
         "uuid": "d14bb836-fbd4-4f30-8989-d87909ba33ea"
@@ -1363,8 +1363,8 @@
         "id": 196.0,
         "author_sort": "Hemingway, Ernest",
         "title": "A Moveable Feast",
-        "isbn": 224608568.0,
-        "identifiers": "mobi-asin:B014HX3XNG,amazon:B014HX3XNG,isbn:0224608568",
+        "isbn": 9780099595656.0,
+        "identifiers": "google:C-tBPgAACAAJ,isbn:9780099595656,amazon:0099595656,mobi-asin:B014HX3XNG,barnesnoble:w/moveable-feast-ernest-hemingway/1100213865,goodreads:901414",
         "series": null,
         "series_index": 1.0,
         "uuid": "03cc5b5b-cebb-4c0b-9b12-fa0193d83819"
@@ -1832,9 +1832,9 @@
     {
         "id": 257.0,
         "author_sort": "Luna, J. J.",
-        "title": "How to Be Invisible",
-        "isbn": 312252501.0,
-        "identifiers": "isbn:0312252501,mobi-asin:B0065QZVB6",
+        "title": "How to Be Invisible: A Step-By-Step Guide to Protecting Your Assets, Your Identity, and Your Life",
+        "isbn": 9780312252502.0,
+        "identifiers": "google:hNdDvgAACAAJ,isbn:9780312252502,amazon:1250010454,mobi-asin:B0065QZVB6,barnesnoble:w/how-to-be-invisible-jj-luna/1100060499,goodreads:462266",
         "series": null,
         "series_index": 1.0,
         "uuid": "5d39fe9a-7a2d-4ba0-96d0-db0dbc7f4c4d"
@@ -1872,7 +1872,7 @@
     {
         "id": 261.0,
         "author_sort": "Williamson, Jed",
-        "title": "Accidents in North American Mountaineering 2014: Know The Ropes: Snow Climbing",
+        "title": "Accidents in North American Mountaineering 2014",
         "isbn": 1933056851.0,
         "identifiers": "isbn:1933056851,goodreads:21972320",
         "series": "Accidents in North American Mountaineering",
@@ -1882,7 +1882,7 @@
     {
         "id": 262.0,
         "author_sort": "MacDonald, Dougald",
-        "title": "Accidents in North American Mountaineering 2015: Know The Ropes: Protection",
+        "title": "Accidents in North American Mountaineering 2015",
         "isbn": 9781933056890.0,
         "identifiers": "barnesnoble:w/accident-in-north-american-mountaineering-2015-dougald-macdonald/1121490951,google:3Cn5rQEACAAJ,isbn:9781933056890,goodreads:26192707",
         "series": "Accidents in North American Mountaineering",
@@ -1973,8 +1973,8 @@
         "id": 272.0,
         "author_sort": "Ludlow, Peter",
         "title": "Crypto Anarchy, Cyberstates, and Pirate Utopias",
-        "isbn": 262122383.0,
-        "identifiers": "google:PGcazfru0R8C,isbn:0262122383",
+        "isbn": 9780262122382.0,
+        "identifiers": "barnesnoble:w/books/1100658062,google:PGcazfru0R8C,isbn:9780262122382,goodreads:1860521",
         "series": null,
         "series_index": 1.0,
         "uuid": "11ba11a5-b945-4dd5-8a7a-3a4c9005447a"
@@ -1991,10 +1991,10 @@
     },
     {
         "id": 274.0,
-        "author_sort": "Kennan, George Frost",
+        "author_sort": "Kennan, George",
         "title": "Tent Life in Siberia",
-        "isbn": 898755980.0,
-        "identifiers": "isbn:0898755980",
+        "isbn": 9780898755985.0,
+        "identifiers": "amazon:0898755980,isbn:9780898755985,barnesnoble:w/tent-life-in-siberia-george-kennan/1100229232,goodreads:2424215",
         "series": null,
         "series_index": 1.0,
         "uuid": "a23670f8-fed5-40c6-a266-1da61da9aada"
@@ -2013,8 +2013,8 @@
         "id": 276.0,
         "author_sort": "Stoker, Bram",
         "title": "Dracula",
-        "isbn": 8476391099.0,
-        "identifiers": "google:sn9W2cLuhxYC,isbn:8476391099",
+        "isbn": 9780553898538.0,
+        "identifiers": "amazon:1607105519,google:9vgrEwY3UBwC,isbn:9780553898538",
         "series": null,
         "series_index": 1.0,
         "uuid": "2eda9f40-3e9c-4eb3-b423-e5f12e2a538c"
@@ -2073,8 +2073,8 @@
         "id": 285.0,
         "author_sort": "Sterling, Bruce",
         "title": "Islands in the Net",
-        "isbn": 441374239.0,
-        "identifiers": "google:maE8BQAAQBAJ,isbn:0441374239,amazon:B00PDDKVXK,mobi-asin:1c547975-5a1c-4ec0-9327-e3513babf6d0,barnesnoble:w/islands-in-the-net-bruce-sterling/1000654395,goodreads:23514977",
+        "isbn": 9781497686519.0,
+        "identifiers": "google:2-rpAAAAMAAJ,isbn:9781497686519,amazon:B00PDDKVXK,mobi-asin:1c547975-5a1c-4ec0-9327-e3513babf6d0,barnesnoble:w/islands-in-the-net-bruce-sterling/1000654395,goodreads:23514977",
         "series": null,
         "series_index": 1.0,
         "uuid": "fb66152e-ebdf-48da-9cea-4c4b06531320"
@@ -2091,12 +2091,12 @@
     },
     {
         "id": 287.0,
-        "author_sort": "Moore, Alan W. & Bolland, Brian",
+        "author_sort": "Moore, Alan & Bolland, Brian",
         "title": "Batman: The Killing Joke",
-        "isbn": 1401216676.0,
-        "identifiers": "isbn:1401216676",
-        "series": null,
-        "series_index": 1.0,
+        "isbn": 9781401216672.0,
+        "identifiers": "barnesnoble:w/batman-alan-moore/1000193854,google:l0UTIQAACAAJ,isbn:9781401216672,goodreads:2233549",
+        "series": "Accidents in North American Mountaineering",
+        "series_index": 72.0,
         "uuid": "109be96a-aceb-4da3-a146-0afc527761d2"
     },
     {
@@ -2125,18 +2125,18 @@
         "title": "Serenity: Downtime",
         "isbn": null,
         "identifiers": "goodreads:13624757",
-        "series": null,
-        "series_index": 2.3,
+        "series": "Serenity",
+        "series_index": 4.0,
         "uuid": "0599bf31-b86f-40ab-b7b4-ed05657e1519"
     },
     {
         "id": 291.0,
-        "author_sort": "Whedon, Zack & Whedon, Joss & Samnee, Chris & Stewart, Dave & Morris, Steve",
-        "title": "Serenity: The Shepherd's Tale",
-        "isbn": 1595825614.0,
-        "identifiers": "isbn:1595825614",
-        "series": null,
-        "series_index": 1.0,
+        "author_sort": "Whedon, Joss & Whedon, Zack & Morris, Chris Samnee; Dave Stewart; Steve",
+        "title": "The Shepherd's Tale",
+        "isbn": 9781595825612.0,
+        "identifiers": "barnesnoble:w/serenity-joss-whedon/1112690308,google:JEEIyQEACAAJ,isbn:9781595825612,amazon:1595825614,goodreads:8596384",
+        "series": "Serenity",
+        "series_index": 3.0,
         "uuid": "562c3fe8-d309-4cc7-a1a2-8ffd88a567be"
     },
     {
@@ -2144,9 +2144,9 @@
         "author_sort": "Oswalt, Patton",
         "title": "Serenity: Float Out",
         "isbn": null,
-        "identifiers": "goodreads:9776380",
-        "series": null,
-        "series_index": 2.4,
+        "identifiers": "google:Ny-jCgAAQBAJ,goodreads:9776380",
+        "series": "Serenity",
+        "series_index": 5.0,
         "uuid": "91e9de38-11c7-45ff-ab76-07fd781c1c2b"
     },
     {
@@ -2155,8 +2155,8 @@
         "title": "Serenity: The Other Half",
         "isbn": null,
         "identifiers": "goodreads:11381977",
-        "series": null,
-        "series_index": 2.2,
+        "series": "Serenity",
+        "series_index": 2.0,
         "uuid": "4ef297de-9dbd-4850-83b3-4172b541da17"
     },
     {
@@ -2872,7 +2872,7 @@
     {
         "id": 366.0,
         "author_sort": "Ellis, Warren",
-        "title": "Transmetropolitan #7: Boyfriend Is a Virus",
+        "title": "Transmetropolitan #7",
         "isbn": null,
         "identifiers": "goodreads:22459628",
         "series": "Transmetropolitan",
@@ -3114,7 +3114,7 @@
         "author_sort": "Watterson, Bill",
         "title": "Calvin and Hobbes",
         "isbn": 9780836220889.0,
-        "identifiers": "barnesnoble:w/calvin-and-hobbes-3-in-the-shadow-of-the-night-bill-watterson/1109232506,isbn:9780836220889,goodreads:77727",
+        "identifiers": "barnesnoble:w/calvin-and-hobbes-3-in-the-shadow-of-the-night-bill-watterson/1109232506,google:fUJ9xwEACAAJ,isbn:9780836220889,amazon:0836220889,goodreads:77727",
         "series": "Calvin and Hobbes",
         "series_index": 1.0,
         "uuid": "96ecf03c-5b72-4309-82d4-e15b32585fc5"
@@ -3122,9 +3122,9 @@
     {
         "id": 394.0,
         "author_sort": "Watterson, Bill",
-        "title": "Calvin and Hobbes: Something Under the Bed Is Drooling",
-        "isbn": 836218256.0,
-        "identifiers": "isbn:0836218256,goodreads:17886577",
+        "title": "Something Under the Bed Is Drooling",
+        "isbn": 9780836218251.0,
+        "identifiers": "amazon:0836218256,google:LdB2_WzYpKgC,isbn:9780836218251,barnesnoble:w/something-under-the-bed-is-drooling-bill-watterson/1100877641,goodreads:17886577",
         "series": "Calvin and Hobbes",
         "series_index": 2.0,
         "uuid": "7d314b7c-8ec1-4013-8b95-04cc70ac8927"
@@ -3172,9 +3172,9 @@
     {
         "id": 399.0,
         "author_sort": "Watterson, Bill",
-        "title": "Attack of the Deranged Mutant Killer Monster Snow Goons(Calvin and Hobbes Series)",
+        "title": "Attack of the Deranged Mutant Killer Monster Snow Goons",
         "isbn": 9780836218831.0,
-        "identifiers": "barnesnoble:w/attack-of-the-deranged-mutant-killer-monster-snow-goons-bill-watterson/1019561980,isbn:9780836218831,goodreads:77726",
+        "identifiers": "barnesnoble:w/attack-of-the-deranged-mutant-killer-monster-snow-goons-bill-watterson/1019561980,google:U1omakTZzZsC,isbn:9780836218831,goodreads:77726",
         "series": "Calvin and Hobbes",
         "series_index": 7.0,
         "uuid": "facb9bce-0226-40b9-a664-ff79793a151d"
@@ -3182,9 +3182,9 @@
     {
         "id": 400.0,
         "author_sort": "Watterson, Bill",
-        "title": "Calvin and Hobbes. The Days Are Just Packed",
+        "title": "The Days Are Just Packed",
         "isbn": 9780836217353.0,
-        "identifiers": "barnesnoble:w/calvin-and-hobbes-the-days-are-just-packed-bill-watterson/1109232763,isbn:9780836217353,goodreads:24818",
+        "identifiers": "barnesnoble:w/calvin-and-hobbes-the-days-are-just-packed-bill-watterson/1109232763,google:_7jI4ZPuztUC,isbn:9780836217353,amazon:0836217357,goodreads:24818",
         "series": "Calvin and Hobbes",
         "series_index": 8.0,
         "uuid": "d6bbe647-f2a3-455b-b2b3-b517735149a8"
@@ -3192,9 +3192,9 @@
     {
         "id": 401.0,
         "author_sort": "Watterson, Bill",
-        "title": "Homicidal Psycho Jungle Cat: A Calvin and Hobbes Collection",
-        "isbn": 9780836217698.0,
-        "identifiers": "barnesnoble:w/homicidal-psycho-jungle-cat-bill-watterson/1101098256,isbn:9780836217698,goodreads:24816",
+        "title": "Homicidal Psycho Jungle Cat",
+        "isbn": 9781449475574.0,
+        "identifiers": "barnesnoble:w/homicidal-psycho-jungle-cat-bill-watterson/1101098256,google:-aOTQgAACAAJ,isbn:9781449475574,goodreads:24816",
         "series": "Calvin and Hobbes",
         "series_index": 9.0,
         "uuid": "aec2b73a-03bd-4b46-97fc-eb6413d18855"
@@ -3212,9 +3212,9 @@
     {
         "id": 404.0,
         "author_sort": "Watterson, Bill",
-        "title": "It's a Magical World: A Calvin and Hobbes Collection",
+        "title": "It's a Magical World",
         "isbn": 9780836221367.0,
-        "identifiers": "barnesnoble:w/its-a-magical-world-bill-watterson/1019561978,isbn:9780836221367,goodreads:24814",
+        "identifiers": "barnesnoble:w/its-a-magical-world-bill-watterson/1019561978,google:y1NVNqOB5OIC,isbn:9780836221367,amazon:0836221362,goodreads:24814",
         "series": "Calvin and Hobbes",
         "series_index": 11.0,
         "uuid": "085c0f70-2abc-4d00-8797-fafa3c7d2ae6"
@@ -3252,7 +3252,7 @@
     {
         "id": 408.0,
         "author_sort": "Williamson, Jed",
-        "title": "Accidents in North American Mountaineering 2012: Know The Ropes: Rappelling",
+        "title": "Accidents in North American Mountaineering 2012",
         "isbn": 9781933056777.0,
         "identifiers": "isbn:9781933056777,goodreads:15028175",
         "series": "Accidents in North American Mountaineering",
@@ -3262,7 +3262,7 @@
     {
         "id": 409.0,
         "author_sort": "Williamson, Jed",
-        "title": "Accidents in North American Mountaineering 2013: Know The Ropes: Lowering",
+        "title": "Accidents in North American Mountaineering 2013",
         "isbn": 9781933056814.0,
         "identifiers": "isbn:9781933056814,goodreads:17872388",
         "series": "Accidents in North American Mountaineering",
@@ -3643,8 +3643,8 @@
         "id": 455.0,
         "author_sort": "Morgan, Richard K.",
         "title": "Market Forces",
-        "isbn": 345457749.0,
-        "identifiers": "mobi-asin:B000FCJZJK,amazon:B000FCJZJK,isbn:0345457749,goodreads:40450",
+        "isbn": 9780345457745.0,
+        "identifiers": "google:33BlAAAAMAAJ,isbn:9780345457745,amazon:B000FCJZJK,mobi-asin:B000FCJZJK,barnesnoble:w/market-forces-richard-k-morgan/1100622555,goodreads:40450",
         "series": null,
         "series_index": 1.0,
         "uuid": "e9416ed7-05af-4acc-b7ba-4da8fe6c9b80"
@@ -3842,9 +3842,9 @@
     {
         "id": 478.0,
         "author_sort": "Schimelpfenig, Tod",
-        "title": "Nols Wilderness Medicine",
-        "isbn": 811718255.0,
-        "identifiers": "isbn:0811718255,goodreads:28288103",
+        "title": "NOLS Wilderness Medicine",
+        "isbn": 9780811718257.0,
+        "identifiers": "barnesnoble:w/nols-wilderness-medicine-tod-schimelpfenig/1103279485,google:PsXyjgEACAAJ,isbn:9780811718257,amazon:0811718255,goodreads:28288103",
         "series": null,
         "series_index": 1.0,
         "uuid": "6979a02b-56e1-447a-a372-e11cc78b77e3"
@@ -4003,8 +4003,8 @@
         "id": 497.0,
         "author_sort": "Sterling, Bruce",
         "title": "Heavy Weather",
-        "isbn": 1857981928.0,
-        "identifiers": "barnesnoble:w/heavy-weather-bruce-sterling/1100013779,google:mJqJGwAACAAJ,isbn:1857981928,amazon:055357292X,goodreads:3009917",
+        "isbn": 9781857981926.0,
+        "identifiers": "barnesnoble:w/heavy-weather-bruce-sterling/1100013779,google:rlUdQ4i6ZY0C,isbn:9781857981926,amazon:055357292X,goodreads:3009917",
         "series": null,
         "series_index": 1.0,
         "uuid": "369e3b42-9a1a-4734-96d2-d7a9b64b55b9"
@@ -4013,8 +4013,8 @@
         "id": 498.0,
         "author_sort": "Sterling, Bruce",
         "title": "The Zenith Angle",
-        "isbn": 345468651.0,
-        "identifiers": "barnesnoble:w/zenith-angle-bruce-sterling/1100293445,google:3rE55SNxgdQC,isbn:0345468651,amazon:0345468651,goodreads:218568",
+        "isbn": 9780345468659.0,
+        "identifiers": "barnesnoble:w/zenith-angle-bruce-sterling/1100293445,google:lvpmN4O068sC,isbn:9780345468659,amazon:0345468651,goodreads:218568",
         "series": null,
         "series_index": 1.0,
         "uuid": "0d63cfcd-c540-4a8d-83c3-585b167538ac"
@@ -4033,8 +4033,8 @@
         "id": 504.0,
         "author_sort": "Slocum, Joshua",
         "title": "Sailing Alone Around the World",
-        "isbn": 1589760891.0,
-        "identifiers": "amazon:0486203263,google:_ghNnQAACAAJ,isbn:1589760891",
+        "isbn": 9781589760899.0,
+        "identifiers": "amazon:0486203263,google:_ghNnQAACAAJ,isbn:9781589760899,goodreads:17782039",
         "series": null,
         "series_index": 1.0,
         "uuid": "5100109c-4702-409c-a2e8-e339121214f0"
@@ -4132,9 +4132,9 @@
     {
         "id": 519.0,
         "author_sort": "Kushner, David",
-        "title": "Masters of Doom Masters of Doom Masters of Doom",
+        "title": "Masters of Doom",
         "isbn": 9781588362896.0,
-        "identifiers": "google:ltQ6LYHpmQEC,isbn:9781588362896,goodreads:7748687",
+        "identifiers": "barnesnoble:w/masters-of-doom-david-kushner/1100393278,google:ltQ6LYHpmQEC,isbn:9781588362896,goodreads:7748687",
         "series": null,
         "series_index": 1.0,
         "uuid": "c8a6662b-5172-483d-88fd-9ef2a6f8c928"
@@ -4143,8 +4143,8 @@
         "id": 520.0,
         "author_sort": "Guin, Ursula K. Le",
         "title": "The Dispossessed",
-        "isbn": 785764038.0,
-        "identifiers": "amazon:0061054887,google:tlhFtmTixvwC,isbn:0785764038,goodreads:13651",
+        "isbn": 9780061054884.0,
+        "identifiers": "barnesnoble:w/dispossessed-ursula-k-le-guin/1100615948,google:tlhFtmTixvwC,isbn:9780061054884,amazon:0061054887,goodreads:13651",
         "series": "Hainish Cycle",
         "series_index": 5.0,
         "uuid": "cb659841-7bd2-45ac-89b9-2ab02c3e3ba7"
@@ -4252,7 +4252,7 @@
     {
         "id": 537.0,
         "author_sort": "American Alpine Club",
-        "title": "Accidents in North American Climbing 2017 (Accidents in North American Mountaineering)",
+        "title": "Accidents in North American Climbing 2017",
         "isbn": 9781933056975.0,
         "identifiers": "amazon:1933056975,isbn:9781933056975",
         "series": "Accidents in North American Mountaineering",
@@ -4283,8 +4283,8 @@
         "id": 543.0,
         "author_sort": "Herbert, Frank",
         "title": "Dune",
-        "isbn": 8834718453.0,
-        "identifiers": "amazon:B00B7NPRY8,google:B1hSG45JCX4C,isbn:8834718453,goodreads:234225",
+        "isbn": 9780441172719.0,
+        "identifiers": "barnesnoble:w/dune-frank-herbert/1100608835,google:-hmtDwAAQBAJ,isbn:9780441172719,amazon:B00B7NPRY8,goodreads:234225",
         "series": "Dune",
         "series_index": 1.0,
         "uuid": "aca347e3-cd4a-480c-b7fb-43767e6004be"
@@ -4702,9 +4702,9 @@
     {
         "id": 609.0,
         "author_sort": "Morgan, Richard K.",
-        "title": "Thin Air: A Novel",
-        "isbn": 345493125.0,
-        "identifiers": "amazon:B0738K33YC,isbn:0345493125",
+        "title": "Thin Air",
+        "isbn": 9780345493125.0,
+        "identifiers": "barnesnoble:w/thin-air-richard-k-morgan/1126641734,google:3N-UswEACAAJ,isbn:9780345493125,amazon:B0738K33YC,goodreads:35574895",
         "series": null,
         "series_index": 1.0,
         "uuid": "5b3e223d-2607-472d-9935-fc1d0bed437a"
@@ -5292,9 +5292,9 @@
     {
         "id": 690.0,
         "author_sort": "Reynolds, Chanel",
-        "title": "What Matters Most: The Get Your Shit Together Guide to Wills, Money, Insurance, and Life's \"What-Ifs\"",
-        "isbn": 62689436.0,
-        "identifiers": "amazon:B077MCDZP4,isbn:0062689436,barnesnoble:w/what-matters-most-chanel-reynolds/1129142104",
+        "title": "What Matters Most: The Get Your Shit Together Guide to Wills, Money, Insurance, and Life’s “What-Ifs”",
+        "isbn": 9780062689436.0,
+        "identifiers": "amazon:B077MCDZP4,google:uQKxuAEACAAJ,isbn:9780062689436,barnesnoble:w/what-matters-most-chanel-reynolds/1129142104,goodreads:40604793",
         "series": null,
         "series_index": 1.0,
         "uuid": "e501fef4-5e04-4f71-9c74-711a12f1a53c"
@@ -5343,8 +5343,8 @@
         "id": 702.0,
         "author_sort": "Coram, Robert",
         "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
-        "isbn": 316881465.0,
-        "identifiers": "barnesnoble:w/boyd-robert-coram/1100303959,google:wWHIpt3EowQC,isbn:0316881465,amazon:B000FA5UEG,goodreads:8854089",
+        "isbn": 9780316796880.0,
+        "identifiers": "barnesnoble:w/boyd-robert-coram/1100303959,google:wWHIpt3EowQC,isbn:9780316796880,amazon:B000FA5UEG,goodreads:8854089",
         "series": null,
         "series_index": 1.0,
         "uuid": "a683e321-12ff-4c5a-882d-62c6bc321198"
