@@ -5438,5 +5438,25 @@
         "series": "A Philip Marlowe Mystery",
         "series_index": 1.0,
         "uuid": "2bee9781-84a0-4e1f-9377-01aee357b9c7"
+    },
+    {
+        "id": 721.0,
+        "author_sort": "Smith, Patti",
+        "title": "Year of the Monkey",
+        "isbn": 9780525657682.0,
+        "identifiers": "amazon:B07Q4M1DMT,google:BbWPDwAAQBAJ,isbn:9780525657682,barnesnoble:w/year-of-the-monkey-patti-smith/1131080227,goodreads:44776548",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "56410282-9e0e-4b64-aacc-5b7f2d0dce9f"
+    },
+    {
+        "id": 725.0,
+        "author_sort": "Doggett, Peter",
+        "title": "The Man Who Sold the World: David Bowie and the 1970s",
+        "isbn": 9780062097149.0,
+        "identifiers": "amazon:0062024663,google:e27t-ag4NakC,isbn:9780062097149,barnesnoble:w/the-man-who-sold-the-world-peter-doggett/1110788651,goodreads:12904790",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c77a1815-882a-473c-9c2d-91f4fd08b4de"
     }
 ]
