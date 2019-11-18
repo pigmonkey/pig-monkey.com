@@ -1,6 +1,6 @@
 Title: Experience at the Bitcoin ATM
 Date: 2019-08-27
-Tags: bitcoin
+Tags: bitcoin, finance
 
 Recently I had need of Bitcoin. For a thing.
 
