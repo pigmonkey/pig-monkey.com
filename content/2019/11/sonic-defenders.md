@@ -29,3 +29,8 @@ SureFire claims a service life for the EP3 of "6+ months". My last pair lasted 4
 SureFire also offers the [EP4](https://www.surefire.com/ep4-sonic-defenders-plus.html). These are identical to the EP3 except that they have a triple flange instead of a double. I've never used them. I think the only reason to opt for the triple flange is if you have a long ear canal. With the filter closed, the noise reduction rating is the same on both models. With the filters open, the EP3 provide a noise reduction rating of 11 decibels while the EP4 bumps it up to 12. The [EP7](https://www.surefire.com/ep7-sonic-defenders-ultra.html) has foam tips for a different feel and a higher noise reduction rating.
 
 Earplugs are one of the least frequently used items in what I consider to be my level 2 EDC. If I was seeking to reduce the number of items in my pack, they would be a candidate for elimination. But the reality is that their small size and low weight make them easy to carry in a bag, and when I do need them I am very grateful to have them -- whether that is because I'm sleeping elsewhere, enjoying live music, or things are going bang. The SureFire EP3 Sonic Defenders aren't necessarily the most appropriate ear protection for every environment, but I think they work well in a wide range of applications. Their versatility, coupled with their longevity, is why I choose them over other earplugs.
+
+<video width="720" height="406" controls>
+    <source src="/media/video/counterpart-s01e02-ear_pro.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
