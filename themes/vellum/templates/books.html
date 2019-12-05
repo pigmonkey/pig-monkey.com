@@ -49,7 +49,7 @@
                         for(var i=0; i< json.length; i++){
                             // Build a URL with the ISBN.
                             if(json[i].isbn) {
-                                json[i].isbn_url = 'https://isbn.nu/' + json[i].isbn;
+                                json[i].isbn_url = 'https://worldcat.org/isbn/' + json[i].isbn;
                                 json[i].isbn_link = '<a href="' + json[i].isbn_url + '">' + json[i].isbn + '</a>';
                             } else {
                                 json[i].isbn_url = '';
