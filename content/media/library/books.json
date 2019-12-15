@@ -4370,6 +4370,16 @@
         "uuid": "c293bb5b-1f93-43bb-989a-4cd119e4099c"
     },
     {
+        "id": 554.0,
+        "author_sort": "Watts, Alan W.",
+        "title": "The Way of Zen",
+        "isbn": 9780307784346.0,
+        "identifiers": "amazon:B004J4X76M,google:5NuOYxuDbS0C,isbn:9780307784346,goodreads:514210",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1b2676e4-88a0-44ef-80a7-ab8fff10043b"
+    },
+    {
         "id": 556.0,
         "author_sort": "Morgan, Richard K.",
         "title": "Thirteen",
@@ -5378,6 +5388,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "234f5832-908c-4a26-9e25-9e67d230bc1d"
+    },
+    {
+        "id": 707.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Fall; Or, Dodge in Hell",
+        "isbn": 9780062458711.0,
+        "identifiers": "mobi-asin:B071X3ZWDN,amazon:006245871X,isbn:9780062458711,barnesnoble:w/fall-or-dodge-in-hell-neal-stephenson/1129745518",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bb9f57a2-35c3-4fba-a75b-cde00631eeb5"
     },
     {
         "id": 708.0,
