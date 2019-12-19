@@ -1,0 +1,13 @@
+Title: 2 Meter Critical Mass
+Date: 2019-12-18
+Tags: radio
+
+[2 Meter Critical Mass](http://2metercriticalmass.com/) is a monthly radio practice event at [Spreckels Lake](https://en.wikipedia.org/wiki/Spreckels_Lake) in Golden Gate Park. The practice grew out of the [NERT](https://sf-fire.org/neighborhood-emergency-response-team-nert) community and sought to help people keep current with their handheld radios. I started attending on a fairly regular basis a couple years ago. We'd jump around to different frequencies on the 2 meter band and practice sending and receiving traffic.
+
+Changing frequencies was sometimes the most difficult part of the practice. Most people, myself included, program their radios with software like [CHIRP](https://chirp.danplanet.com/projects/chirp/wiki/Home). When it comes time to do something like change to a frequency that is normally used for repeaters, and then remove the offset because you need to use it for simplex, it can be a struggle to remember the correct sequence of steps. But simple skills like that are critical in the field during an emergency.
+
+After the struggle of getting everyone onto the correct frequency, some people would start sending traffic while others would copy it down onto standardized message forms. This is the primary role of radio operators during an emergency, but is not often practiced. The messages were often lists of medicines, the Latin names of plants, or some other gibberish that would require use of the phonetic alphabet to transmit. Somebody in the group would be picked to be the net control operator, which brought with it an entirely different set of skills to practice. Somehow I always got "volunteered" for that -- rain or shine (often offering an example of why you fill your [field message pad](/2012/11/field-message-pad/) with waterproof paper).
+
+<a href="https://www.flickr.com/photos/pigmonkey/49240400633/in/dateposted/" title="2 Meter Critical Mass"><img src="https://live.staticflickr.com/65535/49240400633_eafd2cd25c_c.jpg" width="600" height="800" alt="2 Meter Critical Mass"></a>
+
+2 Meter Crical Mass was the child of Peter McElmury, AA6SF. In November there was no practice, which I thought was odd. I had never known Peter to miss a month. But he was a Marine and it was [his birthday](https://en.wikipedia.org/wiki/United_States_Marine_Corps_birthday) that weekend, so I figured he was just busy celebrating. The December practice was four days ago. It turns out Peter was absent in November due to a medical emergency. At this month's event he was walking with a cane and having trouble with motor skills, like writing, but he was in a good mood and happy to be radioing, as always. [Yesterday he died](https://www.sfarc.org/home/goodbye-peter-aa6sf-sk).
