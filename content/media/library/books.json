@@ -5488,5 +5488,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "56410282-9e0e-4b64-aacc-5b7f2d0dce9f"
+    },
+    {
+        "id": 723.0,
+        "author_sort": "Hammett, Dashiell",
+        "title": "The Maltese Falcon",
+        "isbn": 9780307767516.0,
+        "identifiers": "barnesnoble:w/maltese-falcon-dashiell-hammett/1100155491,google:TNVZ4T2LR1MC,isbn:9780307767516,amazon:B07DMMC2XG,goodreads:9966755",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dae6a1f9-0f65-4989-b4d6-778a3b9c5241"
+    },
+    {
+        "id": 724.0,
+        "author_sort": "Chappell, Emily",
+        "title": "Where There's a Will: Hope, Grief and Endurance in a Cycle Race Across a Continent",
+        "isbn": 9781782834915.0,
+        "identifiers": "barnesnoble:w/where-theres-a-will-emily-chappell/1132165596,google:tzyYDwAAQBAJ,isbn:9781782834915",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6b4da98b-1218-4a67-9ea6-b1ebcf752d5f"
     }
 ]
