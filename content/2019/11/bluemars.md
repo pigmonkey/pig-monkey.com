@@ -1,6 +1,6 @@
 Title: Around the turn of the century there was an ambient music transmission called Blue Mars.
 Date: 2019-11-17
-Tags: micro, audio
+Tags: micro, audio, media
 
 It and [Rant Radio Industrial](http://www.rantmedia.ca/industrial/) were important sources of music in the early days of streaming. [Blue Mars](http://bluemars.org) described itself as [Music for the Space Traveller](https://web.archive.org/web/20130526041128/http://bluemars.org/bluemars.php):
 

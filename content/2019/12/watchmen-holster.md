@@ -1,6 +1,6 @@
 Title: The Watchmen TV series takes place in an alternate dystopic timeline where there are locking holsters that are even worse than the Blackhawk Serpa.
 Date: 2019-12-23
-Tags: micro
+Tags: micro, media
 
 I fully expected the next frame to be this guy shooting himself in the leg, but the scene just ignores his sloppy trigger finger and complete disregard for safety.
 
