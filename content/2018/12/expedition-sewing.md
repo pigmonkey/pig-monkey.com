@@ -6,7 +6,7 @@ A few months ago I accidentally ripped out the top stitches of the pull tab on o
 
 <a href="https://www.flickr.com/photos/pigmonkey/46237200491/in/dateposted/" title="Patagonia Expedition Sewing Kit"><img src="https://farm5.staticflickr.com/4876/46237200491_1624eaf0b7_c.jpg" width="800" height="450" alt="Patagonia Expedition Sewing Kit"></a>
 
-The Patagonia kit is a reissue of [an old piece of kit by Chouinard Equipment](http://www.tamiasoutside.com/2012/01/10/chouinardsewingkit/). Both the old and new versions come with a chuck that is used to hold a machine needle, and a cotter pin which slides through the chuck to provide a handle. The cotter pin is also intended to aid in rethreading draw strings through a channel on a sleeping bag, pack, or jacket hood.
+The Patagonia kit is a reissue of [an old piece of kit by Chouinard Equipment](https://web.archive.org/web/20181130062950/http://www.tamiasoutside.com/2012/01/10/chouinardsewingkit/). Both the old and new versions come with a chuck that is used to hold a machine needle, and a cotter pin which slides through the chuck to provide a handle. The cotter pin is also intended to aid in rethreading draw strings through a channel on a sleeping bag, pack, or jacket hood.
 
 The instructions included with the Patagonia kit explain the use of both the awl and the cotter pin. Users on the Zombie Hunters forum [scanned and cleaned the instructions from the original Chouinard kit](https://www.zombiehunters.org/forum/viewtopic.php?f=14&t=102682#p2289122), which I have reposted here for comparison. [This video](https://www.youtube.com/watch?v=doSNwF86YvQ) also demonstrates the use of an awl for those unfamiliar with the process.
 
