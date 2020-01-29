@@ -173,9 +173,9 @@
         "id": 20.0,
         "author_sort": "Gibson, William",
         "title": "The Peripheral",
-        "isbn": 9780698170704.0,
-        "identifiers": "isbn:9780698170704,amazon:0399158448,google:SLaQAwAAQBAJ,mobi-asin:B00INIXKV2",
-        "series": null,
+        "isbn": 399158448.0,
+        "identifiers": "isbn:0399158448,amazon:B00L9NE1BG,google:SLaQAwAAQBAJ,mobi-asin:B00INIXKV2,goodreads:23477546",
+        "series": "The Peripheral",
         "series_index": 1.0,
         "uuid": "e7f7782a-ebfe-4317-aea6-0300a0b020f5"
     },
@@ -4770,6 +4770,16 @@
         "uuid": "7c9dab8b-e602-4137-bf18-9adb2135e182"
     },
     {
+        "id": 619.0,
+        "author_sort": "Ayoob, Massad & Weiner, Jeff",
+        "title": "Deadly Force: Understanding Your Right to Self Defense",
+        "isbn": 9781440240614.0,
+        "identifiers": "mobi-asin:B00PMIGVKI,amazon:1440240612,google:PK5luQEACAAJ,isbn:9781440240614,barnesnoble:w/deadly-force-understanding-your-right-to-self-defense-massad-ayoob/1119045666",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "eb85535e-e9d1-46dc-a387-8f30cc9ec372"
+    },
+    {
         "id": 620.0,
         "author_sort": "Tsunetomo, Yamamoto & Wilson, William Scott",
         "title": "Hagakure: The Book of the Samurai",
@@ -5518,5 +5528,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6b4da98b-1218-4a67-9ea6-b1ebcf752d5f"
+    },
+    {
+        "id": 732.0,
+        "author_sort": "Gibson, William",
+        "title": "Agency",
+        "isbn": 9781101986950.0,
+        "identifiers": "mobi-asin:B072NXSB14,amazon:B07D1FY4QN,google:IGKuDgAAQBAJ,isbn:9781101986950,goodreads:34943643",
+        "series": "The Peripheral",
+        "series_index": 2.0,
+        "uuid": "a4e086dd-2dc1-47e0-b940-8b6c809502d9"
     }
 ]
