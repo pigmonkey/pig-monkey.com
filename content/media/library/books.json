@@ -5260,6 +5260,16 @@
         "uuid": "9dade9da-d6c5-4ebc-93f6-6836d1787779"
     },
     {
+        "id": 682.0,
+        "author_sort": "Clason, George S.",
+        "title": "The Richest Man in Babylon",
+        "isbn": 9781505339116.0,
+        "identifiers": "amazon:1505339111,isbn:9781505339116,barnesnoble:w/richest-man-in-babylon-george-s-clason/1101430080,goodreads:1052",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "51543b5a-e986-455b-ab0a-12c47ab9f941"
+    },
+    {
         "id": 683.0,
         "author_sort": "Sasaki, Fumio",
         "title": "Goodbye, Things: The New Japanese Minimalism",
@@ -5528,6 +5538,26 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6b4da98b-1218-4a67-9ea6-b1ebcf752d5f"
+    },
+    {
+        "id": 726.0,
+        "author_sort": "Greenberg, Andy",
+        "title": "Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers",
+        "isbn": 9780385544405.0,
+        "identifiers": "barnesnoble:w/sandworm-andy-greenberg/1129288539,google:ujxrDwAAQBAJ,isbn:9780385544405,amazon:B07GD4MFW2,goodreads:41436213",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "06d85080-a689-465f-907a-2eb869d5e360"
+    },
+    {
+        "id": 731.0,
+        "author_sort": "Tolentino, Jia",
+        "title": "Trick Mirror: Reflections on Self-Delusion",
+        "isbn": 9780008294946.0,
+        "identifiers": "barnesnoble:w/trick-mirror-jia-tolentino/1130039134,google:kyOEDwAAQBAJ,isbn:9780008294946,amazon:B07L2JGLZ9,goodreads:43126457",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "576ee655-38f7-427a-aaa4-d2754a7945eb"
     },
     {
         "id": 732.0,
