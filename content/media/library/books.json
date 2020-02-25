@@ -4820,6 +4820,16 @@
         "uuid": "ac64857e-cf4d-41a5-b965-2f1ed428e7b0"
     },
     {
+        "id": 624.0,
+        "author_sort": "Miéville, China",
+        "title": "The City & the City",
+        "isbn": 9780345515667.0,
+        "identifiers": "barnesnoble:w/city-and-the-city-china-mieville/1100293850,google:Jvt9eNimfWUC,isbn:9780345515667,goodreads:7088329",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ccf84307-9bc2-41fa-8d05-2dae95229a67"
+    },
+    {
         "id": 625.0,
         "author_sort": "Pelton, Robert Young",
         "title": "Licensed to Kill: Privatizing the War on Terror",
@@ -5548,6 +5558,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "06d85080-a689-465f-907a-2eb869d5e360"
+    },
+    {
+        "id": 728.0,
+        "author_sort": "Brautigan, Richard",
+        "title": "Trout Fishing in America, the Pill Versus the Springhill Mine Disaster, and in Watermelon Sugar",
+        "isbn": 9780547525532.0,
+        "identifiers": "amazon:B003WMAAL2,google:urx9E-rvEtcC,isbn:9780547525532,goodreads:8811786",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "41bb6433-1cd9-445b-9cc9-2bc1ecdb595a"
     },
     {
         "id": 731.0,
