@@ -1,6 +1,6 @@
 Title: Shoulder Mounted OC
 Date: 2020-02-27
-Tags: gear, defense, edc, bike
+Tags: gear, defense, edc, bicycle
 
 In 2014 [I identified the ASP Defender series as the best pepper spray for my needs](/2014/11/oc/). I stand by this today, except that originally my preference was for the 4.5" [Palm Defender](https://www.asp-usa.com/collections/personal-safety/products/palm-compact-defender). Over the years my preference has migrated to the 5.75" [Key Defender](https://www.asp-usa.com/collections/personal-safety/products/key-medium-defender). The Key Defender is in my pocket every day.
 
