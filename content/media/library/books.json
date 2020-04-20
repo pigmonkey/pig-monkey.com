@@ -3540,6 +3540,16 @@
         "uuid": "e5d66985-f301-40d0-9fde-3ba639c81b5a"
     },
     {
+        "id": 439.0,
+        "author_sort": "Abdul-Jabbar, Kareem & Waterhouse, Anna",
+        "title": "Mycroft Holmes",
+        "isbn": 9781783291564.0,
+        "identifiers": "isbn:9781783291564,amazon:B00S3OY57E,google:5kBDCgAAQBAJ,mobi-asin:B00S3OY57E,goodreads:24458231",
+        "series": "Mycroft Holmes and Sherlock",
+        "series_index": 1.0,
+        "uuid": "d65e9873-0c5c-410c-a34d-54b97abc2797"
+    },
+    {
         "id": 441.0,
         "author_sort": "Morgan, Richard K.",
         "title": "Woken Furies",
@@ -3568,6 +3578,16 @@
         "series": "Firefall",
         "series_index": 1.0,
         "uuid": "60ed46b4-4442-40d6-8049-17a49066e736"
+    },
+    {
+        "id": 444.0,
+        "author_sort": "Kunstler, James Howard",
+        "title": "World Made by Hand",
+        "isbn": 9780802144010.0,
+        "identifiers": "amazon:0802144012,google:P-fjVHJuYegC,isbn:9780802144010,barnesnoble:w/world-made-by-hand-james-howard-kunstler/1102042185,goodreads:3509215",
+        "series": "World Made by Hand Novels",
+        "series_index": 1.0,
+        "uuid": "b59bbc39-4d3a-44ac-9562-9ccdda6c2659"
     },
     {
         "id": 445.0,
@@ -4208,6 +4228,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "bd3b08bc-228b-4574-8512-248f1b3c3c69"
+    },
+    {
+        "id": 529.0,
+        "author_sort": "Guin, Ursula K. Le",
+        "title": "The Lathe of Heaven",
+        "isbn": 380435470.0,
+        "identifiers": "amazon:B00JTZ95I0,isbn:0380435470,goodreads:59924",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a7597c5e-36ee-4e25-b702-7136afa07a8f"
     },
     {
         "id": 530.0,
@@ -5598,5 +5628,35 @@
         "series": "The Peripheral",
         "series_index": 2.0,
         "uuid": "a4e086dd-2dc1-47e0-b940-8b6c809502d9"
+    },
+    {
+        "id": 737.0,
+        "author_sort": "Greenberg, Paul",
+        "title": "The Omega Principle: Seafood and the Quest for a Long Life and a Healthier Planet",
+        "isbn": 9780698183469.0,
+        "identifiers": "barnesnoble:w/the-omega-principle-paul-greenberg/1127273356,google:9Ok6DwAAQBAJ,isbn:9780698183469,amazon:B076NTB4FR,goodreads:36764400",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bd24cc7c-72ae-47ce-aae8-b433d15524a9"
+    },
+    {
+        "id": 738.0,
+        "author_sort": "Enamait, Ross",
+        "title": "Never Gymless : An Excuse-Free System for Total Fitness",
+        "isbn": null,
+        "identifiers": "amazon:B002KDOLK0",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "cab8d58c-c8d7-48c8-96b7-b2f61c9393db"
+    },
+    {
+        "id": 739.0,
+        "author_sort": "Ord, Toby",
+        "title": "The Precipice: Existential Risk and the Future of Humanity",
+        "isbn": 9781526600219.0,
+        "identifiers": "barnesnoble:w/the-precipice-toby-ord/1133599362,google:W7rEDwAAQBAJ,isbn:9781526600219,amazon:0316484911,goodreads:50485582",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1c58b244-769c-4702-b0f9-3bbc68a5578e"
     }
 ]
