@@ -61,6 +61,11 @@ This project provides a simple framework for determing the trusted state of the 
 Shortcuts for easily managing text-based notes.
 
 
+## [Optician](https://github.com/pigmonkey/optician)
+
+Optician is a bash script which creates optical backups of directories.
+
+
 ## [Pinit](https://github.com/pigmonkey/pinit)
 
 Add a bookmark to [Pinboard](https://pinboard.in/). The URL may be given via standard input, as an argument, or copied from the clipboard.
