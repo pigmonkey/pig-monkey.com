@@ -425,6 +425,7 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "529","Guin, Ursula K. Le","The Lathe of Heaven","0380435470","amazon:B00JTZ95I0,isbn:0380435470,goodreads:59924","","1.0","a7597c5e-36ee-4e25-b702-7136afa07a8f"
 "530","Winslow, Don","Satori","9780446561914","mobi-asin:B0047Y176Q,amazon:B00B9ZK6MC,google:QrjEgKsuXlIC,isbn:9780446561914","","1.0","0346cd0b-4579-4aa6-93a6-189734d879cc"
 "531","Stephenson, Neal","Some Remarks","9780062024435","barnesnoble:w/some-remarks-neal-stephenson/1106580221,google:2wTNygAACAAJ,isbn:9780062024435,amazon:B00BJEMLJO,goodreads:13406933","","1.0","744aaab5-2c8b-4842-b52f-d749bc41e834"
+"532","Ballard, J. G.","High-Rise","9789048838301","amazon:B008CBD38K,google:uPdZMQAACAAJ,isbn:9789048838301,goodreads:12331767","","1.0","bb0d8640-bf0b-4734-9d9b-a0c09dc1f444"
 "533","Asher, Neal","Gridlinked","9781429910392","amazon:0765349051,google:bcNZ5Dt_3s8C,isbn:9781429910392,goodreads:98046","Agent Cormac","1.0","e90a937f-a38e-480a-b69c-00293cce9b74"
 "535","Newitz, Annalee","Autonomous","9780765392077","isbn:9780765392077,amazon:0765392070,mobi-asin:B01N4P14CI,goodreads:28209634","","1.0","a2ee6b89-cf85-4ee2-b898-4c068b6c4ab9"
 "536","Older, Malka","Null States","9780765393388","isbn:9780765393388,mobi-asin:B01MZ1I8LO,goodreads:31189192","Centenal Cycle","2.0","937f0db2-84d1-4fa7-934a-b6b425aa20ed"
@@ -565,3 +566,4 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "737","Greenberg, Paul","The Omega Principle: Seafood and the Quest for a Long Life and a Healthier Planet","9780698183469","barnesnoble:w/the-omega-principle-paul-greenberg/1127273356,google:9Ok6DwAAQBAJ,isbn:9780698183469,amazon:B076NTB4FR,goodreads:36764400","","1.0","bd24cc7c-72ae-47ce-aae8-b433d15524a9"
 "738","Enamait, Ross","Never Gymless : An Excuse-Free System for Total Fitness","","amazon:B002KDOLK0","","1.0","cab8d58c-c8d7-48c8-96b7-b2f61c9393db"
 "739","Ord, Toby","The Precipice: Existential Risk and the Future of Humanity","9781526600219","barnesnoble:w/the-precipice-toby-ord/1133599362,google:W7rEDwAAQBAJ,isbn:9781526600219,amazon:0316484911,goodreads:50485582","","1.0","1c58b244-769c-4702-b0f9-3bbc68a5578e"
+"740","Bruder, Jessica & Maharidge, Dale","Snowden's Box","9781788733434","barnesnoble:w/snowdens-box-jessica-bruder/1133331554,isbn:9781788733434,goodreads:52671256","","1.0","37a81ad2-2508-4d63-bf21-e104dc640c5e"

@@ -4260,6 +4260,16 @@
         "uuid": "744aaab5-2c8b-4842-b52f-d749bc41e834"
     },
     {
+        "id": 532.0,
+        "author_sort": "Ballard, J. G.",
+        "title": "High-Rise",
+        "isbn": 9789048838301.0,
+        "identifiers": "amazon:B008CBD38K,google:uPdZMQAACAAJ,isbn:9789048838301,goodreads:12331767",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bb0d8640-bf0b-4734-9d9b-a0c09dc1f444"
+    },
+    {
         "id": 533.0,
         "author_sort": "Asher, Neal",
         "title": "Gridlinked",
@@ -5658,5 +5668,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "1c58b244-769c-4702-b0f9-3bbc68a5578e"
+    },
+    {
+        "id": 740.0,
+        "author_sort": "Bruder, Jessica & Maharidge, Dale",
+        "title": "Snowden's Box",
+        "isbn": 9781788733434.0,
+        "identifiers": "barnesnoble:w/snowdens-box-jessica-bruder/1133331554,isbn:9781788733434,goodreads:52671256",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "37a81ad2-2508-4d63-bf21-e104dc640c5e"
     }
 ]
