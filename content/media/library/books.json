@@ -4450,6 +4450,16 @@
         "uuid": "366ad6b0-bd1b-421e-a6e5-69c90d958ff4"
     },
     {
+        "id": 562.0,
+        "author_sort": "Plan B Writers Alliance",
+        "title": "Locusts on the Horizon",
+        "isbn": null,
+        "identifiers": "amazon:B00CFP2PCE,mobi-asin:B00CFP2PCE",
+        "series": "Locusts on the Horizon Project",
+        "series_index": 1.0,
+        "uuid": "912f7bd2-e30b-415a-b33e-c35f8e27a3dd"
+    },
+    {
         "id": 564.0,
         "author_sort": "Palmer, Ada",
         "title": "Seven Surrenders",
@@ -4948,6 +4958,16 @@
         "series": "Yehuda Moon and the Kickstand Cyclery",
         "series_index": 6.0,
         "uuid": "ecaee83c-6e60-4d0a-9b0e-9b775a80387c"
+    },
+    {
+        "id": 632.0,
+        "author_sort": "Yuzan, Daidoji",
+        "title": "Budoshoshinshu: Essential Teachings on the Way of the Warrior",
+        "isbn": 9781611805680.0,
+        "identifiers": "barnesnoble:w/budoshoshinshu-daidon-yuzan/1127951985,isbn:9781611805680",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ec32654e-928c-45b1-b92b-1ec07a291df3"
     },
     {
         "id": 633.0,
@@ -5678,5 +5698,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "37a81ad2-2508-4d63-bf21-e104dc640c5e"
+    },
+    {
+        "id": 741.0,
+        "author_sort": "Bruder, Jessica",
+        "title": "Nomadland: Surviving America in the Twenty-First Century",
+        "isbn": 9780393249316.0,
+        "identifiers": "barnesnoble:w/nomadland-jessica-bruder/1125747895,google:tDZJDgAAQBAJ,isbn:9780393249316,amazon:039324931X,goodreads:34068480",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6eff30d6-6716-4572-9445-38ad5b9f83fe"
+    },
+    {
+        "id": 742.0,
+        "author_sort": "Sriduangkaew, Benjanun",
+        "title": "And Shall Machines Surrender",
+        "isbn": 9781607015345.0,
+        "identifiers": "amazon:160701534X,google:6x4GxwEACAAJ,isbn:9781607015345,goodreads:46156880",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5018c8de-e4ef-408f-afa9-d2ccb858f5e5"
+    },
+    {
+        "id": 743.0,
+        "author_sort": "Ellifritz, Greg",
+        "title": "Choose Adventure: Safe Travel in Dangerous Places",
+        "isbn": null,
+        "identifiers": "mobi-asin:B087BNB647",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "089db91a-c861-4901-945c-edd0cac480aa"
     }
 ]
