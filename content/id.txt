@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2019-05-18
+Last Update: 2020-05-24
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -16,7 +16,6 @@ trusted communications through other channels.
 # OTR Fingerprints
 
 xmpp:   peter@havenaut.net/nous  05D7ECB2 B4B4EB39 D0F13CD6 BBF391BF C9ADE759
-xmpp:   peter@librum.org/nous    4ACBFF97 A1752486 CC92AB59 E35B0CAC 00D62218
 
 
 # SSH Public Key
@@ -66,18 +65,14 @@ My private key was generated offline on an air-gapped computer. All key signing
 occurs on an offline, air-gapped computer. The key and computer are stored
 securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
-
-# Bitcoin
-
-1Q17L71zyeWAZDUyiGaqygBnyqNk2uDRiZ
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAlzguWAACgkQVOmYrGGL
-wTfaVwf6A2seaSs6MrnLxks0Egn48tOweyW4ft22fzrnQvw17q8dthXyaaIJgNQm
-TL7SseXonpAkRrMlHRDMA/1//ppJr9BZ6zFliDA3cEU6KTHFf0w8Vc1RKT0xQGzl
-NcVO4BcgqNwyrn3UNztPHsXcIXl/jB30b0jWlnn9zhg7C3v5nha3RyuEcGqV9cKP
-WZNPs8tU6X9E4bcxzxSQWE6q5nX8V7ci7jnVbeqPauXhAH4XuIbzwLhftloKyget
-bdTe7z6CL4VxcF5dlb2iTU/oMY3CvqkWCFWNVnoJZ2y9sYzUwn01bAxigGsW+Y6M
-ptY2T/Yawz/XLp3J8MsqyAMmScNgGg==
-=uHre
+iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAl7LJoQACgkQVOmYrGGL
+wTfQgggA1oemBK/hxWIaHUpVcifP4CDW4NE912ivzA7PodG59Y0ZHDmazKRI4syA
+GknPULbaG3UPCsNeVN6n3a3TgH6dWumyX06Ef/53Lh45OPROSYxhVd1o1t5MkBiD
+Ui0tklC/J7vvzs1YYucPTLXj02eSXZQ7hg16oYVtsRzAvxPfgyczi7qgJPx3TbC6
+RHwHlgo4ZHrMMd9jP2O4mzmxhFxFfgDsjZPLjMJxVKzcgTYv0r3GfqVrFthuPZqf
+h9DebEMMT8Ku+ZLrr0IsBSdatllpVoxcKhdHrnj+UUrxK8xLmQC4fbhdNNdXhraA
+scPCF+RUjB1M8w8/V+dYEuDQsYzX0w==
+=+Fgb
 -----END PGP SIGNATURE-----
