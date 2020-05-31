@@ -4460,6 +4460,16 @@
         "uuid": "912f7bd2-e30b-415a-b33e-c35f8e27a3dd"
     },
     {
+        "id": 563.0,
+        "author_sort": "Palmer, Ada",
+        "title": "The Will to Battle",
+        "isbn": 1786699583.0,
+        "identifiers": "amazon:B071Z6M2TM,isbn:1786699583,goodreads:33517544",
+        "series": "Terra Ignota",
+        "series_index": 3.0,
+        "uuid": "d237c118-a17e-4800-836d-3b8bdad53a3f"
+    },
+    {
         "id": 564.0,
         "author_sort": "Palmer, Ada",
         "title": "Seven Surrenders",
@@ -5280,6 +5290,16 @@
         "uuid": "a1736a53-b6fd-4767-88dd-053a5628fbbd"
     },
     {
+        "id": 671.0,
+        "author_sort": "Kidder, Tracy",
+        "title": "The Soul of a New Machine",
+        "isbn": 9780316204552.0,
+        "identifiers": "amazon:B005HG4W9W,google:JP0odQpUKUYC,isbn:9780316204552,barnesnoble:w/soul-of-a-new-machine-tracy-kidder/1001868164,goodreads:12422554",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "07a5b231-d3b7-4b13-b500-bb825ccea926"
+    },
+    {
         "id": 673.0,
         "author_sort": "Willis, Brad",
         "title": "Warrior Pose: How Yoga (Literally) Saved My Life",
@@ -5728,5 +5748,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "089db91a-c861-4901-945c-edd0cac480aa"
+    },
+    {
+        "id": 744.0,
+        "author_sort": "Winegard, Timothy C.",
+        "title": "The Mosquito: A Human History of Our Deadliest Predator",
+        "isbn": 9781524743413.0,
+        "identifiers": "amazon:1524743410,google:ngqNDwAAQBAJ,isbn:9781524743413,barnesnoble:w/the-mosquito-timothy-c-winegard/1130336623,goodreads:42983957",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dfd6e0cb-1a11-4b92-9adf-b4920744e304"
+    },
+    {
+        "id": 746.0,
+        "author_sort": "Brower, Kenneth",
+        "title": "The Starship and the Canoe",
+        "isbn": 9781680512786.0,
+        "identifiers": "amazon:1680512781,google:x3vRDwAAQBAJ,isbn:9781680512786,goodreads:53160508",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3b43904d-d5de-4fc6-ad38-9ca01103e6ec"
     }
 ]
