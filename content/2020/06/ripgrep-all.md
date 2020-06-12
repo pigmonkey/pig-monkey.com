@@ -8,7 +8,7 @@ I discovered it while looking for a program that would allow me to search [my e-
 
 Running Pandoc on every book in my library to extract its text can take some time, but ripgrep-all caches the extracted text so that subsequent runs are similar in speed to simply searching plain text -- which is blazing fast thanks to ripgrep's speed. It takes around two seconds to search 1,706 books.
 
-    $ time(rga -li 'pandemic' ~/library/books/ | wc -l )
+    $ time(rga -li 'pandemic' ~/library/books/ | wc -l)
     33
 
     real    0m1.225s
