@@ -5788,5 +5788,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "2a708cfe-fe61-4e38-a409-9bf0a483150d"
+    },
+    {
+        "id": 753.0,
+        "author_sort": "Frankl, Viktor E.",
+        "title": "Man's Search for Meaning",
+        "isbn": 9780807060117.0,
+        "identifiers": "amazon:080701429X,google:Tx92CgAAQBAJ,isbn:9780807060117,goodreads:26192273",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "47d5da01-8a89-4721-9784-60ce765e9be9"
+    },
+    {
+        "id": 754.0,
+        "author_sort": "Camus, Albert",
+        "title": "The Stranger",
+        "isbn": 9780307827661.0,
+        "identifiers": "amazon:1530138566,google:7qylv1KYf0kC,isbn:9780307827661,goodreads:15799284",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "579a85b8-01d4-4be7-bb2d-0de10e808002"
+    },
+    {
+        "id": 756.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Breach",
+        "isbn": 9781542044592.0,
+        "identifiers": "isbn:9781542044592,amazon:1542044596,google:xUmsvAEACAAJ,mobi-asin:B07HHY3MRM,goodreads:42121982",
+        "series": "An Analog Novel",
+        "series_index": 3.0,
+        "uuid": "8333d9f3-89d3-4179-862c-85dc32b3bc8d"
     }
 ]
