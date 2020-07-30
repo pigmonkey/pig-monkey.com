@@ -5280,6 +5280,16 @@
         "uuid": "c294cfe8-6fbb-463d-a360-2c694b8e768a"
     },
     {
+        "id": 668.0,
+        "author_sort": "Roth, J. D.",
+        "title": "Your Money: The Missing Manual",
+        "isbn": 9780596809409.0,
+        "identifiers": "amazon:0596809409,google:1BnQaxG0YSUC,isbn:9780596809409,barnesnoble:w/your-money-j-d-roth/1100377677,goodreads:7268380",
+        "series": "Missing Manual",
+        "series_index": 1.0,
+        "uuid": "ca6d5953-2031-480c-8b83-3b42a1420efe"
+    },
+    {
         "id": 669.0,
         "author_sort": "Woodmansee, Mike",
         "title": "Trekking Washington",
@@ -5828,5 +5838,15 @@
         "series": "An Analog Novel",
         "series_index": 3.0,
         "uuid": "8333d9f3-89d3-4179-862c-85dc32b3bc8d"
+    },
+    {
+        "id": 758.0,
+        "author_sort": "Tanizaki, Jun'Ichirō",
+        "title": "In Praise of Shadows",
+        "isbn": 9780918172020.0,
+        "identifiers": "barnesnoble:w/in-praise-of-shadows-junichiro-tanizaki/1102808393,isbn:9780918172020,goodreads:34473",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6f71271e-3502-4d1f-9269-58dbf6b2ff2e"
     }
 ]
