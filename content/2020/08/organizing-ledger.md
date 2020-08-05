@@ -42,7 +42,7 @@ The repository also contains receipts in the `receipts` directory, invoices in t
 
 The repository is managed using a mix of vanilla git and [git-annex](https://git-annex.branchable.com/).<sup class="footnote-ref" id="fnref:annex"><a rel="footnote" href="#fn:annex" title="see footnote">2</a></sup> It is important to me that the Ledger journal files in the `data` directory are stored directly in git. I want the ability to diff changes before committing them, and to be able to pull the history of those files. Every other file I want stored in git-annex. I don't care about the history of files like PDF receipts. They never change. In fact, I want to make them read-only so I can't accidentally change them. I want encrypted versions of them distributed to my numerous [special remotes](/2016/08/rclone/) for safekeeping, and someday I may even want to drop old receipts or invoices from my local store so that they don't take up disk space until I actually need to read them. That sounds like asking a lot, but git-annex magically solves all the problems with its [`largefiles` configuration option](https://git-annex.branchable.com/tips/largefiles/).
 
-    $ cat ~/library/ledger.gitattributes
+    $ cat ~/library/ledger/.gitattributes
     *.ldg annex.largefiles=nothing
 
 This tells git-annex that any file ending with `*.ldg` should not be treated as a "large file", which means it should be added directly to git. Any other file should be added to git-annex and [locked](https://git-annex.branchable.com/git-annex-lock/), making it read-only. Having this configured means that I can just blindly `git annex add .` or `git add .` within the repository and git-annex will always do the right thing.
