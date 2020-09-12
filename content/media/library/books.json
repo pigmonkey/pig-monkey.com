@@ -4620,6 +4620,16 @@
         "uuid": "b0dfe7d6-e657-440b-9101-39bbbb4a01b5"
     },
     {
+        "id": 586.0,
+        "author_sort": "Bakewell, Sarah",
+        "title": "At the Existentialist Café: Freedom, Being, and Apricot Cocktails With Jean-Paul Sartre, Simone De Beauvoir, Albert Camus, Martin Heidegger, Maurice Merleau-Ponty and Others",
+        "isbn": 9781590514894.0,
+        "identifiers": "barnesnoble:w/at-the-existentialist-caf-sarah-bakewell/1123485279,google:nKnSCQAAQBAJ,isbn:9781590514894,amazon:B00Z3E2KEC,goodreads:25733830",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "470ae51e-5d8f-4ba9-8566-dd877393b226"
+    },
+    {
         "id": 588.0,
         "author_sort": "Barlow, John Perry & Greenfield, Robert",
         "title": "Mother American Night: My Life in Crazy Times",
@@ -5570,6 +5580,16 @@
         "uuid": "eafe29bd-622d-4137-a226-f69039d97ea6"
     },
     {
+        "id": 711.0,
+        "author_sort": "Yates, John & Immergut, Matthew & Graves, Jeremy",
+        "title": "The Mind Illuminated: A Complete Meditation Guide Integrating Buddhist Wisdom and Brain Science for Greater Mindfulness",
+        "isbn": 9781501156991.0,
+        "identifiers": "barnesnoble:w/the-mind-illuminated-john-yates/1124994016,google:Ux-xDAAAQBAJ,isbn:9781501156991,amazon:1501156985",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "70097e36-5dd4-4570-b1cf-7ae9f9b77680"
+    },
+    {
         "id": 713.0,
         "author_sort": "Sloan, Robin",
         "title": "Sourdough",
@@ -5848,5 +5868,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6f71271e-3502-4d1f-9269-58dbf6b2ff2e"
+    },
+    {
+        "id": 760.0,
+        "author_sort": "Paxton, Robert O.",
+        "title": "The Anatomy of Fascism",
+        "isbn": 9781400033911.0,
+        "identifiers": "amazon:1400033918,google:JU3th4LnKvsC,isbn:9781400033911,goodreads:9009363",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d6235a4f-4939-46cc-b630-46ce36feb3a1"
+    },
+    {
+        "id": 761.0,
+        "author_sort": "Robbins, Tony",
+        "title": "MONEY Master the Game: 7 Simple Steps to Financial Freedom",
+        "isbn": 9781471148613.0,
+        "identifiers": "amazon:1476757860,google:y8nNCwAAQBAJ,isbn:9781471148613,barnesnoble:w/money-master-the-game-anthony-robbins/1120197683,goodreads:41976052",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ac149cf0-ace9-42a8-8065-7a69277c4bf4"
+    },
+    {
+        "id": 763.0,
+        "author_sort": "Camus, Albert",
+        "title": "The Plague",
+        "isbn": 9780307827807.0,
+        "identifiers": "google:a8LBjVImeO4C,isbn:9780307827807,goodreads:15799287",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a1eaa0fb-a24a-4cc5-b288-736242ee75c3"
     }
 ]
