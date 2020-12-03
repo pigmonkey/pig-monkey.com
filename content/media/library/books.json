@@ -5968,5 +5968,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "b45d7c5f-c664-4a6c-8dbe-35a83daecfc7"
+    },
+    {
+        "id": 771.0,
+        "author_sort": "Gawande, Atul",
+        "title": "Being Mortal: Medicine and What Matters in the End",
+        "isbn": 9781627790550.0,
+        "identifiers": "amazon:B00JCW0BCY,google:tM1zAwAAQBAJ,isbn:9781627790550,goodreads:21805559",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2ddb387b-610d-4ce8-b0c3-7eb3e6e558fd"
     }
 ]
