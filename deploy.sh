@@ -8,6 +8,6 @@ git push github
 
 pipenv run pelican content -s publishconf.py
 
-rsync -av output/ pigmonkey@pig-monkey.com:~/pig-monkey.com/
+rsync -av --delete output/ silicon:/var/www/pig-monkey.com/public/
 
 cd "$OLDPWD"
