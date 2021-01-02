@@ -6008,5 +6008,15 @@
         "series": "Little Brother",
         "series_index": 3.0,
         "uuid": "0efb5005-61ed-4464-be0b-aff777b991a9"
+    },
+    {
+        "id": 775.0,
+        "author_sort": "Cline, Ernest",
+        "title": "Ready Player Two",
+        "isbn": 9781524761332.0,
+        "identifiers": "isbn:9781524761332,goodreads:26082916,barnesnoble:w/ready-player-two-ernest-cline/1137308630,mobi-asin:B08BYWH6CS",
+        "series": "Ready Player One",
+        "series_index": 2.0,
+        "uuid": "377d46f5-1834-4925-b24d-1e2ff9d79460"
     }
 ]
