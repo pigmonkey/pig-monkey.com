@@ -547,7 +547,7 @@ For a more detailed explanation of running [Postfix](http://www.postfix.org/), y
 A Note on Git
 ------------------
 
-I use [Git](http://git-scm.com/) to keep track of the code for all my projects. (If you're new to Git, you ought to skim the [Git Reference](http://gitref.org/) or [Everyday GIT With 20 Commands Or So](http://www.kernel.org/pub/software/scm/git/docs/everyday.html)). To manage websites, I create a repository of the directory with the code that runs the site (in this case, `/srv/myproject.com/code/`) and another empty, bare repository to work as a hub. With a `post-update` and `post-commit`, the end result is an excellent web workflow:
+I use [Git](http://git-scm.com/) to keep track of the code for all my projects. (If you're new to Git, you ought to skim the [Git Reference](http://gitref.org/) or [Everyday GIT With 20 Commands Or So](https://mirrors.edge.kernel.org/pub/software/scm/git/docs/giteveryday.html)). To manage websites, I create a repository of the directory with the code that runs the site (in this case, `/srv/myproject.com/code/`) and another empty, bare repository to work as a hub. With a `post-update` and `post-commit`, the end result is an excellent web workflow:
 
  -  A copy of the hub can be checked out on a local machine for development. Whenever a change is committed, a simple `git push` will push the code to the web server and automatically make it live.
  - Changes can be made on the server in the actual live website directory. (This is not a best practice, but I do it more often than I should probably admit.) Whenever a change is committed, it is automatically pushed to the hub, so that a simple `git pull` is all that's needed on the development machine to update its repository.
