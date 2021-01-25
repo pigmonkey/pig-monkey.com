@@ -1384,8 +1384,8 @@
         "author_sort": "Cline, Ernest",
         "title": "Ready Player One",
         "isbn": 9780307887450.0,
-        "identifiers": "isbn:9780307887450,amazon:B004J4WKUQ,google:FY_HWAcm10MC",
-        "series": null,
+        "identifiers": "google:FY_HWAcm10MC,goodreads:11333587,amazon:B004J4WKUQ,isbn:9780307887450",
+        "series": "Ready Player One",
         "series_index": 1.0,
         "uuid": "17fbed6b-77e8-4dfb-9293-043ede008c51"
     },
@@ -4378,6 +4378,16 @@
         "series": "Bunyan Velo",
         "series_index": 7.0,
         "uuid": "48c2f6fb-eecf-4c2c-bdf9-a0b7ee844e39"
+    },
+    {
+        "id": 546.0,
+        "author_sort": "Kaplan, Robert D.",
+        "title": "Balkan Ghosts: A Journey Through History",
+        "isbn": 9781466868304.0,
+        "identifiers": "google:GwH2AgAAQBAJ,goodreads:33690,amazon:B00IQNYUX6,isbn:9781466868304",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "38e8f9dc-f2e6-4842-b709-347991ab9ec4"
     },
     {
         "id": 548.0,
