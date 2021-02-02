@@ -6028,5 +6028,15 @@
         "series": "Ready Player One",
         "series_index": 2.0,
         "uuid": "377d46f5-1834-4925-b24d-1e2ff9d79460"
+    },
+    {
+        "id": 785.0,
+        "author_sort": "Robinson, Kim Stanley",
+        "title": "The Ministry for the Future",
+        "isbn": 9780356508856.0,
+        "identifiers": "kobo:the-ministry-for-the-future-2,goodreads:53928440,isbn:9780356508856,amazon:B084G7XRKT,google:KnS0DwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "16990d41-794c-455c-a4d4-3fecabb18b6b"
     }
 ]
