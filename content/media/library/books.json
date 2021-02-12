@@ -5700,6 +5700,16 @@
         "uuid": "56410282-9e0e-4b64-aacc-5b7f2d0dce9f"
     },
     {
+        "id": 722.0,
+        "author_sort": "Bacigalupi, Paolo",
+        "title": "The Water Knife",
+        "isbn": 9780804171533.0,
+        "identifiers": "barnesnoble:w/the-water-knife-paolo-bacigalupi/1113858079,isbn:9780804171533,amazon:B00NRQOR26,google:SdiWBAAAQBAJ,goodreads:23209924",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "74e0bfde-55fc-41cc-92bd-2e4a3aefca68"
+    },
+    {
         "id": 723.0,
         "author_sort": "Hammett, Dashiell",
         "title": "The Maltese Falcon",
@@ -6038,5 +6048,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "16990d41-794c-455c-a4d4-3fecabb18b6b"
+    },
+    {
+        "id": 788.0,
+        "author_sort": "Coates, Ta-Nehisi",
+        "title": "The Water Dancer: A Novel",
+        "isbn": 9780399590603.0,
+        "identifiers": "google:iUmHDwAAQBAJ,isbn:9780399590603,barnesnoble:w/the-water-dancer-ta-nehisi-coates/1130550452",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d43c8e4d-b716-42cd-a86b-4c065f6a7c1f"
     }
 ]
