@@ -6040,6 +6040,16 @@
         "uuid": "377d46f5-1834-4925-b24d-1e2ff9d79460"
     },
     {
+        "id": 779.0,
+        "author_sort": "Moitessier, Bernard",
+        "title": "The Long Way",
+        "isbn": 9780924486845.0,
+        "identifiers": "isbn:9780924486845,google:M_213SIZgrYC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d857b5e9-9e4e-4c52-b08f-2bf175e3a2b4"
+    },
+    {
         "id": 785.0,
         "author_sort": "Robinson, Kim Stanley",
         "title": "The Ministry for the Future",
@@ -6058,5 +6068,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "d43c8e4d-b716-42cd-a86b-4c065f6a7c1f"
+    },
+    {
+        "id": 790.0,
+        "author_sort": "Greene, Graham",
+        "title": "The Quiet American",
+        "isbn": 9781504052542.0,
+        "identifiers": "barnesnoble:w/quiet-american-graham-greene/1101924799,goodreads:3698,google:C8VQDwAAQBAJ,isbn:9781504052542",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8be925f8-e85f-4658-892b-366635cd1a68"
     }
 ]
