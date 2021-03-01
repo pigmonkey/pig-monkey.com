@@ -5520,6 +5520,16 @@
         "uuid": "e501fef4-5e04-4f71-9c74-711a12f1a53c"
     },
     {
+        "id": 692.0,
+        "author_sort": "Carré, John le",
+        "title": "A Murder of Quality",
+        "isbn": 9780143122586.0,
+        "identifiers": "barnesnoble:w/murder-of-quality-john-le-carr/1100715347,amazon:0143122584,isbn:9780143122586",
+        "series": "George Smiley",
+        "series_index": 2.0,
+        "uuid": "9a5a8fee-7721-4505-bb81-05ae75af2f07"
+    },
+    {
         "id": 694.0,
         "author_sort": "Carré, John le",
         "title": "The Spy Who Came in From the Cold",
@@ -6050,6 +6060,16 @@
         "uuid": "d857b5e9-9e4e-4c52-b08f-2bf175e3a2b4"
     },
     {
+        "id": 781.0,
+        "author_sort": "Psychoundakis, George",
+        "title": "The Cretan Runner: His Story of the German Occupation",
+        "isbn": 9781590179055.0,
+        "identifiers": "google:K3KWBgAAQBAJ,isbn:9781590179055,barnesnoble:w/the-cretan-runner-george-psychoundakis/1122150968",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d7efb698-684c-4316-a706-24e858ade412"
+    },
+    {
         "id": 785.0,
         "author_sort": "Robinson, Kim Stanley",
         "title": "The Ministry for the Future",
@@ -6058,6 +6078,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "16990d41-794c-455c-a4d4-3fecabb18b6b"
+    },
+    {
+        "id": 786.0,
+        "author_sort": "Brown, Christopher",
+        "title": "Tropic of Kansas",
+        "isbn": 9780062563811.0,
+        "identifiers": "goodreads:32600759,isbn:9780062563811,barnesnoble:w/tropic-of-kansas-christopher-brown/1124807485",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b5192c6e-6ca2-4c40-9300-5a322d3adb14"
     },
     {
         "id": 788.0,
@@ -6078,5 +6108,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "8be925f8-e85f-4658-892b-366635cd1a68"
+    },
+    {
+        "id": 791.0,
+        "author_sort": "Bellum, Rekka & Linvega, Devine Lu",
+        "title": "Busy Doing Nothing",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fa7ef0f2-ee10-42ee-9f71-1501d05eaedf"
     }
 ]
