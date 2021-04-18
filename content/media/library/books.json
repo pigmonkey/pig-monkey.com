@@ -6070,6 +6070,26 @@
         "uuid": "d7efb698-684c-4316-a706-24e858ade412"
     },
     {
+        "id": 782.0,
+        "author_sort": "Ullman, Ellen",
+        "title": "By Blood",
+        "isbn": 9780374117559.0,
+        "identifiers": "goodreads:12510833,barnesnoble:w/by-blood-ellen-ullman/1104154833,isbn:9780374117559,google:NEelsg7puYAC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ee48b5f5-6a83-4430-b057-1815fef47136"
+    },
+    {
+        "id": 783.0,
+        "author_sort": "Mendelson, Cheryl",
+        "title": "Home Comforts: The Art and Science of Keeping House",
+        "isbn": 9780743272865.0,
+        "identifiers": "barnesnoble:w/home-comforts-cheryl-mendelson/1100185219,isbn:9780743272865,google:xfB99Kf38MwC,goodreads:79388,amazon:B001D1SRXW",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c8384bcf-5395-4aae-8c2f-2102fe283e61"
+    },
+    {
         "id": 785.0,
         "author_sort": "Robinson, Kim Stanley",
         "title": "The Ministry for the Future",
@@ -6118,5 +6138,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "fa7ef0f2-ee10-42ee-9f71-1501d05eaedf"
+    },
+    {
+        "id": 797.0,
+        "author_sort": "Taylor, Charles",
+        "title": "The Ethics of Authenticity",
+        "isbn": 9780674987692.0,
+        "identifiers": "google:adnIDwAAQBAJ,goodreads:39204027,isbn:9780674987692",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "eac2bc8e-1f92-4243-b943-21594871bcd9"
+    },
+    {
+        "id": 800.0,
+        "author_sort": "National Intelligence Council",
+        "title": "Global Trends 2040: A More Contested World",
+        "isbn": 9781929667338.0,
+        "identifiers": "goodreads:57684956,isbn:9781929667338",
+        "series": "Global Trends",
+        "series_index": 7.0,
+        "uuid": "9c08df12-f088-4981-877d-95972c8c5515"
     }
 ]
