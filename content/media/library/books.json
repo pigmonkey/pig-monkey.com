@@ -6140,6 +6140,16 @@
         "uuid": "fa7ef0f2-ee10-42ee-9f71-1501d05eaedf"
     },
     {
+        "id": 796.0,
+        "author_sort": "Divya, S. B.",
+        "title": "Machinehood",
+        "isbn": 9781982148089.0,
+        "identifiers": "google:iC3uDwAAQBAJ,goodreads:54304067,isbn:9781982148089,barnesnoble:w/machinehood-sb-divya/1137251877",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "316a9c76-6565-4bbd-9dd6-4f3125fe71b1"
+    },
+    {
         "id": 797.0,
         "author_sort": "Taylor, Charles",
         "title": "The Ethics of Authenticity",
@@ -6158,5 +6168,15 @@
         "series": "Global Trends",
         "series_index": 7.0,
         "uuid": "9c08df12-f088-4981-877d-95972c8c5515"
+    },
+    {
+        "id": 801.0,
+        "author_sort": "Plokhy, Serhii",
+        "title": "Nuclear Folly: A History of the Cuban Missile Crisis",
+        "isbn": 9780393540826.0,
+        "identifiers": "isbn:9780393540826,google:kovxDwAAQBAJ,goodreads:53404243",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "01d4d223-d64f-4d15-940d-744bd4defc1e"
     }
 ]
