@@ -6178,5 +6178,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "01d4d223-d64f-4d15-940d-744bd4defc1e"
+    },
+    {
+        "id": 802.0,
+        "author_sort": "Studwell, Joe",
+        "title": "How Asia Works: Success and Failure in the World's Most Dynamic Region",
+        "isbn": 9780802193476.0,
+        "identifiers": "goodreads:18996380,google:dNs33Q1cAX0C,isbn:9780802193476",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "157369ab-698f-4370-8f75-84438af82db4"
+    },
+    {
+        "id": 805.0,
+        "author_sort": "Rayner, Grant",
+        "title": "The Security Evacuation Handbook, Volume 1: Fundamentals & Planning",
+        "isbn": 9789811496646.0,
+        "identifiers": "isbn:9789811496646",
+        "series": "Security Evacuation",
+        "series_index": 1.0,
+        "uuid": "9a7d61f2-c1c6-4aae-8062-9c8d87bdd93f"
     }
 ]
