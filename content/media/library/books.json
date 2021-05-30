@@ -6190,6 +6190,16 @@
         "uuid": "157369ab-698f-4370-8f75-84438af82db4"
     },
     {
+        "id": 804.0,
+        "author_sort": "Rayner, Grant",
+        "title": "The Security Evacuation Handbook, Volume 2: Decision Making & Execution",
+        "isbn": 9789811806667.0,
+        "identifiers": "isbn:9789811806667",
+        "series": "Security Evacuation",
+        "series_index": 2.0,
+        "uuid": "06883a43-305f-470d-ae31-3eaaae6f8855"
+    },
+    {
         "id": 805.0,
         "author_sort": "Rayner, Grant",
         "title": "The Security Evacuation Handbook, Volume 1: Fundamentals & Planning",
@@ -6198,5 +6208,55 @@
         "series": "Security Evacuation",
         "series_index": 1.0,
         "uuid": "9a7d61f2-c1c6-4aae-8062-9c8d87bdd93f"
+    },
+    {
+        "id": 806.0,
+        "author_sort": "Rayner, Grant",
+        "title": "The Field Guide to Deployment Planning",
+        "isbn": 9789811468421.0,
+        "identifiers": "isbn:9789811468421",
+        "series": "The Field Guide Series",
+        "series_index": 1.0,
+        "uuid": "034d0403-ddfb-40ea-b941-c10b262e9e8f"
+    },
+    {
+        "id": 807.0,
+        "author_sort": "Rayner, Grant",
+        "title": "The Field Guide to Personal Security",
+        "isbn": 9789811476259.0,
+        "identifiers": "isbn:9789811476259",
+        "series": "The Field Guide Series",
+        "series_index": 2.0,
+        "uuid": "d43a8b28-8be0-42ad-86fc-6c25aa7d5f1d"
+    },
+    {
+        "id": 808.0,
+        "author_sort": "Rayner, Grant",
+        "title": "The Field Guide to Accommodation Security",
+        "isbn": 9789811480522.0,
+        "identifiers": "isbn:9789811480522",
+        "series": "The Field Guide Series",
+        "series_index": 3.0,
+        "uuid": "cf58f740-b085-46eb-9b03-777e2ff2ce14"
+    },
+    {
+        "id": 809.0,
+        "author_sort": "Rayner, Grant",
+        "title": "The Field Guide to Transport Security",
+        "isbn": 9789811485893.0,
+        "identifiers": "isbn:9789811485893",
+        "series": "The Field Guide Series",
+        "series_index": 4.0,
+        "uuid": "656b04e4-03af-42d6-96a6-65194171206b"
+    },
+    {
+        "id": 811.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Atmosphæra Incognita",
+        "isbn": null,
+        "identifiers": "mobi-asin:B07TTCXX8T,goodreads:51106419",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7cd2642c-7b28-41f4-8935-8124c6ec200d"
     }
 ]
