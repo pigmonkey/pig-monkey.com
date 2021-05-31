@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2020-05-24
+Last Update: 2021-05-30
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -67,12 +67,12 @@ securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAl7LJoQACgkQVOmYrGGL
-wTfQgggA1oemBK/hxWIaHUpVcifP4CDW4NE912ivzA7PodG59Y0ZHDmazKRI4syA
-GknPULbaG3UPCsNeVN6n3a3TgH6dWumyX06Ef/53Lh45OPROSYxhVd1o1t5MkBiD
-Ui0tklC/J7vvzs1YYucPTLXj02eSXZQ7hg16oYVtsRzAvxPfgyczi7qgJPx3TbC6
-RHwHlgo4ZHrMMd9jP2O4mzmxhFxFfgDsjZPLjMJxVKzcgTYv0r3GfqVrFthuPZqf
-h9DebEMMT8Ku+ZLrr0IsBSdatllpVoxcKhdHrnj+UUrxK8xLmQC4fbhdNNdXhraA
-scPCF+RUjB1M8w8/V+dYEuDQsYzX0w==
-=+Fgb
+iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmC0XsYACgkQVOmYrGGL
+wTe9UwgAqY3rrO4P0g+WPXisTdhunrzEHW6Q3CL36p6UKQsb9iUMS64qKreE+lYO
+w210dODHY3YFpgMHgorG0xNMU2tzFYWSiobXLniETf6aWmkLh7qYl7ozFWt7x5St
+0TezDel7idwwglLsJ+IFwDHrNylCcRWgEzGRy4vMJC7IpXZD+E2Qje7+HiDKkjHF
+JEbPq2l3UKxqH5yz+BZxG0KKkCc/2lclQN9ELHLi3ThJq67IsWkNJvGE8aTnyimE
+DV7SVVKp09iiUA2picniwr5DtfMPpbEszRW0B035lrvLghaE+KmwzDZXnOklcyzX
++aIypWn09STNJpSIfpQmx85aq8tgWw==
+=N3+y
 -----END PGP SIGNATURE-----
