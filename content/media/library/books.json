@@ -6140,6 +6140,16 @@
         "uuid": "fa7ef0f2-ee10-42ee-9f71-1501d05eaedf"
     },
     {
+        "id": 795.0,
+        "author_sort": "Womack, Jack",
+        "title": "Random Acts of Senseless Violence",
+        "isbn": 9780802134240.0,
+        "identifiers": "amazon:B008V460XS,google:N03kjgK4LvoC,goodreads:1129928,isbn:9780802134240,barnesnoble:w/random-acts-of-senseless-violence-jack-womack/1100627252",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "39e4802f-7970-4db5-90b0-07eca85242f7"
+    },
+    {
         "id": 796.0,
         "author_sort": "Divya, S. B.",
         "title": "Machinehood",
@@ -6258,5 +6268,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "7cd2642c-7b28-41f4-8935-8124c6ec200d"
+    },
+    {
+        "id": 812.0,
+        "author_sort": "Effinger, George Alec",
+        "title": "When Gravity Fails",
+        "isbn": 9781497605404.0,
+        "identifiers": "isbn:9781497605404,goodreads:21534862,google:nxEeAwAAQBAJ",
+        "series": "Marîd Audran",
+        "series_index": 1.0,
+        "uuid": "4c21a675-a306-4b8f-870a-04286adfaae9"
     }
 ]
