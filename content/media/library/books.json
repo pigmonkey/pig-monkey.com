@@ -6278,5 +6278,25 @@
         "series": "Marîd Audran",
         "series_index": 1.0,
         "uuid": "4c21a675-a306-4b8f-870a-04286adfaae9"
+    },
+    {
+        "id": 813.0,
+        "author_sort": "Spicer, Sean",
+        "title": "Guerrilla Camping: Getting Off the Beaten Path",
+        "isbn": null,
+        "identifiers": "goodreads:29930804,mobi-asin:B01CS9YTSE",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "da60c5de-a447-48b1-9e5f-970a258f5f3c"
+    },
+    {
+        "id": 814.0,
+        "author_sort": "Martine, Arkady",
+        "title": "A Memory Called Empire",
+        "isbn": 9781250186454.0,
+        "identifiers": "goodreads:37794149,barnesnoble:w/a-memory-called-empire-arkady-martine/1128511033,google:O-5WDwAAQBAJ,isbn:9781250186454",
+        "series": "Teixcalaan",
+        "series_index": 1.0,
+        "uuid": "e0ecc975-a7d4-40c9-878a-3e8ac026332e"
     }
 ]
