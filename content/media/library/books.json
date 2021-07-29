@@ -1131,7 +1131,7 @@
     },
     {
         "id": 143.0,
-        "author_sort": "Guin, Ursula K. le",
+        "author_sort": "Guin, Ursula K. Le",
         "title": "The Left Hand of Darkness",
         "isbn": 9780708880814.0,
         "identifiers": "isbn:9780708880814,amazon:0441007317,google:Nk7AQgAACAAJ",
@@ -1188,6 +1188,16 @@
         "series": "Aubrey & Maturin",
         "series_index": 6.0,
         "uuid": "7cc63b11-db9f-4fff-9638-6a3c150d860d"
+    },
+    {
+        "id": 166.0,
+        "author_sort": "Stark, Freya",
+        "title": "Alexander's Path",
+        "isbn": 99847000.0,
+        "identifiers": "isbn:0099847000,amazon:0879513403,google:wQc9xxwg8EwC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7923b7bc-a7bf-48db-8a0c-0b670a240bf0"
     },
     {
         "id": 168.0,
@@ -5570,6 +5580,16 @@
         "uuid": "d1542220-4c85-4b4b-88a6-e96f409ef839"
     },
     {
+        "id": 701.0,
+        "author_sort": "Guin, Ursula K. Le",
+        "title": "Always Coming Home",
+        "isbn": 9781598536034.0,
+        "identifiers": "barnesnoble:w/ursula-k-le-guin-ursula-k-le-guin/1128615856,amazon:B07CWDSTMD,isbn:9781598536034",
+        "series": null,
+        "series_index": 315.0,
+        "uuid": "ee3ff376-86a1-4481-adbd-6ce77dd8e6d1"
+    },
+    {
         "id": 702.0,
         "author_sort": "Coram, Robert",
         "title": "Boyd: The Fighter Pilot Who Changed the Art of War",
@@ -6030,6 +6050,16 @@
         "uuid": "2ddb387b-610d-4ce8-b0c3-7eb3e6e558fd"
     },
     {
+        "id": 772.0,
+        "author_sort": "Krznaric, Roman",
+        "title": "The Good Ancestor: How to Think Long-Term in a Short-Term World",
+        "isbn": 9781615197309.0,
+        "identifiers": "google:6VXWDwAAQBAJ,mobi-asin:B08519T8NM,isbn:9781615197309,goodreads:51107158",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f04be42c-43ca-48aa-bbf6-a5591e834073"
+    },
+    {
         "id": 774.0,
         "author_sort": "Doctorow, Cory",
         "title": "Attack Surface",
@@ -6138,6 +6168,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "fa7ef0f2-ee10-42ee-9f71-1501d05eaedf"
+    },
+    {
+        "id": 793.0,
+        "author_sort": "Greene, Graham",
+        "title": "The Power and the Glory",
+        "isbn": 9781504052450.0,
+        "identifiers": "google:D8VQDwAAQBAJ,barnesnoble:w/power-and-the-glory-graham-greene/1100214056,goodreads:3690,amazon:999471564X,isbn:9781504052450",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b94de61b-dbc4-4ce1-8c56-28b7dda3ef95"
     },
     {
         "id": 795.0,
@@ -6298,5 +6338,25 @@
         "series": "Teixcalaan",
         "series_index": 1.0,
         "uuid": "e0ecc975-a7d4-40c9-878a-3e8ac026332e"
+    },
+    {
+        "id": 815.0,
+        "author_sort": "Bacigalupi, Paolo",
+        "title": "Ship Breaker",
+        "isbn": 9780316081689.0,
+        "identifiers": "goodreads:7095831,isbn:9780316081689,barnesnoble:w/ship-breaker-paolo-bacigalupi/1100294126,google:Xqq3kj_IorwC",
+        "series": "Ship Breaker",
+        "series_index": 1.0,
+        "uuid": "bdc03802-980e-471e-80c4-9a983a9b5b25"
+    },
+    {
+        "id": 816.0,
+        "author_sort": "Martine, Arkady",
+        "title": "A Desolation Called Peace",
+        "isbn": 9781250186485.0,
+        "identifiers": "amazon:B07QPJHNSM,google:NUaSDwAAQBAJ,barnesnoble:w/a-desolation-called-peace-arkady-martine/1131253774,isbn:9781250186485,goodreads:45154547",
+        "series": "Teixcalaan",
+        "series_index": 2.0,
+        "uuid": "48f9a536-8498-4ffe-9d2c-7877adc8d047"
     }
 ]
