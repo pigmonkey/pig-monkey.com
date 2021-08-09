@@ -1131,7 +1131,7 @@
     },
     {
         "id": 143.0,
-        "author_sort": "Guin, Ursula K. Le",
+        "author_sort": "Guin, Ursula K. le",
         "title": "The Left Hand of Darkness",
         "isbn": 9780708880814.0,
         "identifiers": "isbn:9780708880814,amazon:0441007317,google:Nk7AQgAACAAJ",
@@ -4201,7 +4201,7 @@
     },
     {
         "id": 520.0,
-        "author_sort": "Guin, Ursula K. Le",
+        "author_sort": "Guin, Ursula K. le",
         "title": "The Dispossessed",
         "isbn": 9780061054884.0,
         "identifiers": "barnesnoble:w/dispossessed-ursula-k-le-guin/1100615948,goodreads:13651,amazon:0061054887,isbn:9780061054884,google:tlhFtmTixvwC",
@@ -4261,7 +4261,7 @@
     },
     {
         "id": 529.0,
-        "author_sort": "Guin, Ursula K. Le",
+        "author_sort": "Guin, Ursula K. le",
         "title": "The Lathe of Heaven",
         "isbn": 380435470.0,
         "identifiers": "isbn:0380435470,amazon:B00JTZ95I0,goodreads:59924",
@@ -5581,7 +5581,7 @@
     },
     {
         "id": 701.0,
-        "author_sort": "Guin, Ursula K. Le",
+        "author_sort": "Guin, Ursula K. le",
         "title": "Always Coming Home",
         "isbn": 9781598536034.0,
         "identifiers": "barnesnoble:w/ursula-k-le-guin-ursula-k-le-guin/1128615856,amazon:B07CWDSTMD,isbn:9781598536034",
@@ -5988,6 +5988,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "ac149cf0-ace9-42a8-8065-7a69277c4bf4"
+    },
+    {
+        "id": 762.0,
+        "author_sort": "Guin, Ursula K. le",
+        "title": "The Telling",
+        "isbn": 9780547545622.0,
+        "identifiers": "isbn:9780547545622,amazon:0151005672,google:Kz8v1bR1j_oC,barnesnoble:w/telling-ursula-k-le-guin/1100302502",
+        "series": "Hainish Cycle",
+        "series_index": 7.0,
+        "uuid": "8ea0930d-4b6f-4f39-bcf7-7b582979f87a"
     },
     {
         "id": 763.0,
