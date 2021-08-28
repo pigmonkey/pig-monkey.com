@@ -6100,6 +6100,16 @@
         "uuid": "d857b5e9-9e4e-4c52-b08f-2bf175e3a2b4"
     },
     {
+        "id": 780.0,
+        "author_sort": "Maitland, Alexander",
+        "title": "Wilfred Thesiger: The Life of the Great Explorer",
+        "isbn": 9781590209950.0,
+        "identifiers": "isbn:9781590209950,google:IIUjCQAAQBAJ,goodreads:19194087",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "401e21b0-3bf2-4c31-9185-1f1ca988e1e9"
+    },
+    {
         "id": 781.0,
         "author_sort": "Psychoundakis, George",
         "title": "The Cretan Runner: His Story of the German Occupation",
@@ -6368,5 +6378,25 @@
         "series": "Teixcalaan",
         "series_index": 2.0,
         "uuid": "48f9a536-8498-4ffe-9d2c-7877adc8d047"
+    },
+    {
+        "id": 819.0,
+        "author_sort": "Perlroth, Nicole",
+        "title": "This Is How They Tell Me the World Ends: The Cyberweapons Arms Race",
+        "isbn": 9781635576054.0,
+        "identifiers": "goodreads:49247043,barnesnoble:w/this-is-how-they-tell-me-the-world-ends-nicole-perlroth/1136275598,isbn:9781635576054",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "19f3758a-740b-4297-92ec-3f6844f687b8"
+    },
+    {
+        "id": 822.0,
+        "author_sort": "Akkad, Omar El",
+        "title": "American War",
+        "isbn": 9781101973134.0,
+        "identifiers": "isbn:9781101973134,barnesnoble:w/american-war-omar-el-akkad/1124650253,google:U4e9tAEACAAJ,goodreads:33311863",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b8c48692-081e-46bd-8014-8cff95597c27"
     }
 ]
