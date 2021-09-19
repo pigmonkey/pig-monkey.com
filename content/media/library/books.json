@@ -6408,5 +6408,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "33da69a1-d1b8-4a8d-97d3-8bcd8e331129"
+    },
+    {
+        "id": 829.0,
+        "author_sort": "Mardikian, George",
+        "title": "Dinner at Omar Khayyam's",
+        "isbn": 9781925937312.0,
+        "identifiers": "barnesnoble:w/dinner-at-omar-khayyams-george-mardikian/1136514145,isbn:9781925937312,goodreads:6304638",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "29a5ff46-1c7c-4cde-b7e3-f6326412e887"
+    },
+    {
+        "id": 831.0,
+        "author_sort": "Süskind, Patrick",
+        "title": "Perfume: The Story of a Murderer",
+        "isbn": 9780804152976.0,
+        "identifiers": "isbn:9780804152976,goodreads:22143897,google:-C9kAwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "45e0d67e-a065-49fd-b111-3bdf86766f38"
     }
 ]
