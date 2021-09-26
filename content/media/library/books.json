@@ -6390,6 +6390,16 @@
         "uuid": "19f3758a-740b-4297-92ec-3f6844f687b8"
     },
     {
+        "id": 821.0,
+        "author_sort": "Thompson, Tade",
+        "title": "Rosewater",
+        "isbn": 9782290174142.0,
+        "identifiers": "amazon:B077MGY96X,goodreads:38362809,google:gNCNDwAAQBAJ,isbn:9782290174142",
+        "series": "The Wormwood Trilogy",
+        "series_index": 1.0,
+        "uuid": "23764b3e-9edd-47c2-9462-f1eac6b8c26b"
+    },
+    {
         "id": 822.0,
         "author_sort": "Akkad, Omar El",
         "title": "American War",
@@ -6408,6 +6418,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "33da69a1-d1b8-4a8d-97d3-8bcd8e331129"
+    },
+    {
+        "id": 827.0,
+        "author_sort": "Marx, W. David",
+        "title": "Ametora: How Japan Saved American Style",
+        "isbn": 9780465059737.0,
+        "identifiers": "google:d_gqCgAAQBAJ,isbn:9780465059737,goodreads:35085819,amazon:0465059732",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0887da3f-1ef4-4440-8a01-ca8e6ce04e6c"
     },
     {
         "id": 829.0,
