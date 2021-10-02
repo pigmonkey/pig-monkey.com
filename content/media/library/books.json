@@ -6448,5 +6448,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "45e0d67e-a065-49fd-b111-3bdf86766f38"
+    },
+    {
+        "id": 837.0,
+        "author_sort": "Ollivier, Bernard",
+        "title": "Out of Istanbul: A Journey of Discovery Along the Silk Road",
+        "isbn": 9781510743762.0,
+        "identifiers": "isbn:9781510743762,goodreads:43516840,google:RH90DwAAQBAJ",
+        "series": "Longue Marche",
+        "series_index": 1.0,
+        "uuid": "8146ec23-ea63-4d80-a918-472381167470"
     }
 ]
