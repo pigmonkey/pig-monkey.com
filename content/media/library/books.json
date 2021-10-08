@@ -5300,6 +5300,16 @@
         "uuid": "be7e7696-dfad-4c71-a542-b73684bc7f56"
     },
     {
+        "id": 662.0,
+        "author_sort": "Harkaway, Nick",
+        "title": "Gnomon",
+        "isbn": 9780525432937.0,
+        "identifiers": "barnesnoble:w/gnomon-nick-harkaway/1126242751,isbn:9780525432937,amazon:B01MZGWCV4,goodreads:33852053",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bbbd08de-c77e-416d-93ca-ad9e4310282d"
+    },
+    {
         "id": 664.0,
         "author_sort": "Wynne, Marcus",
         "title": "Wylde: Books 1-3",
@@ -5548,6 +5558,16 @@
         "series": "George Smiley",
         "series_index": 3.0,
         "uuid": "29f843e9-0cf1-4905-9e7b-96f30a187a6a"
+    },
+    {
+        "id": 695.0,
+        "author_sort": "Carré, John le",
+        "title": "The Night Manager: A Novel",
+        "isbn": 9781101968352.0,
+        "identifiers": "google:uX-CCgAAQBAJ,barnesnoble:w/night-manager-john-le-carr/1100715486,isbn:9781101968352",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "eecc49fb-a721-4112-a1bc-e43896e67a1b"
     },
     {
         "id": 698.0,
@@ -6390,6 +6410,16 @@
         "uuid": "19f3758a-740b-4297-92ec-3f6844f687b8"
     },
     {
+        "id": 820.0,
+        "author_sort": "Clark, Andy",
+        "title": "Natural-Born Cyborgs: Minds, Technologies, and the Future of Human Intelligence",
+        "isbn": 9780195177510.0,
+        "identifiers": "goodreads:170465,barnesnoble:w/natural-born-cyborgs-andy-clark/1111832711,isbn:9780195177510,google:6nw8DwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a9d8de25-1197-438a-b6b7-5797ba432111"
+    },
+    {
         "id": 821.0,
         "author_sort": "Thompson, Tade",
         "title": "Rosewater",
@@ -6448,6 +6478,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "45e0d67e-a065-49fd-b111-3bdf86766f38"
+    },
+    {
+        "id": 836.0,
+        "author_sort": "Cadigan, Pat & Gibson, William",
+        "title": "Alien - Alien 3: The Lost Screenplay by William Gibson",
+        "isbn": 9781789097528.0,
+        "identifiers": "isbn:9781789097528,goodreads:56629170,barnesnoble:w/alien-alien-3-pat-cadigan/1138834287,google:E-AlzgEACAAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "01a252d3-8fa0-4645-9c86-ea6980ab838d"
     },
     {
         "id": 837.0,
