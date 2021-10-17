@@ -71,6 +71,11 @@ Optician is a bash script which creates optical backups of directories.
 Add a bookmark to [Pinboard](https://pinboard.in/). The URL may be given via standard input, as an argument, or copied from the clipboard.
 
 
+## [Redswitch](https://github.com/pigmonkey/redswitch)
+
+Allows the use of [Redshift](http://jonls.dk/redshift/) with automatic position updating, without the complexity of [GeoClue](https://gitlab.freedesktop.org/geoclue/geoclue/-/wikis/home).
+
+
 ## [Spark](https://github.com/pigmonkey/spark)
 
 Spark is an [Ansible](https://www.ansible.com/) playbook meant to provision a personal machine running [Arch Linux](https://www.archlinux.org/). It is intended to run locally on a fresh Arch install (ie, taking the place of any [post-installation](https://wiki.archlinux.org/index.php/Installation_guide#Post-installation)), but due to Ansible's idempotent nature it may also be run on top of an already configured machine.
