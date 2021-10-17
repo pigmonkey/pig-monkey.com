@@ -6480,6 +6480,16 @@
         "uuid": "45e0d67e-a065-49fd-b111-3bdf86766f38"
     },
     {
+        "id": 833.0,
+        "author_sort": "Tsing, Anna Lowenhaupt",
+        "title": "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins",
+        "isbn": 9780691220550.0,
+        "identifiers": "goodreads:25510906,barnesnoble:w/the-mushroom-at-the-end-of-the-world-anna-lowenhaupt-tsing/1121862495,isbn:9780691220550,google:MR4OEAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "85f88c5e-1a6f-4ebf-a747-57b2e6465a6f"
+    },
+    {
         "id": 836.0,
         "author_sort": "Cadigan, Pat & Gibson, William",
         "title": "Alien - Alien 3: The Lost Screenplay by William Gibson",
@@ -6498,5 +6508,15 @@
         "series": "Longue Marche",
         "series_index": 1.0,
         "uuid": "8146ec23-ea63-4d80-a918-472381167470"
+    },
+    {
+        "id": 838.0,
+        "author_sort": "Singer, P. W. & Cole, August",
+        "title": "Burn-In: A Novel of the Real Robotic Revolution",
+        "isbn": 9781328637895.0,
+        "identifiers": "isbn:9781328637895,goodreads:53038020,google:hlGdDwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "59e5040b-89b9-407d-9b33-971a3ba04546"
     }
 ]
