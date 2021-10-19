@@ -1,7 +1,7 @@
 Title: Tactical Chucks
 Date: 2018-04-14
 Modified: 2019-11-05
-tags: gear, review, footwear
+tags: gear, review, footwear, bondage
 
 The [Altama OTB Maritime Assault Boots](https://originalfootwear.com/collections/altama/products/altama-maritime-assault-mid-1?variant=42541947717) are a great pair of everyday footwear. Modeled off of Chuck Taylors, they're a fairly simple concept: a 1000D Cordura upper, large rubber toe cap, and low-profile outsole with minimal lugs.
 

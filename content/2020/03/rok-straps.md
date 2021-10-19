@@ -1,6 +1,6 @@
 Title: Better Bondage with ROK Straps
 Date: 2020-03-01
-Tags: gear, bicycle, review
+Tags: gear, bicycle, review, bondage
 
 [ROK Straps](https://rokstraps.com/) are superior bungie cords. They are designed to be safe and long lasting during prolonged outdoor use. Each end of the strap consists of a sewn loop, allowing it to be securely fastened to a wide variety of frameworks without concern for scratching or marring the surface, or for a hook coming released under tension and [finding its way into an eyeball](https://www.webmd.com/eye-health/news/20000502/bungee-cords-eye-injury). Cargo secured by the ROK Strap is easily accessed via the side-release buckle. Most of the ROK Strap is simple webbing, adjustable thanks to the buckle. One side of the ROK Strap has a short segment of a durable natural rubber, giving the strap some elasticity, but not enough that unintended recoil will likely result in the strap [finding its way into an eyeball](https://pubmed.ncbi.nlm.nih.gov/9467466-bungee-cord-associated-ocular-injuries/). The rubber is contained in a polyester braid for UV protection and additional durability.
 
