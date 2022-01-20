@@ -974,7 +974,7 @@
         "author_sort": "Bacigalupi, Paolo",
         "title": "The Windup Girl",
         "isbn": 9781597801584.0,
-        "identifiers": "goodreads:6597651,barnesnoble:w/windup-girl-paolo-bacigalupi/1100225865,google:Z6swAQAAMAAJ,amazon:1597801585,isbn:9781597801584",
+        "identifiers": "barnesnoble:w/windup-girl-paolo-bacigalupi/1100225865,goodreads:6597651,isbn:9781597801584,google:qGcFBgAAQBAJ,amazon:1597801585",
         "series": null,
         "series_index": 1.0,
         "uuid": "731bcf46-258d-417f-bb87-4b1547b0df65"
@@ -5893,8 +5893,8 @@
         "id": 743.0,
         "author_sort": "Ellifritz, Greg",
         "title": "Choose Adventure: Safe Travel in Dangerous Places",
-        "isbn": null,
-        "identifiers": "mobi-asin:B087BNB647",
+        "isbn": 9798642460122.0,
+        "identifiers": "goodreads:53583690,isbn:9798642460122,google:mNOIzQEACAAJ,amazon:B087BNB647,mobi-asin:B087BNB647",
         "series": null,
         "series_index": 1.0,
         "uuid": "089db91a-c861-4901-945c-edd0cac480aa"
@@ -6578,6 +6578,26 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "b8c6e9da-a587-4cce-af9e-c0195a50943d"
+    },
+    {
+        "id": 844.0,
+        "author_sort": "Shopsin, Tamara",
+        "title": "LaserWriter II: A Novel",
+        "isbn": 9780374602581.0,
+        "identifiers": "google:WxcQEAAAQBAJ,barnesnoble:w/laserwriter-ii-tamara-shopsin/1138462112,isbn:9780374602581",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dc2edefb-32c0-42c7-b1a2-d06d93356f3a"
+    },
+    {
+        "id": 845.0,
+        "author_sort": "Tooze, Adam",
+        "title": "The Deluge: The Great War, America and the Remaking of the Global Order, 1916-1931",
+        "isbn": 9780143127970.0,
+        "identifiers": "barnesnoble:w/the-deluge-adam-tooze/1118663275,goodreads:20821319,isbn:9780143127970,amazon:0143127977,google:4LGLDQAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "19d2ff21-52ed-4aa4-ace5-ca3495cc3d02"
     },
     {
         "id": 846.0,
