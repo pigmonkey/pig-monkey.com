@@ -6618,5 +6618,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "acbea68e-3189-4d0f-b57a-d37d4fa2687a"
+    },
+    {
+        "id": 858.0,
+        "author_sort": "Tynan",
+        "title": "Superhuman Social Skills: How to Win Friends, Even if You're an Introvert",
+        "isbn": 9781515179870.0,
+        "identifiers": "mobi-asin:B015QA1250,barnesnoble:w/superhuman-social-skills-tynan/1122723412,google:Hb4kjgEACAAJ,isbn:9781515179870",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c3864e9e-fec2-4a3c-8528-d81ae7c669f7"
+    },
+    {
+        "id": 859.0,
+        "author_sort": "Santini, Michael & Bolger, Ray",
+        "title": "Operation Devil Horns: The Takedown of MS-13 in San Francisco",
+        "isbn": 9781538115640.0,
+        "identifiers": "google:YElmDwAAQBAJ,isbn:9781538115640,barnesnoble:w/operation-devil-horns-michael-santini/1128520672",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6b35b19e-ad6c-4e75-9026-374a754918d8"
     }
 ]
