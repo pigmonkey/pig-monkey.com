@@ -6620,6 +6620,16 @@
         "uuid": "acbea68e-3189-4d0f-b57a-d37d4fa2687a"
     },
     {
+        "id": 851.0,
+        "author_sort": "Winters, Ben H.",
+        "title": "The Last Policeman",
+        "isbn": 9781594745768.0,
+        "identifiers": "isbn:9781594745768,amazon:1594745765",
+        "series": "Last Policeman Trilogy",
+        "series_index": 1.0,
+        "uuid": "b7918aa2-a381-4fc7-acde-6b52fdb2b381"
+    },
+    {
         "id": 858.0,
         "author_sort": "Tynan",
         "title": "Superhuman Social Skills: How to Win Friends, Even if You're an Introvert",
@@ -6638,5 +6648,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6b35b19e-ad6c-4e75-9026-374a754918d8"
+    },
+    {
+        "id": 860.0,
+        "author_sort": "Kapferer, Jean-Noël & Bastien, Vincent",
+        "title": "The Luxury Strategy: Break the Rules of Marketing to Build Luxury Brands",
+        "isbn": 9780749464929.0,
+        "identifiers": "google:oSC8SVYX9PEC,amazon:0749464917,isbn:9780749464929,barnesnoble:w/the-luxury-strategy-jean-noel-kapferer/1128556922",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2d3bd23a-d854-40b8-8974-62e0da5db7cd"
     }
 ]
