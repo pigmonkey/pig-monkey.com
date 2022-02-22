@@ -6658,5 +6658,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "2d3bd23a-d854-40b8-8974-62e0da5db7cd"
+    },
+    {
+        "id": 864.0,
+        "author_sort": "Sterling, Bruce",
+        "title": "Zeitgeist",
+        "isbn": 9780553576412.0,
+        "identifiers": "isbn:9780553576412,google:6Uuabb_DVmEC,goodreads:11649872,amazon:0553576410",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1f6eadf9-127d-4c06-bbbf-85ba5d7adbfe"
     }
 ]
