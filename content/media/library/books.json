@@ -6630,6 +6630,26 @@
         "uuid": "b7918aa2-a381-4fc7-acde-6b52fdb2b381"
     },
     {
+        "id": 855.0,
+        "author_sort": "Rushkoff, Douglas",
+        "title": "Team Human",
+        "isbn": 9780393651706.0,
+        "identifiers": "isbn:9780393651706,goodreads:40180066,google:4Y5gDwAAQBAJ,amazon:039365169X,barnesnoble:w/team-human-douglas-rushkoff/1128958935",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6a45fcbb-1a3d-43e0-85e1-acca187e7256"
+    },
+    {
+        "id": 856.0,
+        "author_sort": "Dalio, Ray",
+        "title": "The Changing World Order: Why Nations Succeed and Fail",
+        "isbn": 9781982160272.0,
+        "identifiers": "google:gRJSEAAAQBAJ,mobi-asin:B0881Y73YG,goodreads:52962238,isbn:9781982160272,amazon:1982160276,barnesnoble:w/principles-for-dealing-with-the-changing-world-order-ray-dalio/1140101087",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "27564485-c263-484a-852f-e95c0e49da50"
+    },
+    {
         "id": 858.0,
         "author_sort": "Tynan",
         "title": "Superhuman Social Skills: How to Win Friends, Even if You're an Introvert",
