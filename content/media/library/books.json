@@ -6680,6 +6680,16 @@
         "uuid": "2d3bd23a-d854-40b8-8974-62e0da5db7cd"
     },
     {
+        "id": 862.0,
+        "author_sort": "Kazantzakis, Nikos",
+        "title": "Zorba the Greek",
+        "isbn": 9781476782812.0,
+        "identifiers": "goodreads:13546270,google:72iabSl3b78C,amazon:1476782814,isbn:9781476782812",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "21b124b5-0aa6-4841-9d59-8c902b31fe14"
+    },
+    {
         "id": 864.0,
         "author_sort": "Sterling, Bruce",
         "title": "Zeitgeist",
@@ -6688,5 +6698,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "1f6eadf9-127d-4c06-bbbf-85ba5d7adbfe"
+    },
+    {
+        "id": 869.0,
+        "author_sort": "Bacigalupi, Paolo",
+        "title": "The Drowned Cities",
+        "isbn": 9781596065062.0,
+        "identifiers": "isbn:9781596065062,goodreads:12814594,amazon:1596065060,barnesnoble:w/the-drowned-cities-paolo-bacigalupi/1106244225,google:Brlh-eIFojgC",
+        "series": "Ship Breaker",
+        "series_index": 2.0,
+        "uuid": "10a51590-a3ba-4611-9e18-415bbca8ad21"
+    },
+    {
+        "id": 876.0,
+        "author_sort": "Markoff, John",
+        "title": "Whole Earth: The Many Lives of Stewart Brand",
+        "isbn": 9780735223950.0,
+        "identifiers": "amazon:0735223947,barnesnoble:w/whole-earth-john-markoff/1139726547,google:q2Q0EAAAQBAJ,goodreads:58503523,isbn:9780735223950",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4d4175dd-a192-4d4d-a8c2-7831e68265cf"
     }
 ]
