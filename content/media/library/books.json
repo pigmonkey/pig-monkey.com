@@ -173,8 +173,8 @@
         "id": 20.0,
         "author_sort": "Gibson, William",
         "title": "The Peripheral",
-        "isbn": 399158448.0,
-        "identifiers": "mobi-asin:B00INIXKV2,goodreads:23477546,amazon:B00L9NE1BG,isbn:0399158448,google:SLaQAwAAQBAJ",
+        "isbn": 9780399158445.0,
+        "identifiers": "isbn:9780399158445,google:BMABDAAAQBAJ,mobi-asin:B00INIXKV2,amazon:B00L9NE1BG,goodreads:23477546",
         "series": "The Peripheral",
         "series_index": 1.0,
         "uuid": "e7f7782a-ebfe-4317-aea6-0300a0b020f5"
@@ -1381,10 +1381,10 @@
     },
     {
         "id": 197.0,
-        "author_sort": "Fermor, Patrick Leigh",
-        "title": "A Time of Gifts: On Foot to Constantinople: From the Hook of Holland to the Middle Danube (Journey Across Europe Book 1)",
+        "author_sort": "Fermor, Patrick Leigh & Morris, Jan",
+        "title": "A Time of Gifts: On Foot to Constantinople: From the Hook of Holland to the Middle Danube",
         "isbn": 9781590175170.0,
-        "identifiers": "mobi-asin:B005EH3DJY,isbn:9781590175170",
+        "identifiers": "isbn:9781590175170,mobi-asin:B005EH3DJY,goodreads:12225255,google:0JPxMH5Ux9cC",
         "series": null,
         "series_index": 1.0,
         "uuid": "6fe0b362-25d5-4543-b1e0-f3d4d78c2e71"
