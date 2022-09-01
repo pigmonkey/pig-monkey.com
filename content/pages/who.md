@@ -1,5 +1,5 @@
 Title: Who
-sortorder: 10
+sortorder: 30
 
 [![Portrait](/media/images/headshot.png)](http://www.flickr.com/photos/pigmonkey/4935770947/)
 

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+        <title>{% block title %}A vast emptiness, and nothing holy | {{ SITENAME }}{% endblock title %}</title>
+
+        <meta name="description" content="Here are recorded many goings and comings, doings and beings; stories, symbols and meanings.">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/style/{{ CSS_FILE }}">
+
+        {% block extrahead %}{% endblock %}
+
+        {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed">
+        {% endif %}
+        {% if CATEGORY_FEED_ATOM and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM.format(slug=category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed">
+        {% endif %}
+        {% if TAG_FEED_ATOM and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM.format(slug=tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed">
+        {% endif %}
+
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+
+    </head>
+    <body id="{% block body_id %}{% endblock %}">
+        <input type="checkbox" id="toggler" checked>
+        <aside id="sidebar">
+            <label id="hamburger" for="toggler">
+                <svg viewBox="0 0 100 80" width="40" height="40">
+                    <rect width="100" height="20"></rect>
+                    <rect y="30" width="100" height="20"></rect>
+                    <rect y="60" width="100" height="20"></rect>
+                </svg>
+            </label>
+            <nav>
+                <ul>
+                {% for title, link in MENUITEMS %}
+                    <li><a href="{{ link }}">{{ title }}</a></li>
+                {% endfor %}
+                {% if DISPLAY_PAGES_ON_MENU %}
+                    {% for p in pages|sort(attribute='sortorder') %}
+                        <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a></li>
+                    {% endfor %}
+                {% endif %}
+                </ul>
+            </nav>
+            <form id="quick-search" action="{{ SITEURL }}/search.html" onsubmit="return (this.elements['q'].value.length > 0)">
+                <input type="search" name="q" placeholder="Search">
+            </form>
+        </aside>
+
+        <div id="content">
+            {% block notice %}{% endblock %}
+            {% block content %}{% endblock %}
+        </div>
+
+        <footer id="footer">
+            <p class="quote"><q>The man wants to wander, and he must do so or he shall die.</q> <cite><a href="http://en.wikipedia.org/wiki/Richard_Francis_Burton" title="Geographer, explorer, translator, writer, soldier, orientalist, cartographer, ethnologist, spy, linguist, poet, fencer and diplomat">Sir Richard F. Burton</a></cite></p>
+            <p class="copyright">Original work licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Attribution-NonCommercial-ShareAlike 3.0">Creative Commons License</a>.</p>
+            <div class="social">
+                <a class="feed" href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" title="Subscribe to my feed"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/social/feed.png" alt="Feed" height="32" width="32"></a>
+                <a class="github" href="http://github.com/pigmonkey" title="Follow me on GitHub"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/social/github.png" alt="GitHub" height="32" width="32"></a>
+                <a class="flickr" href="http://flickr.com/pigmonkey" title="Follow me on Flickr"><img src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/images/social/flickr.png" alt="Flickr" height="32" width="32"></a>
+            </div>
+        </footer>
+        {% block js %}
+        <script src="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/js/base.js"></script>
+        {% endblock %}
+    </body>
+</html>

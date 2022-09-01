@@ -1,5 +1,5 @@
 Title: Projects
-sortorder: 20
+sortorder: 40
 
 Most of my code may be [found on GitHub](http://github.com/pigmonkey). You should go there and [fork](https://help.github.com/articles/fork-a-repo) something.
 

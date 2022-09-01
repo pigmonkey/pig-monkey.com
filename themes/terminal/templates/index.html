@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+{% if articles %}
+    {% for article in articles_page.object_list %}
+    {% include 'includes/article.html' %}
+    {% endfor %}
+    {% if articles_paginator %}
+        <div class="pagination">
+            <div class="older">
+                {% if articles_next_page %}
+                <a href="{{ SITEURL }}/{{ articles_next_page.url }}" title="View older posts.">&laquo;</a>
+                {% endif %}
+            </div>
+            <div class="newer">
+                {% if articles_previous_page %}
+                <a href="{{ SITEURL }}/{{ articles_previous_page.url }}" title="View newer posts.">&raquo;</a>
+                {% endif %}
+            </div>
+        </div>
+    {% endif %}
+{% endif %}
+{% endblock content %}

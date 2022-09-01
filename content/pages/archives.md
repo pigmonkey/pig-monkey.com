@@ -1,3 +1,3 @@
 Title: Archives
-Status: hidden
 Template: archives
+sortorder: 10

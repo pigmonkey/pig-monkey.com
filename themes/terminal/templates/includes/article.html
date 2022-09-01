@@ -1,0 +1,17 @@
+<article class="entry{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %} category-{{ article.category.slug }}" itemscope itemType="http://schema.org/BlogPosting">
+    <div class="meta">
+        <div class="publication"><time itemprop="datePublished" datetime="{{ article.date.isoformat() }}" title="Published {{ article.locale_date }}">{{ article.locale_date }}</time></div>
+        {% if article.tags %}<div class="tags">{% for tag in article.tags %}<a href="{{ SITEURLL }}/{{ tag.url }}" title="View all posts tagged with {{ tag|escape }}">{{ tag|escape }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</div>{% endif %}
+    </div>
+    <div class="entry-content">
+        <header>
+            <h1 class="entry-title" itemprop="headline">
+                <a href="{{ SITEURL }}/{{ article.url }}" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+            </h1>
+        </header>
+        <div class="entry-body" itemprop="articleBody">
+            {{ article.content }}
+            {% if article.modified %}<div class="modified"><time itemprop="dateModified" datetime="{{ article.modified.isoformat() }}">This article was modified {{ article.modified.date() }}.</time></div>{% endif %}
+        </div>
+    </div>
+</article>

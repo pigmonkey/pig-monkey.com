@@ -1,0 +1,9 @@
+{% extends "index.html" %}
+
+{% block title %}{{ period | reverse | join(' ') }} | Archives | {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    {% for article in dates %}
+        {% include 'includes/article.html' %}
+    {% endfor %}
+{% endblock %}

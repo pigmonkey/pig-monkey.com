@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block title %}Archives | {{ SITENAME }}{% endblock %}
+
+{% block content %}
+    <article class="entry">
+        <header>
+            <h1>
+                Archives
+            </h1>
+        </header>
+        <ul id="archives">
+        {% for year in dates|groupby('date.year')|sort(reverse=True) %}
+            <li class="yearly-archive">
+                <h2 class="year"><a title="View all posts in {{ year.grouper }}" href="{{ SITEURL}}/{{ year.grouper }}/">{{ year.grouper }}</a></h2>
+                <div class="article-count">{{ year.list|count }} articles</div>
+                <ul class="article-archive">
+                    {% for article in year.list %}
+                    <li class="article">
+                        <div class="article-date">{{ article.locale_date }}</div>
+                        <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+                    </li>
+                    {% endfor %}
+                </ul>
+            </li>
+        {% endfor %}
+        </ul>
+    </article>
+{% endblock %}

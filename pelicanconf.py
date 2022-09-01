@@ -10,7 +10,7 @@ DEFAULT_DATE = 'fs'
 # Blog settings
 AUTHOR = u'Pig Monkey'
 SITENAME = u'pig-monkey.com'
-THEME = 'themes/vellum'
+THEME = 'themes/terminal'
 DEFAULT_LANG = u'en'
 MENUITEMS = [('Blog', '/')]
 DEFAULT_CATEGORY = 'general'
@@ -52,7 +52,7 @@ PATH = 'content'
 CSS_FILE = 'style.css'
 USE_FOLDER_AS_CATEGORY = False
 DIRECT_TEMPLATES = ('index', 'search')
-STATIC_PATHS = ['media', '.htaccess', 'robots.txt', 'key.asc', 'id.txt']
+STATIC_PATHS = ['media', '.htaccess', 'robots.txt', 'key.asc', 'id.txt', 'android-chrome-192x192.png', 'android-chrome-512x512.png', 'apple-touch-icon.png', 'favicon-16x16.png', 'favicon-32x32.png', 'favicon.ico', 'site.webmanifest']
 SLUGIFY_SOURCE = 'basename'
 MARKDOWN = {
     'extension_configs': {
