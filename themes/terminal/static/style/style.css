@@ -238,6 +238,7 @@ code {
     padding: 0px 4px;
     border: 1px solid var(--accent);
     color: var(--fgalt);
+    white-space: nowrap;
 }
 pre {
     padding: 10px;
