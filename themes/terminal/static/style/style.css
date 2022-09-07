@@ -65,7 +65,7 @@ blockquote {
 /** Blog **/
 article {
     display: grid;
-    grid-template-columns: 150px 1fr;
+    grid-template-columns: 150px minmax(0, 1fr);
     grid-gap: var(--gap);
 }
 .entry-content {
