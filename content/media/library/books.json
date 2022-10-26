@@ -6640,6 +6640,16 @@
         "uuid": "acbea68e-3189-4d0f-b57a-d37d4fa2687a"
     },
     {
+        "id": 850.0,
+        "author_sort": "Friedland, Roger & Zellman, Harold",
+        "title": "The Fellowship: The Untold Story of Frank Lloyd Wright and the Taliesin Fellowship",
+        "isbn": 9780060988661.0,
+        "identifiers": "isbn:9780060988661,amazon:0060988665,google:SDcfvaYA_OwC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "89791ed7-6888-47ba-9e91-5311a44b5bde"
+    },
+    {
         "id": 851.0,
         "author_sort": "Winters, Ben H.",
         "title": "The Last Policeman",
@@ -6868,5 +6878,45 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "51b8ec3f-4e5d-488b-8e66-fe979525a8bd"
+    },
+    {
+        "id": 906.0,
+        "author_sort": "Murakami, Haruki",
+        "title": "Norwegian Wood",
+        "isbn": 9789722621755.0,
+        "identifiers": "amazon:0307744663,isbn:9789722621755,google:2b16SQAACAAJ,barnesnoble:w/norwegian-wood-haruki-murakami/1100167577",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bd61293f-23cf-4496-90ce-f86b3abd55c2"
+    },
+    {
+        "id": 911.0,
+        "author_sort": "Burdett, John",
+        "title": "Bangkok 8",
+        "isbn": 9781400032907.0,
+        "identifiers": "amazon:1400032903,barnesnoble:w/bangkok-8-john-burdett/1100320339,isbn:9781400032907,goodreads:706011",
+        "series": "Sonchai Jitpleecheep",
+        "series_index": 1.0,
+        "uuid": "b81b1886-26d3-4b23-b9df-c91d95514139"
+    },
+    {
+        "id": 913.0,
+        "author_sort": "Marx, W. David",
+        "title": "Status and Culture: How Our Desire for Social Rank Creates Taste, Identity, Art, Fashion, and Constant Change",
+        "isbn": 9780593296714.0,
+        "identifiers": "google:uyxJEAAAQBAJ,goodreads:62122504,amazon:0593296702,barnesnoble:w/status-and-culture-w-david-marx/1141305020,isbn:9780593296714",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "858dad42-ba31-476b-9290-ffa31ed5407c"
+    },
+    {
+        "id": 914.0,
+        "author_sort": "Mann, Michael & Gardiner, Meg",
+        "title": "Heat 2",
+        "isbn": 9780062653314.0,
+        "identifiers": "goodreads:60162230,barnesnoble:w/heat-2-michael-mann/1140894960,isbn:9780062653314",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3a8cb302-f106-4cb2-be60-4769dcb2341d"
     }
 ]
