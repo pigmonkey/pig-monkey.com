@@ -1,0 +1,25 @@
+Title: Gevenalle CX Shifters
+Date: 2022-10-26
+Tags: review, gear, bicycle
+
+[Gevenalle CX Shifters](https://www.gevenalle.com/product/cx2/) are the best change I've ever made to my bike. I don't understand how STI brifters have any market share in the world where Gevenalle exist.
+
+<a href="https://www.flickr.com/photos/pigmonkey/52457014666/in/dateposted/" title="When all is ready, I throw this switch"><img src="https://live.staticflickr.com/65535/52457014666_a0b51c3879_c.jpg" width="800" height="600" alt="When all is ready, I throw this switch"></a>
+
+The left Gevenalle shifter is friction only. Shifting the front chain ring with friction is objectively superior to indexed. It allows me to make minute trim adjustments based on where I am in the rear cassette. This is especially useful with a triple crank (which I still run, because why wouldn't I want more gears). With indexed shifting on a triple, you often end up with some gear combinations that cause rubbing front or rear if your cable tension is not perfectly dialed. Not so with friction. Just give it a slight nudge.
+
+The right Gevenalle shifter can switch between indexed and friction shifting. I started out using it in indexed mode. After a few weeks of that I decided to give friction mode a whirl. I had never used friction shifting before. 9 months later, I'm still in friction mode. I do still think there is a place for indexed shifting in the rear, but I enjoy friction and have no current desire to switch back. (I haven't even thought about cable tension all year!) I do, however, value the ability to switch between the two.
+
+The real magic of the Gevenalle system is being able to jump the cassette between multiple gears with a single movement. An STI shifter may allow you to jump between 3 or 4 gears at once. With Gevenalle, you can dump the entire cassette in one smooth movement. That's not something I do often, but I absolutely do dump or load about half the cassette at once. They market this as a feature for cyclocross racers, but it applies just as much to anyone who rides with other traffic.
+
+[This video is what helped sell me on the shifters when I was considering the purchase](https://www.youtube.com/watch?v=9d5oI6DoEPU). It demonstrates the big cassette movements possible, as well as the ergonomics of using the system. Whether I push or pull the shift levers depends on where they are in relation to the brake lever. It takes a few minutes to get used to, but quickly becomes intuitive. As someone who spends most of the time on the hoods, I found that I didn't need to change my hand position to actuate the shifters. Shifting from down in the drops is difficult or impossible, but if I'm down there it's usually because I'm cruising down hill, already at mach 3, and not intending to shift anytime soon.
+
+The Gevenalle shifters can be praised for their functionality. They are lightweight, simple, durable, and rebuildable. They don't care if they're caked in mud or bathed in the blood of your enemies or whatever. But they're also just really fun. I shift a lot more frequently with these than I ever did with STI. They inspire a closer connection to the vehicle, perhaps similar to manually shifting an automobile. Having both visual and haptic feedback on where you are in your gears and how much move movement you have in either direction is fantastic. I refer to the front shifter as my hyperdrive switch. Anytime the rear shifter is moved all the way outboard and I flick the front all the way to the right I know [shit is about to get real](https://www.youtube.com/watch?v=uvqJ1mTkEuY).
+
+Many of the strengths of the Gevenalle shifters could also be claimed by bar-end or downtube setups, but Gevenalle allows you to keep all your in-flight controls in one place. I value being able to shift, brake, and [flick my ding-ding](/2022/02/ding-ding/) all without moving my hands. I think this is especially important for city riding, when everything else on the road is actively trying to kill you. (And I still like using my bar-ends for [mirrors](/2019/07/drop-bar-mirrors/), too.)
+
+With Gevenalle, the brake cables run under the tape. Shift cables shoot out the side, like STI shifters of yore. When I installed them I made sure to cut my cables and housing long enough so that I had enough space to move the cables aside and shove my [rando bag](https://carradice.co.uk/shop/handlebar-bags/super-c-handlebar-bag/) or bikepacking harness between them. It hasn't been an issue. Back when STI shifters had this kind of cable routing, I [used v-brake noodles to open up space for a bag](https://thecrazyrandonneur.wordpress.com/2012/05/08/how-to-have-a-large-handlebar-bag-with-sti-shifters/). I haven't found that necessary with Gevenalle shifters.
+
+<a href="https://www.flickr.com/photos/pigmonkey/52457544743/in/dateposted/" title="Rando Ready"><img src="https://live.staticflickr.com/65535/52457544743_4968be1c6c_c.jpg" width="800" height="600" alt="Rando Ready"></a>
+
+I'm not sure that I'd ever want to use a non-Gevenalle shift setup on a drop bar bike again.
