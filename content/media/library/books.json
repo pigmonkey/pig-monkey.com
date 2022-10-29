@@ -6918,5 +6918,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "3a8cb302-f106-4cb2-be60-4769dcb2341d"
+    },
+    {
+        "id": 915.0,
+        "author_sort": "Nayler, Ray",
+        "title": "The Mountain in the Sea",
+        "isbn": 9780374605957.0,
+        "identifiers": "amazon:B09SHGK6LG,isbn:9780374605957,barnesnoble:w/the-mountain-in-the-sea-ray-nayler/1140777785,goodreads:59808603",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "97fcde44-aa9f-48c0-88bc-3a854fc6414b"
     }
 ]
