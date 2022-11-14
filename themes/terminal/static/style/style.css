@@ -238,11 +238,20 @@ code {
     padding: 0px 4px;
     border: 1px solid var(--accent);
     color: var(--fgalt);
-    white-space: nowrap;
 }
 pre {
     padding: 10px;
     overflow: auto;
+    margin: 0;
+}
+pre code {
+    background-color: unset;
+    padding: unset;
+    border: unset;
+    color: unset;
+}
+.highlight {
+    overflow: scroll;
 }
 .highlighttable .linenodiv {
     background-color: var(--bgalt);
@@ -250,6 +259,7 @@ pre {
 .highlighttable td,
 .highlighttable th {
     padding: 0;
+    border: none;
 }
 
 /** Tomorrow Night Eighties https://github.com/jamiebuilds/tomorrow-pygments-sass **/
