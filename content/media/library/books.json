@@ -6890,6 +6890,16 @@
         "uuid": "bd61293f-23cf-4496-90ce-f86b3abd55c2"
     },
     {
+        "id": 907.0,
+        "author_sort": "Odell, Jenny",
+        "title": "How to Do Nothing: Resisting the Attention Economy",
+        "isbn": 9781612197494.0,
+        "identifiers": "barnesnoble:w/how-to-do-nothing-jenny-odell/1129200848,google:bxYMEAAAQBAJ,isbn:9781612197494,goodreads:42771901,amazon:1612197493",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e9e793ab-bf0b-4f70-aa46-5056d9241c0d"
+    },
+    {
         "id": 911.0,
         "author_sort": "Burdett, John",
         "title": "Bangkok 8",
@@ -6928,5 +6938,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "97fcde44-aa9f-48c0-88bc-3a854fc6414b"
+    },
+    {
+        "id": 918.0,
+        "author_sort": "Grelet, Gilles",
+        "title": "Theory of the Solitary Sailor",
+        "isbn": 9781913029968.0,
+        "identifiers": "amazon:B08VS8PY25,google:uiMZEAAAQBAJ,goodreads:59709552,barnesnoble:w/theory-of-the-solitary-sailor-gilles-grelet/1138741641,isbn:9781913029968",
+        "series": "Urbanomic / Mono",
+        "series_index": 1.0,
+        "uuid": "4a22d03e-61d2-495b-ac88-1ca855ecc719"
     }
 ]
