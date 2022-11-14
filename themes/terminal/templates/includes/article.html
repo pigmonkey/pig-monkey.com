@@ -11,7 +11,7 @@
         </header>
         <div class="entry-body" itemprop="articleBody">
             {{ article.content }}
-            {% if article.modified %}<div class="modified"><time itemprop="dateModified" datetime="{{ article.modified.isoformat() }}">This article was modified {{ article.modified.date() }}.</time></div>{% endif %}
+            {% if article.modified and article.modified.date() != article.date.date() %}<div class="modified"><time itemprop="dateModified" datetime="{{ article.modified.isoformat() }}">This article was modified {{ article.modified.date() }}.</time></div>{% endif %}
         </div>
     </div>
 </article>
