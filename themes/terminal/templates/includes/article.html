@@ -1,7 +1,7 @@
 <article class="entry{% for tag in article.tags %} tag-{{ tag.slug }}{% endfor %} category-{{ article.category.slug }}" itemscope itemType="http://schema.org/BlogPosting">
     <div class="meta">
         <div class="publication"><time itemprop="datePublished" datetime="{{ article.date.isoformat() }}" title="Published {{ article.locale_date }}">{{ article.locale_date }}</time></div>
-        {% if article.tags %}<div class="tags">{% for tag in article.tags %}<a href="{{ SITEURLL }}/{{ tag.url }}" title="View all posts tagged with {{ tag|escape }}">{{ tag|escape }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</div>{% endif %}
+        {% if article.tags %}<div class="tags">{% for tag in article.tags %}<a href="{{ SITEURL }}/{{ tag.url }}" title="View all posts tagged with {{ tag|escape }}">{{ tag|escape }}</a>{% if not loop.last %}, {% endif %}{% endfor %}</div>{% endif %}
     </div>
     <div class="entry-content">
         <header>
