@@ -251,7 +251,7 @@ pre code {
     color: unset;
 }
 .highlight {
-    overflow: scroll;
+    overflow: auto;
 }
 .highlighttable .linenodiv {
     background-color: var(--bgalt);
