@@ -55,7 +55,6 @@ CSS_FILE = "style.css"
 USE_FOLDER_AS_CATEGORY = False
 DIRECT_TEMPLATES = ("index", "search")
 STATIC_PATHS = [
-    ".htaccess",
     "android-chrome-192x192.png",
     "android-chrome-512x512.png",
     "apple-touch-icon.png",
