@@ -1,6 +1,6 @@
 Title: A Better Phone Mount
 Date: 2022-02-21
-Tags: review, gear, bicycle
+Tags: review, gear, bicycle, telephone
 
 When I purchased my first smart phone in 2013, I was motivated primarily by the promise of using Open Street Map for bicycle navigation. This does not require, but is greatly assisted by, a mounting system of some sort. I've tried a few over the years. Since 2015 I've used the [Aduro U-Grip Plus Universal Bike Mount](https://www.aduroproducts.com/products/u-grip-plus-bike-mount), which I think is an excellent design. It uses a ball and socket to provide complete adjustability. It secures the phone with a spring-loaded cradle and silicon band. Between the two, there's no way the phone is falling out, unless the mount breaks. Unfortunately the whole thing is cheaply made of plastic. Earlier this month, mine finally broke.
 
