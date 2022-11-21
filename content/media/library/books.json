@@ -6948,5 +6948,15 @@
         "series": "Urbanomic / Mono",
         "series_index": 1.0,
         "uuid": "4a22d03e-61d2-495b-ac88-1ca855ecc719"
+    },
+    {
+        "id": 919.0,
+        "author_sort": "Fleming, Peter",
+        "title": "The Worst Is Yet to Come: A Post-Capitalist Survival Guide",
+        "isbn": 9781912248339.0,
+        "identifiers": "goodreads:43063723,amazon:1912248328,isbn:9781912248339,google:CkpcDwAAQBAJ,barnesnoble:w/the-worst-is-yet-to-come-peter-fleming/1129564657",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dc0feb84-973a-4db9-b0d8-96ba49cd3e61"
     }
 ]
