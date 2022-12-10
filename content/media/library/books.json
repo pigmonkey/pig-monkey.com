@@ -6790,6 +6790,16 @@
         "uuid": "4d4175dd-a192-4d4d-a8c2-7831e68265cf"
     },
     {
+        "id": 878.0,
+        "author_sort": "Kazantzakis, Nikos",
+        "title": "The Last Temptation of Christ",
+        "isbn": 9781439144589.0,
+        "identifiers": "goodreads:13546478,isbn:9781439144589,google:5EOpdqt5SRcC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0cb0988a-e114-411c-b8e7-ca4cc1bf10be"
+    },
+    {
         "id": 879.0,
         "author_sort": "Wolfe, Tom",
         "title": "From Bauhaus to Our House",
@@ -6868,6 +6878,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "8c5400a8-7164-434c-a464-85480adc7a20"
+    },
+    {
+        "id": 899.0,
+        "author_sort": "Hesse, Hermann",
+        "title": "The Glass Bead Game: (Magister Ludi) a Novel",
+        "isbn": 9781466835023.0,
+        "identifiers": "google:irhWGkTuQrEC,isbn:9781466835023",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c1dc1d21-53ec-42f7-9e02-dbfdb91b7f91"
     },
     {
         "id": 900.0,
