@@ -6978,5 +6978,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "dc0feb84-973a-4db9-b0d8-96ba49cd3e61"
+    },
+    {
+        "id": 922.0,
+        "author_sort": "Shakespeare, William",
+        "title": "The Winter's Tale",
+        "isbn": 9780521293730.0,
+        "identifiers": "google:JoI6wGaVslUC,barnesnoble:w/the-winters-tale-william-shakespeare/1116670516,goodreads:51925316,isbn:9780521293730",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "70601a59-39d2-4bbc-824c-26cf90c5235d"
     }
 ]
