@@ -6920,6 +6920,16 @@
         "uuid": "e9e793ab-bf0b-4f70-aa46-5056d9241c0d"
     },
     {
+        "id": 908.0,
+        "author_sort": "Lewis, Norman",
+        "title": "Naples '44: A World War II Diary of Occupied Italy",
+        "isbn": 9780786714384.0,
+        "identifiers": "amazon:0786714387,isbn:9780786714384,goodreads:18188851,google:7akAAAAAQBAJ,barnesnoble:w/naples-44-a-world-war-ii-diary-of-occupied-italy-norman-lewis/1105618175",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "449533ef-e62d-4154-b8dd-c9841df80db0"
+    },
+    {
         "id": 911.0,
         "author_sort": "Burdett, John",
         "title": "Bangkok 8",
@@ -6988,5 +6998,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "70601a59-39d2-4bbc-824c-26cf90c5235d"
+    },
+    {
+        "id": 923.0,
+        "author_sort": "Miller, Henry",
+        "title": "Tropic of Cancer",
+        "isbn": 9781555846985.0,
+        "identifiers": "isbn:9781555846985,goodreads:8071979,google:D9j8Ix_wnIQC,barnesnoble:w/tropic-of-cancer-henry-miller/1100555852",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d598b451-5c19-48c0-8696-06b8b0666481"
+    },
+    {
+        "id": 924.0,
+        "author_sort": "Labatut, Benjamin",
+        "title": "When We Cease to Understand the World",
+        "isbn": 9781681375663.0,
+        "identifiers": "isbn:9781681375663,barnesnoble:w/when-we-cease-to-understand-the-world-benjamin-labatut/1138469480,google:TAlAEAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a06a6d6a-09e5-41fd-aed9-b59fcf1ad9bf"
     }
 ]
