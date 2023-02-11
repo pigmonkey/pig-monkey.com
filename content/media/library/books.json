@@ -5420,6 +5420,16 @@
         "uuid": "cf293124-0c0b-4990-8226-9297abc0405f"
     },
     {
+        "id": 676.0,
+        "author_sort": "Thorness, Bill",
+        "title": "Cycling the Pacific Coast: The Complete Guide From Canada to Mexico",
+        "isbn": 9781594859878.0,
+        "identifiers": "google:M4U6DwAAQBAJ,amazon:B076JMFHJ2,isbn:9781594859878",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "704bf875-a5cf-4def-882f-ddd34e9f8c57"
+    },
+    {
         "id": 677.0,
         "author_sort": "Lorain, Douglas",
         "title": "Backpacking Washington: From Volcanic Peaks to Rainforest Valleys",
@@ -6900,6 +6910,16 @@
         "uuid": "51b8ec3f-4e5d-488b-8e66-fe979525a8bd"
     },
     {
+        "id": 902.0,
+        "author_sort": "Pushkin, Alexander & Chandler, Robert",
+        "title": "Peter the Great's African: Experiments in Prose",
+        "isbn": 9781681375991.0,
+        "identifiers": "goodreads:60666170,amazon:1681375990,isbn:9781681375991,google:YBpOEAAAQBAJ,barnesnoble:w/peter-the-greats-african-alexander-pushkin/1139213816",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "12d07785-066c-412e-9702-a76426f4ab12"
+    },
+    {
         "id": 906.0,
         "author_sort": "Murakami, Haruki",
         "title": "Norwegian Wood",
@@ -6990,6 +7010,16 @@
         "uuid": "dc0feb84-973a-4db9-b0d8-96ba49cd3e61"
     },
     {
+        "id": 920.0,
+        "author_sort": "Merton, Thomas",
+        "title": "The Seven Storey Mountain",
+        "isbn": 9780156806794.0,
+        "identifiers": "barnesnoble:w/seven-storey-mountain-thomas-merton/1100820303,google:D0_7s9qji3UC,amazon:B0085TK8MS,isbn:9780156806794,goodreads:175078",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7a972a78-203b-4ed4-8f4b-bea6a537ac05"
+    },
+    {
         "id": 922.0,
         "author_sort": "Shakespeare, William",
         "title": "The Winter's Tale",
@@ -7018,5 +7048,45 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "a06a6d6a-09e5-41fd-aed9-b59fcf1ad9bf"
+    },
+    {
+        "id": 925.0,
+        "author_sort": "Dumas, Alexandre",
+        "title": "The Count of Monte Cristo",
+        "isbn": 9781420951400.0,
+        "identifiers": "isbn:9781420951400,goodreads:17230514,barnesnoble:w/count-of-monte-cristo-alexandre-dumas/1100068698,amazon:1420951408,google:_utTrsqoz64C",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ebb455d0-e615-48af-b20c-47156df10037"
+    },
+    {
+        "id": 927.0,
+        "author_sort": "Ninjalicious, Ninjalicious",
+        "title": "Access All Areas: A User's Guide to the Art of Urban Exploration",
+        "isbn": 9780973778700.0,
+        "identifiers": "amazon:0973778709,google:JhJjAAAAMAAJ,isbn:9780973778700,goodreads:310683,barnesnoble:w/access-all-areas-ninjalicious/1110871747",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0cc1a9a6-b9f4-4816-b0c1-bee4c95f8f3a"
+    },
+    {
+        "id": 932.0,
+        "author_sort": "Weir, Willie",
+        "title": "Travels With Willie: Adventure Cyclist",
+        "isbn": 9780965679282.0,
+        "identifiers": "google:A3F2PgAACAAJ,mobi-asin:B004R9QSVA,amazon:0965679284,isbn:9780965679282,goodreads:6598650",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5b7e9b85-9e5d-4d36-a3d8-a5a0a32c9464"
+    },
+    {
+        "id": 935.0,
+        "author_sort": "Zink, Nelson",
+        "title": "The Structure of Delight",
+        "isbn": 9780966532500.0,
+        "identifiers": "amazon:0966532503,google:GkjxAAAACAAJ,isbn:9780966532500,mobi-asin:B08FT1Q9SW,goodreads:55364109",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "892a77ad-8da4-43fa-997d-57c943358d4e"
     }
 ]
