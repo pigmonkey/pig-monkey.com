@@ -7090,6 +7090,16 @@
         "uuid": "5b7e9b85-9e5d-4d36-a3d8-a5a0a32c9464"
     },
     {
+        "id": 933.0,
+        "author_sort": "Dostoevsky, Fyodor",
+        "title": "Crime and Punishment",
+        "isbn": 9780679420293.0,
+        "identifiers": "google:hG5P6jrzJLAC,barnesnoble:w/crime-and-punishment-fyodor-dostoevsky/1141108955,goodreads:17879,isbn:9780679420293",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "da7a17d8-6cf4-4a12-b511-d7f9b75c491c"
+    },
+    {
         "id": 935.0,
         "author_sort": "Zink, Nelson",
         "title": "The Structure of Delight",
@@ -7098,5 +7108,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "892a77ad-8da4-43fa-997d-57c943358d4e"
+    },
+    {
+        "id": 936.0,
+        "author_sort": "Hovannisian, Garin K.",
+        "title": "Family of Shadows: A Century of Murder, Memory, and the Armenian American Dream",
+        "isbn": 9780062011602.0,
+        "identifiers": "barnesnoble:w/family-of-shadows-garin-k-hovannisian/1102622140,goodreads:9436332,google:hR1beTwTgM8C,isbn:9780062011602,amazon:B003V1WWB0",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "afb32cc6-0724-4a44-bed6-ba319db2b7cf"
+    },
+    {
+        "id": 937.0,
+        "author_sort": "Morrison, Toni",
+        "title": "The Bluest Eye",
+        "isbn": 9780307386588.0,
+        "identifiers": "isbn:9780307386588,google:12_KUGLXigMC,goodreads:11337,amazon:0307278441,barnesnoble:w/bluest-eye-toni-morrison/1100608830",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a7c8bda6-396d-4c1c-ac4c-4e5bf8769095"
+    },
+    {
+        "id": 939.0,
+        "author_sort": "Pynchon, Thomas",
+        "title": "The Crying of Lot 49",
+        "isbn": 9781101594605.0,
+        "identifiers": "barnesnoble:w/crying-of-lot-49-thomas-pynchon/1100228684,amazon:B005CRQ2Y4,goodreads:2794,google:IVDEZ4v6eG0C,isbn:9781101594605",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "553b3420-306d-459d-833c-e98e06e02bad"
     }
 ]
