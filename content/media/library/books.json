@@ -7138,5 +7138,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "553b3420-306d-459d-833c-e98e06e02bad"
+    },
+    {
+        "id": 941.0,
+        "author_sort": "Willis, Connie",
+        "title": "Bellwether: A Novel",
+        "isbn": 9780307571946.0,
+        "identifiers": "google:kIxlch01_fsC,amazon:B0036S4AI6,isbn:9780307571946,barnesnoble:w/bellwether-connie-willis/1100620028",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "edff57d9-86bf-416f-821c-862b155c2768"
+    },
+    {
+        "id": 942.0,
+        "author_sort": "Miller, Gerald Alva Jr.",
+        "title": "Understanding William Gibson",
+        "isbn": 9781611176346.0,
+        "identifiers": "barnesnoble:w/understanding-william-gibson-gerald-alva-miller-jr/1122866749,google:T9hUCwAAQBAJ,isbn:9781611176346,goodreads:28649036",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7475be10-130e-4cc4-8664-efa3734871be"
     }
 ]
