@@ -3783,9 +3783,9 @@
         "id": 465.0,
         "author_sort": "Naam, Ramez",
         "title": "Apex",
-        "isbn": 9780857664013.0,
-        "identifiers": "goodreads:22926906,isbn:9780857664013,barnesnoble:w/apex-ramez-naam/1118476943",
-        "series": "Nexus",
+        "isbn": 9780857664020.0,
+        "identifiers": "barnesnoble:w/apex-ramez-naam/1118476943,goodreads:22926906,isbn:9780857664020",
+        "series": "Nexus Trilogy",
         "series_index": 3.0,
         "uuid": "53d0ea8c-6bd9-4a6f-b2bf-2800477e082c"
     },
@@ -3795,7 +3795,7 @@
         "title": "Crux",
         "isbn": 9781942948018.0,
         "identifiers": "barnesnoble:w/crux-ramez-naam/1113937931,amazon:B00TOZI7J8,goodreads:15997527,google:vZDDCAAAQBAJ,mobi-asin:53c0bd8e-5ff9-466d-9fad-87de84b6fdf9,isbn:9781942948018",
-        "series": "The Nexus Trilogy",
+        "series": "Nexus Trilogy",
         "series_index": 2.0,
         "uuid": "6849e21a-add0-439b-bd56-f8be588b1e1c"
     },
@@ -3803,9 +3803,9 @@
         "id": 467.0,
         "author_sort": "Naam, Ramez",
         "title": "Nexus",
-        "isbn": 9780857662934.0,
-        "identifiers": "goodreads:13642710,isbn:9780857662934",
-        "series": "Nexus",
+        "isbn": 9780857665508.0,
+        "identifiers": "barnesnoble:w/nexus-ramez-naam/1110503708,goodreads:13642710,isbn:9780857665508",
+        "series": "Nexus Trilogy",
         "series_index": 1.0,
         "uuid": "2f5ffd99-0358-47d0-9e18-4ede916ca001"
     },
@@ -6870,6 +6870,16 @@
         "uuid": "22b58998-fbbb-4952-8959-3a679b622288"
     },
     {
+        "id": 890.0,
+        "author_sort": "Madden, Thomas F.",
+        "title": "Venice: A New History",
+        "isbn": 9780670025428.0,
+        "identifiers": "barnesnoble:w/venice-thomas-f-madden/1111395741,google:2JhPEAAAQBAJ,goodreads:13588369,isbn:9780670025428,amazon:B007V65SLC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "46e3ab3f-b772-4063-ace8-c9bfdb269b56"
+    },
+    {
         "id": 891.0,
         "author_sort": "Halberstam, David",
         "title": "The Best and the Brightest",
@@ -7158,5 +7168,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "7475be10-130e-4cc4-8664-efa3734871be"
+    },
+    {
+        "id": 944.0,
+        "author_sort": "Tolstoy, Leo",
+        "title": "Anna Karenina",
+        "isbn": 9780143035008.0,
+        "identifiers": "isbn:9780143035008,barnesnoble:w/anna-karenina-pevear-volokhonsky-translation-leo-tolstoy/1105958285",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ba730989-0749-47f6-8828-1e40aaa64147"
+    },
+    {
+        "id": 947.0,
+        "author_sort": "Guin, Ursula K. Le",
+        "title": "A Wizard of Earthsea",
+        "isbn": 9780544084377.0,
+        "identifiers": "goodreads:16467514,barnesnoble:w/wizard-of-earthsea-ursula-k-le-guin/1100818986,amazon:B008T9L6AM,google:hDtjOj5FL8MC,isbn:9780544084377",
+        "series": "Earthsea Cycle",
+        "series_index": 1.0,
+        "uuid": "6f08a6f6-18d5-47b3-8a83-5e9b15dde5c7"
+    },
+    {
+        "id": 950.0,
+        "author_sort": "McDougall, Christopher & Orton, Eric",
+        "title": "Born to Run 2: The Ultimate Training Guide",
+        "isbn": 9780593536056.0,
+        "identifiers": "google:4t9iEAAAQBAJ,barnesnoble:1141116061,goodreads:60753061,isbn:9780593536056",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "31b25fd7-e672-4d9e-9530-f3f15419ef4d"
     }
 ]
