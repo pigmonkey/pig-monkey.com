@@ -7190,6 +7190,16 @@
         "uuid": "6f08a6f6-18d5-47b3-8a83-5e9b15dde5c7"
     },
     {
+        "id": 948.0,
+        "author_sort": "Guin, Ursula K. Le",
+        "title": "The Tombs of Atuan",
+        "isbn": 9780689845369.0,
+        "identifiers": "goodreads:15802294,isbn:9780689845369,barnesnoble:w/tombs-of-atuan-ursula-k-le-guin/1101914665,google:Jpc6foUXisMC,amazon:0689845367",
+        "series": "The Earthsea Cycle",
+        "series_index": 2.0,
+        "uuid": "f9eaf1c0-4d27-4fec-9bcf-d5d75a0f9067"
+    },
+    {
         "id": 950.0,
         "author_sort": "McDougall, Christopher & Orton, Eric",
         "title": "Born to Run 2: The Ultimate Training Guide",
@@ -7198,5 +7208,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "31b25fd7-e672-4d9e-9530-f3f15419ef4d"
+    },
+    {
+        "id": 952.0,
+        "author_sort": "Steinbeck, John",
+        "title": "Of Mice and Men",
+        "isbn": 9780140186420.0,
+        "identifiers": "google:nE_Si_bv-W4C,amazon:0140177396,goodreads:890,barnesnoble:1100154558,isbn:9780140186420",
+        "series": null,
+        "series_index": 2.0,
+        "uuid": "43228985-ccde-4ebf-99be-a940736f8da0"
+    },
+    {
+        "id": 953.0,
+        "author_sort": "Salinger, J. D.",
+        "title": "The Catcher in the Rye",
+        "isbn": 9780316769174.0,
+        "identifiers": "barnesnoble:1100192775,amazon:B07V8HFMTR,isbn:9780316769174",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "27ad866e-a416-4cbf-9815-46ed8a68ab4a"
+    },
+    {
+        "id": 954.0,
+        "author_sort": "Spring, Vicky & Kirkendall, Tom",
+        "title": "Bicycling the Pacific Coast: A Complete Route Guide, Canada to Mexico, 4th Edition",
+        "isbn": 9781594852077.0,
+        "identifiers": "isbn:9781594852077,barnesnoble:1124716634,google:c9jk69QZqSIC,mobi-asin:B00D3OC8WI",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "73e4b18e-e0e7-49c5-8f22-f08147721eb7"
     }
 ]
