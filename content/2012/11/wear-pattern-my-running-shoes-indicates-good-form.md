@@ -1,7 +1,7 @@
 Title: The wear pattern on my running shoes indicates good form.
 Date: 2012-11-22
 Modified: 2012-11-22
-Tags: micro, run
+Tags: micro, run, footwear
 Slug: wear-pattern-my-running-shoes-indicates-good-form
 
 The ball area is worn down to a far greater degree than the heel, which demonstrates that the shoes are not inhibiting my [natural form](http://barefootrunning.fas.harvard.edu/).
