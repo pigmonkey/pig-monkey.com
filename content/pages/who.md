@@ -21,8 +21,8 @@ Public Key
 Email
 :   peter@havenaut.net
 
-XMPP
-:   peter@havenaut.net
+Session
+:   059fa7134a8c8674d4c14311c5392f3343d401466284a844266737835e7771600c
 
 Skype
 :   pig_monkey
