@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2022-06-15
+Last Update: 2023-05-02
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -13,9 +13,9 @@ trusted communications through other channels.
 5249 2412 A119 0FC0 87EA 0F1D 70B2 20FF 8D2A CF29
 
 
-# OTR Fingerprints
+# Session ID
 
-xmpp:   peter@havenaut.net/nous  05D7ECB2 B4B4EB39 D0F13CD6 BBF391BF C9ADE759
+059fa7134a8c8674d4c14311c5392f3343d401466284a844266737835e7771600c
 
 
 # SSH Public Key
@@ -67,12 +67,12 @@ securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmKqr7IACgkQVOmYrGGL
-wTc9zwf7Be8f47u4fdKeS3+wYKRHMSeXGVNfb9DXd1BRIaI+N7HYYHp7QfDk5Jp9
-80l45YrKAxCEq+5FpoZ/ulOvMPm+sqRUeGHr33YQ0nNwpiWX2vBFg/aSqXn8GMmZ
-Uj9h+V8dzN/rrwGBJMmG41pJCZ4YTbFWfnldccrymNf/evIeh0kATH1GVCgQ8meX
-ha3feNTjrMEhRAOYTcmEBWNx1gJaN35LObFVQthdb6CbfE3kH9GLLpXddqY7UJdl
-ukxlnHdIdZgSHdm/70aJzRBnOF8zeH/oSN84lMiw3xQskpciYTkzM4xdTL+PbgSs
-C0tqshZ7DL3D1jSC0lsq/XxOr1pD8Q==
-=UPrk
+iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmRRebMACgkQVOmYrGGL
+wTfK9QgAvolPBfGnxD34FIyRfwrAGRo30n3bOC3PZOaLZPbOlsWZB/cPmJRXUZvN
+q92ICMdW741il/Pg/WrdmO+BO/eP9w6MBMGW31Wsm8alC/UvrWD+wtjj1qkqyWA5
+Zt5I6tnM9zDOGP+igJmO9zObWkKx1NMvVFyzjAoYNpwSAw+D5oopAvyJAIEJCuG6
+49XhNs3iCIf9jHG8HP6gt2wn6mj/1wIQZ7Q3mIp8GdfHwiN9K9H6a4ShAmqGi92S
+qo6mtPwux+YOcIf2ffi+K+xeU3YSKwSn2HDY/GJY+iC0vZd7oizpFyyz1vMoyYLv
+N1/0NgLjfKAQuup2f+/u4wTpixEUAw==
+=f+No
 -----END PGP SIGNATURE-----
