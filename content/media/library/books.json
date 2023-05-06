@@ -7238,5 +7238,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "73e4b18e-e0e7-49c5-8f22-f08147721eb7"
+    },
+    {
+        "id": 955.0,
+        "author_sort": "Heinlein, Robert A.",
+        "title": "Starship Troopers",
+        "isbn": 9780441014101.0,
+        "identifiers": "barnesnoble:1100171692,isbn:9780441014101,google:Qx1xDwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d960e275-439e-4bc7-b519-67f1671c28da"
     }
 ]
