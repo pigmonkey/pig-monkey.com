@@ -1160,6 +1160,16 @@
         "uuid": "91340319-399a-4bf7-a10c-86354f6c8d70"
     },
     {
+        "id": 149.0,
+        "author_sort": "O'Brian, Patrick",
+        "title": "The Ionian Mission",
+        "isbn": 9780393308211.0,
+        "identifiers": "barnesnoble:w/ionian-mission-patrick-obrian/1100871644,amazon:0393308219,goodreads:77429,isbn:9780393308211,google:_efJOVPXDmsC",
+        "series": "Aubrey & Maturin",
+        "series_index": 8.0,
+        "uuid": "97e71b3b-84c0-49f5-a451-0289c50f7697"
+    },
+    {
         "id": 153.0,
         "author_sort": "O'Brian, Patrick",
         "title": "The Surgeon's Mate",
@@ -6850,6 +6860,16 @@
         "uuid": "de4b8e3d-ec4d-438f-9bbf-94e6920850f4"
     },
     {
+        "id": 885.0,
+        "author_sort": "Shakespeare, William",
+        "title": "A Midsummer Night's Dream",
+        "isbn": 9780743477543.0,
+        "identifiers": "goodreads:31930548,amazon:1420926144,google:9SYknQAACAAJ,isbn:9780743477543",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f90b8d82-14e8-47ec-91b5-33a4cef852b0"
+    },
+    {
         "id": 886.0,
         "author_sort": "Seligman, Katherine",
         "title": "At the Edge of the Haight",
@@ -7170,6 +7190,16 @@
         "uuid": "7475be10-130e-4cc4-8664-efa3734871be"
     },
     {
+        "id": 943.0,
+        "author_sort": "Miller, Walter M. Jr.",
+        "title": "A Canticle for Leibowitz",
+        "isbn": 9781473211117.0,
+        "identifiers": "google:4RCkBQAAQBAJ,goodreads:42935403,isbn:9781473211117",
+        "series": "St. Leibowitz",
+        "series_index": 1.0,
+        "uuid": "574bd2ee-6973-42a1-96d7-3c8a9806d526"
+    },
+    {
         "id": 944.0,
         "author_sort": "Tolstoy, Leo",
         "title": "Anna Karenina",
@@ -7248,5 +7278,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "d960e275-439e-4bc7-b519-67f1671c28da"
+    },
+    {
+        "id": 959.0,
+        "author_sort": "Faulkner, William",
+        "title": "The Sound and the Fury",
+        "isbn": 9789390492749.0,
+        "identifiers": "goodreads:11218167,barnesnoble:1000337118,amazon:9390492742,google:m0RaQItCiCUC,isbn:9789390492749",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "47cff5fa-b864-47f3-b758-4cea66066d76"
+    },
+    {
+        "id": 962.0,
+        "author_sort": "Fitzgerald, F. Scott",
+        "title": "Tender Is the Night",
+        "isbn": 9780684830506.0,
+        "identifiers": "barnesnoble:1001813763,goodreads:7141726,amazon:0684830507,google:9c_z1VWvFLsC,isbn:9780684830506",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "44e22c63-4c2d-4e86-a7e0-7e2f438acc99"
+    },
+    {
+        "id": 965.0,
+        "author_sort": "Chambers, Becky",
+        "title": "A Psalm for the Wild-Built",
+        "isbn": 9781250236227.0,
+        "identifiers": "barnesnoble:1137525478,isbn:9781250236227,google:XgT6DwAAQBAJ,goodreads:40864002,amazon:1250236215",
+        "series": "Monk and Robot",
+        "series_index": 1.0,
+        "uuid": "934eec18-0d23-415d-b1d7-b55dfe964eef"
     }
 ]
