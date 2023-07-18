@@ -83,8 +83,8 @@
         "id": 10.0,
         "author_sort": "O'Brian, Patrick",
         "title": "The Mauritius Command",
-        "isbn": 9780006499183.0,
-        "identifiers": "amazon:039330762X,mobi-asin:9a874cd9-e6aa-4ddd-b5e0-3354144ad85a,barnesnoble:w/mauritius-command-patrick-obrian/1003872474,google:bJy__EE_D-YC,isbn:9780006499183,goodreads:325705",
+        "isbn": 9780393307627.0,
+        "identifiers": "mobi-asin:9a874cd9-e6aa-4ddd-b5e0-3354144ad85a,barnesnoble:w/mauritius-command-patrick-obrian/1003872474,amazon:039330762X,isbn:9780393307627,google:bJy__EE_D-YC,goodreads:325705",
         "series": "Aubrey & Maturin",
         "series_index": 4.0,
         "uuid": "1b9fbc4f-3219-4bb2-a000-c5dbc24a0f4b"
@@ -7280,6 +7280,16 @@
         "uuid": "d960e275-439e-4bc7-b519-67f1671c28da"
     },
     {
+        "id": 958.0,
+        "author_sort": "Lawrence, D. H.",
+        "title": "Sons and Lovers",
+        "isbn": 9781853260476.0,
+        "identifiers": "google:0g5WifzsIxUC,amazon:1853260479,barnesnoble:1100153244,goodreads:7804656,isbn:9781853260476",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "396631b6-dcd2-43c0-b042-e2cfc1e0e390"
+    },
+    {
         "id": 959.0,
         "author_sort": "Faulkner, William",
         "title": "The Sound and the Fury",
@@ -7288,6 +7298,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "47cff5fa-b864-47f3-b758-4cea66066d76"
+    },
+    {
+        "id": 960.0,
+        "author_sort": "Fitzgerald, F. Scott",
+        "title": "The Beautiful and Damned",
+        "isbn": 9781503295353.0,
+        "identifiers": "google:3FEQxNE_lUUC,barnesnoble:1100404210,amazon:1503295354,isbn:9781503295353",
+        "series": null,
+        "series_index": 2.0,
+        "uuid": "eea2ebac-28f3-4f03-86a0-9c52d0d5c6bd"
     },
     {
         "id": 962.0,
@@ -7308,5 +7328,35 @@
         "series": "Monk and Robot",
         "series_index": 1.0,
         "uuid": "934eec18-0d23-415d-b1d7-b55dfe964eef"
+    },
+    {
+        "id": 967.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Reap3r",
+        "isbn": 9781735016511.0,
+        "identifiers": "isbn:9781735016511,mobi-asin:B09PZNWKGQ,google:EeTczgEACAAJ,amazon:B09PZNWKGQ,barnesnoble:1140862417,goodreads:60554137",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4b01b14c-5a85-4f63-9876-87b443240b28"
+    },
+    {
+        "id": 968.0,
+        "author_sort": "Peper, Eliot",
+        "title": "Veil",
+        "isbn": 9781735016504.0,
+        "identifiers": "google:MKF8zQEACAAJ,barnesnoble:1136980876,amazon:B085PSTJNC,isbn:9781735016504,mobi-asin:B085PSTJNC,goodreads:52799027",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "64fa9c13-bf84-473d-9f55-7c494247fd9a"
+    },
+    {
+        "id": 969.0,
+        "author_sort": "Goldman, Peggy",
+        "title": "Washington Scrambles: Best Nontechnical Ascents",
+        "isbn": 9781594858406.0,
+        "identifiers": "amazon:1594858403,goodreads:23087797,barnesnoble:1116883414,google:L5sTCgAAQBAJ,isbn:9781594858406",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "cd290e6f-0970-4643-9bdd-01fa48d03fd5"
     }
 ]
