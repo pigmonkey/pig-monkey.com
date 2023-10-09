@@ -6100,6 +6100,16 @@
         "uuid": "65e4ad72-83dc-499b-926d-4c2fec0b464d"
     },
     {
+        "id": 767.0,
+        "author_sort": "Koeppel, Dan",
+        "title": "Banana: The Fate of the Fruit That Changed the World",
+        "isbn": 9780452290082.0,
+        "identifiers": "barnesnoble:w/banana-dan-koeppel/1100253574,isbn:9780452290082,amazon:B0010JWVIE,goodreads:1260005,google:cSoVd-o8PmoC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "70cd517e-629f-4c01-9c9c-7aee4028631a"
+    },
+    {
         "id": 768.0,
         "author_sort": "Vinge, Vernor",
         "title": "A Deepness in the Sky",
@@ -6730,6 +6740,16 @@
         "uuid": "2d3bd23a-d854-40b8-8974-62e0da5db7cd"
     },
     {
+        "id": 861.0,
+        "author_sort": "Wynne, Marcus",
+        "title": "Neural Based Training: Book One: Retrospectives",
+        "isbn": null,
+        "identifiers": "amazon:B08PCBCTFV,mobi-asin:B08PCBCTFV,goodreads:56135892",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bde5f1f9-cedb-4d6e-b2d2-a5f8b97f2784"
+    },
+    {
         "id": 862.0,
         "author_sort": "Kazantzakis, Nikos",
         "title": "Zorba the Greek",
@@ -6758,6 +6778,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "0301e83c-1fa4-437e-bdc1-6b62001ea15f"
+    },
+    {
+        "id": 868.0,
+        "author_sort": "Bacigalupi, Paolo & Buckell, Tobias S.",
+        "title": "The Tangled Lands",
+        "isbn": 9781481497312.0,
+        "identifiers": "isbn:9781481497312,google:5gwyDwAAQBAJ,goodreads:35416687",
+        "series": null,
+        "series_index": 4.0,
+        "uuid": "0572b43a-f023-4be6-9fd0-ced0098a1cab"
     },
     {
         "id": 869.0,
@@ -6978,6 +7008,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "449533ef-e62d-4154-b8dd-c9841df80db0"
+    },
+    {
+        "id": 910.0,
+        "author_sort": "Nevala-Lee, Alec",
+        "title": "Inventor of the Future: The Visionary Life of Buckminster Fuller",
+        "isbn": 9780062947246.0,
+        "identifiers": "barnesnoble:w/inventor-of-the-future-alec-nevala-lee/1140474401,isbn:9780062947246,goodreads:59571984,google:gZpLEAAAQBAJ,amazon:0062947222",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ec31dbc6-9c43-4260-bd84-f5055133699a"
     },
     {
         "id": 911.0,
@@ -7330,6 +7370,16 @@
         "uuid": "934eec18-0d23-415d-b1d7-b55dfe964eef"
     },
     {
+        "id": 966.0,
+        "author_sort": "Nestor, James",
+        "title": "Breath: The New Science of a Lost Art",
+        "isbn": 9781662196744.0,
+        "identifiers": "barnesnoble:1134986035,isbn:9781662196744,goodreads:48890486,google:1MutzgEACAAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5bd96ade-09d3-47b7-be8f-97c1bbabfe4e"
+    },
+    {
         "id": 967.0,
         "author_sort": "Peper, Eliot",
         "title": "Reap3r",
@@ -7358,5 +7408,55 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "cd290e6f-0970-4643-9bdd-01fa48d03fd5"
+    },
+    {
+        "id": 972.0,
+        "author_sort": "Mason, Zachary",
+        "title": "Metamorphica: Fiction",
+        "isbn": 9780374208646.0,
+        "identifiers": "amazon:0374208646,isbn:9780374208646",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "da0587c3-eb63-41dc-b03d-e17f5af237ef"
+    },
+    {
+        "id": 973.0,
+        "author_sort": "Robinson, Kim Stanley",
+        "title": "Red Mars",
+        "isbn": 9780553898279.0,
+        "identifiers": "goodreads:77507,isbn:9780553898279,barnesnoble:1100623050,google:R8OTfyIAmdEC,amazon:B000QCS914",
+        "series": "Mars Trilogy",
+        "series_index": 1.0,
+        "uuid": "6d387e8e-0859-42cf-8449-8f7443776cef"
+    },
+    {
+        "id": 974.0,
+        "author_sort": "VanderMeer, Jeff",
+        "title": "Annihilation",
+        "isbn": 9780374710774.0,
+        "identifiers": "google:qUo0AQAAQBAJ,isbn:9780374710774,barnesnoble:1115382464,goodreads:18338956",
+        "series": "Southern Reach Trilogy",
+        "series_index": 1.0,
+        "uuid": "44d7d040-ff00-43ce-8483-4a61bb88afe4"
+    },
+    {
+        "id": 975.0,
+        "author_sort": "Oakley, Ryan",
+        "title": "Technicolor Ultra Mall",
+        "isbn": 9781894817974.0,
+        "identifiers": "barnesnoble:1101970312,amazon:B005O54AD4,isbn:9781894817974,google:8fLrDwAAQBAJ,goodreads:10836231",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "952e19e7-67f9-4348-b47f-2ad403efaeb9"
+    },
+    {
+        "id": 978.0,
+        "author_sort": "Armstrong, Jon",
+        "title": "Yarn",
+        "isbn": 9781597802109.0,
+        "identifiers": "google:lHo3vgAACAAJ,amazon:1597802107,isbn:9781597802109,goodreads:8844696,barnesnoble:1100387966",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "91ea7be6-b484-4ebc-a697-2e9a0c3596e1"
     }
 ]
