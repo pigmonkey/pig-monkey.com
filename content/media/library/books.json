@@ -5980,6 +5980,16 @@
         "uuid": "342800c3-6238-4d9e-a6bb-ac550536cc0b"
     },
     {
+        "id": 750.0,
+        "author_sort": "Miller, Madeline",
+        "title": "Circe",
+        "isbn": 9780316556330.0,
+        "identifiers": "isbn:9780316556330,google:Vu8vDwAAQBAJ,amazon:0316556343",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c0ae2560-f0bd-4b67-89c8-9e4930c6653b"
+    },
+    {
         "id": 752.0,
         "author_sort": "Musson, Roger",
         "title": "Professional Guide to Wheel Building: A Complete Reference for Cyclists, 7th Edition",
