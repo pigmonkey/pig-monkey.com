@@ -7478,5 +7478,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "91ea7be6-b484-4ebc-a697-2e9a0c3596e1"
+    },
+    {
+        "id": 983.0,
+        "author_sort": "Clavell, James",
+        "title": "Shogun",
+        "isbn": 9780440178002.0,
+        "identifiers": "isbn:9780440178002,barnesnoble:1100618383,amazon:0440178002,google:cWAF8_uH1_sC,goodreads:6998526",
+        "series": "The Asian Saga",
+        "series_index": 1.0,
+        "uuid": "b006dae7-ef65-4dc1-bc8a-092898696545"
     }
 ]
