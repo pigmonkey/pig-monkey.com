@@ -1,0 +1,21 @@
+Title: FMP Load-Out
+Date: 2023-11-26
+Tags: gear, review, writing, edc
+
+My [Field Message Pad](/2012/11/field-message-pad/) is currently loaded with:
+
+* [Pilot Vanishing Point, Fine Nib](https://www.jetpens.com/Pilot-Vanishing-Point-Fountain-Pen-Black-Matte-18k-Fine-Nib/pd/7246) with a [Pilot CON-40](https://www.jetpens.com/Pilot-CON-40-Fountain-Pen-Converter/pd/16562) piston converter loaded with [Noodler's Blue-Black](https://noodlersink.com/product/19014-blue-black/). This is my new favorite human input device, but I got mine on eBay for a little less than half list price. I've been trying the blue-black ink for a few weeks now, but will probably go back to [Noodler's Black](https://noodlersink.com/product/19001-black/).
+* [rOtring 800](https://www.rotring.com/pens-pencils/pencils/rotring-800/SAP_1904447.html) loaded with [Pentel Ain Stein 0.5 mm HB lead](https://www.jetpens.com/Pentel-Ain-Stein-Lead-0.5-mm-HB/pd/5935). This is another thing I only own because I found one for less than half the list price. I carried a [rOtring 600](https://www.rotring.com/pens-pencils/pencils/rotring-600/SAP_2114264.html) in the FMP for years, but I always get stressed about the thin metal tip. The 800 could conceivably be temporarily moved to a pocket if the situation warrants, unlike the pokey 600. And the twist mechanism is fun to play with. Both rOtring pencils are pieces of industrial art, in the same category as [Curta calculators](https://en.wikipedia.org/wiki/Curta), but realistically they are no more functional than the much cheaper [Staedtler 925](https://www.staedtler.com/us/en/products/pencils-and-accessories/mechanical-pencils-and-lead-holders/mars-925-mechanical-pencil-925-05bk/). Quality lead made me reevaluate my previous dislike of mechanical pencils.
+* [Fisher Space Pen M4](https://www.spacepen.com/shop-space-pens/style/all-pens/m4b-matte-black-cap-o-matic-space-pen). Sometimes you need to write off-planet. In pen.
+* [Zebra Onamae Mackee](https://www.jetpens.com/Zebra-Onamae-Mackee-Double-Sided-Name-Marker-Fine-Extra-Fine-Twin-Tip-Black-Ink/pd/10841). I used to carry a Sharpie. Then I decided to check if the Japanese had invented a better Sharpie. It turns out the answer is yes, they have.
+* [CountyComm Titanium 15CM Ruler](https://countycomm.com/products/copy-of-original-titanium-precision-6-inch-15cm-ruler-with-decimal-chart). For many years I carried the [General Tools 300/1](https://generaltools.com/industrial-precision-6-in-flexible-steel-ruler), but mine became bowed. This is a titanium knock-off of the same. The matte finish makes it harder to read, but I use this more as a straight edge than a measuring device. The bowed-ness of the General Tools stainless version is annoying in that application. The titanium version has been in my kit for 3 years and so far it is still straight and flat.
+
+<a href="https://www.flickr.com/photos/pigmonkey/53358963349/in/dateposted/" title="FMP Human Input Devices"><img src="https://live.staticflickr.com/65535/53358963349_e891573b80_c.jpg" width="800" height="533" alt="FMP Human Input Devices"/></a>
+
+A [14mm binder clip](https://www.amazon.com/Officemate-Binder-Clips-Black-99010/dp/B009X9ZADQ) secures used pages, allowing the pad to quickly be flipped to a blank (or currently in progress) page.
+
+I still primarily use the [Rhodia A6](https://rhodiapads.com/collections_spiral_A6.php) pads. I install them backwards, so that the cardboard backing is on top. This provides a writing surface to more easily utilize the back of the pages. Otherwise I'm writing on top of the FMP's tool slots, which is annoying. (The thing the [Canadians got right](https://cpgear.com/collections/canadian-fmp-covers/products/canadian-field-message-book) is to put heavy cardboard on both sides.)
+
+When expecting inclement conditions, I drop the fountain pen and the Rhodia, and install a [Rite in the Rain *46](https://www.riteintherain.com/4x6-top-spiral-notebook). But given my druthers, it's all fountain pen all the time.
+
+<a href="https://www.flickr.com/photos/pigmonkey/53358629161/in/dateposted/" title="FMP Load-Out"><img src="https://live.staticflickr.com/65535/53358629161_c523d68dd6_c.jpg" width="800" height="533" alt="FMP Load-Out"/></a>
