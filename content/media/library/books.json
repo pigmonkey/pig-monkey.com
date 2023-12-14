@@ -7390,6 +7390,16 @@
         "uuid": "44e22c63-4c2d-4e86-a7e0-7e2f438acc99"
     },
     {
+        "id": 963.0,
+        "author_sort": "Joyce, James",
+        "title": "Ulysses",
+        "isbn": 9781513265193.0,
+        "identifiers": "isbn:9781513265193,google:7D_8DwAAQBAJ,amazon:0679722769,barnesnoble:1100390353",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1058dc8b-8d6f-4d5e-98ac-34f53fcc94a5"
+    },
+    {
         "id": 965.0,
         "author_sort": "Chambers, Becky",
         "title": "A Psalm for the Wild-Built",
@@ -7490,6 +7500,16 @@
         "uuid": "91ea7be6-b484-4ebc-a697-2e9a0c3596e1"
     },
     {
+        "id": 980.0,
+        "author_sort": "Chandler, Raymond",
+        "title": "The Long Goodbye",
+        "isbn": 9780394757681.0,
+        "identifiers": "isbn:9780394757681,barnesnoble:1100623428,goodreads:2054",
+        "series": "A Philip Marlowe Novel",
+        "series_index": 6.0,
+        "uuid": "5444d393-225f-4d66-9518-84146e59bcc8"
+    },
+    {
         "id": 981.0,
         "author_sort": "Lakshminarayan, Lavanya",
         "title": "The Ten Percent Thief",
@@ -7508,5 +7528,15 @@
         "series": "The Asian Saga",
         "series_index": 1.0,
         "uuid": "b006dae7-ef65-4dc1-bc8a-092898696545"
+    },
+    {
+        "id": 985.0,
+        "author_sort": "Carré, John le",
+        "title": "The Little Drummer Girl",
+        "isbn": 9780671042783.0,
+        "identifiers": "goodreads:19003,isbn:9780671042783,barnesnoble:1100258841",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "62ff73bf-3061-414a-a87c-5f42262713cd"
     }
 ]
