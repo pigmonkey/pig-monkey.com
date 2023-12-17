@@ -7530,6 +7530,16 @@
         "uuid": "b006dae7-ef65-4dc1-bc8a-092898696545"
     },
     {
+        "id": 984.0,
+        "author_sort": "Flaubert, Gustave & Davis, Lydia",
+        "title": "Madame Bovary",
+        "isbn": 9781101462430.0,
+        "identifiers": "goodreads:9435016,barnesnoble:1116706579,google:o2-OlMNH89EC,isbn:9781101462430",
+        "series": null,
+        "series_index": 2.0,
+        "uuid": "6b6c0007-5db0-4b9f-8e61-f7cfecf4c36b"
+    },
+    {
         "id": 985.0,
         "author_sort": "Carré, John le",
         "title": "The Little Drummer Girl",
