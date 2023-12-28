@@ -7548,5 +7548,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "62ff73bf-3061-414a-a87c-5f42262713cd"
+    },
+    {
+        "id": 989.0,
+        "author_sort": "Postrel, Virginia",
+        "title": "The Power of Glamour: Longing and the Art of Visual Persuasion",
+        "isbn": 9781476718873.0,
+        "identifiers": "amazon:1416561110,google:gHMoK1ZRm1QC,isbn:9781476718873,goodreads:16130362,barnesnoble:1114314551",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b01dbb2a-a4b3-476e-8da0-8d24eb89ec48"
+    },
+    {
+        "id": 991.0,
+        "author_sort": "Cockett, Richard",
+        "title": "Vienna: How the City of Ideas Created the Modern World",
+        "isbn": 9780300266535.0,
+        "identifiers": "isbn:9780300266535,google:6Q_VEAAAQBAJ,goodreads:198545389,barnesnoble:1143292985,amazon:0300266537",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0b94d2b9-61f9-4eec-9d10-b907a30cb7be"
     }
 ]
