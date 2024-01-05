@@ -20,6 +20,6 @@ I recently got the newer USB-C model of the Fulla at home, and moved my older Fu
 
 I also keep [UGREEN Headphone Splitter](https://www.amazon.com/UGREEN-Splitter-Extension-Earphone-Compatible/dp/B00LM0ZGK6) cables in a desk drawer at home and work, so that I may use this rig with my cellular telephone. I use this rarely, as most voice communications these days are VoIP based, and thus performed on my laptop, rather than PSTN.
 
-When not in use, the headphones are stored under my desk on the [Elevation Lab Anchor](https://www.elevationlab.com/products/anchor-for-headphones)
+When not in use, the headphones are stored under my desk on the [Elevation Lab Anchor](https://www.elevationlab.com/products/anchor-for-headphones).
 
 The theme with my entire desktop audio setup is modularity. The headphones allow for pads and cables to be replaced. The mic is a separate unit. The DAC is a standalone device. All these components can be easily swapped if one fails. All of them are based on long established technologies that have already reached a practical level of perfection, providing me with a level of immunity to advertising in these spaces.
