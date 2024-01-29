@@ -18,7 +18,7 @@ Both cables are plugged into a [Schiit Fulla](https://www.schiit.com/products/fu
 
 I recently got the newer USB-C model of the Fulla at home, and moved my older Fulla from home to work. Previously I used the [UGREEN USB Audio Adapter](https://www.amazon.com/UGREEN-External-Headphone-Microphone-Desktops/dp/B01N905VOY/) at work. This was adequate for solving the problem of needing to plug dual TRS connectors into my laptop, but it did not provide the hot knob fondling action I desire.
 
-I also keep [UGREEN Headphone Splitter](https://www.amazon.com/UGREEN-Splitter-Extension-Earphone-Compatible/dp/B00LM0ZGK6) cables in a desk drawer at home and work, so that I may use this rig with my cellular telephone. I use this rarely, as most voice communications these days are VoIP based, and thus performed on my laptop, rather than PSTN.
+I also keep [Kingtop Headphone Mic Splitter](https://www.amazon.com/KINGTOP-3-5mm-Audio-Splitter-Cable/dp/B01I3A47I4) cables in a desk drawer at home and work, so that I may use this rig with my cellular telephone. I use this rarely, as most voice communications these days are VoIP based, and thus performed on my laptop, rather than PSTN.
 
 When not in use, the headphones are stored under my desk on the [Elevation Lab Anchor](https://www.elevationlab.com/products/anchor-for-headphones).
 
