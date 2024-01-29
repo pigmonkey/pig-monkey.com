@@ -5580,6 +5580,16 @@
         "uuid": "e501fef4-5e04-4f71-9c74-711a12f1a53c"
     },
     {
+        "id": 691.0,
+        "author_sort": "Carré, John le",
+        "title": "A Delicate Truth",
+        "isbn": 9780241965177.0,
+        "identifiers": "amazon:B00AWJYJVA,barnesnoble:w/a-delicate-truth-john-le-carr/1113859719,google:q9Qb8TJMzG4C,isbn:9780241965177,goodreads:16167080",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fda4ffb6-e156-4edd-8930-022101d73190"
+    },
+    {
         "id": 692.0,
         "author_sort": "Carré, John le",
         "title": "A Murder of Quality",
@@ -7588,5 +7598,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "0b94d2b9-61f9-4eec-9d10-b907a30cb7be"
+    },
+    {
+        "id": 996.0,
+        "author_sort": "Chambers, Becky",
+        "title": "A Prayer for the Crown-Shy",
+        "isbn": 9781250891266.0,
+        "identifiers": "goodreads:40864030,isbn:9781250891266,amazon:1250891264",
+        "series": "Monk and Robot",
+        "series_index": 2.0,
+        "uuid": "06948b42-ed3b-4475-9957-80c10389e22c"
     }
 ]
