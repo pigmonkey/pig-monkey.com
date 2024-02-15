@@ -132,8 +132,10 @@ article {
     display: block;
     opacity: .2;
 }
-#footnotes li {
+#footnotes ol {
     font-size: 85%;
+    list-style-position: inside;
+    padding-left: 0;
 }
 
 /** Nav **/
