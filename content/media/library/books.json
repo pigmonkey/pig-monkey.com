@@ -7100,6 +7100,16 @@
         "uuid": "97fcde44-aa9f-48c0-88bc-3a854fc6414b"
     },
     {
+        "id": 917.0,
+        "author_sort": "Potts, Rolf",
+        "title": "The Vagabond's Way: 366 Meditations on Wanderlust, Discovery, and the Art of Travel",
+        "isbn": 9780593497456.0,
+        "identifiers": "amazon:0593497457,isbn:9780593497456,barnesnoble:w/the-vagabonds-way-rolf-potts/1140902191,goodreads:60097454,google:hEiHEAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "395476e6-136d-415c-8cd0-10c97e260857"
+    },
+    {
         "id": 918.0,
         "author_sort": "Grelet, Gilles",
         "title": "Theory of the Solitary Sailor",
@@ -7500,6 +7510,16 @@
         "uuid": "952e19e7-67f9-4348-b47f-2ad403efaeb9"
     },
     {
+        "id": 976.0,
+        "author_sort": "Lutus, Paul",
+        "title": "Confessions of a Long-Distance Sailor",
+        "isbn": 9781435710276.0,
+        "identifiers": "barnesnoble:1009317234,isbn:9781435710276,goodreads:7061814,amazon:1435710274,google:y_z2MgAACAAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3bc24786-948e-4d18-88a3-b40a7e857211"
+    },
+    {
         "id": 978.0,
         "author_sort": "Armstrong, Jon",
         "title": "Yarn",
@@ -7608,5 +7628,25 @@
         "series": "Monk and Robot",
         "series_index": 2.0,
         "uuid": "06948b42-ed3b-4475-9957-80c10389e22c"
+    },
+    {
+        "id": 998.0,
+        "author_sort": "Harkaway, Nick",
+        "title": "Titanium Noir",
+        "isbn": 9781472156921.0,
+        "identifiers": "barnesnoble:1142014154,goodreads:62052321,amazon:1472156927,isbn:9781472156921",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "88eca739-02c8-4cfc-9a3d-d24e279e2930"
+    },
+    {
+        "id": 1000.0,
+        "author_sort": "Chesterton, G. K. & Lethem, Jonathan",
+        "title": "The Man Who Was Thursday: A Nightmare",
+        "isbn": 9780307422019.0,
+        "identifiers": "google:acwJ1GX1wtsC,isbn:9780307422019,barnesnoble:1100059635,goodreads:7051290",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "1f7f03bc-07f1-44e4-b98d-bb78c65597c3"
     }
 ]
