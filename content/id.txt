@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2023-05-02
+Last Update: 2024-03-05
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -11,6 +11,11 @@ trusted communications through other channels.
 # PGP Fingerprint
 
 5249 2412 A119 0FC0 87EA 0F1D 70B2 20FF 8D2A CF29
+
+
+# Signal
+
+pigmonkey.82
 
 
 # Session ID
@@ -67,12 +72,12 @@ securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmRRebMACgkQVOmYrGGL
-wTfK9QgAvolPBfGnxD34FIyRfwrAGRo30n3bOC3PZOaLZPbOlsWZB/cPmJRXUZvN
-q92ICMdW741il/Pg/WrdmO+BO/eP9w6MBMGW31Wsm8alC/UvrWD+wtjj1qkqyWA5
-Zt5I6tnM9zDOGP+igJmO9zObWkKx1NMvVFyzjAoYNpwSAw+D5oopAvyJAIEJCuG6
-49XhNs3iCIf9jHG8HP6gt2wn6mj/1wIQZ7Q3mIp8GdfHwiN9K9H6a4ShAmqGi92S
-qo6mtPwux+YOcIf2ffi+K+xeU3YSKwSn2HDY/GJY+iC0vZd7oizpFyyz1vMoyYLv
-N1/0NgLjfKAQuup2f+/u4wTpixEUAw==
-=f+No
+iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmXnn4kACgkQVOmYrGGL
+wTcpDwf/YZWd71ig/5wrLB9CM48t2JK0ut9USRLiqBHRW+M+atg5So0tc4MkEoX/
+ihdv/bLZkZwYrvJLBf1H5FCddatp0IuYSpeZGQSjecZsuGf0721fYq4Q664myASp
+c39vVGFf7Q4sKhU/pM9U4qNmQa8txh0Ln0c7SRRqOCt9PogTsFi18nTkU4NWUbwM
+EOBd52OstDyaLgt/q8eY8eh78A5hxpYhgGDweQYvrj4fY3+YkQXGgnmBaC4TP16o
+rsPls3ZVQzlSVPj0zpjp/TGmwiuSZmY8rhVV5RcoxQVE/a/7V+EVMmfhNsYR7wyB
+M+dFhZ9dIOJrddpiZote88Qi+zdAZg==
+=0RyB
 -----END PGP SIGNATURE-----
