@@ -1,0 +1,35 @@
+Title: The Elusive Triple Crank
+Date: 2024-03-11
+Tags: gear, bicycle
+
+I broke the drive-side crank on my [New Albion XDT crankset](http://newalbioncycles.com/xdt-crankset). I have strong legs.
+
+<a href="https://www.flickr.com/photos/pigmonkey/53582460936/in/dateposted/" title="New Albion XDT Crank Break"><img src="https://live.staticflickr.com/65535/53582460936_9b706fdb27_c.jpg" width="800" height="533" alt="New Albion XDT Crank Break"/></a>
+
+The crankset was only 5 years old. I don't track distance, so I don't know what sort of mileage it had -- more than 10,000 miles and less than 100,000, on a healthy mixture of pavement and dirt -- but it is certainly too new for these sorts of shenanigans.
+
+New Albion is one of the many brands of local company [Merry Sales](https://www.merrysales.com/aboutus). They are responsible for bringing a number of Japanese bicycle components to the American market, and are usually associated with quality equipment. The New Albion XDT is basically a clone of the [Sugino XD](https://www.suginoltd.co.jp/store/products/detail.php?product_id=116) -- made from the same molds, in the same factory, out of the same 6061 aluminum. I also have a lot of miles on an actual Sugino XD (and I put an old one back on after this break so I could limp around town while deciding on a more permanent fix). I've never had any problems with that crank. So I'm prepared to accept that this was just a fluke, and it probably would not happen again, but I still wanted to replace it with something I could have more confidence in.
+
+Unfortunately the dystopian hellscape that is the modern bicycle industry means square taper triple cranks are few and far between.
+
+Fortunately [Rivendell](https://www.rivbike.com/) is still fighting the good fight. The best option I found was their [Silver crank](https://www.rivbike.com/collections/silver-cranks). These are made of 7075 aluminum, and Rivendell [claims that they pass](https://www.rivbike.com/blogs/grant-petersens-blog/le-sliver-carnk) the [EN 14766 mountain bike fatigue standard](https://standards.iteh.ai/catalog/standards/sist/f2f64a5a-3597-4ec3-a29f-79c2b5a8dc4c/sist-en-14766-2006). They use a 110 BCD for the middle and outer rings, and 74 BCD for the inner. That makes them compatible with any triple chainrings a reasonable connoisseur would want to use.
+
+I bought their [full triple crankset](https://www.rivbike.com/products/silver-crank-triple-44x34x24) with 44x34x24 chainrings. But as I was waiting for it to ship, I sat staring at my broken New Albion crankset and decided that its 48x36x26 chainrings were all still in pretty good shape (if in need of a cleaning). And while I was prepared to try Rivendell's gearing, I do really like the big 48 ring for flying down mountain roads, and I've never really felt like I need anything lower than a 26 granny gear on this bike. So when the Silver crankset arrived, I broke it apart, stored its chainrings for later use, and installed the (cleaned) rings from the New Albion.
+
+The Silver seems to have a slightly wider [Q factor](https://en.wikipedia.org/wiki/Q_factor_(bicycles)) than a Sugino or any of its clones. I run a [Phil Wood bottom bracket](https://phil-wood-co.myshopify.com/collections/square-taper-bottom-brackets/products/stainless-steel-square-taper-bottom-bracket-jis-taper-1?variant=559186325) with a 113mm spindle, just like God intended. After slapping on the Silver, I was getting some chain rub on the big chainring when in the two outermost sprockets on the cassette. I was able to adjust the derailleur to account for this, but that makes me think that a couple millimeter shorter spindle would be needed to maintain the same Q factor as I had before. The difference is minor enough that I don't notice it when actually pedalling. It rides great. And it looks pretty good too.
+
+<a href="https://www.flickr.com/photos/pigmonkey/53582687643/in/dateposted/" title="Rivendell Silver Crank"><img src="https://live.staticflickr.com/65535/53582687643_a87aa2efc0_c.jpg" width="800" height="533" alt="Rivendell Silver Crank"/></a>
+
+The other options that turned up in my search all disappointed in one way or another.
+
+The [Velo Orange Grand Cru 110](https://velo-orange.com/collections/cranks/products/grand-cru-110-fluted-triple-crankset-24x34x48t?variant=50646779719) is pretty, but they recommend a 124mm bottom bracket. I didn't want to buy a new bottom bracket.
+
+The [Rene Herse Triple](https://www.renehersecycles.com/shop/components/cranks/rh-triple-crank/) is pretty and passes the [EN 14781 racing bike fatigue standard](https://standards.iteh.ai/catalog/standards/sist/424b81ca-665b-4e0e-b607-ce3e0d8e9f00/sist-en-14781-2006) (which I'm guessing is lesser than the mountain bike standard), but is prohibitively expensive, and they too recommend a wider bottom bracket. Their [instructions](https://www.renehersecycles.com/wp-content/uploads/2020/02/Crank_Instructions2020_02_04_web.pdf) also state that "if you have broken cranks in the past, we recommend that you do not use lightweight components like the Rene Herse cranks." I now belong to that rarefied coterie, so they're not for me.
+
+Sugino triples are still to be found here and there, but can be difficult to locate. I wanted something stronger than the 6061 aluminum of the XD, if only for my own psychological comfort. Some years ago I ran a [Sugino Alpina 2 Triple](https://www.suginoltd.co.jp/store/products/detail.php?product_id=25). I don't remember what kind of aluminum it was made of. I stripped the threads on the drive-side after I wore down the bearings on my previous Phil Wood bottom bracket until they were mush and rounded the spindle (they said it couldn't be done -- I took that as a challenge). So I didn't really want another one of those.
+
+If I had been displeased with the Silver, I would have purchased a [Spa Cycles TD-2](https://spacycles.co.uk/products.php?show=2002). This is another Sugino clone -- made in the same factory, out of the same molds -- but it is made of 2014 aluminum, so ought to be plenty strong. (It's also a clone of the Alpina 2 rather than the XD. That means the 5th bolt is easy to access, rather than hidden behind the crank, which makes swapping around rings easier.)
+
+But as it is I'm very happy with the Silver cranks. If you need a well designed and well built square taper triple crank -- and who doesn't -- I'd say just buy one of those and be done with it. I see no reason why the cranks shouldn't last me forever. When I need new chainrings, if I don't want to go with the 44x34x24 gearing from Rivendell, I'll probably buy the [Spécialités T.A.](https://specialites-ta.com/) rings that [Spa Cycles sells](https://spacycles.co.uk/m8b0s113p0/Drivetrain/Chainrings-TA). (I'm pretty anal about [staying on top of chain wear](/2020/03/measuring-chain-wear/), so it may be a while.)
+
+<a href="https://www.flickr.com/photos/pigmonkey/53582465971/in/dateposted/" title="Battery McIndoe"><img src="https://live.staticflickr.com/65535/53582465971_90ac97c3df_c.jpg" width="800" height="533" alt="Battery McIndoe"/></a>
