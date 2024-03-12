@@ -7640,6 +7640,16 @@
         "uuid": "88eca739-02c8-4cfc-9a3d-d24e279e2930"
     },
     {
+        "id": 999.0,
+        "author_sort": "Monk, Ray",
+        "title": "Ludwig Wittgenstein: The Duty of Genius",
+        "isbn": 9781448112678.0,
+        "identifiers": "mobi-asin:c1aa418c-8ef7-47d5-a9d5-efd5cdcd785a,barnesnoble:1111302078,isbn:9781448112678,google:bYIZyldMZL8C,goodreads:17431120",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f7db0a7f-8d5f-4c5e-9905-14faecd2f62b"
+    },
+    {
         "id": 1000.0,
         "author_sort": "Chesterton, G. K. & Lethem, Jonathan",
         "title": "The Man Who Was Thursday: A Nightmare",
@@ -7648,5 +7658,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "1f7f03bc-07f1-44e4-b98d-bb78c65597c3"
+    },
+    {
+        "id": 1003.0,
+        "author_sort": "Nayler, Ray",
+        "title": "The Tusks of Extinction",
+        "isbn": 9781250855534.0,
+        "identifiers": "amazon:1250855527,goodreads:127284214,google:pVC4EAAAQBAJ,isbn:9781250855534,barnesnoble:1143329894",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6078a35d-3fcf-4b64-8224-1ebef052399d"
     }
 ]
