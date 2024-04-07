@@ -7620,6 +7620,16 @@
         "uuid": "0b94d2b9-61f9-4eec-9d10-b907a30cb7be"
     },
     {
+        "id": 993.0,
+        "author_sort": "Polanyi, Karl",
+        "title": "The Great Transformation: The Political and Economic Origins of Our Time",
+        "isbn": 9780807056431.0,
+        "identifiers": "barnesnoble:1101798233,goodreads:53981,amazon:080705643X,mobi-asin:B004H3W3VU,google:Vgli4QUSOk8C,isbn:9780807056431",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "158f2d23-9f01-414a-868b-4bf47ee909e1"
+    },
+    {
         "id": 996.0,
         "author_sort": "Chambers, Becky",
         "title": "A Prayer for the Crown-Shy",
@@ -7668,5 +7678,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6078a35d-3fcf-4b64-8224-1ebef052399d"
+    },
+    {
+        "id": 1005.0,
+        "author_sort": "Kaplan, James",
+        "title": "3 Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the Lost Empire of Cool",
+        "isbn": 9780525561019.0,
+        "identifiers": "amazon:0525561005,barnesnoble:1143604644,goodreads:174156154,isbn:9780525561019,google:t5zDEAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0d0a971c-1131-411d-b898-083e647e069d"
+    },
+    {
+        "id": 1007.0,
+        "author_sort": "Alderman, Naomi",
+        "title": "The Future",
+        "isbn": 9781668025703.0,
+        "identifiers": "isbn:9781668025703,google:AE2xEAAAQBAJ,barnesnoble:1143150649,goodreads:123163147,amazon:B0BX7CK5VG",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d42037a1-502e-4ed8-b587-9e4f7d5574ea"
     }
 ]
