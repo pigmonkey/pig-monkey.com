@@ -4590,6 +4590,16 @@
         "uuid": "cc08711e-3878-4d07-bee4-de40d9dc794b"
     },
     {
+        "id": 570.0,
+        "author_sort": "Yokoyama, Hideo",
+        "title": "Six Four: A Novel",
+        "isbn": 9780374715793.0,
+        "identifiers": "google:NFCoDAAAQBAJ,isbn:9780374715793",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d8531ccb-3520-4bc0-840c-ca84b45b7a99"
+    },
+    {
         "id": 571.0,
         "author_sort": "Elpel, Thomas J.",
         "title": "Participating in Nature: Wilderness Survival and Primitive Living Skills",
@@ -6710,6 +6720,16 @@
         "uuid": "b7918aa2-a381-4fc7-acde-6b52fdb2b381"
     },
     {
+        "id": 852.0,
+        "author_sort": "Palmer, Ada",
+        "title": "Perhaps the Stars",
+        "isbn": 9781466858770.0,
+        "identifiers": "amazon:076537806X,google:PPr4DwAAQBAJ,barnesnoble:w/perhaps-the-stars-ada-palmer/1137525412,goodreads:35424671,isbn:9781466858770",
+        "series": "Terra Ignota",
+        "series_index": 4.0,
+        "uuid": "8304966e-5438-42c4-9dbb-0332e3aa4e1c"
+    },
+    {
         "id": 855.0,
         "author_sort": "Rushkoff, Douglas",
         "title": "Team Human",
@@ -7190,6 +7210,16 @@
         "uuid": "0cc1a9a6-b9f4-4816-b0c1-bee4c95f8f3a"
     },
     {
+        "id": 929.0,
+        "author_sort": "Thanhauser, Sofi",
+        "title": "Worn: A People's History of Clothing",
+        "isbn": 9781524748395.0,
+        "identifiers": "amazon:1524748390,mobi-asin:B08H194VZB,barnesnoble:w/worn-sofi-thanhauser/1139537570,isbn:9781524748395,goodreads:60216724",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "302b03e6-6b38-49cc-a985-db0ac9d51ab9"
+    },
+    {
         "id": 930.0,
         "author_sort": "Grossman, Vasily & Chandler, Robert",
         "title": "An Armenian Sketchbook",
@@ -7588,6 +7618,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "62ff73bf-3061-414a-a87c-5f42262713cd"
+    },
+    {
+        "id": 986.0,
+        "author_sort": "Tsukiyama, Gail",
+        "title": "The Samurai's Garden",
+        "isbn": 9780312144074.0,
+        "identifiers": "goodreads:12419382,isbn:9780312144074,amazon:0312144075,google:9Wk_f67mqJ0C,barnesnoble:1000073737",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5926caee-5893-4839-9e87-c20a4357b031"
     },
     {
         "id": 987.0,
