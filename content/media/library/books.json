@@ -6270,6 +6270,16 @@
         "uuid": "b5192c6e-6ca2-4c40-9300-5a322d3adb14"
     },
     {
+        "id": 787.0,
+        "author_sort": "Blanch, Lesley",
+        "title": "The Sabres of Paradise: Conquest and Vengeance in the Caucasus",
+        "isbn": 9781850434030.0,
+        "identifiers": "barnesnoble:w/the-sabres-of-paradise-lesley-blanch/1121138236,isbn:9781850434030,goodreads:637044,amazon:B00SHT8RVU,google:zMkv5M6MfasC,mobi-asin:B00SHT8RVU",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f3edcc2a-0d04-420f-85db-a975cadb75c7"
+    },
+    {
         "id": 788.0,
         "author_sort": "Coates, Ta-Nehisi",
         "title": "The Water Dancer: A Novel",
@@ -7738,5 +7748,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "d42037a1-502e-4ed8-b587-9e4f7d5574ea"
+    },
+    {
+        "id": 1013.0,
+        "author_sort": "Kurutz, Steven",
+        "title": "American Flannel: How a Band of Entrepreneurs Are Bringing the Art and Business of Making Clothes Back Home",
+        "isbn": 9780593329634.0,
+        "identifiers": "goodreads:180603209,isbn:9780593329634,google:k3LFEAAAQBAJ,amazon:0593329619,barnesnoble:1143757952",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "aec70c5a-d2dd-4007-b5fb-a2bf2eef2cae"
     }
 ]
