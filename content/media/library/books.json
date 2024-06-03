@@ -7750,6 +7750,26 @@
         "uuid": "d42037a1-502e-4ed8-b587-9e4f7d5574ea"
     },
     {
+        "id": 1010.0,
+        "author_sort": "Tolstoy, Leo",
+        "title": "Hadji Murád",
+        "isbn": 9791041801619.0,
+        "identifiers": "google:DqnLEAAAQBAJ,isbn:9791041801619,goodreads:135060,url:https://standardebooks.org/ebooks/leo-tolstoy/hadji-murad/aylmer-maude",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7fceddac-b308-42f8-8140-9ad6186f20f7"
+    },
+    {
+        "id": 1012.0,
+        "author_sort": "Camus, Albert",
+        "title": "The Fall",
+        "isbn": 9780141187945.0,
+        "identifiers": "amazon:0679720227,google:SU9lAAAAMAAJ,isbn:9780141187945,barnesnoble:1100012266,goodreads:11991",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f55e40fd-abd8-4daf-9966-e30ef1749da0"
+    },
+    {
         "id": 1013.0,
         "author_sort": "Kurutz, Steven",
         "title": "American Flannel: How a Band of Entrepreneurs Are Bringing the Art and Business of Making Clothes Back Home",
@@ -7758,5 +7778,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "aec70c5a-d2dd-4007-b5fb-a2bf2eef2cae"
+    },
+    {
+        "id": 1016.0,
+        "author_sort": "Prasad, Aarathi",
+        "title": "Silk",
+        "isbn": 9780008451844.0,
+        "identifiers": "amazon:0008451842,google:xpgY0AEACAAJ,isbn:9780008451844",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "52ecf4f2-2019-4aa5-8760-bfc1cbc5ac45"
+    },
+    {
+        "id": 1020.0,
+        "author_sort": "Berger, John",
+        "title": "G.",
+        "isbn": 9780307794239.0,
+        "identifiers": "google:0el4SmiqmRkC,isbn:9780307794239,goodreads:11831676",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "17d8dfae-b671-4cb0-893a-09b937cce032"
+    },
+    {
+        "id": 1022.0,
+        "author_sort": "Toobin, Jeffrey",
+        "title": "Homegrown: Timothy McVeigh and the Rise of Right-Wing Extremism",
+        "isbn": 9781797153087.0,
+        "identifiers": "isbn:9781797153087,google:5R6UEAAAQBAJ,amazon:B0BHTNH6DR,goodreads:62919402",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5e69a80c-dfd3-4814-abe9-fbde2b53aed5"
     }
 ]
