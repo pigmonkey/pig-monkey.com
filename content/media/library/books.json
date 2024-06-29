@@ -7760,6 +7760,16 @@
         "uuid": "7fceddac-b308-42f8-8140-9ad6186f20f7"
     },
     {
+        "id": 1011.0,
+        "author_sort": "Blanch, Lesley",
+        "title": "Journey Into the Mind's Eye: Fragments of an Autobiography",
+        "isbn": 9780907871545.0,
+        "identifiers": "isbn:9780907871545,barnesnoble:1123548557,goodreads:637045,google:zttmDwAAQBAJ,amazon:1681371936",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "85352402-68fe-42f9-acfc-116800796b22"
+    },
+    {
         "id": 1012.0,
         "author_sort": "Camus, Albert",
         "title": "The Fall",
@@ -7808,5 +7818,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "5e69a80c-dfd3-4814-abe9-fbde2b53aed5"
+    },
+    {
+        "id": 1023.0,
+        "author_sort": "Forster, Edward Morgan",
+        "title": "A Passage to India",
+        "isbn": 9780141441160.0,
+        "identifiers": "isbn:9780141441160,amazon:014144116X,google:6WdfQgAACAAJ,goodreads:45195",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c255138e-31f8-471c-bd0a-9539149d2e62"
+    },
+    {
+        "id": 1024.0,
+        "author_sort": "Lermontov, Mikhail & Schwartz, Marian & Shteyngart, Gary",
+        "title": "A Hero of Our Time",
+        "isbn": 9780307769817.0,
+        "identifiers": "google:4EgkprA-WJcC,isbn:9780307769817,goodreads:9978071",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "60cd2d22-5899-4c79-a71e-5cf06863a00c"
+    },
+    {
+        "id": 1025.0,
+        "author_sort": "Sloan, Robin",
+        "title": "Annabel Scheme",
+        "isbn": null,
+        "identifiers": "google:hGSUX7FuD5YC,goodreads:11743674,amazon:B004E3XC1S,mobi-asin:B004E3XC1S",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "30307182-9e33-41ce-bf28-6bc39fd03d94"
     }
 ]
