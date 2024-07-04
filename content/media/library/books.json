@@ -7848,5 +7848,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "30307182-9e33-41ce-bf28-6bc39fd03d94"
+    },
+    {
+        "id": 1031.0,
+        "author_sort": "Dalrymple, William",
+        "title": "In Xanadu",
+        "isbn": 9780307948915.0,
+        "identifiers": "google:eX480Lk89OwC,goodreads:13534859,barnesnoble:1113599812,isbn:9780307948915",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f68a1576-9987-41a5-b9e6-978c0f753916"
     }
 ]
