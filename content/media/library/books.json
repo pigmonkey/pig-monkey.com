@@ -7850,6 +7850,16 @@
         "uuid": "30307182-9e33-41ce-bf28-6bc39fd03d94"
     },
     {
+        "id": 1029.0,
+        "author_sort": "Forster, E. M.",
+        "title": "A Room With a View",
+        "isbn": 9781620113592.0,
+        "identifiers": "google:PvKpnQAACAAJ,isbn:9781620113592,goodreads:17732983",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "190e0b20-b28a-4cec-befa-ae50188bba1f"
+    },
+    {
         "id": 1030.0,
         "author_sort": "Dalrymple, William",
         "title": "Return of a King: The Battle for Afghanistan",
@@ -7868,5 +7878,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "f68a1576-9987-41a5-b9e6-978c0f753916"
+    },
+    {
+        "id": 1037.0,
+        "author_sort": "Kerangal, Maylis de",
+        "title": "Eastbound",
+        "isbn": 9781953861504.0,
+        "identifiers": "amazon:1953861504,isbn:9781953861504,goodreads:60853075,google:ILF7EAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4f0bde1f-f478-4ac3-a377-368a2abe16ce"
+    },
+    {
+        "id": 1038.0,
+        "author_sort": "Pettyjohn, Stacie",
+        "title": "Evolution Not Revolution: Drone Warfare in Russia's 2022 Invasion of Ukraine",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a313a65b-f0fa-4874-b0ff-3d0aa5cf704a"
+    },
+    {
+        "id": 1039.0,
+        "author_sort": "Pettyjohn, Stacie & Dennis, Hannah & Campbell, Molly",
+        "title": "Swarms over the Strait: Drone Warfare in a Future Fight to Defend Taiwan",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "392cc154-9c17-4898-b6a7-0689b9efbdf5"
     }
 ]
