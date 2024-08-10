@@ -7908,5 +7908,75 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "392cc154-9c17-4898-b6a7-0689b9efbdf5"
+    },
+    {
+        "id": 1040.0,
+        "author_sort": "Reeves, Keanu & Miéville, China",
+        "title": "The Book of Elsewhere",
+        "isbn": 9780593446591.0,
+        "identifiers": "goodreads:202950650,isbn:9780593446591,amazon:0593446593",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ddd2925f-0081-4aa9-ad56-466cbb90fa8b"
+    },
+    {
+        "id": 1046.0,
+        "author_sort": "Thompson, Craig",
+        "title": "Blankets",
+        "isbn": 9781770462182.0,
+        "identifiers": "isbn:9781770462182,barnesnoble:1100089088,amazon:177046218X,google:hE7OEAAAQBAJ,goodreads:25179",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7d4165a6-0e29-407d-bcd6-9a43dd44cc77"
+    },
+    {
+        "id": 1047.0,
+        "author_sort": "Liu, Marjorie",
+        "title": "Monstress Volume 1: Awakening",
+        "isbn": 9781632157096.0,
+        "identifiers": "barnesnoble:1123808341,amazon:1632157098,isbn:9781632157096",
+        "series": "Monstress Series",
+        "series_index": 1.0,
+        "uuid": "b41a303f-5333-44a6-bb3e-9fb7eb8d8dbf"
+    },
+    {
+        "id": 1051.0,
+        "author_sort": "Concrete, Tony",
+        "title": "The Witches Cycle, Chapter 02",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Witches Cycle",
+        "series_index": 2.0,
+        "uuid": "577b09a6-17ca-4b5a-8370-06f3be1c0c00"
+    },
+    {
+        "id": 1052.0,
+        "author_sort": "Concrete, Tony",
+        "title": "The Witches Cycle, Chapter 03",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Witches Cycle",
+        "series_index": 3.0,
+        "uuid": "ee14bec4-8101-4cbc-b68c-32ea3b9e994b"
+    },
+    {
+        "id": 1053.0,
+        "author_sort": "Concrete, Tony",
+        "title": "The Witches Cycle, Chapter 01",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Witches Cycle",
+        "series_index": 1.0,
+        "uuid": "772c7021-36f3-4101-a3e1-04d7c9c3bd55"
+    },
+    {
+        "id": 1054.0,
+        "author_sort": "Concrete, Tony",
+        "title": "The Witches Cycle, Chapter 04",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Witches Cycle",
+        "series_index": 4.0,
+        "uuid": "a2cfbeac-72e4-4f9b-982f-9c8099d29498"
     }
 ]
