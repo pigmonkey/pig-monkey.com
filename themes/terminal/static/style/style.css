@@ -352,3 +352,17 @@ pre code {
         margin-bottom: var(--gap);
     }
 }
+
+@media screen and (min-width: 960px) {
+    .inline-list ul {
+        text-align: center;
+        list-style: none;
+    }
+    .inline-list li {
+        display: inline;
+        white-space: nowrap;
+    }
+    .inline-list li + li::before {
+      content: "\00a0\2022\00a0\00a0";
+    }
+}
