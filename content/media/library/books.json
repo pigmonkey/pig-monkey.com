@@ -7978,5 +7978,15 @@
         "series": "The Witches Cycle",
         "series_index": 4.0,
         "uuid": "a2cfbeac-72e4-4f9b-982f-9c8099d29498"
+    },
+    {
+        "id": 1056.0,
+        "author_sort": "Thompson, Craig",
+        "title": "Habibi",
+        "isbn": 9780375424144.0,
+        "identifiers": "barnesnoble:1100642540,google:zm2PDQAAQBAJ,amazon:0375424148,goodreads:10138607,isbn:9780375424144",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "52ef25af-0993-472d-9b70-2fec8e7eee4f"
     }
 ]
