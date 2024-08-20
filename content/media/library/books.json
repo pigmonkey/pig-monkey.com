@@ -7880,6 +7880,16 @@
         "uuid": "f68a1576-9987-41a5-b9e6-978c0f753916"
     },
     {
+        "id": 1032.0,
+        "author_sort": "Storr, Will",
+        "title": "The Status Game: On Social Position and How We Use It",
+        "isbn": 9780008354657.0,
+        "identifiers": "isbn:9780008354657,goodreads:58642436,google:RqL6DwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a8cd5258-4d99-4855-9936-ae75733b209e"
+    },
+    {
         "id": 1037.0,
         "author_sort": "Kerangal, Maylis de",
         "title": "Eastbound",
@@ -7920,6 +7930,16 @@
         "uuid": "ddd2925f-0081-4aa9-ad56-466cbb90fa8b"
     },
     {
+        "id": 1041.0,
+        "author_sort": "Beauvoir, Simone De",
+        "title": "The Mandarins",
+        "isbn": 9780393318838.0,
+        "identifiers": "google:vmsOLE0QHlkC,goodreads:41197115,isbn:9780393318838",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b769d5fb-9be9-4586-b90c-d9ea4bbccdb8"
+    },
+    {
         "id": 1046.0,
         "author_sort": "Thompson, Craig",
         "title": "Blankets",
@@ -7938,6 +7958,16 @@
         "series": "Monstress Series",
         "series_index": 1.0,
         "uuid": "b41a303f-5333-44a6-bb3e-9fb7eb8d8dbf"
+    },
+    {
+        "id": 1050.0,
+        "author_sort": "Liu, Marjorie",
+        "title": "Monstress Volume 2: The Blood",
+        "isbn": 9781534300415.0,
+        "identifiers": "amazon:1534300414,barnesnoble:1126061997,isbn:9781534300415",
+        "series": "Monstress Series",
+        "series_index": 2.0,
+        "uuid": "8cc44150-3e5b-4597-92ab-b9b1a3435202"
     },
     {
         "id": 1051.0,
@@ -7988,5 +8018,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "52ef25af-0993-472d-9b70-2fec8e7eee4f"
+    },
+    {
+        "id": 1059.0,
+        "author_sort": "Ganzeer",
+        "title": "The Solar Grid #1",
+        "isbn": 9781734048759.0,
+        "identifiers": "google:_TE8zgEACAAJ,isbn:9781734048759",
+        "series": "The Solar Grid",
+        "series_index": 1.0,
+        "uuid": "62ab0da0-b8a7-4426-8c13-e84baf6e8a1d"
     }
 ]
