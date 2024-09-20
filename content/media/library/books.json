@@ -8028,5 +8028,25 @@
         "series": "The Solar Grid",
         "series_index": 1.0,
         "uuid": "62ab0da0-b8a7-4426-8c13-e84baf6e8a1d"
+    },
+    {
+        "id": 1061.0,
+        "author_sort": "Concrete, Tony",
+        "title": "The Witches Cycle, Chapter 05",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Witches Cycle",
+        "series_index": 5.0,
+        "uuid": "11ecaf31-06bc-4595-bd18-e23267d486fc"
+    },
+    {
+        "id": 1062.0,
+        "author_sort": "Miller, Peter",
+        "title": "Shopkeeping: Stories, Advice, and Observations",
+        "isbn": 9781797228778.0,
+        "identifiers": "barnesnoble:1144035561,amazon:1797228765,google:ak7VEAAAQBAJ,isbn:9781797228778,goodreads:198498336",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "37ce0e61-00a0-4764-8b07-07abe325c69a"
     }
 ]
