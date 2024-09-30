@@ -1,6 +1,6 @@
 Title: There aren't that many rocks, they said.
 Date: 2024-04-21
-Tags: micro, bike
+Tags: micro, bicycle
 
 <a href="https://www.flickr.com/photos/pigmonkey/53667934767/in/dateposted/" title="Pine Mountain Fire Road"><img src="https://live.staticflickr.com/65535/53667934767_62b41ce7aa_c.jpg" width="800" height="600" alt="Pine Mountain Fire Road"/></a>
 
