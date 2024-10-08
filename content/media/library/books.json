@@ -7240,6 +7240,16 @@
         "uuid": "18c1e092-b53f-4437-9af6-d65dc73d0e73"
     },
     {
+        "id": 931.0,
+        "author_sort": "Tolstoy, Leo",
+        "title": "War and Peace",
+        "isbn": 9781788886529.0,
+        "identifiers": "amazon:1788886526,isbn:9781788886529,google:no6iEu4lWEgC,goodreads:12482158,barnesnoble:w/war-and-peace-pevear-volokhonsky-translation-leo-tolstoy/1106029184",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e2a9a7bd-5e47-4a6c-be5d-29217d0d071c"
+    },
+    {
         "id": 932.0,
         "author_sort": "Weir, Willie",
         "title": "Travels With Willie: Adventure Cyclist",
@@ -8048,5 +8058,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "37ce0e61-00a0-4764-8b07-07abe325c69a"
+    },
+    {
+        "id": 1063.0,
+        "author_sort": "Miller, Peter",
+        "title": "How to Wash the Dishes",
+        "isbn": 9781611807622.0,
+        "identifiers": "google:8JDODwAAQBAJ,amazon:161180762X,goodreads:48594284,barnesnoble:1132005815,isbn:9781611807622",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "63781f67-6c77-427e-9291-d42c36852c82"
+    },
+    {
+        "id": 1066.0,
+        "author_sort": "Brodie, Fawn M.",
+        "title": "The Devil Drives: A Life of Sir Richard Burton",
+        "isbn": 9780393301663.0,
+        "identifiers": "goodreads:188291,isbn:9780393301663,barnesnoble:1113122259,google:Yohb5hTZ_BAC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "997e582a-f34c-4098-8ecb-6ae3b41c42ba"
     }
 ]
