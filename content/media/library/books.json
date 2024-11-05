@@ -7900,6 +7900,16 @@
         "uuid": "a8cd5258-4d99-4855-9936-ae75733b209e"
     },
     {
+        "id": 1036.0,
+        "author_sort": "Fleming, Peter",
+        "title": "News From Tartary",
+        "isbn": 9781843410034.0,
+        "identifiers": "goodreads:556661,isbn:9781843410034,amazon:1843410036",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0b5fc391-b418-49ca-b69b-675c7ed2c0cb"
+    },
+    {
         "id": 1037.0,
         "author_sort": "Kerangal, Maylis de",
         "title": "Eastbound",
@@ -7948,6 +7958,26 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "b769d5fb-9be9-4586-b90c-d9ea4bbccdb8"
+    },
+    {
+        "id": 1042.0,
+        "author_sort": "Faulkner, William",
+        "title": "The Wild Palms: [If I Forget Thee, Jerusalem]",
+        "isbn": 9780307792426.0,
+        "identifiers": "goodreads:11439407,mobi-asin:B004JN1CQK,isbn:9780307792426,google:jmi9bKpirnoC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "06342e3a-00da-432d-b34b-8961cc1a0161"
+    },
+    {
+        "id": 1044.0,
+        "author_sort": "Atwood, Margaret",
+        "title": "Oryx and Crake",
+        "isbn": 9780385503853.0,
+        "identifiers": "google:f1rXtAEACAAJ,amazon:0385503857,isbn:9780385503853,goodreads:78435",
+        "series": "MaddAddam Trilogy",
+        "series_index": 1.0,
+        "uuid": "38bb71bc-32bd-4abb-bca9-0f625fb026b4"
     },
     {
         "id": 1046.0,
@@ -8118,5 +8148,15 @@
         "series": "Ronin of Okane",
         "series_index": 2.0,
         "uuid": "f51af8eb-1253-420d-ae04-e44102f2e32d"
+    },
+    {
+        "id": 1073.0,
+        "author_sort": "Concrete, Tony",
+        "title": "The Witches Cycle, Chapter 06",
+        "isbn": null,
+        "identifiers": null,
+        "series": "The Witches Cycle",
+        "series_index": 6.0,
+        "uuid": "4a6ce9a7-4750-448e-976c-8e5b5b2a85b2"
     }
 ]
