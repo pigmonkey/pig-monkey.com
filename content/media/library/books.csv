@@ -688,6 +688,7 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "874","Postrel, Virginia","The Fabric of Civilization: How Textiles Made the World","9781541617612","barnesnoble:w/fabric-of-civilization-virginia-postrel/1136665703,isbn:9781541617612,mobi-asin:B08KQ441QQ,google:KSUBEAAAQBAJ,amazon:1541617622","","1.0","1700a18f-f8ad-4091-972f-c6b188b5a357"
 "875","Adams, Douglas","Dirk Gently's Holistic Detective Agency","9781476782997","google:0sm1UmgHCwgC,goodreads:17225754,amazon:1476782997,isbn:9781476782997","Dirk Gently","1.0","bdfdb9c0-da28-4912-bbaf-64fe3d2b3db4"
 "876","Markoff, John","Whole Earth: The Many Lives of Stewart Brand","9780735223950","isbn:9780735223950,barnesnoble:w/whole-earth-john-markoff/1139726547,amazon:0735223947,google:q2Q0EAAAQBAJ,goodreads:58503523","","1.0","4d4175dd-a192-4d4d-a8c2-7831e68265cf"
+"877","Koestler, Arthur","Darkness at Noon","9781501161315","amazon:1501161318,google:NwuUDwAAQBAJ,isbn:9781501161315,goodreads:45187741","","1.0","26dd63fb-dc46-4855-8bec-58de5a48caf2"
 "878","Kazantzakis, Nikos","The Last Temptation of Christ","9781439144589","isbn:9781439144589,google:5EOpdqt5SRcC,goodreads:13546478","","1.0","0cb0988a-e114-411c-b8e7-ca4cc1bf10be"
 "879","Wolfe, Tom","From Bauhaus to Our House","9780312429140","goodreads:41001,amazon:0312429142,google:dHmZw7GdgjEC,isbn:9780312429140","","1.0","335dfcf2-4ce9-43f7-9cdd-45dd7a1e9cc0"
 "880","Butler, Octavia E.","Parable of the Sower","9781453263617","google:8thMLkahggcC,goodreads:15842982,amazon:B008HALO4Q,isbn:9781453263617","Earthseed","1.0","9829a939-34ef-4b63-9e75-48c77fe28fd3"
@@ -815,3 +816,4 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "1071","Pachidamrong, Michael","Ronin of Okane, Volume 1","","goodreads:204224763","Ronin of Okane","1.0","b22081e6-0a2a-49f8-b0ba-4d671fb870f4"
 "1072","Pachidamrong, Michael","Ronin of Okane, Volume 2","","goodreads:204224816","Ronin of Okane","2.0","f51af8eb-1253-420d-ae04-e44102f2e32d"
 "1073","Concrete, Tony","The Witches Cycle, Chapter 06","","","The Witches Cycle","6.0","4a6ce9a7-4750-448e-976c-8e5b5b2a85b2"
+"1075","Stephenson, Neal","Polostan","9780008262624","isbn:9780008262624,goodreads:199793426,google:McDg0AEACAAJ","Bomb Light","1.0","b16d2fd6-0382-42f7-a3df-ee3ec7b1c7ee"

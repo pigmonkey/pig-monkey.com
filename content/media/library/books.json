@@ -6890,6 +6890,16 @@
         "uuid": "4d4175dd-a192-4d4d-a8c2-7831e68265cf"
     },
     {
+        "id": 877.0,
+        "author_sort": "Koestler, Arthur",
+        "title": "Darkness at Noon",
+        "isbn": 9781501161315.0,
+        "identifiers": "amazon:1501161318,google:NwuUDwAAQBAJ,isbn:9781501161315,goodreads:45187741",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "26dd63fb-dc46-4855-8bec-58de5a48caf2"
+    },
+    {
         "id": 878.0,
         "author_sort": "Kazantzakis, Nikos",
         "title": "The Last Temptation of Christ",
@@ -8158,5 +8168,15 @@
         "series": "The Witches Cycle",
         "series_index": 6.0,
         "uuid": "4a6ce9a7-4750-448e-976c-8e5b5b2a85b2"
+    },
+    {
+        "id": 1075.0,
+        "author_sort": "Stephenson, Neal",
+        "title": "Polostan",
+        "isbn": 9780008262624.0,
+        "identifiers": "isbn:9780008262624,goodreads:199793426,google:McDg0AEACAAJ",
+        "series": "Bomb Light",
+        "series_index": 1.0,
+        "uuid": "b16d2fd6-0382-42f7-a3df-ee3ec7b1c7ee"
     }
 ]
