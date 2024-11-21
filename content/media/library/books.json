@@ -8070,6 +8070,16 @@
         "uuid": "52ef25af-0993-472d-9b70-2fec8e7eee4f"
     },
     {
+        "id": 1057.0,
+        "author_sort": "Nihei, Tsutomu",
+        "title": "Blame! 1",
+        "isbn": 9781942993773.0,
+        "identifiers": "isbn:9781942993773,amazon:1942993773,barnesnoble:1122051802",
+        "series": "Blame! Series",
+        "series_index": 1.0,
+        "uuid": "796575f9-3e54-4664-bd28-4d819f05acdd"
+    },
+    {
         "id": 1058.0,
         "author_sort": "Sloan, Robin",
         "title": "Moonbound",
@@ -8130,6 +8140,16 @@
         "uuid": "997e582a-f34c-4098-8ecb-6ae3b41c42ba"
     },
     {
+        "id": 1068.0,
+        "author_sort": "Austen, Jane",
+        "title": "Pride and Prejudice",
+        "isbn": 9780393870718.0,
+        "identifiers": "google:7AJMzwEACAAJ,goodreads:53999728,isbn:9780393870718,barnesnoble:1002057084",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "04cb9783-8edb-4d29-b39f-2d1c40c3a067"
+    },
+    {
         "id": 1070.0,
         "author_sort": "Pachidamrong, Michael",
         "title": "Ronin of Okane, Volume 3",
@@ -8178,5 +8198,25 @@
         "series": "Bomb Light",
         "series_index": 1.0,
         "uuid": "b16d2fd6-0382-42f7-a3df-ee3ec7b1c7ee"
+    },
+    {
+        "id": 1076.0,
+        "author_sort": "Snyder, Timothy",
+        "title": "On Tyranny: Twenty Lessons From the Twentieth Century",
+        "isbn": 9780804190121.0,
+        "identifiers": "amazon:0804190119,barnesnoble:1125454355,isbn:9780804190121,goodreads:33917107,google:3z7cDQAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4b9c5918-1949-4638-ba52-9cad10700c75"
+    },
+    {
+        "id": 1078.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Red Team Blues",
+        "isbn": 9781804547779.0,
+        "identifiers": "isbn:9781804547779,amazon:1804547778,google:rSnXzwEACAAJ,goodreads:60784417",
+        "series": "Martin Hench",
+        "series_index": 1.0,
+        "uuid": "d52f90c4-d4ab-4868-9145-17daef639750"
     }
 ]
