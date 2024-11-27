@@ -2065,7 +2065,7 @@
         "title": "The Talented Mr. Ripley",
         "isbn": 9780393332148.0,
         "identifiers": "google:DO-7KCY6APMC,isbn:9780393332148",
-        "series": null,
+        "series": "Mr. Ripley Series",
         "series_index": 1.0,
         "uuid": "5026e7b0-c2e2-4286-af3e-f70e982cf77b"
     },
@@ -8218,5 +8218,15 @@
         "series": "Martin Hench",
         "series_index": 1.0,
         "uuid": "d52f90c4-d4ab-4868-9145-17daef639750"
+    },
+    {
+        "id": 1082.0,
+        "author_sort": "Allen, Roland",
+        "title": "The Notebook: A History of Thinking on Paper",
+        "isbn": 9781771966283.0,
+        "identifiers": "isbn:9781771966283,barnesnoble:1143628066,google:RC5x0AEACAAJ,goodreads:148014534",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8628ae6f-eed3-4237-b52e-9579485959a5"
     }
 ]

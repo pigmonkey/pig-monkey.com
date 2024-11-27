@@ -205,7 +205,7 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "276","Stoker, Bram","Dracula","9780553898538","amazon:1607105519,isbn:9780553898538,google:9vgrEwY3UBwC","","1.0","2eda9f40-3e9c-4eb3-b423-e5f12e2a538c"
 "277","Yoshikawa, Eiji & Terry, Charles S.","Musashi","9781568364278","isbn:9781568364278,barnesnoble:w/musashi-an-epic-novel-of-the-samurai-era-eiji-yoshikawa/1003251381,amazon:156836427X,goodreads:15893429,google:Q-3wLgEACAAJ","Musashi Complete","1.0","f1abb568-c54b-435e-b725-cfaf018a1218"
 "280","Highsmith, Patricia","Strangers on a Train","9780393321982","amazon:B007Q6XIVO,google:qbkfHZEygt4C,barnesnoble:w/strangers-on-a-train-patricia-highsmith/1122983473,goodreads:15677,isbn:9780393321982","","1.0","fcda37ab-b25b-421b-b211-29af558f7d13"
-"281","Highsmith, Patricia","The Talented Mr. Ripley","9780393332148","google:DO-7KCY6APMC,isbn:9780393332148","","1.0","5026e7b0-c2e2-4286-af3e-f70e982cf77b"
+"281","Highsmith, Patricia","The Talented Mr. Ripley","9780393332148","google:DO-7KCY6APMC,isbn:9780393332148","Mr. Ripley Series","1.0","5026e7b0-c2e2-4286-af3e-f70e982cf77b"
 "282","Kennedy, Sean","Immersion 2086","9781682225448","goodreads:27971562,isbn:9781682225448,amazon:1682225445,mobi-asin:B019229ZI4,barnesnoble:w/immersion-sean-kennedy/1123121022","","1.0","18acdacf-d4a1-4b3b-90f7-0976d0e30880"
 "284","Peper, Eliot","Cumulus","9781532707193","barnesnoble:w/cumulus-eliot-peper/1123730718,goodreads:29908112,isbn:9781532707193,amazon:B01E4L5L6S,mobi-asin:B01E4L5L6S","","1.0","0a16d262-383e-4f9e-a292-444489a76738"
 "285","Sterling, Bruce","Islands in the Net","9781497686519","amazon:B00PDDKVXK,barnesnoble:w/islands-in-the-net-bruce-sterling/1000654395,isbn:9781497686519,mobi-asin:1c547975-5a1c-4ec0-9327-e3513babf6d0,google:2-rpAAAAMAAJ,goodreads:23514977","","1.0","fb66152e-ebdf-48da-9cea-4c4b06531320"
@@ -821,3 +821,4 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "1075","Stephenson, Neal","Polostan","9780008262624","isbn:9780008262624,goodreads:199793426,google:McDg0AEACAAJ","Bomb Light","1.0","b16d2fd6-0382-42f7-a3df-ee3ec7b1c7ee"
 "1076","Snyder, Timothy","On Tyranny: Twenty Lessons From the Twentieth Century","9780804190121","amazon:0804190119,barnesnoble:1125454355,isbn:9780804190121,goodreads:33917107,google:3z7cDQAAQBAJ","","1.0","4b9c5918-1949-4638-ba52-9cad10700c75"
 "1078","Doctorow, Cory","Red Team Blues","9781804547779","isbn:9781804547779,amazon:1804547778,google:rSnXzwEACAAJ,goodreads:60784417","Martin Hench","1.0","d52f90c4-d4ab-4868-9145-17daef639750"
+"1082","Allen, Roland","The Notebook: A History of Thinking on Paper","9781771966283","isbn:9781771966283,barnesnoble:1143628066,google:RC5x0AEACAAJ,goodreads:148014534","","1.0","8628ae6f-eed3-4237-b52e-9579485959a5"
