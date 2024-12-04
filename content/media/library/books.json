@@ -8228,5 +8228,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "8628ae6f-eed3-4237-b52e-9579485959a5"
+    },
+    {
+        "id": 1085.0,
+        "author_sort": "Highsmith, Patricia",
+        "title": "Ripley Under Ground",
+        "isbn": 9780393344745.0,
+        "identifiers": "isbn:9780393344745,google:lEZ1iQWFstoC,goodreads:16175962,barnesnoble:1100880791",
+        "series": "Mr. Ripley Series",
+        "series_index": 2.0,
+        "uuid": "7bacbe76-118d-4429-a462-567f5484bfec"
+    },
+    {
+        "id": 1087.0,
+        "author_sort": "Didion, Joan",
+        "title": "Slouching Towards Bethlehem",
+        "isbn": 9780374521721.0,
+        "identifiers": "barnesnoble:1100167554,google:hxUNAQAAMAAJ,amazon:0374531382,isbn:9780374521721",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "be85ba18-3795-4a00-a93d-0c4b7b0c479e"
     }
 ]
