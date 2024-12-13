@@ -1,6 +1,6 @@
 Title: The Field Memo Pad
 Date: 2019-12-20
-Tags: review, gear, writing
+Tags: review, gear, stationary
 
 While I still believe in [the supremacy of the 4" x 6" Field Message Pad](/2012/11/field-message-pad/), there are times when something smaller is wanted. Perhaps you need something more pocketable, or you have little room in your bag, and you only need small sheets for incidental notes. For these situations I use the Field Memo Pad.
 

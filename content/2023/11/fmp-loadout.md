@@ -1,6 +1,6 @@
 Title: FMP Load-Out
 Date: 2023-11-26
-Tags: gear, review, writing, edc
+Tags: gear, review, stationary, edc
 
 My [Field Message Pad](/2012/11/field-message-pad/) is currently loaded with:
 

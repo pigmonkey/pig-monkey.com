@@ -1,6 +1,6 @@
 Title: The Mnemosyne Memo Pad
 Date: 2023-11-25
-Tags: gear, writing
+Tags: gear, stationary
 
 The [Field Message Pad](/2012/11/field-message-pad/) remains my primary writing setup. One of its strengths is the ability to switch between pads from Rite in the Rain and Rhodia.
 

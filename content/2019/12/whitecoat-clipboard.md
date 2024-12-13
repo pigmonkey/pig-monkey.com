@@ -1,6 +1,6 @@
 Title: A Better Clipboard
 Date: 2019-12-21
-Tags: review, gear, writing, radio
+Tags: review, gear, stationary, radio
 
 One of the things I learned over the years at [2 Meter Critical Mass](/2019/12/2-meter-critical-mass/) and other radio events is the value of a good clipboard. The [Field Message Pad](/2012/11/field-message-pad/) or [Field Memo Pad](2019/12/field-memo-pad/) or even the [Field Notebook](/2010/05/diy-field-notebook-hack/) are great for my own notes, but when responding with a radio on behalf of an agency, said agency will probably have official log and message forms, and those forms will probably be on 8.5" x 11" paper. A clipboard is an important tool for making those forms usable in the field.
 

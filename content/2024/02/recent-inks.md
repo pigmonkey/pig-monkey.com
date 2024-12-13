@@ -1,6 +1,6 @@
 Title: Recent Inks
 Date: 2024-02-22
-Tags: writing
+Tags: stationary
 
 Goulet Pens will sell you [sample vials of ink](https://www.gouletpens.com/collections/ink-samples). I took advantage of this to expand beyond my long-time staple of [Noodler's 19001 Black](https://noodlersink.com/product/19001-black/), without ending up with a bunch of full bottles I wasn't going to use. Mostly I was looking for a blue. I came out the other side with two new favorites -- neither of which are really blue.
 

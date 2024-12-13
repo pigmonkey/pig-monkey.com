@@ -1,6 +1,6 @@
 Title: The FMP Cutting Board
 Date: 2023-12-16
-Tags: gear, writing, edc
+Tags: gear, stationary, edc
 
 I [previously mentioned](/2023/11/fmp-loadout/) that I install Rhodia pads in my [Field Message Pad](/2012/11/field-message-pad/) backwards, such that the thick cardboard backing is on top. This way when I open the pad, the cardboard provides a surface for writing on the back of the pages, where otherwise I would be writing on top of the FMP cover's tool slots and the stuff carried within them. This means the other side of the pad has a less firm backing. On a fresh pad this is not an issue, but can become one as pages are consumed and the thickness of the stack of remaining pages is reduced.
 

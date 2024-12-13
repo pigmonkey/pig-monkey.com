@@ -1,6 +1,6 @@
 Title: Spark Joy
 Date: 2024-12-12
-Tags: gear, writing
+Tags: gear, stationary
 
 I have a rule that I am allowed to purchase certain goods whenever I both can afford to do so and think that I may possibly have a use for them. It is a small list, including items such as [Voile straps](https://www.voile.com/voile-straps.html), [Abloy Protec2 padlocks](https://securitysnobs.com/Padlocks/), and [Pelican cases](https://www.pelican.com/us/en/products/cases/). Even if the specific model I purchase ends up not working for whatever project I currently have in mind, I can always use more of these items, and will never regret the purchase<sup class="footnote-ref" id="fnref:hemhaw"><a rel="footnote" href="#fn:hemhaw" title="see footnote">1</a></sup>. In the parlance of our times, these items [spark joy](/2017/07/folding/).
 
