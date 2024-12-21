@@ -44,7 +44,7 @@ GitHub
 
 ## Supporters
 
-Thank you to all my supporters for making this web site possible
+Thank you to all my supporters for making this web site possible.
 
 Subscribers
 : null
