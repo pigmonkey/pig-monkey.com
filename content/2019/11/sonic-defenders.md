@@ -1,6 +1,6 @@
 Title: Sonic Defenders
 Date: 2019-11-20
-tags: gear, review, edc
+tags: gear, review, edc, audio
 
 I carry earplugs everyday. Other people have written about the regular carry of earplugs -- usually to aid sleep in foreign environments -- but I tend to disagree with the products they choose. [Craig Mod recommends](https://craigmod.com/ridgeline/042/) the [Mack's Pillow Soft Silicone Earplugs](https://www.amazon.com/Macks-Pillow-Soft-Silicone-Earplugs/dp/B07G1MWHNR/). [Tynan recommends](https://tynan.com/gear2017) the [Howard Leight Laser Lite Foam Earplugs](https://www.amazon.com/Howard-Leight-Laser-Earplugs-50/dp/B003628ODO/). I recommend the [SureFire EP3 Sonic Defenders](https://www.surefire.com/ep3-sonic-defenders.html). Each of these are exemplary of a different style of earplug with different intended applications.
 

@@ -1,6 +1,6 @@
 Title: Loop Switch
 Date: 2024-12-21
-tags: gear, review, edc
+tags: gear, review, edc, audio
 
 I've been carrying the [Loop Switch](https://web.archive.org/web/20240724223821/https://us.loopearplugs.com/products/switch) earplugs everyday for the past 13 months now. A couple months ago, Loop replaced this model with the [Switch 2](https://us.loopearplugs.com/products/switch). This v2 Switch looks to be a minor incremental upgrade, but overall the same product. I think my impressions of the v1 Switch are still relevant.
 
