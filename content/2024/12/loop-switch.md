@@ -14,7 +14,7 @@ My most frequent application for earplugs is [nightclubbing](https://www.youtube
 
 I have not found any other earplug that offers anything quite like this. There are others that have multiple filters that you can swap between, but the earplugs need to be removed from your ear to do that. And even then, trying to mess around with taking out one small part and install another, in the dark, in the middle of [Club Hel](https://matrix.fandom.com/wiki/Club_Hel), is not a winning strategy.
 
-<video width="1280" height="720" loop controls>
+<video width="1280" loop controls>
     <source src="/media/video/the_matrix_revolutions-club_hel.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
