@@ -3294,8 +3294,8 @@
         "author_sort": "Eisler, Barry",
         "title": "A Clean Kill in Tokyo",
         "isbn": 9781477820803.0,
-        "identifiers": "barnesnoble:w/a-clean-kill-in-tokyo-barry-eisler/1115109389,isbn:9781477820803,mobi-asin:B00M4LHQ82,goodreads:925",
-        "series": "John Rain",
+        "identifiers": "google:gmvPoQEACAAJ,mobi-asin:B00M4LHQ82,isbn:9781477820803,barnesnoble:1115109389,goodreads:925",
+        "series": "A John Rain Novel",
         "series_index": 1.0,
         "uuid": "e05ebb89-0df8-4d2a-b3c6-4b276ba824b9"
     },
@@ -8228,6 +8228,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "8628ae6f-eed3-4237-b52e-9579485959a5"
+    },
+    {
+        "id": 1083.0,
+        "author_sort": "Eisler, Barry",
+        "title": "Livia Lone",
+        "isbn": 9781503939660.0,
+        "identifiers": "isbn:9781503939660,mobi-asin:B01DYC113A,google:DH7cjwEACAAJ,barnesnoble:1123744761,goodreads:30046019",
+        "series": "A Livia Lone Novel",
+        "series_index": 1.0,
+        "uuid": "8069ff28-6ee8-4aef-9de2-b2fd7960dd08"
     },
     {
         "id": 1085.0,
