@@ -1,6 +1,6 @@
 Title: Beauvoir on Social Media
 Date: 2024-08-02
-tags: quote, books
+tags: quote, books, influencer
 
 > To be no one, all things considered, is something of a privilege... How can anyone be so arrogant or so rash as to serve himself up as prey to a pack of strangers? Their names are dirtied in thousands of mouths; the curious rob them of their thoughts, their hearts, their lives. If I too were subjected to the cupidity of that ferocious mob of ragpickers, I would certainly end up by considering myself nothing but a pile of garbage. I congratulated myself for not being someone.
 

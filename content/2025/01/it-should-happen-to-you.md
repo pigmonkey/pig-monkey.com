@@ -1,6 +1,6 @@
 Title: It Should Happen To You analyzes the disease that is influencer culture.
 Date: 2025-01-04
-tags: micro, media
+tags: micro, media, influencer
 
 [1954](https://en.wikipedia.org/wiki/It_Should_Happen_to_You).
 
