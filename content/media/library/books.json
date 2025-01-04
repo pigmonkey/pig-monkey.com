@@ -8258,5 +8258,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "be85ba18-3795-4a00-a93d-0c4b7b0c479e"
+    },
+    {
+        "id": 1089.0,
+        "author_sort": "Wolfe, Thomas",
+        "title": "Look Homeward, Angel",
+        "isbn": 9780743297318.0,
+        "identifiers": "amazon:0743297318,isbn:9780743297318,mobi-asin:B000JMKVM6,barnesnoble:1100329576,google:koSYQSSCjKwC,goodreads:12448",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c643348f-cf23-4789-b3fd-a6df6297ade4"
     }
 ]
