@@ -8240,6 +8240,16 @@
         "uuid": "8069ff28-6ee8-4aef-9de2-b2fd7960dd08"
     },
     {
+        "id": 1084.0,
+        "author_sort": "Cadigan, Pat",
+        "title": "Synners",
+        "isbn": 9781568581859.0,
+        "identifiers": "goodreads:304806,mobi-asin:a00747ac-5bd2-46cf-a0b3-69c3aef03c33,isbn:9781568581859",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8f2ae369-c568-4102-9222-1f6c92e13338"
+    },
+    {
         "id": 1085.0,
         "author_sort": "Highsmith, Patricia",
         "title": "Ripley Under Ground",
@@ -8260,6 +8270,16 @@
         "uuid": "be85ba18-3795-4a00-a93d-0c4b7b0c479e"
     },
     {
+        "id": 1088.0,
+        "author_sort": "Didion, Joan",
+        "title": "The White Album",
+        "isbn": 9780671834449.0,
+        "identifiers": "google:tqyRPwAACAAJ,isbn:9780671834449,barnesnoble:1102902470",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2da26b92-d833-4777-9cb6-f47e2d177310"
+    },
+    {
         "id": 1089.0,
         "author_sort": "Wolfe, Thomas",
         "title": "Look Homeward, Angel",
@@ -8268,5 +8288,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "c643348f-cf23-4789-b3fd-a6df6297ade4"
+    },
+    {
+        "id": 1096.0,
+        "author_sort": "White, Rowland",
+        "title": "Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her",
+        "isbn": 9781501123641.0,
+        "identifiers": "google:sF4JCgAAQBAJ,barnesnoble:1123309087,goodreads:28503503,isbn:9781501123641",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "426319fc-d9e5-42c1-a12e-3a41aeb3a33e"
     }
 ]
