@@ -7980,6 +7980,16 @@
         "uuid": "06342e3a-00da-432d-b34b-8961cc1a0161"
     },
     {
+        "id": 1043.0,
+        "author_sort": "Blume, Judy",
+        "title": "Forever . . .",
+        "isbn": 9781481414432.0,
+        "identifiers": "amazon:1481414437,isbn:9781481414432,google:nOtnAwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "25babd4e-93f5-477a-b845-5ebda2540b78"
+    },
+    {
         "id": 1044.0,
         "author_sort": "Atwood, Margaret",
         "title": "Oryx and Crake",
@@ -8150,6 +8160,16 @@
         "uuid": "04cb9783-8edb-4d29-b39f-2d1c40c3a067"
     },
     {
+        "id": 1069.0,
+        "author_sort": "Dickens, Charles",
+        "title": "Great Expectations",
+        "isbn": 9780198185918.0,
+        "identifiers": "google:aZOwDwAAQBAJ,isbn:9780198185918,goodreads:31837170",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "38923f56-900b-4f8e-9618-ee1ea33ac76b"
+    },
+    {
         "id": 1070.0,
         "author_sort": "Pachidamrong, Michael",
         "title": "Ronin of Okane, Volume 3",
@@ -8218,6 +8238,16 @@
         "series": "Martin Hench",
         "series_index": 1.0,
         "uuid": "d52f90c4-d4ab-4868-9145-17daef639750"
+    },
+    {
+        "id": 1079.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Spill",
+        "isbn": 9781250351692.0,
+        "identifiers": "barnesnoble:1146267662,isbn:9781250351692,google:qfUfEQAAQBAJ,goodreads:218613145",
+        "series": "Little Brother",
+        "series_index": 4.0,
+        "uuid": "2a469f4a-fbce-433c-ba9f-263d8a2a81f6"
     },
     {
         "id": 1082.0,
@@ -8290,6 +8320,16 @@
         "uuid": "c643348f-cf23-4789-b3fd-a6df6297ade4"
     },
     {
+        "id": 1090.0,
+        "author_sort": "Jones, James",
+        "title": "From Here to Eternity",
+        "isbn": 9781453215111.0,
+        "identifiers": "goodreads:11066930,google:tfSQV5frAo0C,isbn:9781453215111,barnesnoble:1112324178",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d1f3057b-c661-4fc1-88b8-8a264d21aad5"
+    },
+    {
         "id": 1096.0,
         "author_sort": "White, Rowland",
         "title": "Into the Black: The Extraordinary Untold Story of the First Flight of the Space Shuttle Columbia and the Astronauts Who Flew Her",
@@ -8298,5 +8338,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "426319fc-d9e5-42c1-a12e-3a41aeb3a33e"
+    },
+    {
+        "id": 1103.0,
+        "author_sort": "Mollick, Ethan",
+        "title": "Co-Intelligence: Living and Working With AI",
+        "isbn": 9780593716724.0,
+        "identifiers": "google:r13gEAAAQBAJ,isbn:9780593716724,goodreads:198678736,barnesnoble:1144159618",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "3c575160-20e5-4e88-bd75-3cbd3ddd3615"
     }
 ]
