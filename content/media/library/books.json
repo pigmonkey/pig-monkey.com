@@ -6810,6 +6810,16 @@
         "uuid": "21b124b5-0aa6-4841-9d59-8c902b31fe14"
     },
     {
+        "id": 863.0,
+        "author_sort": "Brunner, John",
+        "title": "Stand on Zanzibar",
+        "isbn": 9780765326782.0,
+        "identifiers": "goodreads:41069,amazon:0765326787,barnesnoble:w/stand-on-zanzibar-john-brunner/1100188866,google:57J4zQEACAAJ,isbn:9780765326782",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "50cdf4bd-06dc-4004-bc4b-bd98f37ad83b"
+    },
+    {
         "id": 864.0,
         "author_sort": "Sterling, Bruce",
         "title": "Zeitgeist",
@@ -8348,5 +8358,65 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "3c575160-20e5-4e88-bd75-3cbd3ddd3615"
+    },
+    {
+        "id": 1104.0,
+        "author_sort": "Chbosky, Stephen",
+        "title": "The Perks of Being a Wallflower",
+        "isbn": 9780671027346.0,
+        "identifiers": "google:2EaHVYja2boC,isbn:9780671027346,barnesnoble:1100365675",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9d551298-5b5d-42c3-ad36-810a7074e1f1"
+    },
+    {
+        "id": 1135.0,
+        "author_sort": "Portis, Charles",
+        "title": "True Grit",
+        "isbn": 9781590206508.0,
+        "identifiers": "isbn:9781590206508,goodreads:25512108,google:lzuEDwAAQBAJ,barnesnoble:1100041855",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b47892c3-8cf4-45e4-b1fc-b6a4636e40a0"
+    },
+    {
+        "id": 1141.0,
+        "author_sort": "Aoyama, Michiko",
+        "title": "What You Are Looking for Is in the Library",
+        "isbn": 9781335005625.0,
+        "identifiers": "goodreads:91274427,isbn:9781335005625",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ddca88cc-f44e-4cf0-8d83-da696d79cace"
+    },
+    {
+        "id": 1142.0,
+        "author_sort": "Yagisawa, Satoshi",
+        "title": "Days at the Morisaki Bookshop",
+        "isbn": 9780063278677.0,
+        "identifiers": "goodreads:62047992,isbn:9780063278677",
+        "series": "Days at the Morisaki Bookshop",
+        "series_index": 1.0,
+        "uuid": "e7c412c5-afd5-4bdc-9ed2-59de12e38253"
+    },
+    {
+        "id": 1143.0,
+        "author_sort": "Bo-reum, Hwang",
+        "title": "Welcome to the Hyunam-Dong Bookshop",
+        "isbn": 9781526662286.0,
+        "identifiers": "google:yAIZEQAAQBAJ,goodreads:133938826,isbn:9781526662286",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "281602c6-29b7-4bd6-ac64-5b8937d4b618"
+    },
+    {
+        "id": 1144.0,
+        "author_sort": "Ueda, Kenji",
+        "title": "Letters From the Ginza Shihodo Stationery Shop",
+        "isbn": 9781786584649.0,
+        "identifiers": "goodreads:215369044,isbn:9781786584649",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6c2d5f7d-b1f1-4b38-9a64-aef5e5576b4c"
     }
 ]
