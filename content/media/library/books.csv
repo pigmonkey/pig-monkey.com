@@ -49,6 +49,7 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "53","Banks, Iain M.","Inversions","9781416583783","google:cO00U2Llra8C,amazon:1416583785,isbn:9781416583783,barnesnoble:w/inversions-iain-m-banks/1102041247,mobi-asin:B002TXZR8G,goodreads:1716465","Culture","6.0","d7f79855-a644-4848-9a78-5ff6724cab5a"
 "54","Banks, Iain M.","Look to Windward","9781451621686","mobi-asin:48b7e7d5-a8c6-4ede-880d-b3aa9053fad2,barnesnoble:w/look-to-windward-iain-m-banks/1100367784,google:HovpJmfv4wAC,goodreads:12016,isbn:9781451621686,amazon:145162168X","Culture","7.0","2f0e2e6c-f83c-43cf-b69f-0c891bc4a53c"
 "55","Banks, Iain M.","Matter","9780316005364","amazon:0316005371,isbn:9780316005364,google:-pUgAQAAIAAJ","Culture","8.0","20648d6e-8253-476f-be82-620a74f03528"
+"56","Banks, Iain M.","Surface Detail","9780316123419","amazon:B007K4K8YC,isbn:9780316123419,mobi-asin:B00462RVHI","Culture","9.0","33a47c77-e6d4-4fac-a985-a5100f7655ba"
 "59","Yudkowsky, Eliezer","Rationality: From AI to Zombies","9781939311153","isbn:9781939311153","","1.0","9c37557f-ddd1-489a-b3c1-9b9ffea07682"
 "60","Hoare, Mike","The Road to Kalamata: A Congo Mercenary's Personal Memoir","9781473817708","isbn:9781473817708,barnesnoble:w/the-road-to-kalamata-mike-hoare/1112369118,amazon:B00K1KJ2DK","","1.0","1cf9aa59-5a25-4238-90e7-4a56b9e3e488"
 "61","Rhodes, Richard","The Making of the Atomic Bomb","9780140116670","isbn:9780140116670,google:0favPwAACAAJ,amazon:B00BIFBHBW,goodreads:16884","","1.0","68e5bd52-bf3a-4ee5-9e13-ad332d80ab28"
@@ -841,3 +842,4 @@ id,author_sort,title,isbn,identifiers,series,series_index,uuid
 "1142","Yagisawa, Satoshi","Days at the Morisaki Bookshop","9780063278677","goodreads:62047992,isbn:9780063278677","Days at the Morisaki Bookshop","1.0","e7c412c5-afd5-4bdc-9ed2-59de12e38253"
 "1143","Bo-reum, Hwang","Welcome to the Hyunam-Dong Bookshop","9781526662286","google:yAIZEQAAQBAJ,goodreads:133938826,isbn:9781526662286","","1.0","281602c6-29b7-4bd6-ac64-5b8937d4b618"
 "1144","Ueda, Kenji","Letters From the Ginza Shihodo Stationery Shop","9781786584649","goodreads:215369044,isbn:9781786584649","","1.0","6c2d5f7d-b1f1-4b38-9a64-aef5e5576b4c"
+"1154","Fitzgerald, F. Scott","This Side of Paradise","9781620113103","goodreads:32035168,google:WiBEAQAACAAJ,isbn:9781620113103","","1.0","e8cda59f-b7a3-4175-8c22-3ed5a0567d4d"

@@ -500,6 +500,16 @@
         "uuid": "20648d6e-8253-476f-be82-620a74f03528"
     },
     {
+        "id": 56.0,
+        "author_sort": "Banks, Iain M.",
+        "title": "Surface Detail",
+        "isbn": 9780316123419.0,
+        "identifiers": "amazon:B007K4K8YC,isbn:9780316123419,mobi-asin:B00462RVHI",
+        "series": "Culture",
+        "series_index": 9.0,
+        "uuid": "33a47c77-e6d4-4fac-a985-a5100f7655ba"
+    },
+    {
         "id": 59.0,
         "author_sort": "Yudkowsky, Eliezer",
         "title": "Rationality: From AI to Zombies",
@@ -8418,5 +8428,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6c2d5f7d-b1f1-4b38-9a64-aef5e5576b4c"
+    },
+    {
+        "id": 1154.0,
+        "author_sort": "Fitzgerald, F. Scott",
+        "title": "This Side of Paradise",
+        "isbn": 9781620113103.0,
+        "identifiers": "goodreads:32035168,google:WiBEAQAACAAJ,isbn:9781620113103",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e8cda59f-b7a3-4175-8c22-3ed5a0567d4d"
     }
 ]
