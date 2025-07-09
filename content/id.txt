@@ -1,7 +1,7 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Last Update: 2024-06-19
+Last Update: 2025-07-08
 
 This is a signed summary of relevant cryptographic information. This document
 may be used in conjuction with a verified copy of my public key to establish
@@ -70,14 +70,15 @@ My private key was generated offline on an air-gapped computer. All key signing
 occurs on an offline, air-gapped computer. The key and computer are stored
 securely in a tamper-evident manner. Signing and encryption subkeys for regular
 use are stored on a YubiKey NEO.
+
 -----BEGIN PGP SIGNATURE-----
 
-iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmZzj84ACgkQVOmYrGGL
-wTfdDgf8DWEw1Rn9uAVJe8fGf/GSmLao4SejnWalX0xdCkXueSyb+5VcHNjuZjgJ
-7SqQIFb5doCK+DRA5n2i+6rTKt0z1sOleAcrQm5JuC3mkMY6I7HxDG8Rs8QbKno2
-inSe08BuS+ozdR6mj78SIvHFVvZDf5CgAzd7y90sxTF4KtLmXzInUVESBpNQcUsv
-QoI0qmjNvY/KpZqDSoouqdgNlzTl2l7SkkX3sbJM14bYm5P7xsTfgexNaRwpTUh7
-2H2EHLivEzGKNRmV61b0uKWFV5k9qMIBo/dDjBxAiZgzMLBLy3drDpn1aPf2iin/
-9hXpMEtlfmFLgRdGh/iCjLzyyEKpjA==
-=LlKF
+iQEzBAEBCgAdFiEEGLwQ6rSLzd+OimjcVOmYrGGLwTcFAmht+BkACgkQVOmYrGGL
+wTdOSwf8CURnys6DV47D7lfh87nYB1+vvF2vbYfmLAVYaqfVrvBb6Z6Ef5u7MIxB
+go5pgFoB4ckVHNmbU7RmG+vc+GDMPIG+wu70NIZZx7bw57gwISGEA4oqFebzgYsT
+W6n8pCgRNhKXF/5aX+LL0aS1oaNIjSsTeuMhxlXQ7ZYpHGPDOEa/d9SQap689bgY
+XxNZMtxyufznB80YAya5tOtMmiVHh7zwspP6mOKKh7M+qDjEZZUqXcm+BOGrziy9
+Fk0Hq9BLlVofiz38Mm1dWuOCpEw+SjTlHA+RV8bAwfM7BohEbQ2o03Y4stvNPaWj
+SlicGbpFMD61BqZdS/VfqiH2/FlA0A==
+=XThd
 -----END PGP SIGNATURE-----
