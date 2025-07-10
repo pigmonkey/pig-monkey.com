@@ -8438,5 +8438,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "e8cda59f-b7a3-4175-8c22-3ed5a0567d4d"
+    },
+    {
+        "id": 1169.0,
+        "author_sort": "Palahniuk, Chuck",
+        "title": "Fight Club",
+        "isbn": 9780393066395.0,
+        "identifiers": "goodreads:7134111,isbn:9780393066395",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6d4dabb4-da20-4020-a36e-2d60394f0969"
     }
 ]
