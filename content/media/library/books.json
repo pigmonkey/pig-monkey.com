@@ -8380,6 +8380,16 @@
         "uuid": "9d551298-5b5d-42c3-ad36-810a7074e1f1"
     },
     {
+        "id": 1108.0,
+        "author_sort": "Homer",
+        "title": "The Iliad",
+        "isbn": 9781324001805.0,
+        "identifiers": "google:OcuczwEACAAJ,goodreads:77265004,barnesnoble:1143278097,isbn:9781324001805",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "601de950-bc23-40ed-b4a8-2f9f9c7c7f86"
+    },
+    {
         "id": 1135.0,
         "author_sort": "Portis, Charles",
         "title": "True Grit",
