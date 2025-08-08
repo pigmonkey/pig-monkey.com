@@ -8488,5 +8488,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6d4dabb4-da20-4020-a36e-2d60394f0969"
+    },
+    {
+        "id": 1175.0,
+        "author_sort": "Christie, Agatha",
+        "title": "Sleeping Murder",
+        "isbn": 9780061752315.0,
+        "identifiers": "isbn:9780061752315,goodreads:10141033,google:kZJ2NzJoVG4C,amazon:0451200195",
+        "series": "Miss Marple Mysteries",
+        "series_index": 4.0,
+        "uuid": "44cec609-f41a-4935-bf82-f447e807cb17"
+    },
+    {
+        "id": 1179.0,
+        "author_sort": "Fermor, Patrick Leigh",
+        "title": "A Time to Keep Silence",
+        "isbn": 9781590175217.0,
+        "identifiers": "google:cpPLWihINaoC,goodreads:18963445,isbn:9781590175217",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5c3b30fa-1940-4000-8742-b23838d05976"
     }
 ]
