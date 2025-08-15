@@ -7780,6 +7780,16 @@
         "uuid": "1f7f03bc-07f1-44e4-b98d-bb78c65597c3"
     },
     {
+        "id": 1002.0,
+        "author_sort": "Ogawa, Yōko & Snyder, Stephen",
+        "title": "The Memory Police",
+        "isbn": 9781101870600.0,
+        "identifiers": "goodreads:37004370,amazon:1101870605,isbn:9781101870600",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "940de286-fb67-4fad-9acc-b5135eb504c6"
+    },
+    {
         "id": 1003.0,
         "author_sort": "Nayler, Ray",
         "title": "The Tusks of Extinction",
@@ -8412,9 +8422,9 @@
     {
         "id": 1108.0,
         "author_sort": "Homer",
-        "title": "The Iliad",
-        "isbn": 9781324001805.0,
-        "identifiers": "google:OcuczwEACAAJ,goodreads:77265004,barnesnoble:1143278097,isbn:9781324001805",
+        "title": "The Iliad: Translated by Emily Wilson",
+        "isbn": 9781324076148.0,
+        "identifiers": "google:OcuczwEACAAJ,goodreads:77265004,isbn:9781324076148,barnesnoble:1143278097",
         "series": null,
         "series_index": 1.0,
         "uuid": "601de950-bc23-40ed-b4a8-2f9f9c7c7f86"
@@ -8508,5 +8518,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "5c3b30fa-1940-4000-8742-b23838d05976"
+    },
+    {
+        "id": 1184.0,
+        "author_sort": "Card, Orson Scott",
+        "title": "Ender’s Game",
+        "isbn": 9780812550702.0,
+        "identifiers": "isbn:9780812550702,goodreads:375802,google:5tCSc9pZPBwC",
+        "series": "The Ender Quintet",
+        "series_index": 1.0,
+        "uuid": "07e96fca-184c-48b9-b364-17f3c72ada5b"
+    },
+    {
+        "id": 1191.0,
+        "author_sort": "Pelly, Liz",
+        "title": "Mood Machine: The Rise of Spotify and the Costs of the Perfect Playlist",
+        "isbn": 9781668083505.0,
+        "identifiers": "barnesnoble:1145682394,amazon:B0CW18TCCF,isbn:9781668083505,goodreads:214151728",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8465ee3b-b6c1-4b56-83e3-e0455d2bb286"
+    },
+    {
+        "id": 1192.0,
+        "author_sort": "Scott, James C.",
+        "title": "Two Cheers for Anarchism: Six Easy Pieces on Autonomy, Dignity, and Meaningful Work and Play",
+        "isbn": 9780691161037.0,
+        "identifiers": "goodreads:18730678,google:GmqYDwAAQBAJ,barnesnoble:1117037552,isbn:9780691161037,amazon:0691161038",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "437c2649-e4d4-438e-8660-d0ea7883c6b2"
     }
 ]
