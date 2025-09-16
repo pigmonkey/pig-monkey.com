@@ -8480,6 +8480,16 @@
         "uuid": "6c2d5f7d-b1f1-4b38-9a64-aef5e5576b4c"
     },
     {
+        "id": 1147.0,
+        "author_sort": "Doctorow, Cory",
+        "title": "Makers",
+        "isbn": 9781429969284.0,
+        "identifiers": "goodreads:6422238,google:wpC2KwbGAJwC,isbn:9781429969284",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a09e7049-7e50-45e3-99e4-33d42a363e52"
+    },
+    {
         "id": 1154.0,
         "author_sort": "Fitzgerald, F. Scott",
         "title": "This Side of Paradise",
@@ -8488,6 +8498,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "e8cda59f-b7a3-4175-8c22-3ed5a0567d4d"
+    },
+    {
+        "id": 1157.0,
+        "author_sort": "Erickson, Steve",
+        "title": "Shadowbahn",
+        "isbn": 9780735212015.0,
+        "identifiers": "google:s4vmDQAAQBAJ,isbn:9780735212015,goodreads:31247641",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b5774eb2-8afa-44a9-8939-db3c78238ebb"
     },
     {
         "id": 1169.0,
@@ -8520,6 +8540,16 @@
         "uuid": "5c3b30fa-1940-4000-8742-b23838d05976"
     },
     {
+        "id": 1181.0,
+        "author_sort": "Fermor, Patrick Leigh",
+        "title": "The Violins of Saint-Jacques",
+        "isbn": 9781590177952.0,
+        "identifiers": "isbn:9781590177952,goodreads:35226780,google:F3dEDQAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "835e3e84-6c7a-4ec7-a936-b7703f7f3119"
+    },
+    {
         "id": 1184.0,
         "author_sort": "Card, Orson Scott",
         "title": "Ender’s Game",
@@ -8548,5 +8578,25 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "437c2649-e4d4-438e-8660-d0ea7883c6b2"
+    },
+    {
+        "id": 1198.0,
+        "author_sort": "Card, Orson Scott",
+        "title": "Speaker for the Dead",
+        "isbn": 9780312853259.0,
+        "identifiers": "isbn:9780312853259,barnesnoble:1100353964,google:GYi1s6OuY-sC,goodreads:7967",
+        "series": "The Ender Quintet",
+        "series_index": 2.0,
+        "uuid": "2f868d43-1489-4dcb-b516-fcc7257e114c"
+    },
+    {
+        "id": 1202.0,
+        "author_sort": "Morrison, Ewan",
+        "title": "For Emma: A Novel",
+        "isbn": 9781648211430.0,
+        "identifiers": "goodreads:223108628,google:dmU7EQAAQBAJ,isbn:9781648211430,barnesnoble:1146760899",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "84152c19-9152-450f-a830-ff021bd6694b"
     }
 ]
