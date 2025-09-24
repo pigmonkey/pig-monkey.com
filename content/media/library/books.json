@@ -7430,6 +7430,16 @@
         "uuid": "31b25fd7-e672-4d9e-9530-f3f15419ef4d"
     },
     {
+        "id": 951.0,
+        "author_sort": "Steinbeck, John",
+        "title": "The Grapes of Wrath",
+        "isbn": 9780606001748.0,
+        "identifiers": "amazon:0143039431,google:bhJgd3hGdxQC,isbn:9780606001748,barnesnoble:1002084358",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "82c251e3-bcb5-4326-ae29-9eb1591f87ca"
+    },
+    {
         "id": 952.0,
         "author_sort": "Steinbeck, John",
         "title": "Of Mice and Men",
@@ -8580,6 +8590,16 @@
         "uuid": "437c2649-e4d4-438e-8660-d0ea7883c6b2"
     },
     {
+        "id": 1197.0,
+        "author_sort": "Homer",
+        "title": "The Odyssey: Translated by Emily Wilson",
+        "isbn": 9780393356250.0,
+        "identifiers": "isbn:9780393356250,barnesnoble:1129773507",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "9ea0dc09-92fe-4953-bd23-4792eb1e9d3c"
+    },
+    {
         "id": 1198.0,
         "author_sort": "Card, Orson Scott",
         "title": "Speaker for the Dead",
@@ -8598,5 +8618,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "84152c19-9152-450f-a830-ff021bd6694b"
+    },
+    {
+        "id": 1207.0,
+        "author_sort": "Huysmans, Joris-Karl",
+        "title": "Against Nature",
+        "isbn": 9780141906607.0,
+        "identifiers": "goodreads:22071156,barnesnoble:1116811421,google:1RfMXlqywdQC,isbn:9780141906607",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e1d887cf-fcba-47c0-b872-e76e904ee2e0"
     }
 ]
