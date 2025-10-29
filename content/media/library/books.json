@@ -8210,6 +8210,16 @@
         "uuid": "997e582a-f34c-4098-8ecb-6ae3b41c42ba"
     },
     {
+        "id": 1067.0,
+        "author_sort": "Boyer, G. Bruce",
+        "title": "True Style: The History and Principles of Classic Menswear",
+        "isbn": 9780465053995.0,
+        "identifiers": "google:T_cqCgAAQBAJ,barnesnoble:1121141244,amazon:0465053998,isbn:9780465053995,goodreads:24612271",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e52aad29-880a-4906-b802-5fee89358810"
+    },
+    {
         "id": 1068.0,
         "author_sort": "Austen, Jane",
         "title": "Pride and Prejudice",
@@ -8628,5 +8638,55 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "e1d887cf-fcba-47c0-b872-e76e904ee2e0"
+    },
+    {
+        "id": 1210.0,
+        "author_sort": "Wilde, Oscar",
+        "title": "The Picture of Dorian Gray",
+        "isbn": 9781620115060.0,
+        "identifiers": "barnesnoble:1116668152,isbn:9781620115060,goodreads:25930444",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "dc7b24c1-3bdc-4a02-bd1a-3eb5034cfb7a"
+    },
+    {
+        "id": 1211.0,
+        "author_sort": "Levin, Yuval",
+        "title": "The Great Debate: Edmund Burke, Thomas Paine, and the Birth of Right and Left",
+        "isbn": 9780465040940.0,
+        "identifiers": "isbn:9780465040940,goodreads:19141492,barnesnoble:1114766781,google:YRE5AAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4be2a082-f731-4ff4-84c0-1d7086dfdbc8"
+    },
+    {
+        "id": 1213.0,
+        "author_sort": "Nabokov, Vladimir",
+        "title": "Pnin",
+        "isbn": 9781400041985.0,
+        "identifiers": "google:_Kt79yEeCDcC,goodreads:30593,barnesnoble:1100271756,isbn:9781400041985",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b923fb3f-bd6e-47b8-b7e4-ffbf99bcdd66"
+    },
+    {
+        "id": 1214.0,
+        "author_sort": "El-Mohtar, Amal & Gladstone, Max",
+        "title": "This Is How You Lose the Time War",
+        "isbn": 9781534430990.0,
+        "identifiers": "barnesnoble:1129709862,google:21_RDwAAQBAJ,goodreads:43352954,isbn:9781534430990",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d85d13a1-d293-4dcf-abb3-45d3afe4d6c2"
+    },
+    {
+        "id": 1224.0,
+        "author_sort": "Flusser, Alan",
+        "title": "Dressing the Man: Mastering the Art of Permanent Fashion",
+        "isbn": 9780060191443.0,
+        "identifiers": "isbn:9780060191443,barnesnoble:1005151591",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d19b9b0f-b19e-4588-b982-71f12c043998"
     }
 ]
