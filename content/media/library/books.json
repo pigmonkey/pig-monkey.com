@@ -8680,6 +8680,16 @@
         "uuid": "d85d13a1-d293-4dcf-abb3-45d3afe4d6c2"
     },
     {
+        "id": 1219.0,
+        "author_sort": "Nayler, Ray",
+        "title": "Where the Axe Is Buried",
+        "isbn": 9781399627894.0,
+        "identifiers": "isbn:9781399627894,barnesnoble:1145466667,goodreads:211934965,google:f2Yi0QEACAAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2b55ab41-a919-4dc6-8bc5-97896f01dd06"
+    },
+    {
         "id": 1224.0,
         "author_sort": "Flusser, Alan",
         "title": "Dressing the Man: Mastering the Art of Permanent Fashion",
@@ -8688,5 +8698,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "d19b9b0f-b19e-4588-b982-71f12c043998"
+    },
+    {
+        "id": 1228.0,
+        "author_sort": "Virgil & McGill, Scott & Wright, Susannah",
+        "title": "The Aeneid",
+        "isbn": 9781324096436.0,
+        "identifiers": "goodreads:218569816,barnesnoble:1148382162,google:P0Lj0AEACAAJ,isbn:9781324096436",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e7d649e9-d66c-4306-8004-eb28344dbe29"
+    },
+    {
+        "id": 1236.0,
+        "author_sort": "Mann, Thomas & Heim, Michael Henry",
+        "title": "Death in Venice",
+        "isbn": 9780061828171.0,
+        "identifiers": "goodreads:10155566,isbn:9780061828171,google:Zt8Mthjp4PYC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4b3aa9bd-1dbd-4f55-8d22-9b39197ab80e"
+    },
+    {
+        "id": 1240.0,
+        "author_sort": "Martine, Arkady",
+        "title": "Rose/House",
+        "isbn": 9781250387516.0,
+        "identifiers": "goodreads:52263339,google:DvoLEQAAQBAJ,isbn:9781250387516",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "7a76c333-4c23-4775-8b42-84d5a469430a"
     }
 ]
