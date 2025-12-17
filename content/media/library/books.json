@@ -8728,5 +8728,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "7a76c333-4c23-4775-8b42-84d5a469430a"
+    },
+    {
+        "id": 1242.0,
+        "author_sort": "Woolf, Virginia",
+        "title": "Mrs. Dalloway",
+        "isbn": 9780547662404.0,
+        "identifiers": "isbn:9780547662404,goodreads:10102379,google:FmBqyfzLE14C",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "cd58bb00-b2d4-47ca-b770-e2fcdc1b0ee9"
     }
 ]
