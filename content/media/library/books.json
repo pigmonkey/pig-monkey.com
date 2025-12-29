@@ -8738,5 +8738,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "cd58bb00-b2d4-47ca-b770-e2fcdc1b0ee9"
+    },
+    {
+        "id": 1244.0,
+        "author_sort": "Flaubert, Gustave & Bernard, Claudie",
+        "title": "Sentimental Education",
+        "isbn": 9781411433151.0,
+        "identifiers": "goodreads:7157538,isbn:9781411433151",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "bad7b1e9-241a-4c4c-b603-9341a065ae58"
+    },
+    {
+        "id": 1250.0,
+        "author_sort": "Dodge, David",
+        "title": "To Catch a Thief",
+        "isbn": 9781464225345.0,
+        "identifiers": "isbn:9781464225345,google:DDTL0AEACAAJ,goodreads:215509883",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "e066b48f-b6cd-4130-a577-442907fba6f4"
+    },
+    {
+        "id": 1252.0,
+        "author_sort": "Parker, John",
+        "title": "The Smart Lifter's Band Training System",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "738d6e17-631c-4e11-a6eb-2b233b9d6be1"
     }
 ]
