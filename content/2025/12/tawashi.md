@@ -8,7 +8,7 @@ I use the same brush for about two years before replacing it. Every few months I
 
 The only other brushes I use in the kitchen are a [bottle brush](https://www.oxo.com/bottle-brush.html) and straw brush. I also have one of those [chainmail scrubbers](https://www.amazon.com/exec/obidos/ASIN/B00FKBR1ZG/) for my cast iron, but the Tawashi gets used much more often.
 
-<a href="https://www.flickr.com/photos/pigmonkey/55013238595/in/dateposted/" title="Tawshi, Mamison, Sal Suds"><img src="https://live.staticflickr.com/65535/55013238595_c36d7a532d_c.jpg" width="800" height="600" alt="Tawshi, Mamison, Sal Suds"/></a>
+<a href="https://www.flickr.com/photos/pigmonkey/55013238595/in/dateposted/" title="Tawashi, Mamison, Sal Suds"><img src="https://live.staticflickr.com/65535/55013238595_c36d7a532d_c.jpg" width="800" height="600" alt="Tawashi, Mamison, Sal Suds"/></a>
 
 The Tawashi, [my Sal Suds spray](/2019/07/cleaner/), and my pink [Mamison gloves](https://nymag.com/strategist/2017/05/the-best-rubber-gloves-for-dishwashing-are-from-korea.html) complete my kitchen ablution armaments. (The pink color is critical for maximum cleaning.)
 
