@@ -6601,7 +6601,7 @@
     },
     {
         "id": 831.0,
-        "author_sort": "Süskind, Patrick",
+        "author_sort": "Süskind, Patrick & Woods, John E.",
         "title": "Perfume: The Story of a Murderer",
         "isbn": 9780804152976.0,
         "identifiers": "google:-C9kAwAAQBAJ,isbn:9780804152976,goodreads:22143897",
@@ -8748,6 +8748,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "bad7b1e9-241a-4c4c-b603-9341a065ae58"
+    },
+    {
+        "id": 1245.0,
+        "author_sort": "Mann, Thomas & Woods, John E.",
+        "title": "Buddenbrooks: The Decline of a Family",
+        "isbn": 9780307780959.0,
+        "identifiers": "isbn:9780307780959,google:lV96uia5CWwC,goodreads:11238704",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "2622c481-01b8-4686-96a3-430b0304a76f"
     },
     {
         "id": 1250.0,
