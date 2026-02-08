@@ -6680,6 +6680,16 @@
         "uuid": "adee62f5-6239-40f1-acc8-b9ea0a7820a1"
     },
     {
+        "id": 842.0,
+        "author_sort": "Gorodischer, Angélica & Guin, Ursula K. le",
+        "title": "Kalpa Imperial: The Greatest Empire That Never Was",
+        "isbn": 9781618730190.0,
+        "identifiers": "barnesnoble:w/kalpa-imperial-angelica-gorodischer/1112019686,google:hxanAgAAQBAJ,isbn:9781618730190",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "ecac21d8-8c3d-44c1-ae55-4351b7bf166b"
+    },
+    {
         "id": 843.0,
         "author_sort": "Galef, Julia",
         "title": "The Scout Mindset: Why Some People See Things Clearly and Others Don't",
@@ -8700,6 +8710,16 @@
         "uuid": "d19b9b0f-b19e-4588-b982-71f12c043998"
     },
     {
+        "id": 1225.0,
+        "author_sort": "Lo, Malinda",
+        "title": "Last Night at the Telegraph Club",
+        "isbn": 9780525555254.0,
+        "identifiers": "goodreads:35224992,barnesnoble:1136893644,isbn:9780525555254,google:TrJREAAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b3ab500d-2ac5-4cc5-b946-8e40dfd4113f"
+    },
+    {
         "id": 1228.0,
         "author_sort": "Virgil & McGill, Scott & Wright, Susannah",
         "title": "The Aeneid",
@@ -8778,5 +8798,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "738d6e17-631c-4e11-a6eb-2b233b9d6be1"
+    },
+    {
+        "id": 1258.0,
+        "author_sort": "Shaw, George Bernard",
+        "title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
+        "isbn": 9780486217079.0,
+        "identifiers": "goodreads:830410,isbn:9780486217079",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "23488fd1-290e-4f0b-a9af-e985c9ec39eb"
     }
 ]
