@@ -8808,5 +8808,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "23488fd1-290e-4f0b-a9af-e985c9ec39eb"
+    },
+    {
+        "id": 1263.0,
+        "author_sort": "Schopenhauer, Arthur",
+        "title": "On the Suffering of the World",
+        "isbn": 9781913462048.0,
+        "identifiers": "isbn:9781913462048,goodreads:55574772,google:NcDQDwAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "a43fe818-8585-4d43-b479-a461bf671b65"
     }
 ]
