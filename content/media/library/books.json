@@ -8730,6 +8730,16 @@
         "uuid": "e7d649e9-d66c-4306-8004-eb28344dbe29"
     },
     {
+        "id": 1232.0,
+        "author_sort": "Scalzi, John",
+        "title": "Old Man's War",
+        "isbn": 9781429914710.0,
+        "identifiers": "barnesnoble:1100356158,google:XVwOEeHTU4QC,isbn:9781429914710,goodreads:8565095",
+        "series": "Old Man's War",
+        "series_index": 1.0,
+        "uuid": "7ea62be3-74cc-4127-8d6f-47489edc1b36"
+    },
+    {
         "id": 1236.0,
         "author_sort": "Mann, Thomas & Heim, Michael Henry",
         "title": "Death in Venice",
@@ -8790,6 +8800,16 @@
         "uuid": "e066b48f-b6cd-4130-a577-442907fba6f4"
     },
     {
+        "id": 1251.0,
+        "author_sort": "Russell, Bertrand",
+        "title": "The Conquest of Happiness",
+        "isbn": 9780415378475.0,
+        "identifiers": "isbn:9780415378475,goodreads:51783,google:ODIiumCiFOoC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c202c935-faaa-4b06-bb60-e417b931e79b"
+    },
+    {
         "id": 1252.0,
         "author_sort": "Parker, John",
         "title": "The Smart Lifter's Band Training System",
@@ -8818,5 +8838,35 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "a43fe818-8585-4d43-b479-a461bf671b65"
+    },
+    {
+        "id": 1267.0,
+        "author_sort": "Subramanian, Samanth",
+        "title": "The Web Beneath the Waves: The Fragile Cables That Connect Our World",
+        "isbn": 9798987053782.0,
+        "identifiers": "goodreads:228457397,google:9e8b0QEACAAJ,isbn:9798987053782",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "c35ae5c4-a67c-4811-953f-a6a7ececd11c"
+    },
+    {
+        "id": 1268.0,
+        "author_sort": "Schopenhauer, Arthur",
+        "title": "Essays and Aphorisms",
+        "isbn": 9780141921754.0,
+        "identifiers": "isbn:9780141921754,goodreads:8512100,google:EWt_5YLqHcAC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "4656d6b9-c2aa-4908-b429-285b168a59ed"
+    },
+    {
+        "id": 1272.0,
+        "author_sort": "Nietzsche, Friedrich & Kaufmann, Walter",
+        "title": "The Birth of Tragedy and The Case of Wagner",
+        "isbn": 9780394703695.0,
+        "identifiers": "google:us9vDwAAQBAJ,isbn:9780394703695,goodreads:568047",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "cb479b83-4d9d-4ede-8bae-8f4c45ec7836"
     }
 ]
