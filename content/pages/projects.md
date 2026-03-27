@@ -51,6 +51,11 @@ I took over the maintainership of hostsctl when the original author vanished.
 Metamovie is a simple script to fetch information about a movie and store it as [git-annex](https://git-annex.branchable.com/) [metadata](https://git-annex.branchable.com/metadata/).
 
 
+## [migrant](https://github.com/pigmonkey/migrant)
+
+A lightweight VM management tool for Linux, designed for running ephemeral AI agents.
+
+
 ## [nmtrust](https://github.com/pigmonkey/nmtrust)
 
 This project provides a simple framework for determing the trusted state of the current network connections, and taking action based on the result. It is intended to be used to activate certain services on trusted networks, and disable them when when there is a connection to an untrusted network or when there is no established network connection.
