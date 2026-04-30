@@ -4,6 +4,11 @@ sortorder: 40
 Most of my code may be [found on GitHub](http://github.com/pigmonkey). You should go there and [fork](https://help.github.com/articles/fork-a-repo) something.
 
 
+## [annex-geocode](https://github.com/pigmonkey/annex-geocode)
+
+Reverse-geocodes track points in a GPX file to determine geographic metadata to store in [git-annex](https://git-annex.branchable.com/). Part of my [Antisocial Activity Tracking](/2015/08/gpx/).
+
+
 ## [backitup](https://github.com/pigmonkey/backitup)
 
 backitup is a simple bash script to execute a program if a certain amount of time has passed.
