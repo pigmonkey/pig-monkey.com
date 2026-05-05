@@ -8630,6 +8630,16 @@
         "uuid": "2f868d43-1489-4dcb-b516-fcc7257e114c"
     },
     {
+        "id": 1200.0,
+        "author_sort": "Russell, Mary Doria",
+        "title": "The Sparrow",
+        "isbn": 9781407057026.0,
+        "identifiers": "barnesnoble:1100293482,isbn:9781407057026,google:nvxKIlcLRXEC,amazon:0552997773,goodreads:334176",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "5b84802d-ea6a-4477-a172-36111e8c5c29"
+    },
+    {
         "id": 1202.0,
         "author_sort": "Morrison, Ewan",
         "title": "For Emma: A Novel",
@@ -8830,6 +8840,16 @@
         "uuid": "738d6e17-631c-4e11-a6eb-2b233b9d6be1"
     },
     {
+        "id": 1255.0,
+        "author_sort": "Blanchet, M. Wylie",
+        "title": "The Curve of Time",
+        "isbn": 9781878067272.0,
+        "identifiers": "goodreads:1332755,isbn:9781878067272",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "6aec73ef-04f8-46be-a313-4f10e0ceb590"
+    },
+    {
         "id": 1258.0,
         "author_sort": "Shaw, George Bernard",
         "title": "The Perfect Wagnerite: A Commentary on the Niblung's Ring",
@@ -8878,5 +8898,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "cb479b83-4d9d-4ede-8bae-8f4c45ec7836"
+    },
+    {
+        "id": 1288.0,
+        "author_sort": "Johnson, Jeannie L. & Berrett, Matthew T.",
+        "title": "Cultural Topography: A New Research Tool for Intelligence Analysis",
+        "isbn": null,
+        "identifiers": null,
+        "series": "Studies in Intelligence Vol. 5",
+        "series_index": 2.0,
+        "uuid": "7b945346-8d06-4572-8049-2325db2bef73"
     }
 ]
