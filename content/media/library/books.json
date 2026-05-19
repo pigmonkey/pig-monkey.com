@@ -7820,6 +7820,16 @@
         "uuid": "6078a35d-3fcf-4b64-8224-1ebef052399d"
     },
     {
+        "id": 1004.0,
+        "author_sort": "Ignatius, David",
+        "title": "Agents of Innocence",
+        "isbn": 9780393024869.0,
+        "identifiers": "amazon:0393024865,google:MYuxQgAACAAJ,barnesnoble:1100879963,isbn:9780393024869,goodreads:171550",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "f94c8587-131d-40ff-9712-8634f2b6b2e4"
+    },
+    {
         "id": 1005.0,
         "author_sort": "Kaplan, James",
         "title": "3 Shades of Blue: Miles Davis, John Coltrane, Bill Evans, and the Lost Empire of Cool",
@@ -8700,6 +8710,16 @@
         "uuid": "d85d13a1-d293-4dcf-abb3-45d3afe4d6c2"
     },
     {
+        "id": 1215.0,
+        "author_sort": "London, Jack",
+        "title": "Martin Eden",
+        "isbn": 9781620116852.0,
+        "identifiers": "barnesnoble:1100063836,google:euZ-swEACAAJ,isbn:9781620116852",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d1d89fb7-fa7b-4034-96d9-02b822b7fb27"
+    },
+    {
         "id": 1219.0,
         "author_sort": "Nayler, Ray",
         "title": "Where the Axe Is Buried",
@@ -8860,6 +8880,16 @@
         "uuid": "23488fd1-290e-4f0b-a9af-e985c9ec39eb"
     },
     {
+        "id": 1262.0,
+        "author_sort": "Schopenhauer, Arthur & Norman, Judith & Welchman, Alistair & Janaway, Christopher",
+        "title": "The World as Will and Representation, Vol 1",
+        "isbn": 9780521871846.0,
+        "identifiers": "google:VvCq0AEACAAJ,isbn:9780521871846,goodreads:6459132",
+        "series": "Die Welt als Wille und Vorstellung",
+        "series_index": 1.0,
+        "uuid": "7019263a-bc49-4ab0-b048-278f021f1686"
+    },
+    {
         "id": 1263.0,
         "author_sort": "Schopenhauer, Arthur",
         "title": "On the Suffering of the World",
@@ -8898,6 +8928,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "cb479b83-4d9d-4ede-8bae-8f4c45ec7836"
+    },
+    {
+        "id": 1275.0,
+        "author_sort": "Stendhal & Raffel, Burton",
+        "title": "The Red and the Black",
+        "isbn": 9781588363053.0,
+        "identifiers": "google:LmZebwm0pYkC,goodreads:7362853,isbn:9781588363053",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "b92b9b5e-4b27-441a-bb10-2ff453230b1b"
     },
     {
         "id": 1288.0,
