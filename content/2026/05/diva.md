@@ -7,7 +7,7 @@ Last night I went to a screening of the recent 4K remaster of [Diva](https://en.
 Diva, of course, is also part of the unofficial [Nagra](https://cryptomuseum.com/covert/rec/nagra/index.htm) Film Trilogy. If you like beautifully designed, portable, high-fidelity audio equipment, you want to watch [The Conversation](https://en.wikipedia.org/wiki/The_Conversation), Diva, and [Blow Out](https://en.wikipedia.org/wiki/Blow_Out).
 
 <video width="1280" controls>
-    <source src="/media/video/diva.mkv" type="video/mp4">
+    <source src="/media/video/diva.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
