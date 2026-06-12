@@ -8958,5 +8958,35 @@
         "series": "Studies in Intelligence Vol. 5",
         "series_index": 2.0,
         "uuid": "7b945346-8d06-4572-8049-2325db2bef73"
+    },
+    {
+        "id": 1303.0,
+        "author_sort": "Bellum, Rekka & Linvega, Devine Lu",
+        "title": "No Bears, None: Victoria to Sitka",
+        "isbn": null,
+        "identifiers": null,
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "d35ad30d-1ad3-449d-a31a-3c887404ac63"
+    },
+    {
+        "id": 1304.0,
+        "author_sort": "Mishima, Yukio & Bester, John",
+        "title": "Sun and Steel",
+        "isbn": 9785484450671.0,
+        "identifiers": "goodreads:75403434,isbn:9785484450671,google:TTdFzwEACAAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "36e82094-6bd7-48ba-a7cc-04b933d3dab0"
+    },
+    {
+        "id": 1309.0,
+        "author_sort": "Andersen, Sarah",
+        "title": "Fangs",
+        "isbn": 9798881603120.0,
+        "identifiers": "isbn:9798881603120,google:xOErEQAAQBAJ",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "832e1e60-6a0c-44c2-a5de-6fab54674f53"
     }
 ]
