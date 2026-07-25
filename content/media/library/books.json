@@ -6880,6 +6880,16 @@
         "uuid": "0301e83c-1fa4-437e-bdc1-6b62001ea15f"
     },
     {
+        "id": 866.0,
+        "author_sort": "Sterling, Bruce",
+        "title": "Distraction",
+        "isbn": 9780553104844.0,
+        "identifiers": "goodreads:12440706,amazon:0553576399,isbn:9780553104844,google:3RZAau6_o2IC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "71d7b734-9b1d-49a0-9caa-ec976e7f6f1a"
+    },
+    {
         "id": 868.0,
         "author_sort": "Bacigalupi, Paolo & Buckell, Tobias S.",
         "title": "The Tangled Lands",
@@ -8830,6 +8840,16 @@
         "uuid": "2622c481-01b8-4686-96a3-430b0304a76f"
     },
     {
+        "id": 1247.0,
+        "author_sort": "Woolf, Virginia",
+        "title": "To the Lighthouse",
+        "isbn": 9780544451773.0,
+        "identifiers": "goodreads:23404007,google:06XMBAAAQBAJ,isbn:9780544451773",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "654cb2cd-8e02-4e7e-9d21-5bdd95dfb7b4"
+    },
+    {
         "id": 1249.0,
         "author_sort": "Charrière, Henri",
         "title": "Papillon",
@@ -8878,6 +8898,16 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "6aec73ef-04f8-46be-a313-4f10e0ceb590"
+    },
+    {
+        "id": 1257.0,
+        "author_sort": "Thackeray, William Makepeace",
+        "title": "Vanity Fair",
+        "isbn": 9780141439839.0,
+        "identifiers": "goodreads:5797,isbn:9780141439839",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "0faa3c5f-7710-4e02-bcce-bfe4f4cd875d"
     },
     {
         "id": 1258.0,
@@ -8958,6 +8988,16 @@
         "series": "Studies in Intelligence Vol. 5",
         "series_index": 2.0,
         "uuid": "7b945346-8d06-4572-8049-2325db2bef73"
+    },
+    {
+        "id": 1297.0,
+        "author_sort": "Passos, John Dos",
+        "title": "Manhattan Transfer",
+        "isbn": 9780547526690.0,
+        "identifiers": "isbn:9780547526690,goodreads:20560308,google:EdEdcfR1FfwC",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fb9c65c3-85ea-4df8-a1c5-328f769cfe37"
     },
     {
         "id": 1303.0,
