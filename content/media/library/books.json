@@ -9028,5 +9028,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "832e1e60-6a0c-44c2-a5de-6fab54674f53"
+    },
+    {
+        "id": 1310.0,
+        "author_sort": "Crabapple, Molly",
+        "title": "Here Where We Live Is Our Country: The Story of the Jewish Bund",
+        "isbn": 9780593229453.0,
+        "identifiers": "goodreads:238226944,google:HjB1EQAAQBAJ,isbn:9780593229453",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "39032022-d1c0-44f6-ae4f-cd0d3b45e9bd"
     }
 ]
