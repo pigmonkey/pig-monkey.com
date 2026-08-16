@@ -8770,6 +8770,16 @@
         "uuid": "b3ab500d-2ac5-4cc5-b946-8e40dfd4113f"
     },
     {
+        "id": 1226.0,
+        "author_sort": "Rinpoche, Sogyal",
+        "title": "The Tibetan Book of Living and Dying: The Spiritual Classic & International Bestseller: Revised and Updated Edition",
+        "isbn": 9780061800344.0,
+        "identifiers": "goodreads:10152791,google:yzgrS5Q5IpsC,isbn:9780061800344,barnesnoble:1104176560",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "8b7c3cc5-5818-4334-a1e1-4baf9147f899"
+    },
+    {
         "id": 1228.0,
         "author_sort": "Virgil & McGill, Scott & Wright, Susannah",
         "title": "The Aeneid",
@@ -9000,6 +9010,16 @@
         "uuid": "fb9c65c3-85ea-4df8-a1c5-328f769cfe37"
     },
     {
+        "id": 1298.0,
+        "author_sort": "Guin, Ursula K. le",
+        "title": "Lavinia",
+        "isbn": 9780156034586.0,
+        "identifiers": "isbn:9780156034586,google:ogSxbAAIXtMC,goodreads:8362272",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "27dd5e83-0419-43ca-a417-83327c5cfae8"
+    },
+    {
         "id": 1303.0,
         "author_sort": "Bellum, Rekka & Linvega, Devine Lu",
         "title": "No Bears, None: Victoria to Sitka",
@@ -9038,5 +9058,15 @@
         "series": null,
         "series_index": 1.0,
         "uuid": "39032022-d1c0-44f6-ae4f-cd0d3b45e9bd"
+    },
+    {
+        "id": 1313.0,
+        "author_sort": "Gellhorn, Martha",
+        "title": "Travels With Myself and Another: A Memoir",
+        "isbn": 9781440621574.0,
+        "identifiers": "google:s7BHZoODvosC,isbn:9781440621574",
+        "series": null,
+        "series_index": 1.0,
+        "uuid": "fa8b27fe-cff4-4cef-84b4-55df93df43ca"
     }
 ]
